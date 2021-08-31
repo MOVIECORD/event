@@ -4,7 +4,7 @@
         <title>롯데시네마 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Aug 2021 14:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 15:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,7 +20,7 @@
             <link>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=40#none</link>
             <guid>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=40#none</guid>
             <pubDate>Tue, 31 Aug 2021 09:56:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/9adcbe68111a4702a8117f4282a9914c.jpg" alt="<인질>개봉3주차 무대인사"><span class="bd_txt">D-2</span><div class="itm_date">2021.09.01 ~ 2021.09.02</div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/9adcbe68111a4702a8117f4282a9914c.jpg" alt="<인질>개봉3주차 무대인사"><span class="bd_txt">D-1</span><div class="itm_date">2021.09.01 ~ 2021.09.02</div></a>]]></content:encoded>
             <enclosure url="https://caching.lottecinema.co.kr//Media/Event/9adcbe68111a4702a8117f4282a9914c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +44,7 @@
             <link>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=40#none</link>
             <guid>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=40#none</guid>
             <pubDate>Tue, 31 Aug 2021 09:56:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/e6c8340a2bff4d7b82098d2894c26e39.jpg" alt="<기적> 회원시사회"><span class="bd_txt">D-2</span><div class="itm_date">2021.08.27 ~ 2021.09.02</div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/e6c8340a2bff4d7b82098d2894c26e39.jpg" alt="<기적> 회원시사회"><span class="bd_txt">D-1</span><div class="itm_date">2021.08.27 ~ 2021.09.02</div></a>]]></content:encoded>
             <enclosure url="https://caching.lottecinema.co.kr//Media/Event/e6c8340a2bff4d7b82098d2894c26e39.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +52,7 @@
             <link>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=40#none</link>
             <guid>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=40#none</guid>
             <pubDate>Tue, 31 Aug 2021 09:56:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/85e010f7a3304c65aa1cda400722b1f9.jpg" alt="<보이스> 회원시사회"><span class="bd_txt">D-2</span><div class="itm_date">2021.08.27 ~ 2021.09.02</div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/85e010f7a3304c65aa1cda400722b1f9.jpg" alt="<보이스> 회원시사회"><span class="bd_txt">D-1</span><div class="itm_date">2021.08.27 ~ 2021.09.02</div></a>]]></content:encoded>
             <enclosure url="https://caching.lottecinema.co.kr//Media/Event/85e010f7a3304c65aa1cda400722b1f9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +68,7 @@
             <link>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=40#none</link>
             <guid>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=40#none</guid>
             <pubDate>Tue, 31 Aug 2021 09:56:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/d15eaa7b790041bdb5148f2271911f65.jpg" alt="<여름날 우리> 굿즈상영회"><div class="itm_date">2021.09.04 ~ 2021.09.04</div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/d15eaa7b790041bdb5148f2271911f65.jpg" alt="<여름날 우리> 굿즈상영회"><span class="bd_txt">D-3</span><div class="itm_date">2021.09.04 ~ 2021.09.04</div></a>]]></content:encoded>
             <enclosure url="https://caching.lottecinema.co.kr//Media/Event/d15eaa7b790041bdb5148f2271911f65.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>

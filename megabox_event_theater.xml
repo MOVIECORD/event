@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Aug 2021 14:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 15:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.12 ~ 2021.10.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/12/stPoIzxQkqwvYF35PZj4ItOGhHtY3j3N.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<한섬 굿즈 판매>핸써미 in 메가박스 성수]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.02 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/02/md39MGz9Syl8FqpAlRqx3WKRBqvlEgFA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[일산, 파주지역] 가입하면 다~~줄고양!!]]></title>
@@ -112,22 +104,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/12/195svTfdzwMoedn38eewUtr3nE7LRQhs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[강동지역] 나도 대상자???]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.17 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/17/dNJu28xk6yQSfs3u7BIzbaJ8nh0bjXWZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[부산경남지역] TO-GO 팝콘L 1+1]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.17 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/10/rAt33mRWIOgU0PnJ0ktw0LUlYrha151L.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[정관] 카카오채널 친구추가 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -168,22 +144,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/25/IpL8hb0voFEZs8ieeh67zwRq3dQC7hex.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[코엑스] 코메박 이달의 관람권 8월]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.01 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/03/royHpdSAg6qZtRxmwVo46vfRFpOLVY6Y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[수원, 영통] 멤버십이면 다 된다]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.01 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/07/28/QXEAvcEwgT6SRyJSFR7NlKfdCKaLJ88K.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[킨텍스] 관람권 패키지]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -192,36 +152,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/07/28/upOS5qdxmtxGm42lcadIHZwVPnHk1H9o.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[강남, 센트럴, 이수] 환영해요! 강.센.이]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.07.28 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/07/28/M6hV9ZXOdzBDDQspPTbTaPMl36FZYysO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[부산, 울산, 경남지역] 옴팡이의 옴팡진 대할인]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
             <content:encoded><![CDATA[2021.07.22 ~ 2021.09.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/07/23/P1MpZ9dQN4w9LRl1oat3EiX8dyivyPkL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[화곡] 초코 스쿠비]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.07.21 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/03/OJHjREOcR5JQdiYJckXGbMEOmGVJfZCD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[창원] 100% 당첨 추억의 뽑기 게임 2탄]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.07.20 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/07/20/HXZNtItmzsC9f4VuQAJcTVGWLtaifDhv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[청라지젤] 프리미엄관 우리끼리 보자]]></title>
@@ -240,36 +176,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/07/14/6W4OJ9W5Wv33qhav5qgtrvq7QC1CtbsJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[안성스타필드] 안성 돌비패키지 런칭]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.07.12 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/07/23/ojLGEN06I0Vuukaqy66tQql1ABSMUgDj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[백석] 썸머 굿즈 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.07.07 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/07/14/ki9o2XMPxLvWJDbPuKckOA90ObNe4Wwg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[강남점] NEW 간식 등장]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
             <content:encoded><![CDATA[2021.07.06 ~ 2021.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/07/05/Z9dA89ym7Zm34Y1DRJT7lNjPNePHfTyY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마곡] 네이버스토어 신상품 입고]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.07.05 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/06/28/SySiGG7Kus55MRlM9EKLfpw6jNEz65jH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[코엑스] 인터컨티넨탈 호텔 x 더부티크 프라이빗]]></title>
@@ -328,60 +240,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/06/28/EPfEO6DEcmKmkJ6aKmIZCliIEY79nBHb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[부산, 경남지역] 선호지점 선택하고 할인 받자]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.07.01 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/07/23/mjRXfUdcqlftfEkCUb3DWRc6aNZBRC28.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[성수] 씨유어게인 부티크 스위트]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.07.01 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/09/LGn4TNdqF7CxuiVLaUw4vqKw9cT351pz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[별내] 용기를 부탁해 영화 굿즈 활용법]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.07.01 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/07/14/WoXQLom6h8dx420dmuWp6WCLwHQGIKc7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[부산대] 신규 회원가입하면 웰컴 쿠폰북 GET]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.07.01 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/07/14/0EActYcHuSxp1k2mj98zmAXZJ2NoKueB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[강남, 센트럴, 이수] 강.센.이 영화보는날]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
             <content:encoded><![CDATA[2021.06.29 ~ 2021.12.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/07/14/YcR5ZS8vqgzw9YpaVaTPbq8CJmxd1eKK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파주출판도시] 아이랑 패키지 런칭]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.06.17 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/06/23/v9B4sEZJ0AAOvTSD8hXzQh6TzZ6IguIn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[경기남부지역] 영화 할인 OK 팜랜드 할인 OK]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.06.15 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/06/15/IltDWuWHqGAGWOZ3iKKhk1i6t6u57BVV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[수원, 경기남부지역] 아쿠아플라넷 광교점과 cool한 할인]]></title>
@@ -392,22 +256,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/06/23/9CivKeQZ8EHdu0xMCz0QxGpqFSDhcAze.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[대전, 세종지역] 온통대전, 여민전 카드 FLEX]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.06.14 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/06/23/AHBnm2D2igt39sO4LAQ7hFtFiiJxNCCY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마산] 월컴! 선물 꾸러미 받아가세요]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.06.13 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/06/23/QOsf5ez6q2R3LxMnGtng59UX7iJf8UCC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[세종나성, 세종청사] 세종지역 꿈카드 제휴]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -416,60 +264,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/06/23/hnfoR7lEVg7FQ5hGbke5RreAEqjyQgzr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[부산, 울산, 경남지역] 세상 모든 쿠폰&영수증으로 할인 받자]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.06.07 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/06/14/12rZhBZtRor6NcIAReI8gEoARRS2ZNYZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대전중앙로] 굿즈 맛집에서 내맘대로 3Pick!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.06.02 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/06/07/6OKJHkLDSVJDGeLAQusskxm6aYhs1ZHr.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[강남, 이수] 헌혈하면 무료데이]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
             <content:encoded><![CDATA[2021.06.01 ~ 2021.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/06/07/0eJcy6zv6R5GpR6UxTfZ4cCcKbQzsLJN.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[논산] 젤라또&소베트 1+1]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.06.01 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/06/07/M0j065UJQjRSRQzE2EJhg0lyCX0jbAry.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[동대문] 조조시간 확대]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.06.01 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/06/07/ZM9BMh0ID58Za12jc5JUGtKmFDODe7Gf.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[부산울산경남지역] 메가박스 영화관람 적금 출시! 이자율이 무려 33.3%]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.06.01 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/05/31/jtylHzDkXnZUngWbs9sSSBKrynZAwPln.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마곡,목동, 화곡] 신규가입하면 즉시 2천원 할인]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.06.01 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/05/27/BU2KoQrj2eXnN153mDETRVVBLyjL0vz8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대구이시아] 라운지 이용권 런칭]]></title>
@@ -552,14 +352,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/05/10/Toes74forRiuU4k1sLTxDGuUZOIe93o8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[이수점] 책 봤으니 영화보러 가자]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.05.01 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/04/30/34cFJ9VrkQtxmyQMMAAPyENTIt69nu5s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[Songdo] In collaboration with The University]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -568,28 +360,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/05/24/6AoyyLpUWxnB2YckhpEZeolFrWsv5p2z.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[부천스타필드시티] 내 마음대로 굿즈 골라가자]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.04.15 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/04/20/bha2TpxE0y9cDL4eOrfOXQeF8Pe7C3Ze.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[양산라피에스타] MEGA SIZE ICE 커피 런칭]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
             <content:encoded><![CDATA[2021.04.14 ~ 2021.10.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/04/14/cHbBYuMk6vAFd5wCcaGAGBFfidVismRm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[청라지젤] 카카오 플러스 추가 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.04.14 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/04/14/O1pYtPomY5LBN83iHsO68lryoxx0auj8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[용인기흥] 우리끼리 시네마]]></title>
@@ -614,14 +390,6 @@
             <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
             <content:encoded><![CDATA[2021.04.01 ~ 2021.11.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/04/09/iDRD8dBnUK2Xg799qyYeVgchFy419iWp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[경상직영] 경상도 직영점 관람권 패키지 할인]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.04.01 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/04/01/Ng0GsfJ6MBUWfkQcD7wmYcoKw86ZTGgE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대구신세계] 극장 안 나만의 오피스 M-SPACE]]></title>

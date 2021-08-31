@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Aug 2021 14:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 15:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,22 +152,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/26/TMBUmPUaeiyiLgKQqBlWQuqviBzsrTmg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[인질] 앵콜! 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.24 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/23/zNkwL3DKRzxlYCB4yaNipevW5JM1747X.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[코드 카림]선착순 빵원티켓_N스크린]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.23 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/18/GLcdncH7gXIVFYJooVnGaSVzUzRadfp5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<그린나이트> 3주차 현장 증정이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -184,14 +168,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/12/oZLO4ULEyNmWCb901keLthOKvA1caqah.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[여름날 우리] 선착순 빵원티켓]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.19 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/18/kblKFAWvuTQA1DH56EPo3Md6iaH6FOU0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<인질> 개봉기념 현장 증정이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -206,30 +182,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.18 ~ 2021.09.01]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/11/Ire0NQzq71MX571b5h8OjWFIOtOPKwTO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[귀문] 선착순 빵원티켓]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.18 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/04/ZjRrDtfcfXTiJQbwGh8M28vVBqzIOxN4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<모가디슈> 관람 인증 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.13 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/13/Ia5aqhAGFL94vBYQHAz62fspROJx6xMh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<보스 베이비 2> 스페셜 경품 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.07.24 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/07/13/VrKYfjDQ6rWBH3Tl8mykl7O9Mr5KMq9L.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<필름오페라 앙코르> 클래식 소사이어티 상영회]]></title>
@@ -326,14 +278,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.25 ~ 2021.09.01]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/20/dRk0t2EIsbWcJLUM2aWpVPm4j4YhmF4e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<인질> 개봉 2주차 현장 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.25 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/23/NkNddJ7I0Qu5OgLqNYKTfBnYn6QIHKxz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[싱크홀] 앵콜! 선착순 빵원티켓]]></title>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Aug 2021 14:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 15:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
 CGV 필름마크 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:11:29 GMT</pubDate>
+            <pubDate>Tue, 31 Aug 2021 15:12:59 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.25~2021.09.19]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32951/16298730482160.jpg" length="0" type="image/jpg"/>
         </item>
@@ -21,8 +21,8 @@ CGV 필름마크 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
 IMAX 포스터 증정 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.27~2021.09.07<span> . </span><em>D-7</em>]]></content:encoded>
+            <pubDate>Tue, 31 Aug 2021 15:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.27~2021.09.07<span> . </span><em>D-6</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32974/16300578403250.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -30,7 +30,7 @@ IMAX 포스터 증정 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
 4DX 리미티드 포스터 팩 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:11:29 GMT</pubDate>
+            <pubDate>Tue, 31 Aug 2021 15:12:59 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.27~2021.09.19]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32971/16300513128770.jpg" length="0" type="image/jpg"/>
         </item>
@@ -47,8 +47,8 @@ IMAX 포스터 증정 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
             <title><![CDATA[[귀문] 3면필름 이벤트 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.19~2021.09.08]]></content:encoded>
+            <pubDate>Tue, 31 Aug 2021 15:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.19~2021.09.08<span> . </span><em>D-7</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32915/16293600140390.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -56,7 +56,7 @@ IMAX 포스터 증정 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
 CGV 필름마크 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:11:29 GMT</pubDate>
+            <pubDate>Tue, 31 Aug 2021 15:12:59 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.18~2021.09.12]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32905/16292467317320.jpg" length="0" type="image/jpg"/>
         </item>
@@ -65,8 +65,8 @@ CGV 필름마크 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
 CGV필름마크 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.11~2021.09.05<span> . </span><em>D-5</em>]]></content:encoded>
+            <pubDate>Tue, 31 Aug 2021 15:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.11~2021.09.05<span> . </span><em>D-4</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32868/16286463541370.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -74,26 +74,26 @@ CGV필름마크 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
 포토플레이 시크릿 컷 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.12~2021.09.05<span> . </span><em>D-5</em>]]></content:encoded>
+            <pubDate>Tue, 31 Aug 2021 15:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.12~2021.09.05<span> . </span><em>D-4</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32872/16287312183740.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[블랙핑크: 더 무비] 
-포토플레이 시크릿 컷 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
+            <title><![CDATA[2021 Smile Again!
+[채플린 특별전] (CGV ─ 이벤트 ─ SPECIAL)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.02~2021.08.31<span> . </span><em>종료임박</em>]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32809/16278658713470.jpg" length="0" type="image/jpg"/>
+            <pubDate>Tue, 31 Aug 2021 15:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.12~2021.09.08<span> . </span><em>D-7</em>]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32889/16288427395520.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[건파우더 밀크셰이크]
 스티커 인증 이벤트 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.24~2021.09.02<span> . </span><em>D-2</em>]]></content:encoded>
+            <pubDate>Tue, 31 Aug 2021 15:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.24~2021.09.02<span> . </span><em>D-1</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32941/16297737338430.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -101,16 +101,16 @@ CGV필름마크 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
 VIP 시사회 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.31~2021.09.05<span> . </span><em>D-5</em>]]></content:encoded>
+            <pubDate>Tue, 31 Aug 2021 15:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.31~2021.09.05<span> . </span><em>D-4</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32991/16303781203280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인질] 무대인사 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.31~2021.09.01<span> . </span><em>D-1</em>]]></content:encoded>
+            <pubDate>Tue, 31 Aug 2021 15:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.31~2021.09.01<span> . </span><em>종료임박</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32958/16303803922710.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -127,8 +127,8 @@ VIP 시사회 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
 현장 경품 이벤트 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.30~2021.09.07<span> . </span><em>D-7</em>]]></content:encoded>
+            <pubDate>Tue, 31 Aug 2021 15:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.30~2021.09.07<span> . </span><em>D-6</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32985/16303105920300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -136,8 +136,8 @@ VIP 시사회 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
 현장 경품 이벤트 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.30~2021.09.07<span> . </span><em>D-7</em>]]></content:encoded>
+            <pubDate>Tue, 31 Aug 2021 15:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.30~2021.09.07<span> . </span><em>D-6</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32982/16303016925210.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -145,8 +145,8 @@ VIP 시사회 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
 현장 경품 이벤트 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.29~2021.09.07<span> . </span><em>D-7</em>]]></content:encoded>
+            <pubDate>Tue, 31 Aug 2021 15:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.29~2021.09.07<span> . </span><em>D-6</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32977/16302435921620.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -154,8 +154,8 @@ VIP 시사회 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
 2주차 현장 경품 이벤트 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.29~2021.09.07<span> . </span><em>D-7</em>]]></content:encoded>
+            <pubDate>Tue, 31 Aug 2021 15:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.29~2021.09.07<span> . </span><em>D-6</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32976/16302434626440.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -163,8 +163,8 @@ VIP 시사회 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
 3주차 현장 경품 이벤트 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.29~2021.09.07<span> . </span><em>D-7</em>]]></content:encoded>
+            <pubDate>Tue, 31 Aug 2021 15:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.29~2021.09.07<span> . </span><em>D-6</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32975/16302427920200.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -172,8 +172,8 @@ VIP 시사회 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
 VIP 시사회 (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.31~2021.09.05<span> . </span><em>D-5</em>]]></content:encoded>
+            <pubDate>Tue, 31 Aug 2021 15:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.31~2021.09.05<span> . </span><em>D-4</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32992/16303786923620.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -181,7 +181,7 @@ VIP 시사회 (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
 원데이 프리패스 (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:11:54 GMT</pubDate>
+            <pubDate>Tue, 31 Aug 2021 15:13:23 GMT</pubDate>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32793/16275334020020.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -189,7 +189,7 @@ VIP 시사회 (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
 2021년 아트하우스 Club (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:11:54 GMT</pubDate>
+            <pubDate>Tue, 31 Aug 2021 15:13:23 GMT</pubDate>
             <content:encoded><![CDATA[2021.01.06~2021.12.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/31473/16098989998820.jpg" length="0" type="image/jpg"/>
         </item>
@@ -199,22 +199,31 @@ Club 전회원 야광엽서 증정 (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></ti
             <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=32885&amp;menu=008</link>
             <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=32885&amp;menu=008</guid>
             <pubDate>Tue, 31 Aug 2021 09:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.13~2021.09.01<span> . </span><em>D-1</em>]]></content:encoded>
+            <content:encoded><![CDATA[2021.08.13~2021.09.01<span> . </span><em>종료임박</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32885/16288306035080.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SVIP/VVIP 원데이 프리패스 (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:11:54 GMT</pubDate>
+            <pubDate>Tue, 31 Aug 2021 15:13:23 GMT</pubDate>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/31372/16080161893400.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[취식존 활성화 
+QR 프로모션 9월 (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
+            <link>https://MOVIECORD.github.io/event/all.xml</link>
+            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
+            <pubDate>Tue, 31 Aug 2021 15:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.01~2021.09.30]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32947/16303889504040.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CGV강변 반반치킨
 런칭 이벤트! (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:12:06 GMT</pubDate>
+            <pubDate>Tue, 31 Aug 2021 15:13:34 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.31~2021.09.30]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32989/16303698338230.jpg" length="0" type="image/jpg"/>
         </item>
@@ -223,25 +232,25 @@ Club 전회원 야광엽서 증정 (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></ti
 웰컴음료 제공 이벤트 (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:12:06 GMT</pubDate>
+            <pubDate>Tue, 31 Aug 2021 15:13:34 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.30~2021.09.30]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32987/16303698684820.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LIVE 플라워클래스
 [씨네블라썸] (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:12:06 GMT</pubDate>
+            <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=32984&amp;menu=005</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=32984&amp;menu=005</guid>
+            <pubDate>Tue, 31 Aug 2021 15:13:34 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.30~2021.09.18]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32984/16303100241610.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오톡채널 친구 추가하고
 영화,매점 할인 받자! (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=32983&amp;menu=005</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=32983&amp;menu=005</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:13 GMT</pubDate>
+            <link>https://MOVIECORD.github.io/event/all.xml</link>
+            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
+            <pubDate>Tue, 31 Aug 2021 15:13:34 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.30~2021.12.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32983/16303031359850.jpg" length="0" type="image/jpg"/>
         </item>
@@ -250,7 +259,7 @@ Club 전회원 야광엽서 증정 (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></ti
 프라도 위대한 미술관 (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:12:06 GMT</pubDate>
+            <pubDate>Tue, 31 Aug 2021 15:13:34 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.30~2021.09.26]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32981/16303012535690.jpg" length="0" type="image/jpg"/>
         </item>
@@ -259,7 +268,7 @@ Club 전회원 야광엽서 증정 (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></ti
 포스터 증정 이벤트 (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:12:06 GMT</pubDate>
+            <pubDate>Tue, 31 Aug 2021 15:13:34 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.27~2021.09.30]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32972/16301180928160.jpg" length="0" type="image/jpg"/>
         </item>
@@ -268,7 +277,7 @@ Club 전회원 야광엽서 증정 (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></ti
 한정판 굿즈 받자! (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:12:06 GMT</pubDate>
+            <pubDate>Tue, 31 Aug 2021 15:13:34 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.27~2021.09.09]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32969/16300482643470.jpg" length="0" type="image/jpg"/>
         </item>
@@ -277,25 +286,16 @@ Club 전회원 야광엽서 증정 (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></ti
 만반잘부 프로모션 (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:12:06 GMT</pubDate>
+            <pubDate>Tue, 31 Aug 2021 15:13:34 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.27~2021.09.30]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32968/16300495701430.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샌드위치 구매 시
-아메리카노 할인 (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.27~2021.09.30]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32967/16300426715910.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아시아나 마일리지로
 IMAX 예매도 된다!! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:12:18 GMT</pubDate>
+            <pubDate>Tue, 31 Aug 2021 15:13:46 GMT</pubDate>
             <content:encoded><![CDATA[2021.06.24~2021.12.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/30011/16245005357340.jpg" length="0" type="image/jpg"/>
         </item>
@@ -304,71 +304,71 @@ IMAX 예매도 된다!! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
 2천원 할인받기! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:12:18 GMT</pubDate>
+            <pubDate>Tue, 31 Aug 2021 15:13:46 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.19~2021.09.20]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32445/16293312374680.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 4천원 할인쿠폰 받고
-내통장결제로 예매하기! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:12:18 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.02~2021.08.31<span> . </span><em>종료임박</em>]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32770/16275213614790.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2,000원 할인쿠폰 받고 
-스마일페이로 예매하기! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=32772&amp;menu=006</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=32772&amp;menu=006</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:26 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.01~2021.08.31<span> . </span><em>종료임박</em>]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32772/16275209449610.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마일리지로  IMAX 예매하고
-선물받자! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:12:18 GMT</pubDate>
-            <content:encoded><![CDATA[2021.07.12~2021.08.31<span> . </span><em>종료임박</em>]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/30029/16260513934760.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[모바일문화상품권
 CGV에서 사용하는 방법! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:12:18 GMT</pubDate>
+            <pubDate>Tue, 31 Aug 2021 15:13:46 GMT</pubDate>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/30013/15928181474500.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화즉시할인은 
 바로 NH농협카드 (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:12:18 GMT</pubDate>
+            <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=32606&amp;menu=006</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=32606&amp;menu=006</guid>
+            <pubDate>Tue, 31 Aug 2021 15:13:46 GMT</pubDate>
             <content:encoded><![CDATA[2021.06.16~2023.05.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32606/16249595781520.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[카카오톡 선물하기에서
-포대팝콘 득템의 기회가~ (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
+            <title><![CDATA[문화누리카드로 CGV에서
+문화생활 즐기세요! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:12:18 GMT</pubDate>
-            <content:encoded><![CDATA[2021.05.30~2021.08.31<span> . </span><em>종료임박</em>]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/31110/16220159753070.jpg" length="0" type="image/jpg"/>
+            <pubDate>Tue, 31 Aug 2021 15:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[2021.01.29~2021.12.31]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/31589/16119022824340.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[카카오톡 선물하기에서
-CGV 초특가상품이 펑펑~ (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
+            <title><![CDATA[현대 M포인트로 매주 할인
+최대 5천 M포인트 차감할인 (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 31 Aug 2021 14:12:18 GMT</pubDate>
-            <content:encoded><![CDATA[2021.03.31~2021.08.31<span> . </span><em>종료임박</em>]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/31274/16171571144320.jpg" length="0" type="image/jpg"/>
+            <pubDate>Tue, 31 Aug 2021 15:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[2021.01.01~2021.12.31]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/31426/16300456127110.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[E1 오렌지카드 포인트로
+더 다양하게 즐기기! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
+            <link>https://MOVIECORD.github.io/event/all.xml</link>
+            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
+            <pubDate>Tue, 31 Aug 2021 15:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[2020.04.01~2022.03.31]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/30620/16111941302940.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기아멤버스
+회원 전용 파격 혜택! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
+            <link>https://MOVIECORD.github.io/event/all.xml</link>
+            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
+            <pubDate>Tue, 31 Aug 2021 15:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[2020.03.09~2021.12.31]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/30063/16111952614170.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG U+ 나만의 콕으로
+영화 무료 콕! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
+            <link>https://MOVIECORD.github.io/event/all.xml</link>
+            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
+            <pubDate>Tue, 31 Aug 2021 15:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[2020.02.01~2021.12.31]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/30050/16118218363520.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 No.35 <샹치와 텐 링즈의 전설> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -385,22 +385,6 @@ CGV 초특가상품이 펑펑~ (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <pubDate>Tue, 31 Aug 2021 09:54:38 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.18 ~ 2021.10.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/18/14mKQlV7auBbcMS4SsyH6SCLlj4gX3ER.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 매니아 티켓 <하이큐!! 땅 VS 하늘> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:38 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.12 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/10/SboirVCJZgZQBoUHHKhN7eNgmkaOp8ag.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 오리지널 티켓 No.34 <프리 가이> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:38 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.11 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/09/vS3k9e3fMnriKIAKyoA6ggAa0nVKDxup.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 No.33 <더 수어사이드 스쿼드> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -603,22 +587,6 @@ CGV 초특가상품이 펑펑~ (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/26/TMBUmPUaeiyiLgKQqBlWQuqviBzsrTmg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[인질] 앵콜! 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.24 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/23/zNkwL3DKRzxlYCB4yaNipevW5JM1747X.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[코드 카림]선착순 빵원티켓_N스크린 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.23 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/18/GLcdncH7gXIVFYJooVnGaSVzUzRadfp5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<그린나이트> 3주차 현장 증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -635,14 +603,6 @@ CGV 초특가상품이 펑펑~ (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/12/oZLO4ULEyNmWCb901keLthOKvA1caqah.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[여름날 우리] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.19 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/18/kblKFAWvuTQA1DH56EPo3Md6iaH6FOU0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<인질> 개봉기념 현장 증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -657,30 +617,6 @@ CGV 초특가상품이 펑펑~ (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.18 ~ 2021.09.01]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/11/Ire0NQzq71MX571b5h8OjWFIOtOPKwTO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[귀문] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.18 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/04/ZjRrDtfcfXTiJQbwGh8M28vVBqzIOxN4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<모가디슈> 관람 인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.13 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/13/Ia5aqhAGFL94vBYQHAz62fspROJx6xMh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<보스 베이비 2> 스페셜 경품 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.07.24 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/07/13/VrKYfjDQ6rWBH3Tl8mykl7O9Mr5KMq9L.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<필름오페라 앙코르> 클래식 소사이어티 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -779,14 +715,6 @@ CGV 초특가상품이 펑펑~ (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/20/dRk0t2EIsbWcJLUM2aWpVPm4j4YhmF4e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<인질> 개봉 2주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.25 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/23/NkNddJ7I0Qu5OgLqNYKTfBnYn6QIHKxz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[싱크홀] 앵콜! 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -809,14 +737,6 @@ CGV 초특가상품이 펑펑~ (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.12 ~ 2021.10.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/12/stPoIzxQkqwvYF35PZj4ItOGhHtY3j3N.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<한섬 굿즈 판매>핸써미 in 메가박스 성수 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.02 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/02/md39MGz9Syl8FqpAlRqx3WKRBqvlEgFA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[일산, 파주지역] 가입하면 다~~줄고양!! (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -899,22 +819,6 @@ CGV 초특가상품이 펑펑~ (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/12/195svTfdzwMoedn38eewUtr3nE7LRQhs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[강동지역] 나도 대상자??? (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.17 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/17/dNJu28xk6yQSfs3u7BIzbaJ8nh0bjXWZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[부산경남지역] TO-GO 팝콘L 1+1 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.17 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/10/rAt33mRWIOgU0PnJ0ktw0LUlYrha151L.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[정관] 카카오채널 친구추가 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -955,22 +859,6 @@ CGV 초특가상품이 펑펑~ (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/25/IpL8hb0voFEZs8ieeh67zwRq3dQC7hex.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[코엑스] 코메박 이달의 관람권 8월 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.01 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/03/royHpdSAg6qZtRxmwVo46vfRFpOLVY6Y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[수원, 영통] 멤버십이면 다 된다 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.01 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/07/28/QXEAvcEwgT6SRyJSFR7NlKfdCKaLJ88K.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[킨텍스] 관람권 패키지 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -979,36 +867,12 @@ CGV 초특가상품이 펑펑~ (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/07/28/upOS5qdxmtxGm42lcadIHZwVPnHk1H9o.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[강남, 센트럴, 이수] 환영해요! 강.센.이 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.07.28 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/07/28/M6hV9ZXOdzBDDQspPTbTaPMl36FZYysO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[부산, 울산, 경남지역] 옴팡이의 옴팡진 대할인 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
             <content:encoded><![CDATA[2021.07.22 ~ 2021.09.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/07/23/P1MpZ9dQN4w9LRl1oat3EiX8dyivyPkL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[화곡] 초코 스쿠비 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.07.21 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/03/OJHjREOcR5JQdiYJckXGbMEOmGVJfZCD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[창원] 100% 당첨 추억의 뽑기 게임 2탄 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.07.20 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/07/20/HXZNtItmzsC9f4VuQAJcTVGWLtaifDhv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[청라지젤] 프리미엄관 우리끼리 보자 (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -1027,36 +891,12 @@ CGV 초특가상품이 펑펑~ (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/07/14/6W4OJ9W5Wv33qhav5qgtrvq7QC1CtbsJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[안성스타필드] 안성 돌비패키지 런칭 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.07.12 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/07/23/ojLGEN06I0Vuukaqy66tQql1ABSMUgDj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[백석] 썸머 굿즈 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.07.07 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/07/14/ki9o2XMPxLvWJDbPuKckOA90ObNe4Wwg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[강남점] NEW 간식 등장 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
             <content:encoded><![CDATA[2021.07.06 ~ 2021.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/07/05/Z9dA89ym7Zm34Y1DRJT7lNjPNePHfTyY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마곡] 네이버스토어 신상품 입고 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.07.05 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/06/28/SySiGG7Kus55MRlM9EKLfpw6jNEz65jH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[코엑스] 인터컨티넨탈 호텔 x 더부티크 프라이빗 (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -1115,60 +955,12 @@ CGV 초특가상품이 펑펑~ (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/06/28/EPfEO6DEcmKmkJ6aKmIZCliIEY79nBHb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[부산, 경남지역] 선호지점 선택하고 할인 받자 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.07.01 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/07/23/mjRXfUdcqlftfEkCUb3DWRc6aNZBRC28.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[성수] 씨유어게인 부티크 스위트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.07.01 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/09/LGn4TNdqF7CxuiVLaUw4vqKw9cT351pz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[별내] 용기를 부탁해 영화 굿즈 활용법 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.07.01 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/07/14/WoXQLom6h8dx420dmuWp6WCLwHQGIKc7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[부산대] 신규 회원가입하면 웰컴 쿠폰북 GET (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.07.01 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/07/14/0EActYcHuSxp1k2mj98zmAXZJ2NoKueB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[강남, 센트럴, 이수] 강.센.이 영화보는날 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
             <content:encoded><![CDATA[2021.06.29 ~ 2021.12.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/07/14/YcR5ZS8vqgzw9YpaVaTPbq8CJmxd1eKK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파주출판도시] 아이랑 패키지 런칭 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.06.17 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/06/23/v9B4sEZJ0AAOvTSD8hXzQh6TzZ6IguIn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[경기남부지역] 영화 할인 OK 팜랜드 할인 OK (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.06.15 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/06/15/IltDWuWHqGAGWOZ3iKKhk1i6t6u57BVV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[수원, 경기남부지역] 아쿠아플라넷 광교점과 cool한 할인 (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -1179,22 +971,6 @@ CGV 초특가상품이 펑펑~ (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/06/23/9CivKeQZ8EHdu0xMCz0QxGpqFSDhcAze.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[대전, 세종지역] 온통대전, 여민전 카드 FLEX (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.06.14 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/06/23/AHBnm2D2igt39sO4LAQ7hFtFiiJxNCCY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마산] 월컴! 선물 꾸러미 받아가세요 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.06.13 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/06/23/QOsf5ez6q2R3LxMnGtng59UX7iJf8UCC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[세종나성, 세종청사] 세종지역 꿈카드 제휴 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -1203,60 +979,12 @@ CGV 초특가상품이 펑펑~ (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/06/23/hnfoR7lEVg7FQ5hGbke5RreAEqjyQgzr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[부산, 울산, 경남지역] 세상 모든 쿠폰&영수증으로 할인 받자 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.06.07 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/06/14/12rZhBZtRor6NcIAReI8gEoARRS2ZNYZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대전중앙로] 굿즈 맛집에서 내맘대로 3Pick! (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.06.02 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/06/07/6OKJHkLDSVJDGeLAQusskxm6aYhs1ZHr.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[강남, 이수] 헌혈하면 무료데이 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
             <content:encoded><![CDATA[2021.06.01 ~ 2021.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/06/07/0eJcy6zv6R5GpR6UxTfZ4cCcKbQzsLJN.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[논산] 젤라또&소베트 1+1 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.06.01 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/06/07/M0j065UJQjRSRQzE2EJhg0lyCX0jbAry.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[동대문] 조조시간 확대 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.06.01 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/06/07/ZM9BMh0ID58Za12jc5JUGtKmFDODe7Gf.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[부산울산경남지역] 메가박스 영화관람 적금 출시! 이자율이 무려 33.3% (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.06.01 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/05/31/jtylHzDkXnZUngWbs9sSSBKrynZAwPln.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마곡,목동, 화곡] 신규가입하면 즉시 2천원 할인 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.06.01 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/05/27/BU2KoQrj2eXnN153mDETRVVBLyjL0vz8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대구이시아] 라운지 이용권 런칭 (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -1339,14 +1067,6 @@ CGV 초특가상품이 펑펑~ (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/05/10/Toes74forRiuU4k1sLTxDGuUZOIe93o8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[이수점] 책 봤으니 영화보러 가자 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.05.01 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/04/30/34cFJ9VrkQtxmyQMMAAPyENTIt69nu5s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[Songdo] In collaboration with The University (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -1355,28 +1075,12 @@ CGV 초특가상품이 펑펑~ (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/05/24/6AoyyLpUWxnB2YckhpEZeolFrWsv5p2z.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[부천스타필드시티] 내 마음대로 굿즈 골라가자 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.04.15 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/04/20/bha2TpxE0y9cDL4eOrfOXQeF8Pe7C3Ze.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[양산라피에스타] MEGA SIZE ICE 커피 런칭 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
             <content:encoded><![CDATA[2021.04.14 ~ 2021.10.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/04/14/cHbBYuMk6vAFd5wCcaGAGBFfidVismRm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[청라지젤] 카카오 플러스 추가 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.04.14 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/04/14/O1pYtPomY5LBN83iHsO68lryoxx0auj8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[용인기흥] 우리끼리 시네마 (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -1401,14 +1105,6 @@ CGV 초특가상품이 펑펑~ (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
             <content:encoded><![CDATA[2021.04.01 ~ 2021.11.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/04/09/iDRD8dBnUK2Xg799qyYeVgchFy419iWp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[경상직영] 경상도 직영점 관람권 패키지 할인 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.04.01 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/04/01/Ng0GsfJ6MBUWfkQcD7wmYcoKw86ZTGgE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대구신세계] 극장 안 나만의 오피스 M-SPACE (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -1667,14 +1363,6 @@ CGV 초특가상품이 펑펑~ (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/13/Ogyoeb1QmUmokjnRHHQgwVmwzUE2sjZL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[K쇼핑X메가박스] 메가박싱DAY 프로모션 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:40 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.02 ~ 2021.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/07/30/S7j4SgJOtzVxJi2W25H7DtMf5oe93lls.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[페이북X메가박스] 페이북 결제하고 혜택받자! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
@@ -1911,7 +1599,7 @@ CGV 초특가상품이 펑펑~ (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=40#none</link>
             <guid>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=40#none</guid>
             <pubDate>Tue, 31 Aug 2021 09:56:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/9adcbe68111a4702a8117f4282a9914c.jpg" alt="<인질>개봉3주차 무대인사"><span class="bd_txt">D-2</span><div class="itm_date">2021.09.01 ~ 2021.09.02</div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/9adcbe68111a4702a8117f4282a9914c.jpg" alt="<인질>개봉3주차 무대인사"><span class="bd_txt">D-1</span><div class="itm_date">2021.09.01 ~ 2021.09.02</div></a>]]></content:encoded>
             <enclosure url="https://caching.lottecinema.co.kr//Media/Event/9adcbe68111a4702a8117f4282a9914c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1935,7 +1623,7 @@ CGV 초특가상품이 펑펑~ (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=40#none</link>
             <guid>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=40#none</guid>
             <pubDate>Tue, 31 Aug 2021 09:56:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/e6c8340a2bff4d7b82098d2894c26e39.jpg" alt="<기적> 회원시사회"><span class="bd_txt">D-2</span><div class="itm_date">2021.08.27 ~ 2021.09.02</div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/e6c8340a2bff4d7b82098d2894c26e39.jpg" alt="<기적> 회원시사회"><span class="bd_txt">D-1</span><div class="itm_date">2021.08.27 ~ 2021.09.02</div></a>]]></content:encoded>
             <enclosure url="https://caching.lottecinema.co.kr//Media/Event/e6c8340a2bff4d7b82098d2894c26e39.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1943,7 +1631,7 @@ CGV 초특가상품이 펑펑~ (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=40#none</link>
             <guid>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=40#none</guid>
             <pubDate>Tue, 31 Aug 2021 09:56:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/85e010f7a3304c65aa1cda400722b1f9.jpg" alt="<보이스> 회원시사회"><span class="bd_txt">D-2</span><div class="itm_date">2021.08.27 ~ 2021.09.02</div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/85e010f7a3304c65aa1cda400722b1f9.jpg" alt="<보이스> 회원시사회"><span class="bd_txt">D-1</span><div class="itm_date">2021.08.27 ~ 2021.09.02</div></a>]]></content:encoded>
             <enclosure url="https://caching.lottecinema.co.kr//Media/Event/85e010f7a3304c65aa1cda400722b1f9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1959,7 +1647,7 @@ CGV 초특가상품이 펑펑~ (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=40#none</link>
             <guid>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=40#none</guid>
             <pubDate>Tue, 31 Aug 2021 09:56:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/d15eaa7b790041bdb5148f2271911f65.jpg" alt="<여름날 우리> 굿즈상영회"><div class="itm_date">2021.09.04 ~ 2021.09.04</div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/d15eaa7b790041bdb5148f2271911f65.jpg" alt="<여름날 우리> 굿즈상영회"><span class="bd_txt">D-3</span><div class="itm_date">2021.09.04 ~ 2021.09.04</div></a>]]></content:encoded>
             <enclosure url="https://caching.lottecinema.co.kr//Media/Event/d15eaa7b790041bdb5148f2271911f65.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1969,6 +1657,14 @@ CGV 초특가상품이 펑펑~ (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <pubDate>Tue, 31 Aug 2021 09:56:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/8dd99056a5824830a93b29928e96adb9.jpg" alt="TinyTAN MD 런칭"><div class="itm_date">2021.09.02 ~ 2021.09.30</div></a>]]></content:encoded>
             <enclosure url="https://caching.lottecinema.co.kr//Media/Event/8dd99056a5824830a93b29928e96adb9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021.09.01 ~ 2021.09.30 (롯데시네마 ─ 이벤트 ─ HOT)]]></title>
+            <link>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=10#none</link>
+            <guid>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=10#none</guid>
+            <pubDate>Tue, 31 Aug 2021 09:56:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/d2a8e42e03a744328bf9b7a2b91147b7.jpg" alt="9월 첫만남 쿠폰팩"><div class="itm_date">2021.09.01 ~ 2021.09.30</div></a>]]></content:encoded>
+            <enclosure url="https://caching.lottecinema.co.kr//Media/Event/d2a8e42e03a744328bf9b7a2b91147b7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021.08.31 ~ 2021.09.06 (롯데시네마 ─ 이벤트 ─ HOT)]]></title>
@@ -1999,7 +1695,7 @@ CGV 초특가상품이 펑펑~ (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=10#none</link>
             <guid>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=10#none</guid>
             <pubDate>Tue, 31 Aug 2021 09:56:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/1c7066e2d1d0469499f7c13dcb1f8b31.jpg" alt="펩시 제로슈거 프로모션"><span class="bd_txt">D-2</span><div class="itm_date">2021.08.19 ~ 2021.09.02</div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/1c7066e2d1d0469499f7c13dcb1f8b31.jpg" alt="펩시 제로슈거 프로모션"><span class="bd_txt">D-1</span><div class="itm_date">2021.08.19 ~ 2021.09.02</div></a>]]></content:encoded>
             <enclosure url="https://caching.lottecinema.co.kr//Media/Event/1c7066e2d1d0469499f7c13dcb1f8b31.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2019,20 +1715,12 @@ CGV 초특가상품이 펑펑~ (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <enclosure url="https://caching.lottecinema.co.kr//Media/Event/08bb67e012ea4ce6a8575e9c9f5d9aa0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2021.08.04 ~ 2021.08.31 (롯데시네마 ─ 이벤트 ─ HOT)]]></title>
+            <title><![CDATA[2021.06.12 ~ 2021.09.04 (롯데시네마 ─ 이벤트 ─ HOT)]]></title>
             <link>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=10#none</link>
             <guid>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=10#none</guid>
             <pubDate>Tue, 31 Aug 2021 09:56:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/5bb9d65e19bc40a4af38ac897af931e1.jpg" alt="Grand Open! 경주황성"><span class="bd_txt fin">오늘종료</span><div class="itm_date">2021.08.04 ~ 2021.08.31</div></a>]]></content:encoded>
-            <enclosure url="https://caching.lottecinema.co.kr//Media/Event/5bb9d65e19bc40a4af38ac897af931e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021.08.01 ~ 2021.08.31 (롯데시네마 ─ 이벤트 ─ HOT)]]></title>
-            <link>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=10#none</link>
-            <guid>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=10#none</guid>
-            <pubDate>Tue, 31 Aug 2021 09:56:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/b66b18bee2e04ebd81d9ae0d7a57abda.jpg" alt="8월 첫만남 쿠폰팩"><span class="bd_txt fin">오늘종료</span><div class="itm_date">2021.08.01 ~ 2021.08.31</div></a>]]></content:encoded>
-            <enclosure url="https://caching.lottecinema.co.kr//Media/Event/b66b18bee2e04ebd81d9ae0d7a57abda.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/2217ec79f4424997b0ec59b8ef721b86.jpg" alt="판교관 오픈 이벤트"><span class="bd_txt">D-3</span><div class="itm_date">2021.06.12 ~ 2021.09.04</div></a>]]></content:encoded>
+            <enclosure url="https://caching.lottecinema.co.kr//Media/Event/2217ec79f4424997b0ec59b8ef721b86.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021.09.01 ~ 2021.09.30 (롯데시네마 ─ 이벤트 ─ 제휴할인)]]></title>
