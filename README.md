@@ -1,31 +1,21 @@
-# CI setup for Feed me up, Scotty!
+# 이벤트
 
-You can fork this repository and edit `feeds.toml` to start generating your own
-RSS feeds.
+## CGV  
+https://moviecord.github.io/feeds/cgv_event_special.xml  
+https://moviecord.github.io/feeds/cgv_event_reservation.xml  
+https://moviecord.github.io/feeds/cgv_event_membership.xml  
+https://moviecord.github.io/feeds/cgv_event_theather.xml  
+https://moviecord.github.io/feeds/cgv_event_partnership.xml  
 
-# Automatically generate feeds
+## MEGABOX 
+https://moviecord.github.io/feeds/megabox_event_pick.xml  
+https://moviecord.github.io/feeds/megabox_event_movie.xml  
+https://moviecord.github.io/feeds/megabox_event_theater.xml  
+https://moviecord.github.io/feeds/megabox_event_promotion.xml  
+https://moviecord.github.io/feeds/megabox_event_curtaincall.xml  
 
-## On GitHub
-
-To automatically generate feeds twice a day on GitHub:
-
-1. Fork this repository and edit `feeds.toml`.
-2. Create a branch called `gh-pages`.
-3. Visit the _Actions_ tab for your fork, then enable workflows for your fork.
-
-GitHub Actions will then automatically run twice a day to check for updates,
-and publish your feeds at `https://<username>.github.io/feeds/`.
-
-## On GitLab
-
-To automatically generate feeds on GitLab:
-
-1. Fork this repository and edit `feeds.toml`.
-2. [Create a new pipeline schedule](./-/pipeline_schedules/new) (CI/CD ˃
-   Schedules).
-3. Set it to your desired interval (e.g. `30 5,17 * * *` to run at 5:30 and
-   17:30).
-4. Hit "Save pipeline schedule".
-
-GitLab CI/CD will then automatically run at your selected interval to check for
-updates, and publish your feeds at `https://<username>.gitlab.io/feeds/`.
+## LOTTE CINEMA 
+https://moviecord.github.io/feeds/lottecinema_event_movie.xml  
+https://moviecord.github.io/feeds/lottecinema_event_curtaincall.xml  
+https://moviecord.github.io/feeds/lottecinema_event_hot.xml  
+https://moviecord.github.io/feeds/lottecinema_event_promotion.xml  
