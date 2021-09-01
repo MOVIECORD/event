@@ -4,7 +4,7 @@
         <title>롯데시네마 ─ 이벤트 ─ HOT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Sep 2021 14:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 16:21:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -52,7 +52,7 @@
             <link>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=10#none</link>
             <guid>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=10#none</guid>
             <pubDate>Tue, 31 Aug 2021 09:56:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/1c7066e2d1d0469499f7c13dcb1f8b31.jpg" alt="펩시 제로슈거 프로모션"><span class="bd_txt">D-1</span><div class="itm_date">2021.08.19 ~ 2021.09.02</div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/1c7066e2d1d0469499f7c13dcb1f8b31.jpg" alt="펩시 제로슈거 프로모션"><span class="bd_txt fin">오늘종료</span><div class="itm_date">2021.08.19 ~ 2021.09.02</div></a>]]></content:encoded>
             <enclosure url="https://caching.lottecinema.co.kr//Media/Event/1c7066e2d1d0469499f7c13dcb1f8b31.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +76,7 @@
             <link>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=10#none</link>
             <guid>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=10#none</guid>
             <pubDate>Tue, 31 Aug 2021 09:56:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/2217ec79f4424997b0ec59b8ef721b86.jpg" alt="판교관 오픈 이벤트"><span class="bd_txt">D-3</span><div class="itm_date">2021.06.12 ~ 2021.09.04</div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/2217ec79f4424997b0ec59b8ef721b86.jpg" alt="판교관 오픈 이벤트"><span class="bd_txt">D-2</span><div class="itm_date">2021.06.12 ~ 2021.09.04</div></a>]]></content:encoded>
             <enclosure url="https://caching.lottecinema.co.kr//Media/Event/2217ec79f4424997b0ec59b8ef721b86.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>

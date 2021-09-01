@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Sep 2021 14:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 16:21:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,22 +208,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/12/oZLO4ULEyNmWCb901keLthOKvA1caqah.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<인질> 개봉기념 현장 증정이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.18 ~ 2021.09.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/12/zKayXfqY9phYcZWieBwNOBNw0IDs2AT4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<남색대문> 개봉기념 현장 증정이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.18 ~ 2021.09.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/11/Ire0NQzq71MX571b5h8OjWFIOtOPKwTO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<필름오페라 앙코르> 클래식 소사이어티 상영회]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -272,14 +256,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/24/f7XpU1mh3TQKXxqwbWCRon6fdYq7qHeQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<극장판 페이트/그랜드 오더 신성원탁영역 카멜롯 팔라딘;아가트람> 1주차 특전 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.26 ~ 2021.09.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/20/fApq0Zf7z8uA8gOUF4wZKgegXHpJCicx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<여름날 우리> 포토카드 인증 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -302,22 +278,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.25 ~ 2021.09.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/23/qgTHUfMw9QEVVUiHJYm9vG5f5cndrrAN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<건파우더 밀크셰이크> 찍어버려! 포착 인증 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.25 ~ 2021.09.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/24/dyLxqfGb2uHXdxWcNagz1ZKwlasTallz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<여름날 우리> 개봉 1주차 포스터 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.25 ~ 2021.09.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/20/dRk0t2EIsbWcJLUM2aWpVPm4j4YhmF4e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[싱크홀] 앵콜! 선착순 빵원티켓]]></title>
