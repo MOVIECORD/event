@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Sep 2021 07:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 08:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 31 Aug 2021 09:55:53 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.02 ~ 2021.09.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/30/ErkhhhfqI0iJOlqkg9bOo2kPz313HNrb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<기적> 스뻬-샬 회원시사 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:55:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.01 ~ 2021.09.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/01/baIz794ShhD7tlwWLkBDcQJ18uViApl9.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<보이스> '보이스피싱 예방' 회원시사]]></title>
