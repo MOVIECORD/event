@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Sep 2021 02:33:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 03:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.04 ~ 2021.09.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/31/L95F33MYJGmXrzPziP0QouVsI8nFC5Er.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기적] 빵원티켓 ➕]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.03 ~ 2021.09.22]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/01/BNx1W9mEOheWiEbShIUuCE9au9eo655q.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<하이큐!! 땅 VS 하늘> 4주차 특전 증정이벤트]]></title>
@@ -118,6 +126,14 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.31 ~ 2021.09.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/30/4dDyKpsEzR5z1MfhcXk6TUABWpwUpMgd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<해변의 에트랑제> 더빙본 개봉기념 SNS 인증이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.30 ~ 2021.09.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/01/SuGfzI14KQ18S1DpV0hStau8eRU23FpZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[샹치와 텐 링즈의 전설] 빵원티켓 ➕]]></title>
