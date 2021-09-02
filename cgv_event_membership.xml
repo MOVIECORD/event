@@ -4,7 +4,7 @@
         <title>CGV ─ 이벤트 ─ 멤버십 CLUB</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Sep 2021 08:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Sep 2021 10:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
 EXPRESS]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=008</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=008</guid>
-            <pubDate>Thu, 02 Sep 2021 08:15:21 GMT</pubDate>
+            <pubDate>Thu, 02 Sep 2021 10:14:25 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.01~2022.01.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32999/16304636912820.jpg" length="0" type="image/jpg"/>
         </item>
@@ -21,7 +21,7 @@ EXPRESS]]></title>
 VIP 시사회]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=008</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=008</guid>
-            <pubDate>Thu, 02 Sep 2021 08:15:21 GMT</pubDate>
+            <pubDate>Thu, 02 Sep 2021 10:14:25 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.31~2021.09.05<span> . </span><em>D-3</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32992/16303786923620.jpg" length="0" type="image/jpg"/>
         </item>
@@ -30,7 +30,7 @@ VIP 시사회]]></title>
 원데이 프리패스]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=008</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=008</guid>
-            <pubDate>Thu, 02 Sep 2021 08:15:21 GMT</pubDate>
+            <pubDate>Thu, 02 Sep 2021 10:14:25 GMT</pubDate>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32793/16275334020020.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -46,7 +46,7 @@ VIP 시사회]]></title>
             <title><![CDATA[SVIP/VVIP 원데이 프리패스]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=008</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=008</guid>
-            <pubDate>Thu, 02 Sep 2021 08:15:21 GMT</pubDate>
+            <pubDate>Thu, 02 Sep 2021 10:14:25 GMT</pubDate>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/31372/16080161893400.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
