@@ -4,9 +4,17 @@
         <title>롯데시네마 ─ 이벤트 ─ HOT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Sep 2021 00:42:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 01:56:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021.09.03 ~ 2021.10.31]]></title>
+            <link>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=10#none</link>
+            <guid>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=10#none</guid>
+            <pubDate>Tue, 31 Aug 2021 09:56:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/090c0a7ee970480cabc14abf4239d6d3.jpg" alt="시그니처 아트카드 북 vol.1 판매"><div class="itm_date">2021.09.03 ~ 2021.10.31</div></a>]]></content:encoded>
+            <enclosure url="https://caching.lottecinema.co.kr//Media/Event/090c0a7ee970480cabc14abf4239d6d3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021.09.02 ~ 2021.09.30]]></title>
             <link>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=10#none</link>
@@ -70,14 +78,6 @@
             <pubDate>Tue, 31 Aug 2021 09:56:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/2217ec79f4424997b0ec59b8ef721b86.jpg" alt="판교관 오픈 이벤트"><span class="bd_txt">D-1</span><div class="itm_date">2021.06.12 ~ 2021.09.04</div></a>]]></content:encoded>
             <enclosure url="https://caching.lottecinema.co.kr//Media/Event/2217ec79f4424997b0ec59b8ef721b86.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021.05.31 ~ 2099.12.31]]></title>
-            <link>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=10#none</link>
-            <guid>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=10#none</guid>
-            <pubDate>Tue, 31 Aug 2021 09:56:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/87d5de2399974e81a29a356082c7b902.jpg" alt="랜선 굿즈 1탄! 굿노트 다이어리 배포"><div class="itm_date">2021.05.31 ~ 2099.12.31</div></a>]]></content:encoded>
-            <enclosure url="https://caching.lottecinema.co.kr//Media/Event/87d5de2399974e81a29a356082c7b902.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
