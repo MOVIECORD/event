@@ -4,9 +4,17 @@
         <title>롯데시네마 ─ 이벤트 ─ HOT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Sep 2021 08:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 09:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021.09.03 ~ 2021.10.03]]></title>
+            <link>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=10#none</link>
+            <guid>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=10#none</guid>
+            <pubDate>Tue, 31 Aug 2021 09:56:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/99a15c93dc5e4b7ca86857cd30bb4f25.jpg" alt="롯데시네마 영천 GRAND OPENING!"><div class="itm_date">2021.09.03 ~ 2021.10.03</div></a>]]></content:encoded>
+            <enclosure url="https://caching.lottecinema.co.kr//Media/Event/99a15c93dc5e4b7ca86857cd30bb4f25.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021.09.03 ~ 2021.10.31]]></title>
             <link>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=10#none</link>
@@ -70,14 +78,6 @@
             <pubDate>Tue, 31 Aug 2021 09:56:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/08bb67e012ea4ce6a8575e9c9f5d9aa0.jpg" alt="동탄 Grand Opening"><div class="itm_date">2021.08.10 ~ 2021.09.30</div></a>]]></content:encoded>
             <enclosure url="https://caching.lottecinema.co.kr//Media/Event/08bb67e012ea4ce6a8575e9c9f5d9aa0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021.06.12 ~ 2021.09.04]]></title>
-            <link>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=10#none</link>
-            <guid>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=10#none</guid>
-            <pubDate>Tue, 31 Aug 2021 09:56:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/2217ec79f4424997b0ec59b8ef721b86.jpg" alt="판교관 오픈 이벤트"><span class="bd_txt">D-1</span><div class="itm_date">2021.06.12 ~ 2021.09.04</div></a>]]></content:encoded>
-            <enclosure url="https://caching.lottecinema.co.kr//Media/Event/2217ec79f4424997b0ec59b8ef721b86.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

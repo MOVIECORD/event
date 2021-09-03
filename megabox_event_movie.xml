@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Sep 2021 08:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 09:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<좋은 사람> 굿즈패키지 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.12 ~ 2021.09.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/03/zYsUnGoglu5WZCMh2IVFhxyDL9vK73Qf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<여름날 우리> 2차 굿즈패키지 상영회]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
@@ -14,6 +22,14 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.11 ~ 2021.09.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/03/0Hpp6UAHtc238ENGNtCF5PlBwBn3z0Rx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<최선의 삶> 온라인 GV]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.10 ~ 2021.09.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/03/pLDhMdDg5CE0jTw114oMVCWWoX14BWB1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<해변의 에트랑제> 개봉주 현장 증정이벤트]]></title>
