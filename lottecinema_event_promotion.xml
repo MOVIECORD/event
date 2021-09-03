@@ -4,9 +4,17 @@
         <title>롯데시네마 ─ 이벤트 ─ 제휴할인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Sep 2021 04:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 05:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021.09.06 ~ 2021.09.10]]></title>
+            <link>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=50#none</link>
+            <guid>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=50#none</guid>
+            <pubDate>Tue, 31 Aug 2021 09:56:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/9fe6474d3171488bb492350f28d3d482.jpg" alt="T Day 9월 (2021)"><div class="itm_date">2021.09.06 ~ 2021.09.10</div></a>]]></content:encoded>
+            <enclosure url="https://caching.lottecinema.co.kr//Media/Event/9fe6474d3171488bb492350f28d3d482.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021.09.01 ~ 2021.09.30]]></title>
             <link>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=50#none</link>
@@ -70,14 +78,6 @@
             <pubDate>Tue, 31 Aug 2021 09:56:53 GMT</pubDate>
             <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/5b738e1e5b5349db967f766bbd169827.jpg" alt="KT회원이라면 누구나 할인 및 무료관람 혜택을 누려보세요!"><div class="itm_date">2019.12.27 ~ 2023.12.31</div></a>]]></content:encoded>
             <enclosure url="https://caching.lottecinema.co.kr//Media/Event/5b738e1e5b5349db967f766bbd169827.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2019.07.01 ~ 2023.06.30]]></title>
-            <link>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=50#none</link>
-            <guid>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=50#none</guid>
-            <pubDate>Tue, 31 Aug 2021 09:56:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/a3131c9744884db6bca555f992b5ef1a.jpg" alt="삼성보너스클럽"><div class="itm_date">2019.07.01 ~ 2023.06.30</div></a>]]></content:encoded>
-            <enclosure url="https://caching.lottecinema.co.kr//Media/Event/a3131c9744884db6bca555f992b5ef1a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
