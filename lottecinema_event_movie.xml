@@ -4,7 +4,7 @@
         <title>롯데시네마 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Sep 2021 10:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 12:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,8 +12,8 @@
             <link>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=20#none</link>
             <guid>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=20#none</guid>
             <pubDate>Tue, 31 Aug 2021 09:56:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/1d06f4c41c94402a80c6df961411f63f.jpg" alt="<신카이 마코토 기획전> 시그니처 아트카드 증정"><div class="itm_date">2021.09.09 ~ 2021.10.31</div></a>]]></content:encoded>
-            <enclosure url="https://caching.lottecinema.co.kr//Media/Event/1d06f4c41c94402a80c6df961411f63f.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/3c712d6468b2417f82f75ef184b12719.jpg" alt="<신카이 마코토 기획전> 시그니처 아트카드 증정"><div class="itm_date">2021.09.09 ~ 2021.10.31</div></a>]]></content:encoded>
+            <enclosure url="https://caching.lottecinema.co.kr//Media/Event/3c712d6468b2417f82f75ef184b12719.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021.09.08 ~ 2021.09.14]]></title>
