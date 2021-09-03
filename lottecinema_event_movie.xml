@@ -4,7 +4,7 @@
         <title>롯데시네마 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Sep 2021 06:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 07:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 31 Aug 2021 09:56:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/6abc5de2d4464e178694ea7204f574e9.jpg" alt="<건파우더 밀크셰이크> 개봉주 현장 경품 이벤트"><div class="itm_date">2021.09.08 ~ 2021.09.14</div></a>]]></content:encoded>
             <enclosure url="https://caching.lottecinema.co.kr//Media/Event/6abc5de2d4464e178694ea7204f574e9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021.09.08 ~ 2021.09.14]]></title>
+            <link>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=20#none</link>
+            <guid>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=20#none</guid>
+            <pubDate>Tue, 31 Aug 2021 09:56:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/c02043c458a546089f461e655924bdec.jpg" alt="<코다> 개봉2주차 현장경품 이벤트"><div class="itm_date">2021.09.08 ~ 2021.09.14</div></a>]]></content:encoded>
+            <enclosure url="https://caching.lottecinema.co.kr//Media/Event/c02043c458a546089f461e655924bdec.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021.09.02 ~ 2021.09.15]]></title>
@@ -70,14 +78,6 @@
             <pubDate>Tue, 31 Aug 2021 09:56:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/d9b1a8614b214e55ac79f55118bbe784.jpg" alt="<보이스> 예고편 퀴즈 이벤트"><div class="itm_date">2021.09.01 ~ 2021.09.12</div></a>]]></content:encoded>
             <enclosure url="https://caching.lottecinema.co.kr//Media/Event/d9b1a8614b214e55ac79f55118bbe784.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021.09.01 ~ 2021.09.30]]></title>
-            <link>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=20#none</link>
-            <guid>https://event.lottecinema.co.kr/NLCHS/Event/DetailList?code=20#none</guid>
-            <pubDate>Tue, 31 Aug 2021 09:56:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="#none"><img src="https://caching.lottecinema.co.kr//Media/Event/c13fa84e71794517aa94c3bcf63ea5ac.jpg" alt="<최선의 삶> 골든벨 뱃지 증정"><div class="itm_date">2021.09.01 ~ 2021.09.30</div></a>]]></content:encoded>
-            <enclosure url="https://caching.lottecinema.co.kr//Media/Event/c13fa84e71794517aa94c3bcf63ea5ac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
