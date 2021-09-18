@@ -4,87 +4,89 @@
         <title>CGV ─ 이벤트 ─ 영화 예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Sep 2021 14:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Sep 2021 16:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[드림걸즈] 리마인드 
-굿즈 컬렉션 시즌2 (골드)]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
-            <pubDate>Fri, 03 Sep 2021 14:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.03~2021.09.15]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33025/16306594951370.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[좋은 사람] 프리미어 DAY
-김태훈 무대인사]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
-            <pubDate>Fri, 03 Sep 2021 14:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.03~2021.09.04<span> . </span><em>D-1</em>]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33024/16306590324900.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인질] 무대인사]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
-            <pubDate>Fri, 03 Sep 2021 14:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.02~2021.09.05<span> . </span><em>D-2</em>]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33013/16305707745140.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[건 파우더 밀크셰이크]
-현장 경품 이벤트]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33011&amp;menu=004</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33011&amp;menu=004</guid>
-            <pubDate>Fri, 03 Sep 2021 10:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.02~2021.09.14]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33011/16305590141290.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[최선의 삶] 무대인사]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
-            <pubDate>Fri, 03 Sep 2021 14:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.02~2021.09.05<span> . </span><em>D-2</em>]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33010/16305588256530.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팜 스프링스]
-현장 경품 이벤트]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
-            <pubDate>Fri, 03 Sep 2021 14:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.01~2021.09.07<span> . </span><em>D-4</em>]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33004/16304824587010.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아-하: 테이크 온 미]
-CGV회원 시사회]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
-            <pubDate>Fri, 03 Sep 2021 14:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.01~2021.09.11]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33000/16304801320360.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[여름날 우리]
-현장 경품 이벤트]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
-            <pubDate>Fri, 03 Sep 2021 14:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.01~2021.09.07<span> . </span><em>D-4</em>]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32926/16304568274210.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[기적]
-VIP 시사회]]></title>
+관람 인증 이벤트]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
-            <pubDate>Fri, 03 Sep 2021 14:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.31~2021.09.05<span> . </span><em>D-2</em>]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32991/16303781203280.jpg" length="0" type="image/jpg"/>
+            <pubDate>Sat, 18 Sep 2021 16:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.16~2021.09.26<span> . </span><em>D-7</em>]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33124/16317672566110.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[잔나비]3주차 
+현장 경품 증정 이벤트]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
+            <pubDate>Sat, 18 Sep 2021 16:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.17~2021.09.28]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33150/16318721960830.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE 
+KEY 콘서트 CGV 생중계]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
+            <pubDate>Sat, 18 Sep 2021 16:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.17~2021.09.26<span> . </span><em>D-7</em>]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33149/16318708190840.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[나의 흑역사 로맨티카]
+현장 경품 이벤트]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33148&amp;menu=004</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33148&amp;menu=004</guid>
+            <pubDate>Sat, 18 Sep 2021 16:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.17~2021.09.28]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33148/16318664793630.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[종착역] 
+경기인디시네마 PICK!]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
+            <pubDate>Sat, 18 Sep 2021 16:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.17~2021.10.06]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33146/16318648679090.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[드림걸즈]
+라스트찬스 LP마그넷]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
+            <pubDate>Sat, 18 Sep 2021 16:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.17~2021.09.21<span> . </span><em>D-2</em>]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33143/16318543298650.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[로빈의 소원]
+현장 경품 이벤트]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
+            <pubDate>Sat, 18 Sep 2021 16:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.17~2021.09.28]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33141/16318452373100.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[니키라고도 알려진]
+현장 경품 이벤트]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
+            <pubDate>Sat, 18 Sep 2021 16:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.17~2021.09.28]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33137/16318387164150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[보이스]
+무대인사]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
+            <pubDate>Sat, 18 Sep 2021 16:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.17~2021.09.22<span> . </span><em>D-3</em>]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33135/16318385301810.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
