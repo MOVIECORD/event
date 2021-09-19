@@ -4,7 +4,7 @@
         <title>익스트림무비 ─ 시사회 ─ 시사회진행</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Sep 2021 06:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Sep 2021 07:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,14 +70,6 @@
             <pubDate>Sat, 18 Sep 2021 16:17:01 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;F20&gt; 예매권 이벤트입니다. 아래 댓글 신청 방법 예를 보시고 댓글 달아주...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/102/504/068/295x295.crop.jpg?20210915094355" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['캔디맨' 예매권 이벤트]]></title>
-            <link>https://extmovie.com/sisaing/68448265</link>
-            <guid>https://extmovie.com/sisaing/68448265</guid>
-            <pubDate>Sat, 18 Sep 2021 16:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[조던 필 감독 제작 공포영화 &lt;캔디맨&gt; 예매권 이벤트입니다. &lt;캔디맨&gt;이 기대되...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/265/448/068/295x295.crop.jpg?20210913150638" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제10회 스웨덴영화제 상영작 리뷰...]]></title>
