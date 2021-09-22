@@ -4,7 +4,7 @@
         <title>CGV ─ 이벤트 ─ 영화 예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Sep 2021 13:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Sep 2021 15:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,8 +12,8 @@
 관람 인증 이벤트]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
-            <pubDate>Wed, 22 Sep 2021 13:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.16~2021.09.26<span> . </span><em>D-4</em>]]></content:encoded>
+            <pubDate>Wed, 22 Sep 2021 15:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.16~2021.09.26<span> . </span><em>D-3</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33124/16317672566110.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -21,8 +21,8 @@
 현장 경품 증정 이벤트]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
-            <pubDate>Wed, 22 Sep 2021 13:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.17~2021.09.28<span> . </span><em>D-6</em>]]></content:encoded>
+            <pubDate>Wed, 22 Sep 2021 15:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.17~2021.09.28<span> . </span><em>D-5</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33150/16318721960830.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -30,8 +30,8 @@
 KEY 콘서트 CGV 생중계]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
-            <pubDate>Wed, 22 Sep 2021 13:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.17~2021.09.26<span> . </span><em>D-4</em>]]></content:encoded>
+            <pubDate>Wed, 22 Sep 2021 15:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.17~2021.09.26<span> . </span><em>D-3</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33149/16318708190840.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -40,7 +40,7 @@ KEY 콘서트 CGV 생중계]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33148&amp;menu=004</link>
             <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33148&amp;menu=004</guid>
             <pubDate>Sat, 18 Sep 2021 16:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.17~2021.09.28<span> . </span><em>D-6</em>]]></content:encoded>
+            <content:encoded><![CDATA[2021.09.17~2021.09.28<span> . </span><em>D-5</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33148/16318664793630.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -48,7 +48,7 @@ KEY 콘서트 CGV 생중계]]></title>
 경기인디시네마 PICK!]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
-            <pubDate>Wed, 22 Sep 2021 13:20:23 GMT</pubDate>
+            <pubDate>Wed, 22 Sep 2021 15:13:22 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.17~2021.10.06]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33146/16318648679090.jpg" length="0" type="image/jpg"/>
         </item>
@@ -57,8 +57,8 @@ KEY 콘서트 CGV 생중계]]></title>
 현장 경품 이벤트]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
-            <pubDate>Wed, 22 Sep 2021 13:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.17~2021.09.28<span> . </span><em>D-6</em>]]></content:encoded>
+            <pubDate>Wed, 22 Sep 2021 15:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.17~2021.09.28<span> . </span><em>D-5</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33141/16318452373100.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -66,27 +66,26 @@ KEY 콘서트 CGV 생중계]]></title>
 현장 경품 이벤트]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
-            <pubDate>Wed, 22 Sep 2021 13:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.17~2021.09.28<span> . </span><em>D-6</em>]]></content:encoded>
+            <pubDate>Wed, 22 Sep 2021 15:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.17~2021.09.28<span> . </span><em>D-5</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33137/16318387164150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[보이스]
-무대인사]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
-            <pubDate>Wed, 22 Sep 2021 13:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.17~2021.09.22<span> . </span><em>종료임박</em>]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33135/16318385301810.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[아-하 테이크 온 미]
 1주차 굿즈 증정 이벤트]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
-            <pubDate>Wed, 22 Sep 2021 13:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.17~2021.09.28<span> . </span><em>D-6</em>]]></content:encoded>
+            <pubDate>Wed, 22 Sep 2021 15:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.17~2021.09.28<span> . </span><em>D-5</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33134/16318383172430.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[종착역] 굿즈패키지]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
+            <pubDate>Wed, 22 Sep 2021 15:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.17~2021.09.24<span> . </span><em>D-1</em>]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33069/16318700967090.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
