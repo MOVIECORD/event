@@ -4,7 +4,7 @@
         <title>CGV ─ 이벤트 ─ SPECIAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Sep 2021 23:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 00:45:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,69 +12,61 @@
 EXPRESS]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</guid>
-            <pubDate>Wed, 22 Sep 2021 23:13:03 GMT</pubDate>
+            <pubDate>Thu, 23 Sep 2021 00:43:19 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.01~2022.01.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32998/16304624019660.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ScreenX 체험단 
-[스엑러] 공개모집]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</guid>
-            <pubDate>Wed, 22 Sep 2021 23:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.16~2021.09.26<span> . </span><em>D-3</em>]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33073/16315871110300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[007 노 타임 투 다이] 
 스피드 쿠폰 X 카카오페이]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</guid>
-            <pubDate>Wed, 22 Sep 2021 23:13:03 GMT</pubDate>
+            <pubDate>Thu, 23 Sep 2021 00:43:19 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.15~2021.10.10]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33107/16316743043640.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한가위 LAST CHANCE]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33091&amp;menu=001</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33091&amp;menu=001</guid>
-            <pubDate>Sat, 18 Sep 2021 16:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.13~2021.09.26<span> . </span><em>D-3</em>]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33091/16315280699180.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해리포터와 마법사의 돌] 
-4DX 리미티드 포스터]]></title>
+            <title><![CDATA[4DX 리미티드 포스터 
+SECOND EDITION]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</guid>
-            <pubDate>Wed, 22 Sep 2021 23:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.10~2021.09.26<span> . </span><em>D-3</em>]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33083/16312663796020.jpg" length="0" type="image/jpg"/>
+            <pubDate>Thu, 23 Sep 2021 00:43:19 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.23~2021.10.03]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33151/16323536115030.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[007 노 타임 투 다이]
+IMAX 포스터 증정]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33139&amp;menu=001</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33139&amp;menu=001</guid>
+            <pubDate>Thu, 23 Sep 2021 00:43:19 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.17~2021.10.05]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33139/16318406571060.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ScreenX 체험단 
+[스엑러] 공개모집]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</guid>
+            <pubDate>Thu, 23 Sep 2021 00:43:19 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.16~2021.09.26<span> . </span><em>D-3</em>]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33073/16315871110300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1년에 단 한 번!
 2021 씨네샵 브랜드 세일!]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</guid>
-            <pubDate>Wed, 22 Sep 2021 23:13:03 GMT</pubDate>
+            <pubDate>Thu, 23 Sep 2021 00:43:19 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.17~2021.09.30<span> . </span><em>D-7</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33140/16318426273760.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[007 노 타임 투 다이]
-IMAX 포스터 증정]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</guid>
-            <pubDate>Wed, 22 Sep 2021 23:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.17~2021.10.05]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33139/16318406571060.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오딘 팝콘
 콤보 런칭!]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</guid>
-            <pubDate>Wed, 22 Sep 2021 23:13:03 GMT</pubDate>
+            <pubDate>Thu, 23 Sep 2021 00:43:19 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.17~2021.10.16]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33089/16315222616790.jpg" length="0" type="image/jpg"/>
         </item>
@@ -83,9 +75,18 @@ IMAX 포스터 증정]]></title>
 [크리스티안 페촐트 감독전]]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</guid>
-            <pubDate>Wed, 22 Sep 2021 23:13:03 GMT</pubDate>
+            <pubDate>Thu, 23 Sep 2021 00:43:19 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.15~2021.10.06]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33113/16316945300200.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[해리포터와 마법사의 돌] 
+4DX 리미티드 포스터]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</guid>
+            <pubDate>Thu, 23 Sep 2021 00:43:19 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.10~2021.09.24<span> . </span><em>D-1</em>]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33083/16312663796020.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
