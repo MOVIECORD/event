@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Sep 2021 14:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 15:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -262,54 +262,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.09 ~ 2021.09.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/06/4IGrm931Ff1O5brOEARR8p2Qx1rhKeUF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<쇼미 더 고스트> 개봉기념 현장 증정이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.09 ~ 2021.09.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/07/GLVtpH8hnlUs254gaDCyLUhcAaLaoefA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<좋은 사람> 개봉기념 현장 증정이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.09 ~ 2021.09.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/07/MiF6M0c8OP6qd46GFk5qBIfLYxRWkrAJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<여름날 우리> 3주차 현장 증정이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.09 ~ 2021.09.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/06/X9pzn8syvKfhPBGE7U8AYHXaiOILJNjP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<내가 날 부를 때> 개봉기념 현장 증정이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.09 ~ 2021.09.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/06/0oQgp8yia4HAM3iHURMRF5N5cbmhpv6W.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<최선의 삶> 포스터 증정이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.09 ~ 2021.09.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/06/5JyeIig5itqUxhf4lToITZrJ1iLOjH8B.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<해변의 에트랑제> 개봉주 현장 증정이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.09 ~ 2021.09.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/03/R85H112gls0EO54bn6yJCEkJmjZsHzdi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<필름오페라 앙코르> 클래식 소사이어티 상영회]]></title>
