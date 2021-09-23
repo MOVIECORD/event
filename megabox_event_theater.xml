@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Sep 2021 02:04:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 04:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.23 ~ 2021.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/23/Q16msAnfeuIQ2WKq120ab74RAnwPv5Iu.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인천지역] 회원되면 할인받고, 회원이면 쿠폰받고]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.23 ~ 2021.11.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/23/FZpdJ5bTL3ucIy3k4Ik1oe580VZOZteP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[김포한강신도시] 메가박스 회원이면 팝콘이 와르르]]></title>
