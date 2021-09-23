@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Sep 2021 00:45:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 02:04:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,22 @@
             <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.23 ~ 2021.11.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/23/My3J5ByMolIlLdu99wyHJuydzbwGAtZn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[세종(조치원)] 테이크아웃 3XL 팝콘 판매]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.23 ~ 2021.10.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/23/23Z455d0nVi2dcVvMKPQZaCuRseVfcMq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영통] 영통에서 무료로 영화보기]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.18 ~ 2021.10.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/23/bFmiTTmm41BjGMBBVu14raWx3ZpYblB0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[강서지역] 추석에 영화보면 할인쿠폰이 쏙]]></title>
