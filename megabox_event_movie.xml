@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 00:42:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 03:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.29 ~ 2021.10.10]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/15/We9qqBhsbIAmVqhrIsph1uAOZmFUhl5j.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[윙스 오버 에베레스트]선착순 빵원티켓_N스크린]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.28 ~ 2021.10.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/23/YmjL259sfUtOsYEckMOoL3Ysfuv8c6X1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[미켈란젤로]선착순 빵원티켓_N스크린]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.27 ~ 2021.10.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/23/7mIpeY6rRSDfqb1M86XXJZIXJjeY4it2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<극장판 짱구는 못말려: 격돌! 낙서왕국과 얼추 네 명의 용사들> 2주차 현장 증정이벤트]]></title>
