@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 13:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 15:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,22 +230,6 @@
             <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.01 ~ 2021.09.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/01/FyzdzS3vRqEw1wBh4g9OAFHUkqK2cjp6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[강남, 센트럴, 이수] 강.센.이 추석 선물 패키지!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.24 ~ 2021.09.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/15/O3BhQ67AijdM1STbq5AeTp0ZjDSfR6I0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[강남, 센트럴, 이수] 강.센.이 무비챌린지 PART.3]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.23 ~ 2021.09.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/24/S9NflC873iDrdX16Yf2JhZYEnEQqxPFg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[동탄] 옴팡진 옴팡이 大할인]]></title>

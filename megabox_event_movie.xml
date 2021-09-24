@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 13:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 15:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,28 +232,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/09/eCh8yR9cCtPxoMZkUk7GHEi45cIFNEIi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[모가디슈] 앵콜! 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.14 ~ 2021.09.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/13/co2mL4pY93a9kISAlFQaATqsXYILJIvo.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[보이스] 앵콜! 빵원티켓 ➕]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.13 ~ 2021.09.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/13/wzDhpvdY8ZpSh9BnKsZ7n4J0WiNdhrEi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인질] 앵콜! 선착순 빵원티켓]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.13 ~ 2021.09.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/13/7XLXH6skzvZK8Vkb7ZjHeTQvOYo8jqc4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<샹치와 텐 링즈의 전설> 캐릭터 마그네틱 증정 이벤트]]></title>
