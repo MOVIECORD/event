@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Sep 2021 14:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Sep 2021 15:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:38 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.15 ~ 2021.10.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/13/iHQnAu26EQEEP6TvusMKAVZIu7RthRGz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[메가박스] 특별한 2021 추석 관람권 패키지]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:38 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.15 ~ 2021.09.26]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/14/fEVZoEN7t6egyjuj19h1ebisvpCl5czM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코로나19백신접종자대상 혜택 <가을아침, 영화 한 잔> 이벤트]]></title>
