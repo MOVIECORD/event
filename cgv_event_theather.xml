@@ -4,15 +4,51 @@
         <title>CGV ─ 이벤트 ─ CGV 극장별</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Sep 2021 22:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Sep 2021 01:59:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샌드위치 구매 시
+아메리카노 할인]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
+            <pubDate>Mon, 27 Sep 2021 01:57:43 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.27~2021.10.31]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32967/16300426715910.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CGV계양 15주년
+기념 고객감사 이벤트]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
+            <pubDate>Mon, 27 Sep 2021 01:57:43 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.25~2021.10.10]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33164/16327024686530.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[강변] 쿠팡이츠 주문하고
+선물받자!]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
+            <pubDate>Mon, 27 Sep 2021 01:57:43 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.24~2021.12.31]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33163/16324724046980.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[CGV명동역] 카플 
+친구 시 선물 증정!]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33161&amp;menu=005</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33161&amp;menu=005</guid>
+            <pubDate>Mon, 27 Sep 2021 01:57:43 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.24~2021.09.30<span> . </span><em>D-3</em>]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33161/16324700423020.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부산지역 카카오플친
 할인 프로모션]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
-            <pubDate>Sun, 26 Sep 2021 22:12:12 GMT</pubDate>
+            <pubDate>Mon, 27 Sep 2021 01:57:43 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.17~2021.10.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33147/16318659628270.jpg" length="0" type="image/jpg"/>
         </item>
@@ -21,7 +57,7 @@
 카카오플친 할인 이벤트]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
-            <pubDate>Sun, 26 Sep 2021 22:12:12 GMT</pubDate>
+            <pubDate>Mon, 27 Sep 2021 01:57:43 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.17~2021.11.30]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33144/16318627126240.jpg" length="0" type="image/jpg"/>
         </item>
@@ -30,16 +66,16 @@
 할인 이벤트]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
-            <pubDate>Sun, 26 Sep 2021 22:12:12 GMT</pubDate>
+            <pubDate>Mon, 27 Sep 2021 01:57:43 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.17~2021.11.30]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33142/16318522429870.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CGV기흥
 GRAND OPENING]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33136&amp;menu=005</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33136&amp;menu=005</guid>
-            <pubDate>Sun, 26 Sep 2021 15:13:35 GMT</pubDate>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
+            <pubDate>Mon, 27 Sep 2021 01:57:43 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.17~2021.10.30]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33136/16318386259480.jpg" length="0" type="image/jpg"/>
         </item>
@@ -48,45 +84,9 @@ GRAND OPENING]]></title>
 예매하고 커피 받자]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
-            <pubDate>Sun, 26 Sep 2021 22:12:12 GMT</pubDate>
+            <pubDate>Mon, 27 Sep 2021 01:57:43 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.16~2021.10.18]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33133/16317814044210.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리동네 미술관
-플래뮤 미술전]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
-            <pubDate>Sun, 26 Sep 2021 22:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.15~2022.03.16]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33106/16316807333380.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[극장판 마이 리틀 포니]
-관람후기 이벤트]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
-            <pubDate>Sun, 26 Sep 2021 22:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.14~2021.10.22]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33105/16316065603780.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[CGV춘천] 쿠팡이츠
-딜리버리 프로모션]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
-            <pubDate>Sun, 26 Sep 2021 22:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.14~2021.09.30<span> . </span><em>D-3</em>]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33102/16316021542040.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[CGV청담]
-TO-GO PACK 이벤트]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
-            <pubDate>Sun, 26 Sep 2021 22:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.13~2021.12.31]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33090/16315224892170.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
