@@ -4,15 +4,24 @@
         <title>CGV ─ 이벤트 ─ CGV 극장별</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 05:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 06:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[New normal
+style class]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
+            <pubDate>Tue, 28 Sep 2021 06:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.28~2021.10.06]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33173/16328063849930.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[씨네드쉐프 압구정
  스페셜 와인 프로모션]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
-            <pubDate>Tue, 28 Sep 2021 05:12:08 GMT</pubDate>
+            <pubDate>Tue, 28 Sep 2021 06:15:59 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.28~2021.12.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/31249/16060973999960.jpg" length="0" type="image/jpg"/>
         </item>
@@ -21,25 +30,25 @@
 [씨네블라썸]]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
-            <pubDate>Tue, 28 Sep 2021 05:12:08 GMT</pubDate>
+            <pubDate>Tue, 28 Sep 2021 06:15:59 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.27~2021.10.16]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33166/16327206123380.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[샌드위치 구매 시
 아메리카노 할인]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
-            <pubDate>Tue, 28 Sep 2021 05:12:08 GMT</pubDate>
+            <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=32967&amp;menu=005</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=32967&amp;menu=005</guid>
+            <pubDate>Tue, 28 Sep 2021 06:15:59 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.27~2021.10.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32967/16300426715910.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CGV계양 15주년
 기념 고객감사 이벤트]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33164&amp;menu=005</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33164&amp;menu=005</guid>
-            <pubDate>Tue, 28 Sep 2021 03:13:55 GMT</pubDate>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
+            <pubDate>Tue, 28 Sep 2021 06:15:59 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.25~2021.10.10]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33164/16327024686530.jpg" length="0" type="image/jpg"/>
         </item>
@@ -48,7 +57,7 @@
 선물받자!]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
-            <pubDate>Tue, 28 Sep 2021 05:12:08 GMT</pubDate>
+            <pubDate>Tue, 28 Sep 2021 06:15:59 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.24~2021.12.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33163/16324724046980.jpg" length="0" type="image/jpg"/>
         </item>
@@ -57,7 +66,7 @@
 친구 시 선물 증정!]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
-            <pubDate>Tue, 28 Sep 2021 05:12:08 GMT</pubDate>
+            <pubDate>Tue, 28 Sep 2021 06:15:59 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.24~2021.09.30<span> . </span><em>D-2</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33161/16324700423020.jpg" length="0" type="image/jpg"/>
         </item>
@@ -66,7 +75,7 @@
 할인 프로모션]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
-            <pubDate>Tue, 28 Sep 2021 05:12:08 GMT</pubDate>
+            <pubDate>Tue, 28 Sep 2021 06:15:59 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.17~2021.10.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33147/16318659628270.jpg" length="0" type="image/jpg"/>
         </item>
@@ -75,18 +84,9 @@
 카카오플친 할인 이벤트]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
-            <pubDate>Tue, 28 Sep 2021 05:12:08 GMT</pubDate>
+            <pubDate>Tue, 28 Sep 2021 06:15:59 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.17~2021.11.30]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33144/16318627126240.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CGV강변 카카오플친 
-할인 이벤트]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
-            <pubDate>Tue, 28 Sep 2021 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.17~2021.11.30]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33142/16318522429870.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
