@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Sep 2021 14:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Sep 2021 15:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.16 ~ 2021.09.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/15/uztMH6RHcRgzmwf0BmqLSpWlvado1F59.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신촌] '시네마캐슬' 상영작 안내(~9/29)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.01 ~ 2021.09.29]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/31/x0RbBCSXskDavc8kRtNi3RcTALxBhZgD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[청라지젤] 팝콘 포장 1+1 EVENT]]></title>
