@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Sep 2021 13:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Sep 2021 15:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,14 +32,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/27/xGlesVFOsHNwae3E7A0IvT58580C1HPX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[밀크앱에서 메가박스 하자]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:38 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.16 ~ 2021.09.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/15/ghUMSDhjiprIsi5ho7Y6136F4bTyQbs4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[메가박스 오리지널 티켓 Re.8 <해리포터와 마법사의 돌>]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
@@ -48,28 +40,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/13/iHQnAu26EQEEP6TvusMKAVZIu7RthRGz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[메가박스 오리지널 티켓 Re.7 <너의 이름은.>]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:38 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.09 ~ 2021.09.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/06/CZBXSTDI9TG2DchdYPrNKdEThahBM58p.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[대전신세계 아트앤사이언스지점]오픈 이벤트!]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Tue, 31 Aug 2021 09:54:38 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.18 ~ 2021.10.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/18/14mKQlV7auBbcMS4SsyH6SCLlj4gX3ER.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포인트에 포인트를 더해서 VIP LEVEL UP+]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:38 GMT</pubDate>
-            <content:encoded><![CDATA[2021.07.28 ~ 2021.09.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/07/27/lvDiYBe7vsBcNzEMQFQ2zsU8IekTRu9V.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신규 회원도, 복귀 회원도 혜택 받아가세요 🎁]]></title>
