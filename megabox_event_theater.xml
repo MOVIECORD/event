@@ -4,9 +4,25 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 05:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 06:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[강북지역] 영화보고 스탬프 찍자!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.01 ~ 2021.11.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/01/L1QRmfgLIjTLpTbzgk1vNh9SngaijxLk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대전신세계 아트앤사이언스점] 커피먹고 핸써미 아이스박스 받자!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.01 ~ 2021.10.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/01/tAmRx8GzDe2NoNDcHhhdHHcR5yJB1kMy.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[청라지젤] 팝콘 포장 1+1 EVENT]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
