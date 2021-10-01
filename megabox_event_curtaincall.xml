@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.megabox.co.kr/event/curtaincall</id>
-    <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
-    <updated>2021-10-01T00:47:31.238Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.megabox.co.kr/event/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[0]]></title>
-        <id>https://www.megabox.co.kr/event/curtaincall</id>
-        <link href="https://www.megabox.co.kr/event/curtaincall"/>
-        <updated>2021-10-01T00:47:23.394Z</updated>
-        <content type="html"><![CDATA[해당 이벤트가 없습니다.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 01 Oct 2021 03:16:06 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<사상> 필름소사이어티 회원시사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Fri, 01 Oct 2021 03:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.01 ~ 2021.10.11]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/01/xz6DY1PNAo8xWKdWCUMtVGph82m585NT.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
