@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 06:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 07:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,15 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/01/L1QRmfgLIjTLpTbzgk1vNh9SngaijxLk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[대전신세계 아트앤사이언스점] 커피먹고 핸써미 아이스박스 받자!]]></title>
+            <title><![CDATA[[코엑스] 이달의 관람권 10월]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.01 ~ 2021.10.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/01/dwV4LJ6UTz7nj5S4boGQ7WeRXMkShO7S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대전신세계 아트앤사이언스] 커피먹고 핸써미 아이스박스 받자!]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Tue, 31 Aug 2021 09:55:28 GMT</pubDate>
