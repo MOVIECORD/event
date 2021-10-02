@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Oct 2021 14:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Oct 2021 15:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:38 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.17 ~ 2021.10.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/27/xGlesVFOsHNwae3E7A0IvT58580C1HPX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 오리지널 티켓 Re.8 <해리포터와 마법사의 돌>]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:38 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.15 ~ 2021.10.02]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/13/iHQnAu26EQEEP6TvusMKAVZIu7RthRGz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대전신세계 아트앤사이언스지점]오픈 이벤트!]]></title>
