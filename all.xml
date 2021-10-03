@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Oct 2021 17:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Oct 2021 18:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
 EXPRESS (CGV ─ 이벤트 ─ SPECIAL)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:12 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:13:40 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.01~2022.01.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32998/16304624019660.jpg" length="0" type="image/jpg"/>
         </item>
@@ -21,7 +21,7 @@ EXPRESS (CGV ─ 이벤트 ─ SPECIAL)]]></title>
 CGV 필름마크 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:12 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:13:40 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.23~2021.10.24]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33152/16323616111420.jpg" length="0" type="image/jpg"/>
         </item>
@@ -30,7 +30,7 @@ CGV 필름마크 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
 IMAX 포스터 증정 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:12 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:13:40 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.17~2021.10.05<span> . </span><em>D-1</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33139/16318406571060.jpg" length="0" type="image/jpg"/>
         </item>
@@ -48,7 +48,7 @@ IMAX 포스터 증정 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
 10월 개봉작 미리보기! (CGV ─ 이벤트 ─ SPECIAL)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:12 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:13:40 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.30~2021.10.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/30717/16329691124760.jpg" length="0" type="image/jpg"/>
         </item>
@@ -57,7 +57,7 @@ IMAX 포스터 증정 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
 개봉 기념 콤보 론칭! (CGV ─ 이벤트 ─ SPECIAL)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:12 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:13:40 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.24~2021.10.04<span> . </span><em>종료임박</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33158/16324677002540.jpg" length="0" type="image/jpg"/>
         </item>
@@ -66,7 +66,7 @@ IMAX 포스터 증정 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
 콤보 런칭! (CGV ─ 이벤트 ─ SPECIAL)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:12 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:13:40 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.17~2021.10.16]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33089/16315222616790.jpg" length="0" type="image/jpg"/>
         </item>
@@ -75,7 +75,7 @@ IMAX 포스터 증정 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
 [크리스티안 페촐트 감독전] (CGV ─ 이벤트 ─ SPECIAL)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:12 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:13:40 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.15~2021.10.06<span> . </span><em>D-2</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33113/16316945300200.jpg" length="0" type="image/jpg"/>
         </item>
@@ -84,7 +84,7 @@ IMAX 포스터 증정 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
 스피드 쿠폰 X 카카오페이 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:12 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:13:40 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.15~2021.10.10<span> . </span><em>D-6</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33107/16316743043640.jpg" length="0" type="image/jpg"/>
         </item>
@@ -93,7 +93,7 @@ IMAX 포스터 증정 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
 스페셜패키지 상영회 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:22 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:13:51 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.01~2021.10.10<span> . </span><em>D-6</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33192/16330787686310.jpg" length="0" type="image/jpg"/>
         </item>
@@ -101,7 +101,7 @@ IMAX 포스터 증정 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
             <title><![CDATA[[쁘띠 마망] 스페셜 GV (CGV ─ 이벤트 ─ 영화 예매)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:22 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:13:51 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.01~2021.10.06<span> . </span><em>D-2</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33191/16330775774970.jpg" length="0" type="image/jpg"/>
         </item>
@@ -110,7 +110,7 @@ IMAX 포스터 증정 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
 정성일 영화평론가 시네마톡 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:22 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:13:51 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.01~2021.10.09<span> . </span><em>D-5</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33190/16330772475830.jpg" length="0" type="image/jpg"/>
         </item>
@@ -128,7 +128,7 @@ IMAX 포스터 증정 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
 현장 경품 이벤트 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:22 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:13:51 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.27~2021.10.05<span> . </span><em>D-1</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33168/16327244452290.jpg" length="0" type="image/jpg"/>
         </item>
@@ -137,7 +137,7 @@ IMAX 포스터 증정 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
 현장 경품 이벤트 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:22 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:13:51 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.27~2021.10.05<span> . </span><em>D-1</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33167/16327243429660.jpg" length="0" type="image/jpg"/>
         </item>
@@ -146,7 +146,7 @@ IMAX 포스터 증정 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
 현장 경품 이벤트 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:22 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:13:51 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.27~2021.10.05<span> . </span><em>D-1</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33165/16327025412170.jpg" length="0" type="image/jpg"/>
         </item>
@@ -155,7 +155,7 @@ IMAX 포스터 증정 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
 2주차 굿즈 증정 이벤트 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:22 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:13:51 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.24~2021.10.05<span> . </span><em>D-1</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33162/16324713627190.jpg" length="0" type="image/jpg"/>
         </item>
@@ -164,7 +164,7 @@ IMAX 포스터 증정 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
 포스터 선착순 증정 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:22 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:13:51 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.24~2021.10.05<span> . </span><em>D-1</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33160/16324695284700.jpg" length="0" type="image/jpg"/>
         </item>
@@ -173,7 +173,7 @@ IMAX 포스터 증정 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
 EXPRESS (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:31 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:14:01 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.01~2022.01.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32999/16304636912820.jpg" length="0" type="image/jpg"/>
         </item>
@@ -182,7 +182,7 @@ EXPRESS (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
 원데이 프리패스 (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:31 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:14:01 GMT</pubDate>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32793/16275334020020.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -190,7 +190,7 @@ EXPRESS (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
 2021년 아트하우스 Club (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:31 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:14:01 GMT</pubDate>
             <content:encoded><![CDATA[2021.01.06~2021.12.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/31473/16098989998820.jpg" length="0" type="image/jpg"/>
         </item>
@@ -208,7 +208,7 @@ EXPRESS (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
 [스틸 워터] 렌티큘러 (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:31 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:14:01 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.27~2021.10.18]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33171/16327283656370.jpg" length="0" type="image/jpg"/>
         </item>
@@ -216,7 +216,7 @@ EXPRESS (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
             <title><![CDATA[SVIP/VVIP 원데이 프리패스 (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:31 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:14:01 GMT</pubDate>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/31372/16080161893400.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -224,7 +224,7 @@ EXPRESS (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
  카카오톡채널 이벤트! (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:42 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:14:10 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.01~2021.10.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33188/16330630420600.jpg" length="0" type="image/jpg"/>
         </item>
@@ -233,7 +233,7 @@ EXPRESS (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
 기대평 이벤트 (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:42 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:14:10 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.01~2021.10.13]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33186/16330533492910.jpg" length="0" type="image/jpg"/>
         </item>
@@ -242,7 +242,7 @@ EXPRESS (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
 굿즈 할인 (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:42 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:14:10 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.30~2021.10.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33181/16329883167870.jpg" length="0" type="image/jpg"/>
         </item>
@@ -260,7 +260,7 @@ ASTON MARTIN CINEMA (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
 1주년 기념 이벤트 (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:42 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:14:10 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.30~2021.10.20]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33179/16329670873240.jpg" length="0" type="image/jpg"/>
         </item>
@@ -269,7 +269,7 @@ ASTON MARTIN CINEMA (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
 GRAND OPEN (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:42 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:14:10 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.29~2021.12.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33175/16328804640760.jpg" length="0" type="image/jpg"/>
         </item>
@@ -278,7 +278,7 @@ GRAND OPEN (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
 style class (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:42 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:14:10 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.28~2021.10.06<span> . </span><em>D-2</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33173/16328063849930.jpg" length="0" type="image/jpg"/>
         </item>
@@ -287,7 +287,7 @@ style class (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
  스페셜 와인 프로모션 (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:42 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:14:10 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.28~2021.12.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/31249/16060973999960.jpg" length="0" type="image/jpg"/>
         </item>
@@ -296,7 +296,7 @@ style class (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
 [씨네블라썸] (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:42 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:14:10 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.27~2021.10.16]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33166/16327206123380.jpg" length="0" type="image/jpg"/>
         </item>
@@ -305,7 +305,7 @@ style class (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
 IMAX 예매도 된다!! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:52 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:14:20 GMT</pubDate>
             <content:encoded><![CDATA[2021.06.24~2021.12.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/30011/16245005357340.jpg" length="0" type="image/jpg"/>
         </item>
@@ -314,7 +314,7 @@ IMAX 예매도 된다!! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
 5천원 할인받기! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:52 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:14:20 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.01~2021.10.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32445/16330435367510.jpg" length="0" type="image/jpg"/>
         </item>
@@ -323,7 +323,7 @@ IMAX 예매도 된다!! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
 영화 2천원 할인! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:52 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:14:20 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.01~2021.10.30]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33176/16328957304370.jpg" length="0" type="image/jpg"/>
         </item>
@@ -341,7 +341,7 @@ IMAX 예매도 된다!! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
 CGV에서 사용하는 방법! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:52 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:14:20 GMT</pubDate>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/30013/15928181474500.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -349,7 +349,7 @@ CGV에서 사용하는 방법! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
 바로 NH농협카드 (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:52 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:14:20 GMT</pubDate>
             <content:encoded><![CDATA[2021.06.16~2023.05.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32606/16249595781520.jpg" length="0" type="image/jpg"/>
         </item>
@@ -358,7 +358,7 @@ CGV에서 사용하는 방법! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
 문화생활 즐기세요! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:52 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:14:20 GMT</pubDate>
             <content:encoded><![CDATA[2021.01.29~2021.12.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/31589/16119022824340.jpg" length="0" type="image/jpg"/>
         </item>
@@ -367,7 +367,7 @@ CGV에서 사용하는 방법! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
 최대 5천 M포인트 차감할인 (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:52 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:14:20 GMT</pubDate>
             <content:encoded><![CDATA[2021.01.01~2021.12.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/31426/16300456127110.jpg" length="0" type="image/jpg"/>
         </item>
@@ -376,7 +376,7 @@ CGV에서 사용하는 방법! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
 더 다양하게 즐기기! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Oct 2021 17:15:52 GMT</pubDate>
+            <pubDate>Sun, 03 Oct 2021 18:14:20 GMT</pubDate>
             <content:encoded><![CDATA[2020.04.01~2022.03.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/30620/16111941302940.jpg" length="0" type="image/jpg"/>
         </item>
