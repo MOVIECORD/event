@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 13:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 15:33:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -174,22 +174,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.22 ~ 2021.10.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/17/ffUcWdzlxMj7nxx2teepAW8BbKgas249.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 마이 리틀 포니: 새로운 희망> 개봉 기념 스티커 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.22 ~ 2021.10.05]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/17/QPmUR2cqRrWOSgKdKxwUUKayNLbOD9GC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<나의 흑역사 로맨티카> 개봉 기념 현장 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.22 ~ 2021.10.05]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/17/34YULFsNyc85G984P6W98QrD49EUoypN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[007 노 타임 투 다이] 빵원티켓 ➕]]></title>
