@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 14:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 17:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,14 +120,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/28/BigD2bhqPLTRk8KDwlSiXFln8TW4dg9V.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<뱅드림! 로젤리아 에피소드 Ⅱ : 송 아이 엠> 4주차 특전 증정이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.30 ~ 2021.10.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/27/UQHn9D2gdXh1ClR4R7iXMc6rrnDpZreU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<007 노 타임 투 다이> 돌비시네마 관람 오리지널 뱃지 증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -158,30 +150,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.27 ~ 2021.10.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/27/3PiNvNYZXRiDu4wf7Rhh5JrjWAOyeEBG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<로빈의 소원> 개봉 기념 현장 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.23 ~ 2021.10.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/17/ZtUNilZG0OZ5QeJnwYmlUdFWTgzXD4W2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[최선의 삶]선착순 빵원티켓_N스크린]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.23 ~ 2021.10.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/16/FxijSeEL7Gyn2Yooaa4tTQ8JECEa43Jq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<부에나 비스타 소셜 클럽> 25주년 기념 특별 상영 증정이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.22 ~ 2021.10.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/17/ffUcWdzlxMj7nxx2teepAW8BbKgas249.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[007 노 타임 투 다이] 빵원티켓 ➕]]></title>
