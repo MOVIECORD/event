@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 14:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 15:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Fri, 01 Oct 2021 03:15:59 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.01 ~ 2021.10.10]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/01/WRYC6qxRYrLWrv2WClewlwogoE7gWdez.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<애프터: 관계의 함정> 회원시사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Fri, 01 Oct 2021 03:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.01 ~ 2021.10.07]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/01/zb8lEZkls1Sm5OZnSETfM8VBaE7v6lRN.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
