@@ -4,15 +4,24 @@
         <title>CGV ─ 이벤트 ─ CGV 극장별</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 23:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 00:47:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[CGV오리] 볼링펍 
+할인 이벤트!]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
+            <pubDate>Fri, 08 Oct 2021 00:45:26 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.08~2021.11.30]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33017/16306309502140.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CGV고양행신에서
 백신맞고 할인받고!]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
-            <pubDate>Thu, 07 Oct 2021 23:12:59 GMT</pubDate>
+            <pubDate>Fri, 08 Oct 2021 00:45:26 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.07~2021.10.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33222/16335857436630.jpg" length="0" type="image/jpg"/>
         </item>
@@ -21,24 +30,24 @@
 영화 관람 할인]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
-            <pubDate>Thu, 07 Oct 2021 23:12:59 GMT</pubDate>
+            <pubDate>Fri, 08 Oct 2021 00:45:26 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.07~2021.12.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33221/16335825655720.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[관람 인증 이벤트
 스페이스 독3]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
-            <pubDate>Thu, 07 Oct 2021 23:12:59 GMT</pubDate>
+            <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33220&amp;menu=005</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33220&amp;menu=005</guid>
+            <pubDate>Fri, 08 Oct 2021 00:45:26 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.07~2021.10.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33220/16335820190060.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[원격 영사 STAFF 채용 안내]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33204&amp;menu=005</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33204&amp;menu=005</guid>
-            <pubDate>Thu, 07 Oct 2021 07:16:38 GMT</pubDate>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
+            <pubDate>Fri, 08 Oct 2021 00:45:26 GMT</pubDate>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33204/16334973366600.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -46,7 +55,7 @@
 포토라떼 런칭]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
-            <pubDate>Thu, 07 Oct 2021 23:12:59 GMT</pubDate>
+            <pubDate>Fri, 08 Oct 2021 00:45:26 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.06~2021.11.30]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33203/16334947685580.jpg" length="0" type="image/jpg"/>
         </item>
@@ -55,7 +64,7 @@
  논알콜 맥주 증정 이벤트]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
-            <pubDate>Thu, 07 Oct 2021 23:12:59 GMT</pubDate>
+            <pubDate>Fri, 08 Oct 2021 00:45:26 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.06~2021.10.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33202/16334853481030.jpg" length="0" type="image/jpg"/>
         </item>
@@ -64,7 +73,7 @@
 혼자 깨어있는 자]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
-            <pubDate>Thu, 07 Oct 2021 23:12:59 GMT</pubDate>
+            <pubDate>Fri, 08 Oct 2021 00:45:26 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.06~2021.10.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33201/16334795044950.jpg" length="0" type="image/jpg"/>
         </item>
@@ -73,18 +82,9 @@
 앨범 발매기념 이벤트]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
-            <pubDate>Thu, 07 Oct 2021 23:12:59 GMT</pubDate>
+            <pubDate>Fri, 08 Oct 2021 00:45:26 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.05~2021.11.05]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33199/16334162495990.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타다: 대한민국 스타트업의
-초상] 기대평 이벤트]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
-            <pubDate>Thu, 07 Oct 2021 23:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.05~2021.10.21]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33197/16334120255170.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
