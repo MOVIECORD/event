@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 04:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 06:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/13/URQPflyQKkmtFNWR9NqzVYbjxv2BTDyP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<라스트 듀얼: 최후의 결투> 사전 유료 시사회]]></title>
+            <title><![CDATA[<라스트 듀얼: 최후의 결투> 사전 유료 시사 관람 스페셜 뱃지 증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
@@ -54,6 +54,14 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.09 ~ 2021.10.10]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/24/UcUA4qraQLqjlerP4G5Ean0ojPlyKfJL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[색다른 그녀]선착순 빵원티켓_N스크린]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.08 ~ 2021.10.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/08/q56cOPPr9rtxEHWSyUu3oWKkFNdiclIl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[아버지의 길]선착순 빵원티켓_N스크린]]></title>
