@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Oct 2021 14:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Oct 2021 15:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,14 +70,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.09 ~ 2021.10.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/01/uOi6W8O8tTmyKCGC41n6w35cYrF3hInp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<그래비티> 스페셜 굿즈패키지 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.09 ~ 2021.10.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/24/UcUA4qraQLqjlerP4G5Ean0ojPlyKfJL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[색다른 그녀]선착순 빵원티켓_N스크린]]></title>
@@ -160,28 +152,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/27/5hlpsFm6DVRTGgS7DznwAvjnhRplf9eT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[기적] 앵콜! 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.01 ~ 2021.10.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/29/Ke5kauugKVn7rJRvFlw6QLV71lbHQ1ZT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<아버지의 길> 개봉기념 포스터 증정이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.30 ~ 2021.10.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/28/BigD2bhqPLTRk8KDwlSiXFln8TW4dg9V.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<007 노 타임 투 다이> 돌비시네마 관람 오리지널 뱃지 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.29 ~ 2021.10.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/15/We9qqBhsbIAmVqhrIsph1uAOZmFUhl5j.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[윙스 오버 에베레스트]선착순 빵원티켓_N스크린]]></title>
