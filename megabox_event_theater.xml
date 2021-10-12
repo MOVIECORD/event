@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 14:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 16:21:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,14 +238,6 @@
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.17 ~ 2021.10.17]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/17/hLtZJwQ7owUEMXxadreSJMjPRhJIe2CB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[고양스타필드] 영화 관람 후 팝콘이 반값!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.17 ~ 2021.10.12]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/12/195svTfdzwMoedn38eewUtr3nE7LRQhs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[정관] 카카오채널 친구추가 이벤트]]></title>
