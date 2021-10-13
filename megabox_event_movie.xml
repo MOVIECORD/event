@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 14:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 15:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,14 +120,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/01/O91NnIhOaL0oE3DP0dB8KBBOghuU3AkW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<쁘띠 마망> 굿즈패키지 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.09 ~ 2021.10.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/01/uOi6W8O8tTmyKCGC41n6w35cYrF3hInp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[색다른 그녀]선착순 빵원티켓_N스크린]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -168,14 +160,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/01/fVarsB9bltaFgjr5MqMXofVhAXH5JYMh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<뱅드림! 로젤리아 에피소드 Ⅱ : 송 아이 엠> 5주차 특전 증정이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.07 ~ 2021.10.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/05/LQNhNaI20YfwMRecaJ5L8sUEwlOwcmFa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[베놈 2: 렛 데어 비 카니지] 빵원티켓 ➕]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -206,14 +190,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.30 ~ 2021.10.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/28/BigD2bhqPLTRk8KDwlSiXFln8TW4dg9V.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[윙스 오버 에베레스트]선착순 빵원티켓_N스크린]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.28 ~ 2021.10.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/23/YmjL259sfUtOsYEckMOoL3Ysfuv8c6X1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<필름오페라 앙코르> 클래식 소사이어티 상영회]]></title>
