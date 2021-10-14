@@ -4,9 +4,25 @@
         <title>익스트림무비 ─ 시사회 ─ 시사회진행</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 12:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 13:21:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['보는 것을 사랑한다' ...]]></title>
+            <link>https://extmovie.com/sisaing/69298347</link>
+            <guid>https://extmovie.com/sisaing/69298347</guid>
+            <pubDate>Thu, 14 Oct 2021 13:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[영화 &lt;보는 것을 사랑한다&gt; 언론 배급 시사회에 초대합니다. 평일 오후에 진행됩...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/347/298/069/295x295.crop.jpg?20211014220643" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['가족의 색깔' 시사회...]]></title>
+            <link>https://extmovie.com/sisaing/69298205</link>
+            <guid>https://extmovie.com/sisaing/69298205</guid>
+            <pubDate>Thu, 14 Oct 2021 13:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[영화 &lt;가족의 색깔&gt; 시사회에 초대합니다. 꼭 참석하고 게시판에 후기 남겨주실 ...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/205/298/069/295x295.crop.jpg?20211014220403" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['라스트 듀얼: 최후의 결투&...]]></title>
             <link>https://extmovie.com/sisaing/69294130</link>
