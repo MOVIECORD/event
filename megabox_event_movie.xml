@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 14:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 15:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,14 +230,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.01 ~ 2021.10.22]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/28/QpFE0maS81tMiOu0DtceuLdn5kK2UVao.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<수색자> 개봉기념 현장 증정이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.01 ~ 2021.10.15]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/27/5hlpsFm6DVRTGgS7DznwAvjnhRplf9eT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<필름오페라 앙코르> 클래식 소사이어티 상영회]]></title>
