@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 14:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 15:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.12 ~ 2021.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/13/o0oS5uMHUVF0xdM7QGpy6Zyic74zN2yZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[코엑스] 누턴 게이밍 응원전]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.06 ~ 2021.10.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/06/J6lRaSbWPHbpS6WqNad3ZuoYgSSl20IG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[코엑스] 이달의 관람권 10월]]></title>
@@ -176,14 +168,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/01/I5a888aSkebEPIfsVb2XdXflIDIpJI64.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[김포한강신도시] 가을에는 향긋한 TEA 어텀?]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.10 ~ 2021.10.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/15/Jd0oxS43lnKbnUvcIOEBmfXaWVSlOVVW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[부산경남지역] 부산 경남 직영점 관람권 패키지]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -254,14 +238,6 @@
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.18 ~ 2021.10.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/25/uUsrhBy5YUklGtfJKGDhhyUlXlsmpC4i.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[강남] 메가박스 강남점 x 이유있는 술집 팝업스토어 오픈]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.17 ~ 2021.10.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/17/hLtZJwQ7owUEMXxadreSJMjPRhJIe2CB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[정관] 카카오채널 친구추가 이벤트]]></title>
