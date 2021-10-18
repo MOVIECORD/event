@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 07:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 08:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.12 ~ 2021.10.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/08/mLhwt19VTCH4VKxwie7euD0wkTjEXFsY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대구지역] 관람권 패키지 끝판왕이 떴다!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.18 ~ 2021.11.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/18/Lpd70OkzSILh46mgNkGFSW2wyox3GWtz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인천지역] 오징어게임 4.5.6]]></title>
@@ -40,12 +48,36 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/13/VpeQiOjytYYLlueY8wDoPqs4QuuNx7xT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[양주] 영화 보GO 팝콘 할인 받GO]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.13 ~ 2021.11.07]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/18/t2GWD2GNSW016SPte6UUBhvWZmi9YvGW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[청라지젤] 1012빙고 스탬프 챌린지]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.12 ~ 2021.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/13/o0oS5uMHUVF0xdM7QGpy6Zyic74zN2yZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[강남지역] 강.센.이 x 강남점 제휴 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.11 ~ 2021.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/18/n3jGDBaxX3Ti7xl2maGw8jFA0hSQDESK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대전중앙로] 30대 이상 가을즐기기]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.11 ~ 2021.11.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/18/pTqls1cJkqR4DgJcDkTNcgLV3Kt5ZUSW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[코엑스] 이달의 관람권 10월]]></title>
