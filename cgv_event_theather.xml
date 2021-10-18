@@ -1,8 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</id>
-    <title>CGV ─ 이벤트 ─ CGV 극장별</title>
-    <updated>2021-10-18T21:13:30.003Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://www.cgv.co.kr/culture-event/event/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>CGV ─ 이벤트 ─ CGV 극장별</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 18 Oct 2021 22:14:30 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[CGV오리]
+볼링펍 할인]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
+            <pubDate>Mon, 18 Oct 2021 22:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.18~2021.11.30]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33267/16345254568360.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CGV연남 X 다비치안경
+쇼핑하고 할인받자!]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
+            <pubDate>Mon, 18 Oct 2021 22:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.16~2022.04.30]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33263/16342798483840.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CGV인천 딜리버리 경품
+증정 이벤트]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
+            <pubDate>Mon, 18 Oct 2021 22:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.15~2021.11.30]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33261/16342740121440.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CGV인천 투썸플레이스
+커피 40% 할인]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33259&amp;menu=005</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33259&amp;menu=005</guid>
+            <pubDate>Mon, 18 Oct 2021 22:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.15~2021.11.30]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33259/16342737401760.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인천점 카톡채널 친구하고
+투썸 할인 받자!]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
+            <pubDate>Mon, 18 Oct 2021 22:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.15~2021.12.31]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33255/16342574815820.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제 4회
+카라 동물 영화제]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
+            <pubDate>Mon, 18 Oct 2021 22:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.12~2021.10.23<span> . </span><em>D-4</em>]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33237/16340184647650.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스무디킹 삼삼한라봉
+1+1 이벤트]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
+            <pubDate>Mon, 18 Oct 2021 22:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.09~2021.10.23<span> . </span><em>D-4</em>]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33227/16336819405770.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[CGV신촌] 앤티앤스
+음료 할인 이벤트!]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
+            <pubDate>Mon, 18 Oct 2021 22:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.08~2021.10.31]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33226/16336561420410.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[CGV오리] 볼링펍 
+할인 이벤트!]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
+            <pubDate>Mon, 18 Oct 2021 22:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.08~2021.11.30]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33017/16306309502140.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
