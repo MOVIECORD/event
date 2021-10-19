@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 12:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 13:22:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
             <pubDate>Thu, 07 Oct 2021 12:22:18 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.20 ~ 2021.11.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/18/TCq4e5qMftVbY0tM3ZpH5i0gWXN866nL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[신규가입이벤트] I WANT YOU NEW VIP]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Thu, 07 Oct 2021 12:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.19 ~ 2021.11.19]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/19/dOQVcqZzE6ULWjb4zrk0oTHPL0b6Qadg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[10월포인트위크] 무시무시한 포인트 특가!]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Thu, 07 Oct 2021 12:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.19 ~ 2021.10.26]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/19/JCF0SF6FB5LdcoCzpVpwxL722TQTcCJo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 No.37 <베놈2: 렛 데어 비 카니지>]]></title>
@@ -62,6 +78,14 @@
             <pubDate>Thu, 07 Oct 2021 12:22:18 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.18 ~ 2021.10.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/18/14mKQlV7auBbcMS4SsyH6SCLlj4gX3ER.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[10월포인트위크] 감당할 수 있다면 응모하라! 100p럭키딜 🎁~]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Thu, 07 Oct 2021 12:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.19 ~ 2021.10.26]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/19/X3VrXOscPnqev9J5OY7DRQ8M3cKYLhKs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신규 회원도, 복귀 회원도 혜택 받아가세요 🎁]]></title>
