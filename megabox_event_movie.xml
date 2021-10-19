@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 07:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 08:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,22 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/08/LcICYV6gyOkG1sgD7vSfYo0p8xDnQpYS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<휴가> 관람인증이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.21 ~ 2021.11.07]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/19/QGnr1pNjqLtlCtKMH9OvM6VmyvtDGGc1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<휴가> 개봉기념 현장 증정이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.21 ~ 2021.11.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/19/O7uJL19UhQJlziQxsZG5TkS294i1mGRQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<당신얼굴 앞에서> 개봉기념 현장 증정이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -86,6 +102,14 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.20 ~ 2021.11.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/12/lzmR2MANt1IwjmdFBCfK7q5hhyBE7rpK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Dolby Cinema X 메가박스] <듄> 돌비시네마 프로모션]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.20 ~ 2021.10.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/19/CT2GtvNxbXawWKzj1SxQMqfdaB4q3zYo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<듄> 전야상영회 리미티드 뱃지 패키지]]></title>
