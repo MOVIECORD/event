@@ -4,7 +4,7 @@
         <title>CGV ─ 이벤트 ─ 멤버십 CLUB</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 04:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 05:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,39 +12,39 @@
 EXPRESS]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=008</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=008</guid>
-            <pubDate>Thu, 21 Oct 2021 04:16:58 GMT</pubDate>
+            <pubDate>Thu, 21 Oct 2021 05:12:21 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.01~2022.01.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32999/16304636912820.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 SVIP/VVIP 
-원데이 프리패스]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=008</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=008</guid>
-            <pubDate>Thu, 21 Oct 2021 04:16:58 GMT</pubDate>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32793/16275334020020.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무료가입하고 쿠폰받자♥
 2021년 아트하우스 Club]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=008</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=008</guid>
-            <pubDate>Thu, 21 Oct 2021 04:16:58 GMT</pubDate>
+            <pubDate>Thu, 21 Oct 2021 05:12:21 GMT</pubDate>
             <content:encoded><![CDATA[2021.01.06~2021.12.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/31473/16098989998820.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[CGV VIP] SVIP 만원의 행복]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=32841&amp;menu=008</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=32841&amp;menu=008</guid>
-            <pubDate>Mon, 18 Oct 2021 22:12:57 GMT</pubDate>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32841/16281540552030.PNG" length="0" type="image/PNG"/>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=008</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=008</guid>
+            <pubDate>Thu, 21 Oct 2021 05:12:21 GMT</pubDate>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32841/16347909174770.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 SVIP/VVIP 
+원데이 프리패스]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=32793&amp;menu=008</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=32793&amp;menu=008</guid>
+            <pubDate>Thu, 21 Oct 2021 05:12:21 GMT</pubDate>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32793/16347908749110.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SVIP/VVIP 원데이 프리패스]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=008</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=008</guid>
-            <pubDate>Thu, 21 Oct 2021 04:16:58 GMT</pubDate>
+            <pubDate>Thu, 21 Oct 2021 05:12:21 GMT</pubDate>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/31372/16080161893400.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
