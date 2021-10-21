@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 23:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 02:09:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 07 Oct 2021 12:22:18 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.20 ~ 2021.11.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/18/TCq4e5qMftVbY0tM3ZpH5i0gWXN866nL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Dolby Cinema X 메가박스] <듄> 돌비시네마 프로모션]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Thu, 07 Oct 2021 12:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.20 ~ 2021.10.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/19/CT2GtvNxbXawWKzj1SxQMqfdaB4q3zYo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[신규가입이벤트] I WANT YOU NEW VIP]]></title>
