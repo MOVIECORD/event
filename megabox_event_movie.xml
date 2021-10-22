@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 05:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 06:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.26 ~ 2021.10.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/18/TlJwuRCPI50vCbdI44bTCFof0yAbJNvA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[애프터: 관계의 함정] 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.25 ~ 2021.11.07]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/22/5b79uXe0azIS48v3w6oqSzdTXkWeJuy5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<첫눈이 사라졌다> 스페셜 굿즈패키지 상영회]]></title>
