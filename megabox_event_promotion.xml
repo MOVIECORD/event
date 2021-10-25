@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 제휴 할인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 05:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 06:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KT멤버십 X 메가박스] 영화 예매권 프로모션]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:55:40 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.25 ~ 2021.11.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/25/GLLyMkxQ7i0fHuA60ysoCCSQFw1QMwRc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[메가박스X네이버페이] 네이버페이 결제하고 혜택받아 가세요!]]></title>
             <link>https://www.megabox.co.kr/event/promotion#</link>
