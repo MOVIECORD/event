@@ -4,15 +4,51 @@
         <title>CGV ─ 이벤트 ─ 영화 예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 05:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 06:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[애프터: 관계의 함정]
+현장 경품 이벤트]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
+            <pubDate>Tue, 26 Oct 2021 06:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.25~2021.11.02<span> . </span><em>D-7</em>]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33330/16351538768070.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[퍼펙트 스틸]
+현장 경품 이벤트]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
+            <pubDate>Tue, 26 Oct 2021 06:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.25~2021.11.02<span> . </span><em>D-7</em>]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33329/16351519804800.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[당신은 믿지 않겠지만]
+현장 경품 이벤트]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
+            <pubDate>Tue, 26 Oct 2021 06:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.25~2021.11.02<span> . </span><em>D-7</em>]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33328/16351513343000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[가을의 전설]
+현장경품이벤트]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33326&amp;menu=004</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33326&amp;menu=004</guid>
+            <pubDate>Tue, 26 Oct 2021 06:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.25~2021.11.02<span> . </span><em>D-7</em>]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33326/16351479278670.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[당신은 믿지 않겠지만]
 관람 인증 이벤트]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
-            <pubDate>Tue, 26 Oct 2021 05:11:24 GMT</pubDate>
+            <pubDate>Tue, 26 Oct 2021 06:15:30 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.25~2021.11.11]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33322/16351258431990.jpg" length="0" type="image/jpg"/>
         </item>
@@ -21,7 +57,7 @@
 기대되는 에피소드 PICK]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
-            <pubDate>Tue, 26 Oct 2021 05:11:24 GMT</pubDate>
+            <pubDate>Tue, 26 Oct 2021 06:15:30 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.25~2021.12.21]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33305/16348646618310.jpg" length="0" type="image/jpg"/>
         </item>
@@ -30,16 +66,16 @@
 전용 페이지]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
-            <pubDate>Tue, 26 Oct 2021 05:11:24 GMT</pubDate>
+            <pubDate>Tue, 26 Oct 2021 06:15:30 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.22~2021.11.21]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33318/16348896771030.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[라스트 듀얼] 2인이상 예매
 통합결제 음료 2잔 100원!]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33316&amp;menu=004</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33316&amp;menu=004</guid>
-            <pubDate>Mon, 25 Oct 2021 01:59:22 GMT</pubDate>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
+            <pubDate>Tue, 26 Oct 2021 06:15:30 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.22~2021.10.27<span> . </span><em>D-1</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33316/16348889242620.jpg" length="0" type="image/jpg"/>
         </item>
@@ -48,45 +84,9 @@
 11월, 세비야의 이발사]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
-            <pubDate>Tue, 26 Oct 2021 05:11:24 GMT</pubDate>
+            <pubDate>Tue, 26 Oct 2021 06:15:30 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.22~2021.11.30]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33314/16348823450730.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싸이퍼의 강력추천!
-[고장난 론]]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
-            <pubDate>Tue, 26 Oct 2021 05:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.22~2021.11.03]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33304/16348707030250.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[십개월의 미래]
-2주차 현장 이벤트]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
-            <pubDate>Tue, 26 Oct 2021 05:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.21~2021.10.26<span> . </span><em>종료임박</em>]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33295/16347301798110.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[첫눈이 사라졌다]
-앵콜 굿즈 패키지]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
-            <pubDate>Tue, 26 Oct 2021 05:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.20~2021.10.30<span> . </span><em>D-4</em>]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33302/16348085663360.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[휴가]
-현장 경품 이벤트]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
-            <pubDate>Tue, 26 Oct 2021 05:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.20~2021.10.26<span> . </span><em>종료임박</em>]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33297/16347318540820.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
