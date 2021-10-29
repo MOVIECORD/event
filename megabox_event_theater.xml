@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 04:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 05:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[부산대] '시네마캐슬' 상영작 안내(~11/30)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.01 ~ 2021.11.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/29/caQ9NvWcvJNFAisxf5yVdBtSHsRtCkoT.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[부산대] '시네마캐슬' 상영작 안내(~10/31)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
@@ -14,6 +22,14 @@
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.12 ~ 2021.10.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/08/mLhwt19VTCH4VKxwie7euD0wkTjEXFsY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ARTNINE 마음백신 영화관람, 영화 6000원 할인]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.01 ~ 2021.11.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/29/ZGzOWbWzawS4kVw2lbYU3b9xmRI6n3ri.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[전주혁신] 이니셜 'M' 매표 할인 받자]]></title>
