@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 00:43:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 01:57:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[아담스 패밀리 2] 빵원티켓 ➕]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.03 ~ 2021.11.19]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/29/yv5FD9FHARfPmPwDbbVuYDdvPZ1g99uL.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<이터널스> 특별관 관람 스페셜 증정이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
@@ -14,6 +22,14 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.03 ~ 2021.11.17]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/28/pjWQID2UJsAUWcZme3ZHuPJBHoeH1lrU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[아네트] 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.01 ~ 2021.11.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/29/8XPbm4TarWNdq2Bt2mRn3AQFuNjY9CXY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<여름날 우리> 허광한 생일 기념 굿즈패키지 상영회]]></title>
@@ -78,6 +94,14 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.28 ~ 2021.11.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/25/1iLEmekz1xdWG5ZAF8LbHWiaHkAyGJxr.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<지저귀는 새는 날지 않는다: 돈 스테이 골드> 개봉기념 현장 증정이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.28 ~ 2021.11.11]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/25/gWtYqRDTFAQRSMhX50LhKGBfwB2rH3Mh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<당신은 믿지 않겠지만> 관람인증 경품 이벤트]]></title>
