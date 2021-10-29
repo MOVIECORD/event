@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 09:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 10:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,14 +126,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.28 ~ 2021.11.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/18/NFDvfUMeZDJp0lyzEeXOb7nlpX3oIovz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<당신은 믿지 않겠지만> 개봉 기념 현장 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.28 ~ 2021.11.03]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/15/KQCvDEFkUnEbMzQjUCYyaTow5j5uuJj1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<애프터: 관계의 함정> 개봉기념 현장 증정이벤트]]></title>
