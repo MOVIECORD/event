@@ -4,7 +4,7 @@
         <title>CGV ─ 이벤트 ─ SPECIAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 05:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 06:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,42 +12,33 @@
 [CGV가 만이많이]]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</guid>
-            <pubDate>Fri, 29 Oct 2021 05:11:35 GMT</pubDate>
+            <pubDate>Fri, 29 Oct 2021 06:15:55 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.21~2021.11.21]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33287/16347844594660.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스피드 쿠폰 X 카카오페이 
-[고장난 론]]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</guid>
-            <pubDate>Fri, 29 Oct 2021 05:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.19~2021.11.07]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33279/16346308939680.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[모.든.요.일 2D 영화 
 ★ 6천원 할인 ★]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</guid>
-            <pubDate>Fri, 29 Oct 2021 05:11:35 GMT</pubDate>
+            <pubDate>Fri, 29 Oct 2021 06:15:55 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.29~2021.11.28]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33358/16354771876350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이터널스]
 IMAX 한정판 포스터 증정]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33355&amp;menu=001</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33355&amp;menu=001</guid>
-            <pubDate>Fri, 29 Oct 2021 05:11:35 GMT</pubDate>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</guid>
+            <pubDate>Fri, 29 Oct 2021 06:15:55 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.29~2021.11.09]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33355/16354705874590.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CGV DRIVE IN 곤지암]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</guid>
-            <pubDate>Fri, 29 Oct 2021 05:11:35 GMT</pubDate>
+            <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33128&amp;menu=001</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33128&amp;menu=001</guid>
+            <pubDate>Fri, 29 Oct 2021 06:15:55 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.21~2021.12.21]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33128/16348069133070.jpg" length="0" type="image/jpg"/>
         </item>
@@ -56,7 +47,7 @@ IMAX 한정판 포스터 증정]]></title>
 CGV필름마크]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</guid>
-            <pubDate>Fri, 29 Oct 2021 05:11:35 GMT</pubDate>
+            <pubDate>Fri, 29 Oct 2021 06:15:55 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.20~2021.11.21]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33292/16347188722110.jpg" length="0" type="image/jpg"/>
         </item>
@@ -65,16 +56,25 @@ CGV필름마크]]></title>
 미리보면 리미티드 혜택이!]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</guid>
-            <pubDate>Fri, 29 Oct 2021 05:11:35 GMT</pubDate>
+            <pubDate>Fri, 29 Oct 2021 06:15:55 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.19~2021.12.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33280/16346357311990.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스피드 쿠폰 X 카카오페이 
+[고장난 론]]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</guid>
+            <pubDate>Fri, 29 Oct 2021 06:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.19~2021.11.07]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33279/16346308939680.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[듄] 
 4DX 리미티드 포스터]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</guid>
-            <pubDate>Fri, 29 Oct 2021 05:11:35 GMT</pubDate>
+            <pubDate>Fri, 29 Oct 2021 06:15:55 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.14~2021.11.07]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33252/16341920043670.jpg" length="0" type="image/jpg"/>
         </item>
@@ -83,7 +83,7 @@ CGV필름마크]]></title>
 [베놈2], [듄]]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=001</guid>
-            <pubDate>Fri, 29 Oct 2021 05:11:35 GMT</pubDate>
+            <pubDate>Fri, 29 Oct 2021 06:15:55 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.12~2021.11.07]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33235/16340060213560.jpg" length="0" type="image/jpg"/>
         </item>
