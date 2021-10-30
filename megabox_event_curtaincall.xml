@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Oct 2021 14:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 16:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 21 Oct 2021 02:09:28 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.30 ~ 2021.11.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/27/ZdlcXt8oHXrfwFVEa4bgywvS5RDZvnRh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<당신은 믿지 않겠지만> 개봉주 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Thu, 21 Oct 2021 02:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.30 ~ 2021.10.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/21/x4pYpmBzubkhXP6gfqlmUukHCwEJynys.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<디어 에반 핸슨> 회원시사]]></title>
