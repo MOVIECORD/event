@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 14:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 15:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,36 +48,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/29/8XPbm4TarWNdq2Bt2mRn3AQFuNjY9CXY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<여름날 우리> 허광한 생일 기념 굿즈패키지 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.31 ~ 2021.10.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/26/aBBpXQjxWXB2ZdV8CYolSgzoIdv1YFCj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<당신은 믿지 않겠지만> 스페셜 굿즈패키지 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.31 ~ 2021.10.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/18/ExDO2oSR1a1SHRawNgnIpFrRU3TuUHmh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<듄> 2주차 현장 증정이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.29 ~ 2021.11.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/25/yopk7LUwgrvSMrLrVlvI1OjZHvXyU2ey.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<아네트> 스페셜 굿즈패키지]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.29 ~ 2021.10.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/22/h36l0gEIYyGJAHUqlXULod46D7FZQFC2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<당신은 믿지 않겠지만> 개봉기념 현장 증정이벤트]]></title>
@@ -150,14 +126,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.22 ~ 2021.11.05]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/20/NabgOcwx4LWadKtBXdVYRuDz1Klt0V25.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[베놈 2: 렛 데어 비 카니지] 앵콜! 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.22 ~ 2021.10.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/21/xYoIMwl2eh3FGriq7K9LBNAvWt2sgxxI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<휴가> 관람인증이벤트]]></title>
