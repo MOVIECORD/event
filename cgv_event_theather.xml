@@ -4,14 +4,14 @@
         <title>CGV ─ 이벤트 ─ CGV 극장별</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 04:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 05:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[CGV DRIVE IN 곤지암]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
-            <pubDate>Mon, 01 Nov 2021 04:16:53 GMT</pubDate>
+            <pubDate>Mon, 01 Nov 2021 05:12:30 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.21~2021.12.21]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33129/16348072800980.jpg" length="0" type="image/jpg"/>
         </item>
@@ -20,25 +20,34 @@
 CGV 영화쿠폰 증정]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
-            <pubDate>Mon, 01 Nov 2021 04:16:53 GMT</pubDate>
+            <pubDate>Mon, 01 Nov 2021 05:12:30 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.01~2022.01.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33364/16354962858580.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[윤지원의 클래식하게] 
-'밤의 이야기']]></title>
+            <title><![CDATA[[STORY UP SHORTS]
+11월 상영회]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
-            <pubDate>Mon, 01 Nov 2021 04:16:53 GMT</pubDate>
+            <pubDate>Mon, 01 Nov 2021 05:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.01~2021.11.13]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33346/16353265333190.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[윤지원의 클래식하게] 
+'밤의 이야기']]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33361&amp;menu=005</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33361&amp;menu=005</guid>
+            <pubDate>Mon, 01 Nov 2021 05:12:30 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.29~2021.11.10]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33361/16354877883400.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[CGV부천역]
 카카오톡채널 이벤트]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33359&amp;menu=005</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33359&amp;menu=005</guid>
-            <pubDate>Sun, 31 Oct 2021 15:13:32 GMT</pubDate>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
+            <pubDate>Mon, 01 Nov 2021 05:12:30 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.29~2021.11.30]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33359/16354847637260.jpg" length="0" type="image/jpg"/>
         </item>
@@ -46,7 +55,7 @@ CGV 영화쿠폰 증정]]></title>
             <title><![CDATA[시크릿넘버×CGV 제휴이벤트]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
-            <pubDate>Mon, 01 Nov 2021 04:16:53 GMT</pubDate>
+            <pubDate>Mon, 01 Nov 2021 05:12:30 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.28~2021.12.05]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33347/16353830602510.jpg" length="0" type="image/jpg"/>
         </item>
@@ -55,7 +64,7 @@ CGV 영화쿠폰 증정]]></title>
 레오 까락스 명작전]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
-            <pubDate>Mon, 01 Nov 2021 04:16:53 GMT</pubDate>
+            <pubDate>Mon, 01 Nov 2021 05:12:30 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.27~2021.11.04<span> . </span><em>D-3</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33343/16353248399670.jpg" length="0" type="image/jpg"/>
         </item>
@@ -64,7 +73,7 @@ CGV 영화쿠폰 증정]]></title>
 혼자 깨어있는 자]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
-            <pubDate>Mon, 01 Nov 2021 04:16:53 GMT</pubDate>
+            <pubDate>Mon, 01 Nov 2021 05:12:30 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.27~2021.11.28]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33338/16353109664620.jpg" length="0" type="image/jpg"/>
         </item>
@@ -73,18 +82,9 @@ CGV 영화쿠폰 증정]]></title>
 활성화 프로모션]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
-            <pubDate>Mon, 01 Nov 2021 04:16:53 GMT</pubDate>
+            <pubDate>Mon, 01 Nov 2021 05:12:30 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.27~2021.12.01]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33337/16353102450300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[CGV홍대] 딜리버리
-활성화 프로모션]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=005</guid>
-            <pubDate>Mon, 01 Nov 2021 04:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.27~2021.12.31]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33336/16353099888360.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
