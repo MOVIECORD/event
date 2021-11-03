@@ -4,16 +4,23 @@
         <title>익스트림무비 ─ 시사회 ─ 시사회진행</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 23:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 00:43:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['이터널스' 돌비 시네...]]></title>
+            <link>https://extmovie.com/sisaing/69893046</link>
+            <guid>https://extmovie.com/sisaing/69893046</guid>
+            <pubDate>Wed, 03 Nov 2021 00:43:57 GMT</pubDate>
+            <enclosure url="https://extmovie.com/files/thumbnails/046/893/069/295x295.crop.jpg?20211103094323" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['이렇게 된 이상 청와대로 ...]]></title>
             <link>https://extmovie.com/sisaing/69688633</link>
             <guid>https://extmovie.com/sisaing/69688633</guid>
             <pubDate>Thu, 28 Oct 2021 00:44:10 GMT</pubDate>
             <content:encoded><![CDATA[웨이브 오리지널 시리즈 &lt;이렇게 된 이상 청와대로 간다&gt; 익스트림무비 단독관 G...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/633/688/069/295x295.crop.jpg?20211101213149" length="0" type="image/jpg"/>
+            <enclosure url="https://extmovie.com/files/thumbnails/633/688/069/295x295.crop.jpg?20211103085009" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 '죽어야 사는 남자&#03...]]></title>
