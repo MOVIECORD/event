@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 14:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 15:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -254,46 +254,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.21 ~ 2021.11.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/18/ulHb7vGiPJGprDTTK536hlzmRdAFlY65.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<고양이를 부탁해> 2주차 현장 증정이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.20 ~ 2021.11.03]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/18/GInUxcPj3mvSy1f5TYSrqfvkOBze7aFX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<라스트 듀얼: 최후의 결투> 개봉 기념 L홀더 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.20 ~ 2021.11.03]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/15/VTjo57npa5kWZFOQ2TZys6Rzo8rlNiGI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<첫눈이 사라졌다> 개봉기념 현장 증정이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.20 ~ 2021.11.03]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/12/lzmR2MANt1IwjmdFBCfK7q5hhyBE7rpK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[보이 비하인드 도어]선착순 빵원티켓_N스크린]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.15 ~ 2021.11.03]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/15/VBnp4UrNKisMEK4dHrWTzQBhN6Xx1mwb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<필름오페라 앙코르> 클래식 소사이어티 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.06.27 ~ 2021.11.03]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/06/11/6xKwRGn5kpdb88pO4qCWc05au7qmcDVU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<뉴욕 메트로폴리탄 오페라> 시즌 2021 라인업]]></title>
