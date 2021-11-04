@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 14:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 15:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,22 +238,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.21 ~ 2021.11.07]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/19/QGnr1pNjqLtlCtKMH9OvM6VmyvtDGGc1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<휴가> 개봉기념 현장 증정이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.21 ~ 2021.11.04]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/19/O7uJL19UhQJlziQxsZG5TkS294i1mGRQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<당신얼굴 앞에서> 개봉기념 현장 증정이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.21 ~ 2021.11.04]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/18/ulHb7vGiPJGprDTTK536hlzmRdAFlY65.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<뉴욕 메트로폴리탄 오페라> 시즌 2021 라인업]]></title>
