@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 00:43:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 01:59:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,6 +16,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/03/w7lYteEP4uY9N19r1XjgePqLOdbv29y2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<귀멸의 칼날: 남매의 연> 1주차 현장 증정이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.13 ~ 2021.11.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/05/g7YDZCjYsFa28syMrD6SXf1CIfMH8Fw6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<아담스 패밀리2> 개봉기념 스티커팩 현장 증정이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -24,12 +32,36 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/01/w5Gz9osY8eWv2iYhoRvq2a34LiO6XWwb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[장르만 로맨스] 빵원티켓 ➕]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.09 ~ 2021.11.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/03/NtsZwTGTutfn3XLETBQVBuSRaL57bZHx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[악인은 너무 많다2]선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.08 ~ 2021.11.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/05/ibAapnPXnvU3E8pKalisFZAHEUbXm1v1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<당신은 믿지 않겠지만> 앵콜 굿즈패키지 상영회]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.08 ~ 2021.11.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/02/UJuVKLOJcxwLhLVC48h2Ikq2QrKjcr4x.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<아네트> 앵콜 굿즈패키지 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.07 ~ 2021.11.07]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/05/cnmu9M0LMfp563dU8zdq8lsFS2FhtCdI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<첫눈이 사라졌다> 정성일 평론가 앵콜 GV]]></title>
