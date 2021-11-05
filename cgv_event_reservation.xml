@@ -4,7 +4,7 @@
         <title>CGV ─ 이벤트 ─ 영화 예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 09:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 10:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
 개봉작 사용설명서]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
-            <pubDate>Fri, 05 Nov 2021 09:13:24 GMT</pubDate>
+            <pubDate>Fri, 05 Nov 2021 10:14:32 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.29~2021.11.28]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33363/16354895293020.jpg" length="0" type="image/jpg"/>
         </item>
@@ -21,25 +21,34 @@
 개봉작 사용설명서]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
-            <pubDate>Fri, 05 Nov 2021 09:13:24 GMT</pubDate>
+            <pubDate>Fri, 05 Nov 2021 10:14:32 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.22~2021.11.21]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33318/16348896771030.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[퍼스트 카우] 정성일평론가
-라이브러리톡]]></title>
+            <title><![CDATA[[빌리 홀리데이]
+선우정아 스페셜 GV]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
-            <pubDate>Fri, 05 Nov 2021 09:13:24 GMT</pubDate>
+            <pubDate>Fri, 05 Nov 2021 10:14:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.05~2021.11.11<span> . </span><em>D-6</em>]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33405/16361017421070.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[퍼스트 카우] 정성일평론가
+라이브러리톡]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33402&amp;menu=004</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33402&amp;menu=004</guid>
+            <pubDate>Fri, 05 Nov 2021 10:14:32 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.05~2021.11.18]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33402/16360989415100.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[프렌치 디스패치]굿즈증정
 프리미어 상영회]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33398&amp;menu=004</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33398&amp;menu=004</guid>
-            <pubDate>Fri, 05 Nov 2021 09:13:24 GMT</pubDate>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
+            <pubDate>Fri, 05 Nov 2021 10:14:32 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.05~2021.11.13]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33398/16360965971390.jpg" length="0" type="image/jpg"/>
         </item>
@@ -48,7 +57,7 @@
 현장 경품 이벤트]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
-            <pubDate>Fri, 05 Nov 2021 09:13:24 GMT</pubDate>
+            <pubDate>Fri, 05 Nov 2021 10:14:32 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.05~2021.11.09<span> . </span><em>D-4</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33396/16360887391300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -57,7 +66,7 @@
 관람권 패키지 선착순 판매!]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
-            <pubDate>Fri, 05 Nov 2021 09:13:24 GMT</pubDate>
+            <pubDate>Fri, 05 Nov 2021 10:14:32 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.04~2021.11.30]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33384/16358440205500.jpg" length="0" type="image/jpg"/>
         </item>
@@ -66,7 +75,7 @@
 VIP 시사회]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
-            <pubDate>Fri, 05 Nov 2021 09:13:24 GMT</pubDate>
+            <pubDate>Fri, 05 Nov 2021 10:14:32 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.04~2021.11.07<span> . </span><em>D-2</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33388/16360073611970.jpg" length="0" type="image/jpg"/>
         </item>
@@ -75,17 +84,9 @@ VIP 시사회]]></title>
 현장 경품 이벤트]]></title>
             <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
             <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
-            <pubDate>Fri, 05 Nov 2021 09:13:24 GMT</pubDate>
+            <pubDate>Fri, 05 Nov 2021 10:14:32 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.04~2021.11.16]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33386/16359883378570.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[그림자 꽃] 시네마톡]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=004</guid>
-            <pubDate>Fri, 05 Nov 2021 09:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.02~2021.11.10<span> . </span><em>D-5</em>]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33383/16358377197740.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
