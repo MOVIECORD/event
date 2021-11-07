@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Nov 2021 14:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 15:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,14 +70,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.08 ~ 2021.11.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/02/UJuVKLOJcxwLhLVC48h2Ikq2QrKjcr4x.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<아네트> 앵콜 굿즈패키지 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.07 ~ 2021.11.07]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/05/cnmu9M0LMfp563dU8zdq8lsFS2FhtCdI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<고장난 론> 2주차 스페셜 현장 증정이벤트]]></title>
@@ -254,22 +246,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.26 ~ 2021.11.16]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/26/DflCKzxe0zZaT71PlxCi3VkDJszQdQ2w.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[애프터: 관계의 함정] 선착순 빵원티켓]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.25 ~ 2021.11.07]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/22/5b79uXe0azIS48v3w6oqSzdTXkWeJuy5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<휴가> 관람인증이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.21 ~ 2021.11.07]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/19/QGnr1pNjqLtlCtKMH9OvM6VmyvtDGGc1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<뉴욕 메트로폴리탄 오페라> 시즌 2021 라인업]]></title>
