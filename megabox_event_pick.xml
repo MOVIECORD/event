@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 07:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 08:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 07 Oct 2021 12:22:18 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.10 ~ 2021.12.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/05/biJr4siHlC3hl0f6kLzIIRXhOIsbAwuO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 오리지널 티켓 No.40 <이터널스>]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Thu, 07 Oct 2021 12:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.10 ~ 2021.11.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/08/eHN83ieD1BEER6W5XY5vH2o36j6bwKs6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 무비 페스타 '만원의 행복']]></title>
