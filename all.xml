@@ -4,15 +4,24 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 05:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 06:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2억원 상당의 역대급 경품! 
+[CGV가 만이많이] (CGV ─ 이벤트 ─ SPECIAL)]]></title>
+            <link>https://MOVIECORD.github.io/event/all.xml</link>
+            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
+            <pubDate>Mon, 08 Nov 2021 06:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.21~2021.11.21]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33287/16347844594660.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이터널스] 스피드 페이백 
 2차 오픈! (CGV ─ 이벤트 ─ SPECIAL)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:13 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:15:53 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.08~2021.11.21]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33406/16363316161350.jpg" length="0" type="image/jpg"/>
         </item>
@@ -21,25 +30,25 @@
 ★ 6천원 할인 ★ (CGV ─ 이벤트 ─ SPECIAL)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:13 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:15:53 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.29~2021.11.28]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33358/16354771876350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CGV VIP
 EXPRESS (CGV ─ 이벤트 ─ SPECIAL)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:13 GMT</pubDate>
+            <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=32998&amp;menu=001</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=32998&amp;menu=001</guid>
+            <pubDate>Mon, 08 Nov 2021 06:15:53 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.01~2022.01.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32998/16304624019660.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이터널스] 
 4DX 액션필름카드 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33394&amp;menu=001</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33394&amp;menu=001</guid>
-            <pubDate>Mon, 08 Nov 2021 04:16:35 GMT</pubDate>
+            <link>https://MOVIECORD.github.io/event/all.xml</link>
+            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
+            <pubDate>Mon, 08 Nov 2021 06:15:53 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.08~2021.12.05]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33394/16360877032270.jpg" length="0" type="image/jpg"/>
         </item>
@@ -48,7 +57,7 @@ EXPRESS (CGV ─ 이벤트 ─ SPECIAL)]]></title>
 CGV필름마크 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:13 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:15:53 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.04~2021.11.28]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33391/16360089289670.jpg" length="0" type="image/jpg"/>
         </item>
@@ -57,7 +66,7 @@ CGV필름마크 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
 CGV 필름마크 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:13 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:15:53 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.04~2021.11.28]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33390/16360088098010.jpg" length="0" type="image/jpg"/>
         </item>
@@ -65,7 +74,7 @@ CGV 필름마크 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
             <title><![CDATA[CGV DRIVE IN 곤지암 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:13 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:15:53 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.21~2021.12.21]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33128/16348069133070.jpg" length="0" type="image/jpg"/>
         </item>
@@ -74,25 +83,16 @@ CGV 필름마크 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
 미리보면 리미티드 혜택이! (CGV ─ 이벤트 ─ SPECIAL)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:13 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:15:53 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.19~2021.12.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33280/16346357311990.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[고장난 론] 
-개봉작 사용설명서 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.22~2021.11.21]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33317/16348895263200.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이터널스]
 개봉작 사용설명서 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:23 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:16:06 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.29~2021.11.28]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33363/16354895293020.jpg" length="0" type="image/jpg"/>
         </item>
@@ -101,7 +101,7 @@ CGV 필름마크 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
 개봉작 사용설명서 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:23 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:16:06 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.22~2021.11.21]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33318/16348896771030.jpg" length="0" type="image/jpg"/>
         </item>
@@ -110,7 +110,7 @@ CGV 필름마크 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
 VIP 시사회 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:23 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:16:06 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.08~2021.11.14<span> . </span><em>D-6</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33409/16363475396830.jpg" length="0" type="image/jpg"/>
         </item>
@@ -128,7 +128,7 @@ VIP 시사회 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
 라이브러리톡 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:23 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:16:06 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.05~2021.11.18]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33402/16360989415100.jpg" length="0" type="image/jpg"/>
         </item>
@@ -137,7 +137,7 @@ VIP 시사회 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
 프리미어 상영회 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:23 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:16:06 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.05~2021.11.13<span> . </span><em>D-5</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33398/16360965971390.jpg" length="0" type="image/jpg"/>
         </item>
@@ -146,7 +146,7 @@ VIP 시사회 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
 현장 경품 이벤트 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:23 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:16:06 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.05~2021.11.09<span> . </span><em>D-1</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33396/16360887391300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -155,7 +155,7 @@ VIP 시사회 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
 관람권 패키지 선착순 판매! (CGV ─ 이벤트 ─ 영화 예매)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:23 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:16:06 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.04~2021.11.30]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33384/16358440205500.jpg" length="0" type="image/jpg"/>
         </item>
@@ -164,7 +164,7 @@ VIP 시사회 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
 현장 경품 이벤트 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:23 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:16:06 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.04~2021.11.16]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33386/16359883378570.jpg" length="0" type="image/jpg"/>
         </item>
@@ -173,7 +173,7 @@ VIP 시사회 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
 VIP 시사회 (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:32 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:16:18 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.08~2021.11.14<span> . </span><em>D-6</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33411/16363477530690.jpg" length="0" type="image/jpg"/>
         </item>
@@ -182,7 +182,7 @@ VIP 시사회 (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
 EXPRESS (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:32 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:16:18 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.01~2022.01.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32999/16304636912820.jpg" length="0" type="image/jpg"/>
         </item>
@@ -191,7 +191,7 @@ EXPRESS (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
 2021년 아트하우스 Club (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:32 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:16:18 GMT</pubDate>
             <content:encoded><![CDATA[2021.01.06~2021.12.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/31473/16098989998820.jpg" length="0" type="image/jpg"/>
         </item>
@@ -208,7 +208,7 @@ EXPRESS (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
             <title><![CDATA[[CGV VIP] SVIP 만원의 행복 (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:32 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:16:18 GMT</pubDate>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32841/16347909174770.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -216,7 +216,7 @@ EXPRESS (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
 원데이 프리패스 (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:32 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:16:18 GMT</pubDate>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32793/16347908749110.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -224,7 +224,7 @@ EXPRESS (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
 전회원 야광엽서 증정 (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:32 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:16:18 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.21~2021.11.08<span> . </span><em>종료임박</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33301/16348080102450.jpg" length="0" type="image/jpg"/>
         </item>
@@ -232,14 +232,14 @@ EXPRESS (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
             <title><![CDATA[SVIP/VVIP 원데이 프리패스 (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:32 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:16:18 GMT</pubDate>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/31372/16080161893400.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CGV DRIVE IN 곤지암 (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:42 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:16:30 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.21~2021.12.21]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33129/16348072800980.jpg" length="0" type="image/jpg"/>
         </item>
@@ -248,7 +248,7 @@ EXPRESS (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
 겨울맞이 신메뉴 런칭 (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:42 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:16:30 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.05~2021.12.19]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33404/16361006963930.jpg" length="0" type="image/jpg"/>
         </item>
@@ -257,7 +257,7 @@ EXPRESS (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
 무선파 굿즈 상영회 (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:42 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:16:30 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.05~2021.11.08<span> . </span><em>종료임박</em>]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33400/16360979676920.jpg" length="0" type="image/jpg"/>
         </item>
@@ -275,7 +275,7 @@ EXPRESS (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
 컴백기념 이벤트 (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:42 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:16:30 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.05~2021.11.30]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33397/16360934173780.jpg" length="0" type="image/jpg"/>
         </item>
@@ -284,7 +284,7 @@ EXPRESS (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
 굿즈 증정 이벤트 (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:42 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:16:30 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.05~2021.12.05]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33395/16360876382740.jpg" length="0" type="image/jpg"/>
         </item>
@@ -293,7 +293,7 @@ EXPRESS (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
 리클라이너관 리뉴얼 오픈! (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:42 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:16:30 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.04~2021.11.30]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33387/16360005824080.jpg" length="0" type="image/jpg"/>
         </item>
@@ -301,7 +301,7 @@ EXPRESS (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
             <title><![CDATA[[백신패스관] 운영 가이드 (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:42 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:16:30 GMT</pubDate>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33377/16358348681300.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -309,7 +309,7 @@ EXPRESS (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
 음료 할인 이벤트! (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:42 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:16:30 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.03~2021.11.30]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33226/16359247138770.jpg" length="0" type="image/jpg"/>
         </item>
@@ -318,7 +318,7 @@ EXPRESS (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
 IMAX 예매도 된다!! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:52 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:16:41 GMT</pubDate>
             <content:encoded><![CDATA[2021.06.24~2021.12.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/30011/16245005357340.jpg" length="0" type="image/jpg"/>
         </item>
@@ -327,7 +327,7 @@ IMAX 예매도 된다!! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
 2천원 할인받기! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:52 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:16:41 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.01~2021.11.30]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32445/16357241915280.jpg" length="0" type="image/jpg"/>
         </item>
@@ -336,7 +336,7 @@ IMAX 예매도 된다!! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
 스마일페이로 예매하기! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:52 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:16:41 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.01~2021.11.30]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33342/16360784903500.jpg" length="0" type="image/jpg"/>
         </item>
@@ -353,7 +353,7 @@ CGV에서 사용하는 방법! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
 바로 NH농협카드 (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:52 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:16:41 GMT</pubDate>
             <content:encoded><![CDATA[2021.06.16~2023.05.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32606/16249595781520.jpg" length="0" type="image/jpg"/>
         </item>
@@ -362,7 +362,7 @@ CGV에서 사용하는 방법! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
 문화생활 즐기세요! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:52 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:16:41 GMT</pubDate>
             <content:encoded><![CDATA[2021.01.29~2021.12.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/31589/16119022824340.jpg" length="0" type="image/jpg"/>
         </item>
@@ -371,7 +371,7 @@ CGV에서 사용하는 방법! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
 최대 5천 M포인트 차감할인 (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:52 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:16:41 GMT</pubDate>
             <content:encoded><![CDATA[2021.01.01~2021.12.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/31426/16300456127110.jpg" length="0" type="image/jpg"/>
         </item>
@@ -380,7 +380,7 @@ CGV에서 사용하는 방법! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
 더 다양하게 즐기기! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:52 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:16:41 GMT</pubDate>
             <content:encoded><![CDATA[2020.04.01~2022.03.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/30620/16111941302940.jpg" length="0" type="image/jpg"/>
         </item>
@@ -389,7 +389,7 @@ CGV에서 사용하는 방법! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
 회원 전용 파격 혜택! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:52 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:16:41 GMT</pubDate>
             <content:encoded><![CDATA[2020.03.09~2021.12.31]]></content:encoded>
             <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/30063/16111952614170.jpg" length="0" type="image/jpg"/>
         </item>
@@ -1546,6 +1546,14 @@ CGV에서 사용하는 방법! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/08/gWsbU1LPpPj7ZXwRLLihfpZNvxV2rhXS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<연애 빠진 로맨스> 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Thu, 21 Oct 2021 02:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.08 ~ 2021.11.15]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/08/HswUpWcKVgWFh6rdKtXtyvwCBPVpPWHn.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[<라임크라임> 필름소사이어티 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
             <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
@@ -1584,6 +1592,22 @@ CGV에서 사용하는 방법! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <pubDate>Thu, 21 Oct 2021 02:09:28 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.30 ~ 2021.11.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/27/ZdlcXt8oHXrfwFVEa4bgywvS5RDZvnRh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['고스트버스터즈 라이즈&#03... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/70066290</link>
+            <guid>https://extmovie.com/sisaing/70066290</guid>
+            <pubDate>Mon, 08 Nov 2021 06:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[영화 &lt;고스트버스터즈 라이즈&gt; 시사회에 초대합니다. 꼭 참석하고 게시판에 후기...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/290/066/070/295x295.crop.jpg?20211108142748" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙필즈 2번째 작품 'The P... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/70066048</link>
+            <guid>https://extmovie.com/sisaing/70066048</guid>
+            <pubDate>Mon, 08 Nov 2021 06:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 숏폼 플랫폼 '블랙필즈' 2번째 작품 &lt;The Pet Killer&gt; 온라인 시사회에 ...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/048/066/070/295x295.crop.jpg?20211108143417" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['소설가 구보의 하루' ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
