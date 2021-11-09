@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 07:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 08:18:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.11 ~ 2021.11.17]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/05/VKZrtIzwOQm9ZdxFkb0buHduXHWdnbff.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[그림자꽃]선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.10 ~ 2021.11.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/09/5BLaHjF68EppbQ7ldYnRRyU7XUIC0w2r.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[디어 에반 핸슨] 빵원티켓 ➕]]></title>
