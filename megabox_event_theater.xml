@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 07:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 08:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.01 ~ 2021.11.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/26/xFU2VR1E1dce8kzNBlMolPHLvdAvT2TA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[세종(조치원)] 테이크아웃 3XL 팝콘 판매]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.01 ~ 2021.11.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/23/23Z455d0nVi2dcVvMKPQZaCuRseVfcMq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[정관] 카카오채널 친구추가 이벤트]]></title>
