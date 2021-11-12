@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 00:45:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 01:59:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,12 +32,36 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/02/Cp6X2rp8rjDlbUMZ4nGp53LTj10k3PCm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[센트럴] 센트럴점으로 냉큼 WINE!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.01 ~ 2021.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/12/aRTiqFxL5rRk4Ww9UuMUkHmd9RODRBbI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대전중앙로] 문화누리 카드 소진 가보자고!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.01 ~ 2021.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/12/FgKFudSfBZidqumB7TcLfePGcSPT9lVV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[영통] 멤버십이면 다된다~!!]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.01 ~ 2021.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/02/KwVyXczZcmf3KpyANxIh8vFqm2oYRNWK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[코엑스] 이달의 관람권 11월]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.01 ~ 2021.11.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/12/FDlFRguo4Bh5TTAfj2f02Udqa7joFc8E.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[전주혁신] 이니셜 'M' 매표 할인 받자]]></title>
