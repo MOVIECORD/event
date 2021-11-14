@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 14:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 15:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,14 +110,6 @@
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.18 ~ 2021.11.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/18/Lpd70OkzSILh46mgNkGFSW2wyox3GWtz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인천지역] 오징어게임 4.5.6]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.18 ~ 2021.11.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/13/oKG5mNgJavjhziD0bx5Xn3Q12suZd09u.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[상암, 신촌, 홍대] 영화보고 스탬프 찍자!]]></title>

@@ -4,25 +4,9 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 14:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 15:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[<장르만 로맨스> 개봉주 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Thu, 21 Oct 2021 02:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.14 ~ 2021.11.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/09/jAq3e0nNbF4CIUP8OlvOHLTVlVjEW6Lu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<강릉> 개봉주 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Thu, 21 Oct 2021 02:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.13 ~ 2021.11.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/05/nYLbImZo4oj6Q1liKhdVekBCH5yv5mZN.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[<엔칸토: 마법의 세계> 메가박스 회원시사]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
@@ -54,14 +38,6 @@
             <pubDate>Thu, 21 Oct 2021 02:09:28 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.05 ~ 2021.11.15]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/05/MyBXvm7NSYrSr4MazANpCLmwX8wwkVF4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<행복의 속도> 필름소사이어티 회원시사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Thu, 21 Oct 2021 02:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.02 ~ 2021.11.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/02/ZsMZTsIKpdpCl7U7oDAhmAzEmW3GPGJB.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
