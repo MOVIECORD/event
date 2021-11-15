@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 05:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 06:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/15/VmNYs9YF1CkDYwAUkYwJ6Cqd83zZ24EE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<퍼스트 카우> 3주차 현장 증정이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.18 ~ 2021.11.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/15/nYIfGXqX5jubXCcd56tLnAIbOWo55dI9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<뱅드림! 필름 라이브 세컨드 스테이지> 1주차 특전 증정이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -38,6 +46,14 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.17 ~ 2021.12.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/12/RrfxIS26bWxyOWbQkvPtR1qvCPO8vVfS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<귀멸의 칼날: 남매의 연> 2주차 현장 증정이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.17 ~ 2021.12.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/15/b0OEMLS0cLCl3gVnkHl3hdcYTAoQ8hby.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<이터널스> 오리지널 코인 증정이벤트]]></title>
