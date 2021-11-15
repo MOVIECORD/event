@@ -4,7 +4,7 @@
         <title>익스트림무비 ─ 시사회 ─ 시사회진행</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 06:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 07:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://extmovie.com/sisaing/70289899</guid>
             <pubDate>Mon, 15 Nov 2021 01:58:13 GMT</pubDate>
             <content:encoded><![CDATA[온라인 숏폼 플랫폼 '블랙필즈' 3번째 작품 &lt;Dead Women Walking&gt; 온라인 시사회...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/899/289/070/295x295.crop.jpg?20211115104000" length="0" type="image/jpg"/>
+            <enclosure url="https://extmovie.com/files/thumbnails/899/289/070/295x295.crop.jpg?20211115155416" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['청춘적니' 시사회에 ...]]></title>
@@ -70,14 +70,6 @@
             <pubDate>Wed, 10 Nov 2021 00:44:36 GMT</pubDate>
             <content:encoded><![CDATA[애니메이션 &lt;태일이&gt; 시사회에 초대합니다. 꼭 참석하고 게시판에 후기 남겨주실...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/063/118/070/295x295.crop.jpg?20211110090500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['무녀도' 시사회에 초...]]></title>
-            <link>https://extmovie.com/sisaing/70100900</link>
-            <guid>https://extmovie.com/sisaing/70100900</guid>
-            <pubDate>Tue, 09 Nov 2021 08:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[애니메이션 &lt;무녀도&gt; 시사회에 초대합니다. 꼭 참석하고 게시판에 후기 남겨주실...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/900/100/070/295x295.crop.jpg?20211109164431" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['고스트버스터즈 라이즈&#03...]]></title>
