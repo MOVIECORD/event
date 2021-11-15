@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=006</id>
-    <title>CGV ─ 이벤트 ─ 제휴 할인</title>
-    <updated>2021-11-15T20:16:39.676Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://www.cgv.co.kr/culture-event/event/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>CGV ─ 이벤트 ─ 제휴 할인</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 15 Nov 2021 22:16:34 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아시아나 마일리지로
+IMAX 예매도 된다!!]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=006</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=006</guid>
+            <pubDate>Mon, 15 Nov 2021 22:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.06.24~2021.12.31]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/30011/16245005357340.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TOSS로 예매하고
+2천원 할인받기!]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=006</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=006</guid>
+            <pubDate>Mon, 15 Nov 2021 22:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.01~2021.11.30]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32445/16366762657990.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2천원 할인쿠폰 받고
+스마일페이로 예매하기!]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=006</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=006</guid>
+            <pubDate>Mon, 15 Nov 2021 22:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.01~2021.11.30]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33342/16360784903500.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모바일문화상품권
+CGV에서 사용하는 방법!]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=30013&amp;menu=006</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=30013&amp;menu=006</guid>
+            <pubDate>Mon, 15 Nov 2021 22:14:34 GMT</pubDate>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/30013/15928181474500.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화즉시할인은 
+바로 NH농협카드]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=006</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=006</guid>
+            <pubDate>Mon, 15 Nov 2021 22:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.06.16~2023.05.31]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32606/16249595781520.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[문화누리카드로 CGV에서
+문화생활 즐기세요!]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=006</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=006</guid>
+            <pubDate>Mon, 15 Nov 2021 22:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.01.29~2021.12.31]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/31589/16119022824340.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현대 M포인트로 매주 할인
+최대 5천 M포인트 차감할인]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=006</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=006</guid>
+            <pubDate>Mon, 15 Nov 2021 22:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.01.01~2021.12.31]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/31426/16300456127110.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[E1 오렌지카드 포인트로
+더 다양하게 즐기기!]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=006</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=006</guid>
+            <pubDate>Mon, 15 Nov 2021 22:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[2020.04.01~2022.03.31]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/30620/16111941302940.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기아멤버스
+회원 전용 파격 혜택!]]></title>
+            <link>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=006</link>
+            <guid>http://www.cgv.co.kr/culture-event/event/defaultNew.aspx?mCode=006</guid>
+            <pubDate>Mon, 15 Nov 2021 22:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[2020.03.09~2021.12.31]]></content:encoded>
+            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/30063/16111952614170.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
