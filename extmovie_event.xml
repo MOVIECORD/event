@@ -4,7 +4,7 @@
         <title>익스트림무비 ─ 시사회 ─ 시사회진행</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 23:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 01:58:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Fri, 12 Nov 2021 01:59:29 GMT</pubDate>
             <content:encoded><![CDATA[영화&lt;리유니언&gt; 언론, 배급 시사회에 초대합니다. 평일 오후에 진행됩니다. 꼭 ...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/643/196/070/295x295.crop.jpg?20211112125439" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['앰뷸런스' 언론, 배급...]]></title>
-            <link>https://extmovie.com/sisaing/70196598</link>
-            <guid>https://extmovie.com/sisaing/70196598</guid>
-            <pubDate>Fri, 12 Nov 2021 01:59:29 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;앰뷸런스&gt; 시사회에 초대합니다. 평일 오후에 진행됩니다. 꼭 참석하고 게...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/598/196/070/295x295.crop.jpg?20211112100934" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최고의 환경에서 ‘로키’ 정주행하...]]></title>
@@ -78,22 +70,6 @@
             <pubDate>Mon, 08 Nov 2021 06:18:44 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;고스트버스터즈 라이즈&gt; 시사회에 초대합니다. 꼭 참석하고 게시판에 후기...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/290/066/070/295x295.crop.jpg?20211108142748" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['소설가 구보의 하루' ...]]></title>
-            <link>https://extmovie.com/sisaing/70056761</link>
-            <guid>https://extmovie.com/sisaing/70056761</guid>
-            <pubDate>Mon, 08 Nov 2021 00:44:31 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;소설가 구보의 하루&gt; 시사회에 초대합니다. 꼭 참석하고 게시판에 후기 남...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/761/056/070/295x295.crop.jpg?20211108082643" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['라임크라임' 시사회에...]]></title>
-            <link>https://extmovie.com/sisaing/70056727</link>
-            <guid>https://extmovie.com/sisaing/70056727</guid>
-            <pubDate>Mon, 08 Nov 2021 00:44:31 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;라임크라임&gt; 시사회에 초대합니다. 꼭 참석하고 게시판에 후기 남겨주실 ...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/727/056/070/295x295.crop.jpg?20211108082655" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[플레인아카이브 '센트럴파크...]]></title>

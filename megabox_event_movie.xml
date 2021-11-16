@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 23:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 01:58:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.20 ~ 2021.12.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/12/UgzJOJuq97ts7PvdFmc84ux4MygVGtMk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<뱅드림! 시리즈> 특별 상영 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.19 ~ 2021.11.21]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/16/MGwXT8fV1vjqjELbJ1W3AX9m1LXhPx0m.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<프렌치 디스패치> 스페셜 엽서세트]]></title>
@@ -46,6 +54,14 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.17 ~ 2021.12.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/12/RrfxIS26bWxyOWbQkvPtR1qvCPO8vVfS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<너에게 가는 길> 개봉기념 현장 증정이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.17 ~ 2021.12.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/16/bOCun1wdNcPYLu1ged99RPaSlyBw274X.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<귀멸의 칼날: 남매의 연> 2주차 현장 증정이벤트]]></title>
