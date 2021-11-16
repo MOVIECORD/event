@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 05:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 06:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.18 ~ 2021.11.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/11/nIKIfw4lGcYpumycoHgos1RNGwBWbbTb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<괴짜들의 로맨스> 관람객 대상 도서 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.17 ~ 2021.12.07]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/16/0obdQqHDTef2uvj5axQaETY1HPmtUbTX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<이터널스> 미니 포스터 증정 이벤트]]></title>
