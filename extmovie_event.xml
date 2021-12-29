@@ -4,9 +4,17 @@
         <title>익스트림무비 ─ 시사회 ─ 시사회진행</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 09:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 11:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['웨스트 사이드 스토리&#039...]]></title>
+            <link>https://extmovie.com/sisaing/72032544</link>
+            <guid>https://extmovie.com/sisaing/72032544</guid>
+            <pubDate>Wed, 29 Dec 2021 11:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[● 본 시사회는 백신 접종 완료자만 입장 가능합니다 (글 하단 안내 참조) 영화 &lt;...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/544/032/072/295x295.crop.jpg?20211229185026" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['전장의 피아니스트' ...]]></title>
             <link>https://extmovie.com/sisaing/72031419</link>
@@ -21,15 +29,15 @@
             <guid>https://extmovie.com/sisaing/72031317</guid>
             <pubDate>Wed, 29 Dec 2021 09:21:36 GMT</pubDate>
             <content:encoded><![CDATA[● 본 시사회는 백신 접종 완료자만 입장 가능합니다 - 관련 증빙 앱 or 서류 미...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/317/031/072/295x295.crop.jpg?20211229181640" length="0" type="image/jpg"/>
+            <enclosure url="https://extmovie.com/files/thumbnails/317/031/072/295x295.crop.jpg?20211229201431" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['특송' 시사회에 초대...]]></title>
             <link>https://extmovie.com/sisaing/71855311</link>
             <guid>https://extmovie.com/sisaing/71855311</guid>
             <pubDate>Wed, 29 Dec 2021 03:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 문진표 작성 때문에 티켓 양도가 안 됩니다. 당일날 꼭 갈 수 있는 분들...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/311/855/071/295x295.crop.jpg?20211225122622" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[티켓 양도 안 됩니다!! 온라인 문진표 작성 때문에 꼭 참석할 수 있는 분들만 신...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/311/855/071/295x295.crop.jpg?20211229183639" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['웨스트 사이드 스토리&#039...]]></title>
@@ -37,7 +45,7 @@
             <guid>https://extmovie.com/sisaing/71822911</guid>
             <pubDate>Wed, 29 Dec 2021 03:21:07 GMT</pubDate>
             <content:encoded><![CDATA[스티븐 스필버그 감독 영화 &lt;웨스트 사이드 스토리&gt; 예매권 이벤트입니다. &lt;웨스...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/911/822/071/295x295.crop.jpg?20211229101731" length="0" type="image/jpg"/>
+            <enclosure url="https://extmovie.com/files/thumbnails/911/822/071/295x295.crop.jpg?20211229190356" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['하우스 오브 구찌' 예...]]></title>
