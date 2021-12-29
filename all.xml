@@ -4,464 +4,88 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 16:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 03:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[모.든.요.일 2D 영화 
-★ 6천원 할인 ★ (CGV ─ 이벤트 ─ SPECIAL)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:18:29 GMT</pubDate>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33358/16354771876350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2억원 상당의 역대급 경품! 
-[CGV가 만이많이] (CGV ─ 이벤트 ─ SPECIAL)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.21~2021.11.21<span> . </span><em>D-3</em>]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33287/16347844594660.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CGV VIP
-EXPRESS (CGV ─ 이벤트 ─ SPECIAL)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.01~2022.01.31]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32998/16304624019660.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엔칸토:마법의 세계]
-CGV 필름마크 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33492&amp;menu=001</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33492&amp;menu=001</guid>
-            <pubDate>Wed, 17 Nov 2021 07:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.17~2021.12.19]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33492/16371321640350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[연애 빠진 로맨스]
-CGV필름마크 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.17~2021.12.19]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33491/16371320896840.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유체이탈자]
-CGV필름마크 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.17~2021.12.19]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33490/16371320295540.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[듄] IMAX 재상영 기념
-포스터 증정 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.12~2021.11.30]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33460/16367045869200.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[호빗] 4K 리마스터링 
-스페셜 리미티드 포스터 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.11~2021.12.05]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33446/16365954528750.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[귀멸의 칼날:나타구모산 편
-CGV필름마크 (CGV ─ 이벤트 ─ SPECIAL)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.10~2021.12.12]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33437/16365218227140.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파워 오브 도그]
-스페셜 패키지 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.16~2021.11.21<span> . </span><em>D-3</em>]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33481/16370458549910.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이터널스]
-개봉작 사용설명서 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.29~2021.11.28]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33363/16354895293020.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[고장난 론] 
-개봉작 사용설명서 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.22~2021.11.21<span> . </span><em>D-3</em>]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33318/16348896771030.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이동진의 언택트톡
-[파워 오브 도그] (CGV ─ 이벤트 ─ 영화 예매)]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33486&amp;menu=004</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=33486&amp;menu=004</guid>
-            <pubDate>Wed, 17 Nov 2021 05:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.17~2021.11.21<span> . </span><em>D-3</em>]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33486/16371198112090.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[귀멸의 칼날 시리즈]
-주차별 특전 안내 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.17~2021.12.21]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33349/16357343127410.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[괴짜들의 로맨스]
-현장 경품 이벤트 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.16~2021.11.23<span> . </span><em>D-5</em>]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33480/16370429330510.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[왕십리 김종분]
-리뷰 이벤트 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.16~2021.12.05]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33479/16370409298560.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[너에게 가는 길]
-현장 경품 이벤트 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.15~2021.11.23<span> . </span><em>D-5</em>]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33474/16369733140430.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴 오더]
-현장경품이벤트 (CGV ─ 이벤트 ─ 영화 예매)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.15~2021.11.23<span> . </span><em>D-5</em>]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33473/16369711337630.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CGV VIP
-EXPRESS (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.01~2022.01.31]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32999/16304636912820.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예매 오픈 
-알림 서비스 (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:18:54 GMT</pubDate>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33382/16365932384830.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무료가입하고 쿠폰받자♥
-2021년 아트하우스 Club (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.01.06~2021.12.31]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/31473/16098989998820.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[CGV VIP] SVIP 만원의 행복 (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=32841&amp;menu=008</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=32841&amp;menu=008</guid>
-            <pubDate>Mon, 15 Nov 2021 22:14:10 GMT</pubDate>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32841/16347909174770.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 SVIP/VVIP 
-원데이 프리패스 (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:18:54 GMT</pubDate>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32793/16347908749110.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SVIP/VVIP 원데이 프리패스 (CGV ─ 이벤트 ─ 멤버십 CLUB)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:18:54 GMT</pubDate>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/31372/16080161893400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[러브어페어]
-명씨네 굿즈 패키지 (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.17~2021.11.21<span> . </span><em>D-3</em>]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33488/16371242436970.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아네트] 포스터 3종
-증정 앵콜 이벤트 (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.16~2021.11.21<span> . </span><em>D-3</em>]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33427/16370416646380.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[퍼스트카우]
-굿즈 증정 앵콜 이벤트 (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.16~2021.11.21<span> . </span><em>D-3</em>]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33425/16370261835490.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샌드위치 구매 시
-아메리카노 할인 (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=32967&amp;menu=005</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=32967&amp;menu=005</guid>
-            <pubDate>Wed, 17 Nov 2021 05:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.16~2021.12.19]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32967/16300426715910.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[백신패스관] 운영 가이드 (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:19:07 GMT</pubDate>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33377/16358348681300.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아트가이드와 쉐프의 만남
- 파리를 걷다 (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.15~2021.11.20<span> . </span><em>D-2</em>]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33470/16369543492930.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매점&딜리버리 주문 시
-파코니 캘린더 증정! (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.15~2021.11.23<span> . </span><em>D-5</em>]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33469/16369419300300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리얼 스크린 사격
-슈팅 가이드 (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.15~2021.12.30]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33468/16369404415030.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[프렌치 디스패치] 
-기대평 댓글 이벤트 (CGV ─ 이벤트 ─ CGV 극장별)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.12~2021.11.19<span> . </span><em>D-1</em>]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33458/16366969202770.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아시아나 마일리지로
-IMAX 예매도 된다!! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[2021.06.24~2021.12.31]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/30011/16245005357340.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TOSS로 예매하고
-2천원 할인받기! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.01~2021.11.30]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32445/16366762657990.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2천원 할인쿠폰 받고
-스마일페이로 예매하기! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.01~2021.11.30]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/33342/16360784903500.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모바일문화상품권
-CGV에서 사용하는 방법! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
-            <link>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=30013&amp;menu=006</link>
-            <guid>http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=30013&amp;menu=006</guid>
-            <pubDate>Mon, 15 Nov 2021 22:14:34 GMT</pubDate>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/30013/15928181474500.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화즉시할인은 
-바로 NH농협카드 (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[2021.06.16~2023.05.31]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/32606/16249595781520.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문화누리카드로 CGV에서
-문화생활 즐기세요! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[2021.01.29~2021.12.31]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/31589/16119022824340.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대 M포인트로 매주 할인
-최대 5천 M포인트 차감할인 (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[2021.01.01~2021.12.31]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/31426/16300456127110.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[E1 오렌지카드 포인트로
-더 다양하게 즐기기! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[2020.04.01~2022.03.31]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/30620/16111941302940.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기아멤버스
-회원 전용 파격 혜택! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 16:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[2020.03.09~2021.12.31]]></content:encoded>
-            <enclosure url="https://img.cgv.co.kr/WebApp/contents/eventV4/30063/16111952614170.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수험생 응원 이벤트 🙏 이제는 교실 말고 #메박1열 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <title><![CDATA[<귀멸의칼날>키링 할인판매 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.18 ~ 2021.12.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/17/RYYBFIYixFjAulkrFRw5tEl9qknt2iSv.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2021.12.28 ~ 2022.01.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/28/7FAb2FLNfyWk7Fl6PhHpXHHQ4opVUi3y.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[메가박스 오리지널 티켓 Re.10 <호빗 3부작> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <title><![CDATA[[메가박스 X 슈퍼보리] 슈퍼보리 론칭! 메가박스에서 슈퍼보리를 즐겨보세요. (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.18 ~ 2021.12.02]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/16/pJxu53Fp2Yb37Z63RYvrKcDpRfwuftG5.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2021.12.24 ~ 2021.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/24/SFVC4VTrjeeJndp5LNjRgA3ox3pFQhYN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[11월포인트위크]월동준비 특가! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <title><![CDATA[메가박스 오리지널 티켓 No.44 <킹스맨: 퍼스트 에이전트> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.17 ~ 2021.11.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/16/ooc8H3bZMK7imIRooDWzEM5wXOpmA8DC.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2021.12.22 ~ 2022.01.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/20/6GrxQs2JyOPi1xkHr7ss3CAWBPqYQPQu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<마음백신 영화관람> 모든요일 6천원 할인(3차) (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <title><![CDATA[[메가박스 X 밀크] 영화로운 포인트 생활 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.15 ~ 2021.11.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/12/E4zL4IYvFMoFdne5d3F9IB1wAtWACws6.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2021.12.20 ~ 2021.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/20/Tf67umd3RUeORGWzz9AX74NWiYPhb8Jw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[메가박스 무비 페스타 'M-프리퀀시' (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <title><![CDATA[<킹스맨:퍼스트에이전트>프로모션 콤보 출시 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.10 ~ 2021.12.26]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/05/biJr4siHlC3hl0f6kLzIIRXhOIsbAwuO.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2021.12.17 ~ 2021.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/16/ixlFiS59mIfw8iJI0xsK7KX1UJN1ZJn0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[ONLY VIP EVENT] 너의 최애는. (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <title><![CDATA[메가박스 오리지널 티켓 No.43 <스파이더맨: 노 웨이 홈> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.10 ~ 2021.12.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/09/8yAIUqyGRLZYT75Nb8T8d0J0DeqjomHp.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2021.12.15 ~ 2021.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/13/9D5F0VTss4Hz5xloc1avU7jkpMs6bSPw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[메가박스 오리지널 티켓 No.40 <이터널스> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <title><![CDATA[코카-콜라 굿즈패키지 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.10 ~ 2021.11.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/08/eHN83ieD1BEER6W5XY5vH2o36j6bwKs6.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2021.12.13 ~ 2022.01.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/10/ufFce5mXYL47MfAE5y4h5k1z43IAmQCQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[단계적 일상회복]백신 패스관 이용 안내 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <title><![CDATA[메가박스 라이프 다이어리 2022 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.01 ~ 2021.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/01/QnyQazdZspL6DcpDwkgNLQXHHX1dpu3c.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2021.12.09 ~ 2022.01.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/08/qjmlX9n9VXZoXggMAcQpZnujEF7h5kmJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<귀멸의칼날>키링 한정판매 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <title><![CDATA[[특별방역대책] 전관 백신 패스관 운영 안내 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.29 ~ 2021.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/01/5dHdewy7xt5HtgOGxs2P0id3NF7KsQ9s.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2021.12.06 ~ 2021.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/03/nhXtHBtmhosz9lW9TO3bXceuCOYdxFoV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[광명AK플라자점]오픈 이벤트! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <title><![CDATA[2022년 VIP 선정 기준 안내 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.29 ~ 2021.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/15/JdZwQ28rFkWelgRfoAqgGripEDDEcCGT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신규가입이벤트] I WANT YOU NEW VIP (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.19 ~ 2021.11.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/19/dOQVcqZzE6ULWjb4zrk0oTHPL0b6Qadg.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2021.11.23 ~ 2022.02.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/19/qjtRQP6uIxWMcLW4cNgBy98tihTJ1prf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신규 회원도, 복귀 회원도 혜택 받아가세요 🎁 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -504,316 +128,140 @@ CGV에서 사용하는 방법! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/03/29/6EC7ZyTm663L6bBN7iqUtrQHoXvbAoqR.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[메이드 인 이태리] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <title><![CDATA[[씽2게더]빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.22 ~ 2021.12.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/16/Fqk0yKINExA6aOiLolrtrPTX3IuhW1A6.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2022.01.03 ~ 2022.01.11]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/29/GGlhqvjzpFudRT863LatsqEKyK0bby8g.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[<아네트> 돌비시네마 앵콜 특별 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <title><![CDATA[<램> 굿즈패키지 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.21 ~ 2021.11.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/17/xxpUhwD4B1WVCMXxYsgs3MYdMUQkLBbU.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2022.01.02 ~ 2022.01.02]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/20/3Ro3oEWh8lrehsLibQ4EWmbCEGbl4kwh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<너에게 가는 길> 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <title><![CDATA[<킹스맨: 퍼스트 에이전트> 스페셜 엽서 세트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.21 ~ 2021.11.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/17/BJoHsWztmtSHAD69IvVAOrbIYoceeqBX.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2021.12.30 ~ 2022.01.15]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/28/sDPhQSWRg8mFqm3D2Nhk29FYtws3wX9y.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<유체이탈자> 김장장TV GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <title><![CDATA[<드라이브 마이 카> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.21 ~ 2021.11.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/16/TjpKaMJyHyD3VT0sx5FXmx23vFa1DKmj.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2021.12.30 ~ 2022.01.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/27/uPTsU7dTiiFhNNB9ygVdNwmRNcrDbgfp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<귀멸의 칼날: 나타구모산 편> 1주차 현장 증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <title><![CDATA[<노웨어 스페셜> 개봉  기념 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.20 ~ 2021.12.04]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/12/UgzJOJuq97ts7PvdFmc84ux4MygVGtMk.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2021.12.29 ~ 2022.01.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/27/kDtnCPGStUKbGau6vkuYyGLEuepCH0NX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<뱅드림! 시리즈> 특별 상영 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <title><![CDATA[<램> 개봉기념 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.19 ~ 2021.11.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/16/MGwXT8fV1vjqjELbJ1W3AX9m1LXhPx0m.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2021.12.29 ~ 2022.01.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/27/GzBwEjrP959UGRRiLBABMcdh2FwjkLiM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<뱅드림! 필름 라이브 세컨드 스테이지> 앵콜 영상 상영 안내 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <title><![CDATA[<매트릭스: 리저렉션> 스페셜 엽서세트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.18 ~ 2021.12.08]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/16/lE16rJzH7cf2qYRyTEvoPaWrCLIuH6nS.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2021.12.25 ~ 2022.01.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/23/ZbnjRpfYSoGZoEZz24JyUBi819iYbnS4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<프렌치 디스패치> 스페셜 엽서세트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <title><![CDATA[볼쇼이 발레 인 시네마 <호두까기 인형> 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.18 ~ 2021.12.02]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/15/VmNYs9YF1CkDYwAUkYwJ6Cqd83zZ24EE.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2021.12.25 ~ 2022.01.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/21/x3wylxUu1gym5DQ6Rpb3hLF5VamlnzzB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[이터널스] 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <title><![CDATA[<노트르담> 개봉기념 현장 증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.18 ~ 2021.12.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/16/8JjkWeLQZSbOPYR4ovcYG29XwaddehHE.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2021.12.24 ~ 2022.01.07]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/22/POfXOrkyFaFX3aqgjqGq1HU35CU5C6wC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[엔칸토: 마법의 세계] 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <title><![CDATA[<드라이브 마이 카> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.18 ~ 2021.12.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/16/26Q7IhjjTq9criuwMpSc5F8zCVwUvqc4.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2021.12.23 ~ 2022.01.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/21/fGk8qXEOVV07TjaDl5McGflGRQyk2MWX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[장르만 로맨스] 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <title><![CDATA[<피부를 판 남자> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.18 ~ 2021.11.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/16/I52HuWPRTxeRAKGXaWbslZPFhdJYRJfc.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2021.12.23 ~ 2022.01.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/20/5fzwt7bmhRfGeYdoEaQn6eAO4WfH8V7N.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<퍼스트 카우> 3주차 현장 증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <title><![CDATA[<뱅드림! 필름 라이브 세컨드 스테이지> 6주차 특전 증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.18 ~ 2021.11.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/15/nYIfGXqX5jubXCcd56tLnAIbOWo55dI9.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2021.12.23 ~ 2021.12.29]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/20/VXvmnSwLbhSHg3YXKdKn3yhSyMNxImlN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<뱅드림! 필름 라이브 세컨드 스테이지> 1주차 특전 증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <title><![CDATA[<스파이더맨: 노 웨이 홈> 오리지널 티켓북 렌티큘러 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.18 ~ 2021.11.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/11/nIKIfw4lGcYpumycoHgos1RNGwBWbbTb.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2021.12.22 ~ 2022.01.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/21/E1f2qPHT7vRnGgjQArhs60lzZn3Bb2Qw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<괴짜들의 로맨스> 관람객 대상 도서 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <title><![CDATA[볼쇼이 발레 인 시네마 <호두까기 인형> 퀴즈 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.17 ~ 2021.12.07]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/16/0obdQqHDTef2uvj5axQaETY1HPmtUbTX.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2021.12.21 ~ 2022.01.02]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/21/ZjJJeBtqozYu6Fbranv4lH5GFyMbgYUA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<이터널스> 미니 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <title><![CDATA[<티탄> 2주차 현장 증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.17 ~ 2021.12.04]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/12/RrfxIS26bWxyOWbQkvPtR1qvCPO8vVfS.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2021.12.16 ~ 2021.12.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/13/YpDCr4Ja5uZqSS5bxvU01xKBUhb2x0Ue.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<너에게 가는 길> 개봉기념 현장 증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <title><![CDATA[<피부를 판 남자> 개봉기념 현장 증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.17 ~ 2021.12.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/16/bOCun1wdNcPYLu1ged99RPaSlyBw274X.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2021.12.16 ~ 2021.12.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/13/jD3QW97XarUMwSCAYX1hmmFMe5jRzceg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<귀멸의 칼날: 남매의 연> 2주차 현장 증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <title><![CDATA[<아멜리에> 재개봉 기념 현장 증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.17 ~ 2021.12.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/15/b0OEMLS0cLCl3gVnkHl3hdcYTAoQ8hby.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<이터널스> 오리지널 코인 증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.17 ~ 2021.12.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/15/fsAXQ0UTMGOTy8VBalMgMH3UPEm0zauT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<괴짜들의 로맨스> 개봉기념 스페셜 포스터 증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.17 ~ 2021.12.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/12/YUnRj8E71JVHbAr2n2lXXg0NjKmpoq00.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[연애 빠진 로맨스] 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.17 ~ 2021.12.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/11/efSde7TACaenOdUtVJCPgfVXPhoIbXzS.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[후겟츠웨슬리] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.15 ~ 2021.11.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/12/G5WsHqZVHkrV1BXnzGRYd1lntk026mF4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트나인과 함께 하는 <행복의 속도> 시네마구구 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.15 ~ 2021.11.20]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/15/fxWLi7kHSh4xX4SdpQ9Gq9DPzkwsU1Sz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<이터널스> 현장 증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.13 ~ 2021.11.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/11/P6tSCwYG4X1wuzXt8jECLWWukco6rIDR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<귀멸의 칼날: 남매의 연> 1주차 현장 증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.13 ~ 2021.11.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/05/g7YDZCjYsFa28syMrD6SXf1CIfMH8Fw6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유체이탈자] 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.12 ~ 2021.12.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/10/mWC5rmIpTHwUGzbUzly6ha6L4GVbkxFn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<빌리 홀리데이> 2주차 현장 증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.11 ~ 2021.11.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/09/Bs5spmvbW3JVhGG0mWFgJlkQXXacCtyq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<러브 어페어: 우리가 말하는 것, 우리가 하는것> 개봉기념 현장 증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.11 ~ 2021.11.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/08/GPHpYjTH35MDQM55jQMxytgprM54kBbs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[그림자꽃]선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.10 ~ 2021.11.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/09/5BLaHjF68EppbQ7ldYnRRyU7XUIC0w2r.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[디어 에반 핸슨] 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.10 ~ 2021.11.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/08/ehVBubkrzfiQaayti91oIfDDTk6t8GtP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<첫눈이 사라졌다> 4주차 현장 증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.10 ~ 2021.11.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/05/7F6AuIHjTpDoD8nPPcr0TZTeOsl974Rw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<아담스 패밀리2> 개봉기념 스티커팩 현장 증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.10 ~ 2021.11.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/01/w5Gz9osY8eWv2iYhoRvq2a34LiO6XWwb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[장르만 로맨스] 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.09 ~ 2021.11.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/03/NtsZwTGTutfn3XLETBQVBuSRaL57bZHx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[악인은 너무 많다2]선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.08 ~ 2021.11.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/05/ibAapnPXnvU3E8pKalisFZAHEUbXm1v1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<고장난 론> 2주차 스페셜 현장 증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.06 ~ 2021.11.20]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/05/OlLlNybJj8xPkImcFD0RDucnK2Er6ncx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<세버그> 개봉기념 현장 증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.04 ~ 2021.11.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/01/IMyIrUb92fStTx9VQsgpTYa1YFuiLfSW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<당신은 믿지 않겠지만> 2주차 현장 증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.04 ~ 2021.11.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/01/xkyMl60X8LEpuC5EIKDGqvuiABG7vR1Z.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[메가릴렉스] <비행> 상영안내 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.04 ~ 2021.11.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/01/oJRr1dvmjfkNgmOmjnMCGSVc45TrnmvQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<빌리 홀리데이> 개봉기념 현장 증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.04 ~ 2021.11.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/29/coxEqxCTteZs3VEP6cqgu8bZ8r2umyJA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아담스 패밀리 2] 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.03 ~ 2021.11.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/29/yv5FD9FHARfPmPwDbbVuYDdvPZ1g99uL.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2021.12.15 ~ 2021.12.29]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/14/Jsf1pSoFyT5aJyvG8Ck7UZWyoJEqPLTu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<뉴욕 메트로폴리탄 오페라> 시즌 2021 라인업 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -824,28 +272,164 @@ CGV에서 사용하는 방법! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/12/29/8m0NySuZrlz4PmqCoyXo8j1n91YWHZG6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[부산대] '시네마캐슬' 상영작 안내(~11/30) (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <title><![CDATA[[코엑스] 냥사원 Qristmas tRee In COEX (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.01 ~ 2021.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/29/caQ9NvWcvJNFAisxf5yVdBtSHsRtCkoT.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2021.12.22 ~ 2022.01.02]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/21/jxRetit42qWpCofUAlkBHiLm3AiTN2IA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ARTNINE 마음백신 영화관람, 영화 6000원 할인 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <title><![CDATA[[부산대] '시네마캐슬' 상영작 안내 (~12/31) (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.01 ~ 2021.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/29/ZGzOWbWzawS4kVw2lbYU3b9xmRI6n3ri.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2021.12.01 ~ 2021.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/30/jwAPRkOmQfg79pWLFPuk6UfpGSQhnChS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[마곡,화곡] 쉿! 영화 5천원 할인받고 싶니? (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <title><![CDATA[[대구이시아] 라운지 이용권 런칭 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.02 ~ 2021.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/02/Cp6X2rp8rjDlbUMZ4nGp53LTj10k3PCm.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2021.12.27 ~ 2022.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/05/24/o0cHVKJPDqINwJaF28FBJkGKPlCrDaJO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[수원] 수원점 전용 관람권 특가 판매 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.22 ~ 2021.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/22/vIjqIJHF0VBAjdrQBm3IIhatfDCt8KF4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 빈 필하모닉 / 베를린 필하모닉 신년 음악회 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.16 ~ 2022.01.02]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/16/qgESPmwisKeRcsWykmVwKwdPlsbKotYa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[강서지역] 팝콘 TO-GO 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.15 ~ 2022.03.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/22/uxcYRPIbXf3wb0qXFLTcspggvkb1n0L8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이수] 텀블러에 음료를 담아 드려요 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.13 ~ 2022.02.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/22/CCNEejzdhHUu9WKGincKNeWD5bBfNKPH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[경기동부지역] 쿠폰이 드루와 드루와 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.13 ~ 2022.02.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/15/kItoWHfBJupa9puFqjcIhLP1IIYKmOOq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[양산라피에스타, 해운대(장산)] 고소한 치즈가 일품인 나쵸가 단돈 2,500원! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.12 ~ 2022.01.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/22/CNP8MO3Q5xWL12SGXwykMHeTRtetMbl8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[정관] 카카오채널 친구추가 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.11 ~ 2022.02.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/25/dqNxzGSdzGA7YFC7p6Rb3PCmVL7KeDYQ.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[서울, 부산 일부] 메가박스 X 파고다어학원 수강생 이벤트! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.01 ~ 2022.05.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/01/3xB9LnL77RVoZ3Mnzilzr3U8VvrSSvll.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[전주혁신점] 대학생이라면 전주혁신으로 모여라! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.01 ~ 2022.05.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/12/04/6fKl1TrWah4mFLNl4yRPvblxt3sGuU5p.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영통, 용인기흥] 럭키박스 런칭 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.01 ~ 2022.02.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/22/40DPR9IWrJ0rjWUn2xch1rVjMAZ2q7On.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[세종(조치원)] 테이크아웃 3XL 팝콘 판매 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.01 ~ 2022.02.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/23/23Z455d0nVi2dcVvMKPQZaCuRseVfcMq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[코엑스] 코메박 올인원 패키지 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.01 ~ 2021.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/22/93p5gtWMqNJFc9zRgmicNcW3LHbLaYhS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[강동지역] 강.센.이 x 상.동.성 통합 인스타그램 두둥 등장! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.01 ~ 2021.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/15/Kkeo4JQV753SI6frQah9GuXMhKKMBlrr.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[김포한강신도시] 12월의 블랙 프라이데이 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.01 ~ 2021.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/09/hFt3S2I6eHa6RVGWpB3dahl0CtV5R9EW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ARTNINE 마음백신 영화관람, 영화 6000원 할인 (2차) (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.01 ~ 2021.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/30/F1Yf5yDP0gltHwDXTgeSGkK5VblMh0r6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[양산라피에스타] 영화보면 팝콘L가 2천원! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.25 ~ 2021.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/09/FSubwJOM1KJBpNFg11betGtmaFYL4BnV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[부산,경남지역] 선호지점 선택하자~ (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.01 ~ 2021.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/24/nP9vTCeIei2rJM16qFMzC9JseRK30C4l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[센트럴] 센트럴점으로 냉큼 WINE! (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -872,86 +456,6 @@ CGV에서 사용하는 방법! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/02/KwVyXczZcmf3KpyANxIh8vFqm2oYRNWK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[코엑스] 메가박스 x 아쿠아리움 수험생 패키지 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.01 ~ 2021.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/15/tldS4tfcr7p91dCCWr8gCNz4lz9rZsJO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[코엑스] 이달의 관람권 11월 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.01 ~ 2021.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/12/FDlFRguo4Bh5TTAfj2f02Udqa7joFc8E.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[전주혁신] 이니셜 'M' 매표 할인 받자 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.01 ~ 2021.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/26/J6s8vvl6tmX93x9LUfa8uzr1aUjafEux.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[전주혁신] 오픈 1주년 매점 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.01 ~ 2021.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/26/xFU2VR1E1dce8kzNBlMolPHLvdAvT2TA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[세종(조치원)] 테이크아웃 3XL 팝콘 판매 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.01 ~ 2021.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/23/23Z455d0nVi2dcVvMKPQZaCuRseVfcMq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[정관] 카카오채널 친구추가 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.26 ~ 2021.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/25/dqNxzGSdzGA7YFC7p6Rb3PCmVL7KeDYQ.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[대전,세종나성] 메가박스에 가을이 오면 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.23 ~ 2021.11.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/02/pgzYpyWUA5Q7aCR9IdeDSamzQK6iZdPg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대구지역] 관람권 패키지 끝판왕이 떴다! (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.18 ~ 2021.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/18/Lpd70OkzSILh46mgNkGFSW2wyox3GWtz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[상암, 신촌, 홍대] 영화보고 스탬프 찍자! (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.15 ~ 2021.12.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/12/jZLK4Lhuv7Z9Z9yQcQ9q4bZKNlU5aT0e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[부산울산경남지역] 만.반.잘.부! 신규 가입하고 관람권 받자! (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.13 ~ 2021.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/13/VpeQiOjytYYLlueY8wDoPqs4QuuNx7xT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[청라지젤] 1012빙고 스탬프 챌린지 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -968,36 +472,12 @@ CGV에서 사용하는 방법! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/18/n3jGDBaxX3Ti7xl2maGw8jFA0hSQDESK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[대전중앙로] 30대 이상 가을즐기기 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.11 ~ 2021.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/18/pTqls1cJkqR4DgJcDkTNcgLV3Kt5ZUSW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[경기남부지역] 팝콘통이면? 완전 가능! (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.23 ~ 2021.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/23/Q16msAnfeuIQ2WKq120ab74RAnwPv5Iu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인천지역] 회원되면 할인받고, 회원이면 쿠폰받고 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.23 ~ 2021.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/23/FZpdJ5bTL3ucIy3k4Ik1oe580VZOZteP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김포한강신도시] 메가박스 회원이면 팝콘이 와르르 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.23 ~ 2021.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/23/My3J5ByMolIlLdu99wyHJuydzbwGAtZn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대전,세종지역] 모바일 오더로 주문하고 공짜팝콘 받자! (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -1016,28 +496,12 @@ CGV에서 사용하는 방법! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/15/Vnz6RAXzf0okhgIExmlWNsgkHR7KmKOY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[고양스타필드] 메가 무비 스탬프 투어 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.10 ~ 2021.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/01/I5a888aSkebEPIfsVb2XdXflIDIpJI64.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[부산경남지역] 부산 경남 직영점 관람권 패키지 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.01 ~ 2022.02.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/01/5PARgNR2R8jw1V03BDz1uwipbysYyQGO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김포한강신도시] 집으로 갈때는 팝콘이 2000원 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.01 ~ 2021.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/08/eLL9x6W9Lu8kTiw8ZwidntRZCyOitFJn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[상봉,동대문,성수] 내 스타는 내가 광고한다! (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -1054,14 +518,6 @@ CGV에서 사용하는 방법! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.01 ~ 2021.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/01/WI4SijOTvdtHbLDfQ5GoOlwGIlLIJPFo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[일산, 파주지역] 가입하면 다~~줄고양!! (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.01 ~ 2021.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/25/z63TqAUX1iAaPKQcgduPrXFUi9Yw6uuk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대구경북지역] 메가박스 x 대구아쿠아리움 (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -1128,14 +584,6 @@ CGV에서 사용하는 방법! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/07/02/lrhfndGOWuePdepuSQLMqFynmlNGxk1t.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[강남, 센트럴, 이수] 강.센.이 영화보는날 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.06.29 ~ 2021.12.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/07/14/YcR5ZS8vqgzw9YpaVaTPbq8CJmxd1eKK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[수원, 경기남부지역] 아쿠아플라넷 광교점과 cool한 할인 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -1158,14 +606,6 @@ CGV에서 사용하는 방법! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2021.06.01 ~ 2021.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/06/07/0eJcy6zv6R5GpR6UxTfZ4cCcKbQzsLJN.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[대구이시아] 라운지 이용권 런칭 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.05.24 ~ 2021.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/05/24/o0cHVKJPDqINwJaF28FBJkGKPlCrDaJO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대구] WILL U MARRY ME (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -1200,6 +640,14 @@ CGV에서 사용하는 방법! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/05/24/0Ej9dS03SPHxho0nqgaPTYGzY3SWfEZN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[전주혁신] THE M CITY X 메가박스 전주혁신 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.05.01 ~ 2022.03.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/01/a6Hpyo5EtJ0XBKIbAC62RMsbg9BjZqMr.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[구미강동] 영화관 전체 대여 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -1224,22 +672,6 @@ CGV에서 사용하는 방법! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/04/30/NJsq57aZuJ6R5wNLpdtuRI6CyQRsqNwJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[대구이시아] 기념일 패키지 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.05.01 ~ 2021.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/05/28/FOI2nd6gSQflpkdrx5o1QuS3oI4pye9r.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[전주혁신] THE M CITY 영수증으로 영화관 할인 받자! (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.05.01 ~ 2021.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/05/10/Toes74forRiuU4k1sLTxDGuUZOIe93o8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[Songdo] In collaboration with The University (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -1256,28 +688,12 @@ CGV에서 사용하는 방법! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/06/14/UK7uDZK9Sh8mb4MrR1vYzEXqZIvKbOQN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[구미강동] 프로포즈 & 셀레브레이션 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.04.01 ~ 2021.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/04/09/iDRD8dBnUK2Xg799qyYeVgchFy419iWp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[대구신세계] 극장 안 나만의 오피스 M-SPACE (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2021.03.24 ~ 2021.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/03/24/OZqCfdw6BimMjRzYi8p7TXFW30IXRNMr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[남포항] 프로포즈 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.03.24 ~ 2021.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/03/24/pf9GODKx4gt3DyBzwhE1AjvsEOfxTOHH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안성스타필드] 스포츠몬스터 안성점 제휴 할인 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -1472,14 +888,6 @@ CGV에서 사용하는 방법! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/12/31/xY03g2M2xSk2deROE5DnfZ64ycYRhQj1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[전주혁신점] 대학생이라면 전주혁신으로 모여라! (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2020.12.04 ~ 2021.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/12/04/6fKl1TrWah4mFLNl4yRPvblxt3sGuU5p.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[대구이시아] 한국교직원공제회 할인이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -1496,20 +904,12 @@ CGV에서 사용하는 방법! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/11/04/1P1PMJcC0FXFUFUHkCCoHWpxYytKwypK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[신세계포인트 X 메가박스] 메가박스 영화 & 음료 할인받는 방법! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
+            <title><![CDATA[[페이북X메가박스] 마이태그하고 메가박스 혜택받자! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
             <pubDate>Thu, 07 Oct 2021 09:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.28 ~ 2021.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/25/3P8MVCNcwRECXuzcuo1kTMd2Ecrtzhah.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KT멤버십 X 메가박스] 영화 예매권 프로모션 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.25 ~ 2021.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/10/25/GLLyMkxQ7i0fHuA60ysoCCSQFw1QMwRc.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2021.11.22 ~ 2021.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/19/cI7GvEEH1hwH7ilTsYOqjjC2um2dsFVK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KT멤버십 고객 메가박스 영화 할인 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
@@ -1624,100 +1024,76 @@ CGV에서 사용하는 방법! (CGV ─ 이벤트 ─ 제휴 할인)]]></title>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/11/11/7zZFIneF9efbrMAybQh2NRAxkvTdfTD5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<장르만 로맨스> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <title><![CDATA[<경관의 피> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
             <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
             <pubDate>Thu, 21 Oct 2021 02:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.20 ~ 2021.11.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/16/PYyxILJQDNI6LjcFL51bYc9t1zws1tBJ.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2022.01.08 ~ 2022.01.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/27/d7xZvnBWOzqqbyUfj6sK2uC9doWx2SmH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<태일이> 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <title><![CDATA[<씽2게더> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
             <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
             <pubDate>Thu, 21 Oct 2021 02:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.08 ~ 2021.11.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/08/gWsbU1LPpPj7ZXwRLLihfpZNvxV2rhXS.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2022.01.08 ~ 2022.01.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/29/ZlYq1UWTbzgcc0mxrztXJLSgSJDHlGWM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['피부를 판 남자' 굿즈... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/70385844</link>
-            <guid>https://extmovie.com/sisaing/70385844</guid>
-            <pubDate>Wed, 17 Nov 2021 13:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;피부를 판 남자&gt; 익스트림무비 단독관 시사회에 초대합니다. 국내 첫 시사...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/844/385/070/295x295.crop.jpg?20211117212944" length="0" type="image/jpg"/>
+            <title><![CDATA[<특송> 메가박스 빅스크린 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Thu, 21 Oct 2021 02:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.27 ~ 2022.01.03]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/27/HloXKTjE5fnwZTIQpzpuaWsTsIarRO0A.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['유체이탈자' 익스트림... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/70372400</link>
-            <guid>https://extmovie.com/sisaing/70372400</guid>
-            <pubDate>Wed, 17 Nov 2021 07:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;유체이탈자&gt; 익스트림무비 단독관 GV 시사회에 초대합니다. 코로나 백신 ...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/400/372/070/295x295.crop.jpg?20211117161327" length="0" type="image/jpg"/>
+            <title><![CDATA['특송' 시사회에 초대... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/71855311</link>
+            <guid>https://extmovie.com/sisaing/71855311</guid>
+            <pubDate>Wed, 29 Dec 2021 03:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 문진표 작성 때문에 티켓 양도가 안 됩니다. 당일날 꼭 갈 수 있는 분들...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/311/855/071/295x295.crop.jpg?20211225122622" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['청춘적니' 시사회에 ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/70196696</link>
-            <guid>https://extmovie.com/sisaing/70196696</guid>
-            <pubDate>Fri, 12 Nov 2021 01:59:29 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;청춘적니&gt; 시사회에 초대합니다. 꼭 참석하고 게시판에 후기 남겨주실 분...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/696/196/070/295x295.crop.jpg?20211112101117" length="0" type="image/jpg"/>
+            <title><![CDATA['웨스트 사이드 스토리&#039... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/71822911</link>
+            <guid>https://extmovie.com/sisaing/71822911</guid>
+            <pubDate>Wed, 29 Dec 2021 03:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[스티븐 스필버그 감독 영화 &lt;웨스트 사이드 스토리&gt; 예매권 이벤트입니다. &lt;웨스...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/911/822/071/295x295.crop.jpg?20211229101731" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['리유니언' 언론 배급 ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/70196643</link>
-            <guid>https://extmovie.com/sisaing/70196643</guid>
-            <pubDate>Fri, 12 Nov 2021 01:59:29 GMT</pubDate>
-            <content:encoded><![CDATA[영화&lt;리유니언&gt; 언론, 배급 시사회에 초대합니다. 평일 오후에 진행됩니다. 꼭 ...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/643/196/070/295x295.crop.jpg?20211112125439" length="0" type="image/jpg"/>
+            <title><![CDATA['하우스 오브 구찌' 예... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/71815119</link>
+            <guid>https://extmovie.com/sisaing/71815119</guid>
+            <pubDate>Wed, 29 Dec 2021 03:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[영화 &lt;하우스 오브 구찌&gt; 예매권 이벤트입니다. 위의 &lt;하우스 오브 구찌&gt; 메인 ...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/119/815/071/295x295.crop.jpg?20211223235457" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[최고의 환경에서 ‘로키’ 정주행하... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/70181166</link>
-            <guid>https://extmovie.com/sisaing/70181166</guid>
-            <pubDate>Thu, 11 Nov 2021 12:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[프라이빗 영화관 'VOD SUITE' Platinum 상영관에서, 디즈니+ 마블 시리즈 &lt;로키&gt;...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/166/181/070/295x295.crop.jpg?20211111222135" length="0" type="image/jpg"/>
+            <title><![CDATA['킹스맨: 퍼스트 에이전트&#... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/71732502</link>
+            <guid>https://extmovie.com/sisaing/71732502</guid>
+            <pubDate>Wed, 29 Dec 2021 03:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[영화 &lt;킹스맨: 퍼스트 에이전트&gt; 리뷰 이벤트입니다. &lt;킹스맨: 퍼스트 에이전트&gt;...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/502/732/071/295x295.crop.jpg?20211222093824" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서울독립영화제2021 상영작 초대 ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/70145492</link>
-            <guid>https://extmovie.com/sisaing/70145492</guid>
-            <pubDate>Wed, 10 Nov 2021 12:22:43 GMT</pubDate>
-            <content:encoded><![CDATA[서울독립영화제20021 상영작인 &lt;수프와 이데올로기&gt; &lt;바리케이드&gt; 두 작품 상영...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/492/145/070/295x295.crop.jpg?20211110203445" length="0" type="image/jpg"/>
+            <title><![CDATA['프랑스' 언론 배급 시... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/71687924</link>
+            <guid>https://extmovie.com/sisaing/71687924</guid>
+            <pubDate>Wed, 29 Dec 2021 03:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[● 본 시사회는 백신 접종 완료자만 입장 가능합니다 - 관련 증빙 앱 or 서류 미...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/924/687/071/295x295.crop.jpg?20211221095102" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['장르만 로맨스' 리뷰 ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/70142853</link>
-            <guid>https://extmovie.com/sisaing/70142853</guid>
-            <pubDate>Wed, 10 Nov 2021 11:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;장르만 로맨스&gt; 리뷰 이벤트입니다. &lt;장르만 로맨스&gt; 관람하신 분들은 영...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/853/142/070/295x295.crop.jpg?20211110193603" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['태일이' 시사회에 초... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/70118063</link>
-            <guid>https://extmovie.com/sisaing/70118063</guid>
-            <pubDate>Wed, 10 Nov 2021 00:44:36 GMT</pubDate>
-            <content:encoded><![CDATA[애니메이션 &lt;태일이&gt; 시사회에 초대합니다. 꼭 참석하고 게시판에 후기 남겨주실...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/063/118/070/295x295.crop.jpg?20211110090500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['고스트버스터즈 라이즈&#03... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/70066290</link>
-            <guid>https://extmovie.com/sisaing/70066290</guid>
-            <pubDate>Mon, 08 Nov 2021 06:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;고스트버스터즈 라이즈&gt; 시사회에 초대합니다. 꼭 참석하고 게시판에 후기...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/290/066/070/295x295.crop.jpg?20211108142748" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플레인아카이브 '센트럴파크... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/70009487</link>
-            <guid>https://extmovie.com/sisaing/70009487</guid>
-            <pubDate>Thu, 11 Nov 2021 12:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;센트럴파크 단편선 Vol.1&gt; 블루레이는 현재 ‘텀블벅’(tumblbug.com)을 통해 펀...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/487/009/070/295x295.crop.jpg?20211111191445" length="0" type="image/jpg"/>
+            <title><![CDATA[소설 '멸망 이전의 샹그릴라... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/71671375</link>
+            <guid>https://extmovie.com/sisaing/71671375</guid>
+            <pubDate>Wed, 29 Dec 2021 03:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[일본 소설 &lt;멸망 이전의 샹그릴라&gt; 출간 기념 이벤트입니다. 아래 댓글란에 이 ...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/375/671/071/295x295.crop.jpg?20211220211852" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시사회, 이벤트 당첨 확률 올리는 법 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
