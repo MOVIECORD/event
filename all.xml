@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 08:25:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 09:21:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1056,6 +1056,22 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/27/HloXKTjE5fnwZTIQpzpuaWsTsIarRO0A.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['전장의 피아니스트' ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/72031419</link>
+            <guid>https://extmovie.com/sisaing/72031419</guid>
+            <pubDate>Wed, 29 Dec 2021 09:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[● 본 시사회는 백신 접종 완료자만 입장 가능합니다 - 관련 증빙 앱 or 서류 미...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/419/031/072/295x295.crop.jpg?20211229181752" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['천년의 노래, 리버스'... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/72031317</link>
+            <guid>https://extmovie.com/sisaing/72031317</guid>
+            <pubDate>Wed, 29 Dec 2021 09:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[● 본 시사회는 백신 접종 완료자만 입장 가능합니다 - 관련 증빙 앱 or 서류 미...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/317/031/072/295x295.crop.jpg?20211229181640" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['특송' 시사회에 초대... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
             <link>https://extmovie.com/sisaing/71855311</link>
             <guid>https://extmovie.com/sisaing/71855311</guid>
@@ -1078,14 +1094,6 @@
             <pubDate>Wed, 29 Dec 2021 03:21:07 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;하우스 오브 구찌&gt; 예매권 이벤트입니다. 위의 &lt;하우스 오브 구찌&gt; 메인 ...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/119/815/071/295x295.crop.jpg?20211223235457" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['킹스맨: 퍼스트 에이전트&#... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/71732502</link>
-            <guid>https://extmovie.com/sisaing/71732502</guid>
-            <pubDate>Wed, 29 Dec 2021 03:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;킹스맨: 퍼스트 에이전트&gt; 리뷰 이벤트입니다. &lt;킹스맨: 퍼스트 에이전트&gt;...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/502/732/071/295x295.crop.jpg?20211222093824" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['프랑스' 언론 배급 시... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
