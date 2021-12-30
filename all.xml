@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 01:04:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 02:37:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
             <content:encoded><![CDATA[2021.03.29 ~ 2022.02.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/03/29/6EC7ZyTm663L6bBN7iqUtrQHoXvbAoqR.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<씽2게더> 개봉 기념 경품 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.05 ~ 2022.01.19]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/30/R9p8dW3q1R3OrnHHnMEfQn18JrpZyNd2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[씽2게더]빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -916,7 +924,7 @@
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
             <pubDate>Thu, 07 Oct 2021 09:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[2021.02.01 ~ 2021.12.31]]></content:encoded>
+            <content:encoded><![CDATA[2021.02.01 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/02/01/QnqACuKoPlMtYGM262yAyvmV0TGAt4Ui.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -924,7 +932,7 @@
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
             <pubDate>Thu, 07 Oct 2021 09:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[2021.02.01 ~ 2021.12.31]]></content:encoded>
+            <content:encoded><![CDATA[2021.02.01 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/01/28/KFa8pQA1xZ0Ah1p8oHUNQVeDNStXkS4L.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -956,7 +964,7 @@
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
             <pubDate>Thu, 07 Oct 2021 09:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[2020.10.15 ~ 2021.12.31]]></content:encoded>
+            <content:encoded><![CDATA[2020.10.15 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/10/15/OpuLwqCq8mWRzy9x20xA8Vphz5FiIw4q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -964,7 +972,7 @@
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
             <pubDate>Thu, 07 Oct 2021 09:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[2020.10.06 ~ 2021.12.31]]></content:encoded>
+            <content:encoded><![CDATA[2020.10.06 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/10/06/nWvPu6YhzejumPOeP9aYH6ovOsTtc1Cc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -972,7 +980,7 @@
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
             <pubDate>Thu, 07 Oct 2021 09:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[2020.09.14 ~ 2021.12.31]]></content:encoded>
+            <content:encoded><![CDATA[2020.09.14 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/09/14/gyREinDV8ZpKmHoYikOdfR4vu0iKdT4Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -980,7 +988,7 @@
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
             <pubDate>Thu, 07 Oct 2021 09:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[2020.12.17 ~ 2021.12.31]]></content:encoded>
+            <content:encoded><![CDATA[2020.12.17 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/12/17/e3BLbNx56lNPYNrjtoiBKfg2e9cNTk3U.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -988,7 +996,7 @@
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
             <pubDate>Thu, 07 Oct 2021 09:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[2020.11.24 ~ 2021.12.31]]></content:encoded>
+            <content:encoded><![CDATA[2020.11.24 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/11/24/vXEn7aPdmfiYRjlbVgZr0VBsHwMUwIKP.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -996,7 +1004,7 @@
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
             <pubDate>Thu, 07 Oct 2021 09:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[2017.01.01 ~ 2021.12.31]]></content:encoded>
+            <content:encoded><![CDATA[2017.01.01 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/03/02/7Wv9ErsevpJobv4RTyW3mNTbuCegoJfl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1004,7 +1012,7 @@
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
             <pubDate>Thu, 07 Oct 2021 09:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[2016.10.07 ~ 2021.12.31]]></content:encoded>
+            <content:encoded><![CDATA[2016.10.07 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/asis/system/mop/event/2019/52/791431-BBDE-4944-9C22-358B3329B4C4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1012,7 +1020,7 @@
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
             <pubDate>Thu, 07 Oct 2021 09:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[2016.03.04 ~ 2021.12.31]]></content:encoded>
+            <content:encoded><![CDATA[2016.03.04 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/02/04/y8iDbdor9E21ccFsJMyhyoE9YODKiKOy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1020,7 +1028,7 @@
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
             <pubDate>Thu, 07 Oct 2021 09:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[2015.01.06 ~ 2021.12.31]]></content:encoded>
+            <content:encoded><![CDATA[2015.01.06 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/11/11/7zZFIneF9efbrMAybQh2NRAxkvTdfTD5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
