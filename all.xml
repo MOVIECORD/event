@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 02:40:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 03:22:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/03/29/6EC7ZyTm663L6bBN7iqUtrQHoXvbAoqR.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[<드라이브 마이 카> 3주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.06 ~ 2022.01.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/31/co1kg0EYNGWLA6qJKUMqxnt5KDkwVKRZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<씽2게더> 개봉 기념 경품 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -158,6 +166,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.02 ~ 2022.01.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/20/3Ro3oEWh8lrehsLibQ4EWmbCEGbl4kwh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<티탄> 1만 관객 기념 스페셜 카드 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.01 ~ 2022.01.15]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/31/6fQAWa5dlESanH2KZtZkuQjfAVPTD7l4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<킹스맨 : 퍼스트 에이전트> 오리지널 캐릭터 마그넷 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
