@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 01:06:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 02:43:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -480,6 +480,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/27/HloXKTjE5fnwZTIQpzpuaWsTsIarRO0A.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['어나더 라운드' 익스... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/72163210</link>
+            <guid>https://extmovie.com/sisaing/72163210</guid>
+            <pubDate>Sat, 01 Jan 2022 02:43:05 GMT</pubDate>
+            <content:encoded><![CDATA[● 본 시사회는 백신 접종 완료자만 입장 가능합니다 (글 하단 안내 참조) 영화 &lt;...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/210/163/072/295x295.crop.jpg?20220101113648" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['청춘적니' 한줄평/리... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
             <link>https://extmovie.com/sisaing/72089787</link>
             <guid>https://extmovie.com/sisaing/72089787</guid>
@@ -494,14 +502,6 @@
             <pubDate>Thu, 30 Dec 2021 04:37:13 GMT</pubDate>
             <content:encoded><![CDATA[● 본 시사회는 백신 접종 완료자만 입장 가능합니다. (글 하단 안내문 꼭 참조하...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/951/069/072/295x295.crop.jpg?20211230133146" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['웨스트 사이드 스토리&#039... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/72032544</link>
-            <guid>https://extmovie.com/sisaing/72032544</guid>
-            <pubDate>Wed, 29 Dec 2021 11:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[● 본 시사회는 백신 접종 완료자만 입장 가능합니다 (글 하단 안내 참조) 영화 &lt;...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/544/032/072/295x295.crop.jpg?20211229185026" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['전장의 피아니스트' ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
