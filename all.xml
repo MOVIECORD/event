@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 01:08:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 02:40:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -510,14 +510,6 @@
             <pubDate>Wed, 29 Dec 2021 09:21:36 GMT</pubDate>
             <content:encoded><![CDATA[● 본 시사회는 백신 접종 완료자만 입장 가능합니다 - 관련 증빙 앱 or 서류 미...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/317/031/072/295x295.crop.jpg?20211229201431" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['특송' 시사회에 초대... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/71855311</link>
-            <guid>https://extmovie.com/sisaing/71855311</guid>
-            <pubDate>Wed, 29 Dec 2021 03:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[티켓 양도 안 됩니다!! 온라인 문진표 작성 때문에 꼭 참석할 수 있는 분들만 신...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/311/855/071/295x295.crop.jpg?20211230092214" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['하우스 오브 구찌' 예... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
