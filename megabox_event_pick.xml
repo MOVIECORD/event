@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 23:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 01:05:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Thu, 07 Oct 2021 12:22:18 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.23 ~ 2022.02.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/19/qjtRQP6uIxWMcLW4cNgBy98tihTJ1prf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나도 영화 평론가! 관람평 쓰고 포인트 받자!]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Thu, 07 Oct 2021 12:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.01 ~ 2022.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/30/r5HfuUkYR7L9ww5F8n9n0oAbdlM8rtjr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 VIP 혜택 안내]]></title>
