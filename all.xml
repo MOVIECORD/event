@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 08:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 09:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2021.03.01 ~ 2022.02.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/03/18/XAEYmf6DrxZ0gx1gfrVF512Yo0NquJwg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KT멤버십x메가박스] 라이프 다이어리 콤보 추첨 프로모션 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.05 ~ 2022.01.16]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/04/rFFIFZWJKgfApKw8FPkUPPYHxTWi6YId.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KT멤버십 고객 메가박스 영화 할인 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
