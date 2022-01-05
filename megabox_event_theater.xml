@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 23:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 01:07:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.05 ~ 2022.02.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/03/ZImrJaRN6KvbWrrtDe7YiWh0GRp9ejdh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[남춘천] 에이디스 X 메가박스 남춘천점]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.15 ~ 2022.01.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/05/zbG92xclhiNs24w6yZ5i8kIFScwjEuuP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[광주하남] 공무원증 할인이 된다고?]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.05 ~ 2022.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/05/2VQL8ng7J02knrnzwgSExUQZVgqyZdm3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[경기남부지역] 한 번 보고 두 번 보고 자꾸만 보고 싶네]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.01 ~ 2022.02.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/05/VBQXh3iivw9zIbFVXQMOvJzfDvsqBVq9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대구이시아] 라운지 이용권 런칭]]></title>
