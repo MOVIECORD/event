@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 제휴 할인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 01:07:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 02:40:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[메가박스X세틀뱅크] 내통장결제로 영화보고 영화관람권 받으세요!]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:55:40 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.05 ~ 2022.01.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/29/xKbIM2A6ltR4gq1hxU82zOin7XmSxqeu.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KT멤버십x메가박스] 라이프 다이어리 콤보 추첨 프로모션]]></title>
             <link>https://www.megabox.co.kr/event/promotion#</link>
