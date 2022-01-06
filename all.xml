@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 05:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 06:25:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/06/HHEB7F6YEYHZBxUGOnppsBJ7BenHoXPK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<청춘적니> 개봉 기념 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.12 ~ 2022.01.26]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/06/WXcjnFgWTy3dn6mopHPBNjPxXAVfyYnS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<씽2게더> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -102,6 +110,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.08 ~ 2022.01.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/04/aWW0FScGTFKl610I2YIqNVl2SLZiJTAP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<킹스맨 : 퍼스트 에이전트> 오리지널 뱃지 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.07 ~ 2022.01.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/06/hNjmrCDM6oRRGaLadBAgGsTfX7HXTcpz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<드라이브 마이 카> 3주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -280,14 +296,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/05/zbG92xclhiNs24w6yZ5i8kIFScwjEuuP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[강동지역] 강.센.이 X 상.동.성이 준비한 13월의 월급 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.10 ~ 2022.02.07]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/05/Hv8WaiI8marxgVvBOWk7RAPOkSYBCq52.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[광주하남] 공무원증 할인이 된다고? (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -310,6 +318,14 @@
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.01 ~ 2022.02.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/05/VBQXh3iivw9zIbFVXQMOvJzfDvsqBVq9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[강동지역] 강.센.이 X 상.동.성이 준비한 13월의 월급 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.01 ~ 2022.02.07]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/05/Hv8WaiI8marxgVvBOWk7RAPOkSYBCq52.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대구이시아] 라운지 이용권 런칭 (메가박스 ─ 이벤트 ─ 극장)]]></title>
