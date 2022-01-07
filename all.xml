@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 14:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 15:22:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,14 +294,6 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.25 ~ 2022.01.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/21/x3wylxUu1gym5DQ6Rpb3hLF5VamlnzzB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<노트르담> 개봉기념 현장 증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.24 ~ 2022.01.07]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/22/POfXOrkyFaFX3aqgjqGq1HU35CU5C6wC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<뉴욕 메트로폴리탄 오페라> 시즌 2022 라인업 (코엑스, 센트럴, 성수, 킨텍스, 분당, 목동) (메가박스 ─ 이벤트 ─ 극장)]]></title>
