@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 23:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 01:11:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,12 +56,36 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/05/nTwmKs2ypmNXPomQc3PzS2O5EqX1N0Hp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[특송]빵원티켓 ➕]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.10 ~ 2022.01.18]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/06/8HhNscyY6YrJzcXpDNaJPBZEaxzq3Qz5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<특송> 개봉 전 미리 만나는 주말 유료상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.09 ~ 2022.01.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/07/Bu8V45fKJGEzTRM2RHMAt3WH9IUTz5cx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<피드백> 개봉 기념 스페셜 GV]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.08 ~ 2022.01.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/04/aWW0FScGTFKl610I2YIqNVl2SLZiJTAP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[웨스트 사이드 스토리]빵원티켓 ➕]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.07 ~ 2022.01.18]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/06/Pr4ceMuE9RBpJmqsfjTmP3gUsYoWPlK4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<킹스맨 : 퍼스트 에이전트> 오리지널 뱃지 현장 증정 이벤트]]></title>
