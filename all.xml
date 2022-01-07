@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 09:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 10:24:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -638,6 +638,14 @@
             <pubDate>Thu, 21 Oct 2021 02:09:28 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.06 ~ 2022.01.16]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/06/oI8qeGRlFu8rAYBKasvkvKx1tpY5xquo.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[‘임신한 나무와 도깨비‘ 시사회에... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/72376499</link>
+            <guid>https://extmovie.com/sisaing/72376499</guid>
+            <pubDate>Fri, 07 Jan 2022 10:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[● 본 시사회는 백신접종 완료자 혹은 미접종자로서 필수 서류 지참한 사람만 입...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/499/376/072/295x295.crop.jpg?20220107183146" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['특송' 리뷰 이벤트 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
