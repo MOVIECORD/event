@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jan 2022 14:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 15:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,14 +70,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.09 ~ 2022.01.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/07/Bu8V45fKJGEzTRM2RHMAt3WH9IUTz5cx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<피드백> 개봉 기념 스페셜 GV]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.08 ~ 2022.01.08]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/04/aWW0FScGTFKl610I2YIqNVl2SLZiJTAP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[웨스트 사이드 스토리]빵원티켓 ➕]]></title>
@@ -206,22 +198,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.29 ~ 2022.01.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/27/GzBwEjrP959UGRRiLBABMcdh2FwjkLiM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<매트릭스: 리저렉션> 스페셜 엽서세트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.25 ~ 2022.01.08]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/23/ZbnjRpfYSoGZoEZz24JyUBi819iYbnS4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[볼쇼이 발레 인 시네마 <호두까기 인형> 현장 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.25 ~ 2022.01.08]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/21/x3wylxUu1gym5DQ6Rpb3hLF5VamlnzzB.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
