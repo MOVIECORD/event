@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 23:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 01:05:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -670,14 +670,6 @@
             <pubDate>Mon, 03 Jan 2022 05:21:33 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;프랑스&gt; 한줄평/리뷰 이벤트입니다. &lt;프랑스&gt; 관람 후 아직 못 본 분들에...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/647/225/072/295x295.crop.jpg?20220103134044" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['어나더 라운드' 익스... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/72163210</link>
-            <guid>https://extmovie.com/sisaing/72163210</guid>
-            <pubDate>Sat, 01 Jan 2022 02:43:05 GMT</pubDate>
-            <content:encoded><![CDATA[● 본 시사회는 백신 접종 완료자만 입장 가능합니다 (글 하단 안내 참조) 영화 &lt;...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/210/163/072/295x295.crop.jpg?20220103131008" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['청춘적니' 한줄평/리... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
