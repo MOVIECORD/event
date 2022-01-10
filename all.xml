@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 04:27:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 05:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.14 ~ 2022.01.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/06/NFskV3q4xJ5woeXSAET3WUAnNAvD1skR.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<드라이브 마이 카> 4주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.13 ~ 2022.01.26]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/10/ykYSrRcTWB3JuSz75KgwM1e3XPjSmCCQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<청춘적니> 포토카드 인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -558,6 +566,14 @@
             <pubDate>Thu, 21 Oct 2021 02:09:28 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.06 ~ 2022.01.16]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/06/oI8qeGRlFu8rAYBKasvkvKx1tpY5xquo.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['해적: 도깨비 깃발' ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/72463560</link>
+            <guid>https://extmovie.com/sisaing/72463560</guid>
+            <pubDate>Mon, 10 Jan 2022 05:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[● 본 시사회는 백신 접종 완료자만 입장 가능합니다 (글 하단 안내 참조) 영화 &lt;...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/560/463/072/295x295.crop.jpg?20220110140233" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘임신한 나무와 도깨비‘ 시사회에... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
