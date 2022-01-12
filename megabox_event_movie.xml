@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 01:07:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 02:40:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,14 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.12 ~ 2022.01.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/05/nTwmKs2ypmNXPomQc3PzS2O5EqX1N0Hp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[웨스트 사이드 스토리]2차 빵원티켓 ➕]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.12 ~ 2022.01.19]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/11/Er9GRjbI0Pp3b9IniJD3rcFpTSYttIPu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<볼쇼이 발레 인 시네마: 백조의 호수> 관람 후기 이벤트]]></title>
