@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 22:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 01:07:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -344,12 +344,44 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/05/zbG92xclhiNs24w6yZ5i8kIFScwjEuuP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[전주혁신] 대방 THE M CITY 입주민 할인 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.10 ~ 2022.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/07/14/pAqSMcMAow3K0Y85ugnaYUDV16pPuOl5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[청라지젤] 카카오 플러스 친구 추가 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.10 ~ 2022.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/09/15/Vnz6RAXzf0okhgIExmlWNsgkHR7KmKOY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[광주하남] 공무원증 할인이 된다고? (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.05 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/05/2VQL8ng7J02knrnzwgSExUQZVgqyZdm3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[천안, 안성스타필드] 팝콘은 입장 전 호로록 먹고 들어가자! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.03 ~ 2022.03.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/12/z0i9vALR5GDJ0VgbCnXxVcEhS5bLnH7n.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[삼천포] 아르떼리조트 이용객이라면? (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.01 ~ 2022.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/12/TZiwNLGbH332xRJiqxGC3coOrRZXUMp4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[부산대] 22년도 금정구 구민 할인 (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -366,6 +398,14 @@
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.01 ~ 2022.02.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/05/VBQXh3iivw9zIbFVXQMOvJzfDvsqBVq9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[부산,경남지역] 선호지점 선택하자~ (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.01 ~ 2022.02.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/24/nP9vTCeIei2rJM16qFMzC9JseRK30C4l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[강동지역] 강.센.이 X 상.동.성이 준비한 13월의 월급 (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -422,6 +462,14 @@
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.11 ~ 2022.02.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/25/dqNxzGSdzGA7YFC7p6Rb3PCmVL7KeDYQ.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[수원] 농협 임직원 제휴 할인 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.10 ~ 2022.11.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/12/AN3CpOSli9Kj3f4xiD2OFZO6XG2qhVA1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[서울, 부산 일부] 메가박스 X 파고다어학원 수강생 이벤트! (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -654,14 +702,6 @@
             <pubDate>Tue, 11 Jan 2022 01:07:31 GMT</pubDate>
             <content:encoded><![CDATA[● 본 시사회는 백신 접종 완료자만 입장 가능합니다 (글 하단 안내 참조) 영화 &lt;...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/888/492/072/295x295.crop.jpg?20220111100251" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['해적: 도깨비 깃발' ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/72463560</link>
-            <guid>https://extmovie.com/sisaing/72463560</guid>
-            <pubDate>Mon, 10 Jan 2022 05:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[● 본 시사회는 백신 접종 완료자만 입장 가능합니다 (글 하단 안내 참조) 영화 &lt;...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/560/463/072/295x295.crop.jpg?20220110214634" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘임신한 나무와 도깨비‘ 시사회에... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
