@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 23:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 01:09:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,22 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/10/b9q6WIj0hZZODjCjesk6mxWPpxjH1ReA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[해적: 도깨비 깃발] 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.14 ~ 2022.01.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/12/MBExPmN9cavizhugafIWqXT6AP0oRwK2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[킹메이커] 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.14 ~ 2022.01.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/12/xp1NxESzUYazzE4frVsj31wpOMDz9RtJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<킹메이커> 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -126,6 +142,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.13 ~ 2022.01.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/10/ykYSrRcTWB3JuSz75KgwM1e3XPjSmCCQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[특송] 2차 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.13 ~ 2022.01.21]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/11/2395C8FRGcaJowbaVDdlrRmbol1liKRo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<청춘적니> 포토카드 인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
