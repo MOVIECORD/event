@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 06:25:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 07:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -750,6 +750,14 @@
             <pubDate>Thu, 21 Oct 2021 02:09:28 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.06 ~ 2022.01.16]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/06/oI8qeGRlFu8rAYBKasvkvKx1tpY5xquo.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[블라인드 시사회에 초대합니다. (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/72624977</link>
+            <guid>https://extmovie.com/sisaing/72624977</guid>
+            <pubDate>Fri, 14 Jan 2022 07:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[블라인드 시사회에 초대합니다. 유명 배우가 나오는 해외 작품입니다. 꼭 참석하...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/977/624/072/295x295.crop.jpg?20220114161913" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['피그' 예매권 이벤트 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
