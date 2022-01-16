@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 14:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 15:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.12 ~ 2022.01.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/10/1Wo4M5Z9gdPMZSLJjoQCG8g4N7LvJBQS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<씽2게더>프로모션 콤보 출시 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.31 ~ 2022.01.16]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/30/Fl38LpoNwjguwhcfZf53xGUpEudX1Qfc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 No.44 <킹스맨: 퍼스트 에이전트> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -336,14 +328,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/31/BxkDHRj5zhQurxc33gGSxxW4jfivvBab.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<해탄적일천> A3 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.06 ~ 2022.01.16]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/04/xVk6WRBWjxTjMXIoN2yWnzFEIFVwDdzE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<노웨어 스페셜> 렌티큘러 엽서 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -576,14 +560,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/29/xKbIM2A6ltR4gq1hxU82zOin7XmSxqeu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[KT멤버십x메가박스] 라이프 다이어리 콤보 추첨 프로모션 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.05 ~ 2022.01.16]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/04/rFFIFZWJKgfApKw8FPkUPPYHxTWi6YId.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[KT멤버십 고객 메가박스 영화 할인 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
@@ -718,14 +694,6 @@
             <pubDate>Thu, 21 Oct 2021 02:09:28 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.13 ~ 2022.01.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/13/Gaak5XrzwbVRCRU2QLcXjqoFLIn81HCK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<킹메이커> 메가박스 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Thu, 21 Oct 2021 02:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.06 ~ 2022.01.16]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/06/oI8qeGRlFu8rAYBKasvkvKx1tpY5xquo.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['킹메이커' 앵콜 GV 시... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>

@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 14:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 15:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -254,14 +254,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.06 ~ 2022.01.17]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/31/BxkDHRj5zhQurxc33gGSxxW4jfivvBab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<해탄적일천> A3 포스터 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.06 ~ 2022.01.16]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/04/xVk6WRBWjxTjMXIoN2yWnzFEIFVwDdzE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<노웨어 스페셜> 렌티큘러 엽서 증정 이벤트]]></title>
