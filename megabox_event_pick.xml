@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 08:26:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 09:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 07 Oct 2021 12:22:18 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.26 ~ 2022.02.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/17/LL1vDwtzweOtBXBB3YbnHshx8WNpRGVq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 돌비시네마 페이퍼 엘피 Label.02 <웨스트 사이드 스토리>]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Thu, 07 Oct 2021 12:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.19 ~ 2022.01.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/17/GNTfSucJRVAWuYuaNkMAK8Ylru6TYYl9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가 설프라이즈 - 포인트 위크 🐯]]></title>

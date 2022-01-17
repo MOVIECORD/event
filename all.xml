@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 08:26:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 09:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.26 ~ 2022.02.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/17/LL1vDwtzweOtBXBB3YbnHshx8WNpRGVq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 돌비시네마 페이퍼 엘피 Label.02 <웨스트 사이드 스토리> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.19 ~ 2022.01.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/17/GNTfSucJRVAWuYuaNkMAK8Ylru6TYYl9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가 설프라이즈 - 포인트 위크 🐯 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -126,6 +134,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.20 ~ 2022.01.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/14/mFIpIaZUTBkZwvt9QjaGW99cFcW2AzJC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<도쿄 리벤저스> 개봉 기념 관객 선물 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.19 ~ 2022.02.02]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/17/EsYpDkLxbrsupxsq1zDWddej5GvPyk70.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<청춘적니> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -720,6 +736,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/14/MY1eoX6Gl534wY60VtHIBvngE6TMSfHH.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[<해적 : 도깨비깃발> 개봉 전 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Thu, 21 Oct 2021 02:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.22 ~ 2022.01.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/17/SQ4pYIskXmgWvGVmSc0L7HveoZCyBoBs.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<만년이 지나도 변하지 않는 게 있어> 메가박스 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
             <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
@@ -792,12 +816,12 @@
             <enclosure url="https://extmovie.com/files/thumbnails/576/514/072/295x295.crop.jpg?20220112200451" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘임신한 나무와 도깨비‘ 시사회에... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <title><![CDATA[[장소 변경] ‘임신한 나무와 도깨... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
             <link>https://extmovie.com/sisaing/72376499</link>
             <guid>https://extmovie.com/sisaing/72376499</guid>
             <pubDate>Fri, 07 Jan 2022 10:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[● 본 시사회는 백신접종 완료자 혹은 미접종자로서 필수 서류 지참한 사람만 입...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/499/376/072/295x295.crop.jpg?20220107183146" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[● 방역 패스 적용은 해제됐습니다. 영화 &lt;임신한 나무와 도깨비&gt; 시사회에 초대...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/499/376/072/295x295.crop.jpg?20220117173539" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시사회, 이벤트 당첨 확률 올리는 법 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
