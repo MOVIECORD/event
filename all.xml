@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 06:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 07:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.22 ~ 2022.01.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/13/bDyo9mzYF8CbHzJ5IX1Zn54EL9t8ArqN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<미스터 앤 미세스 아델만> 개봉 기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.20 ~ 2022.02.03]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/18/D4gqxeClmEaJU4qw6EruWC1s0fo8qMIw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<바이올렛 에버가든 오케스트라 콘서트 2021> 2주차 특전 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
