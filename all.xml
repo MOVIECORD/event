@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 03:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 04:24:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -804,8 +804,8 @@
             <link>https://extmovie.com/sisaing/72609132</link>
             <guid>https://extmovie.com/sisaing/72609132</guid>
             <pubDate>Fri, 14 Jan 2022 02:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[● 본 시사회는 백신접종 완료자 혹은 미접종자로서 필수 서류 지참한 사람만 입...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/132/609/072/295x295.crop.jpg?20220114102917" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[● 방역패스 해제됐습니다. 접종증명· 음성 확인은 별도 진행되지 않을 예정입니...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/132/609/072/295x295.crop.jpg?20220119122013" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['해적: 도깨비 깃발' ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
