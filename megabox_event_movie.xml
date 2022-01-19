@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 14:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 15:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,14 +256,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/05/nTwmKs2ypmNXPomQc3PzS2O5EqX1N0Hp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[웨스트 사이드 스토리]2차 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.12 ~ 2022.01.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/11/Er9GRjbI0Pp3b9IniJD3rcFpTSYttIPu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<볼쇼이 발레 인 시네마: 백조의 호수> 관람 후기 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -272,44 +264,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/11/FUC5BY9lkH3AtBxLf8rh7FkWrNNupgjW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[하우스 오브 구찌]2차 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.11 ~ 2022.01.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/31/BxkDHRj5zhQurxc33gGSxxW4jfivvBab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[청춘적니] 선착순 빵원티켓]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.11 ~ 2022.01.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/10/Kd2b716eGn293EOrY3zJX35pUbbvcmJD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<드라이브 마이 카> 3주차 현장증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.06 ~ 2022.01.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/31/co1kg0EYNGWLA6qJKUMqxnt5KDkwVKRZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<노웨어 스페셜> 렌티큘러 엽서 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.05 ~ 2022.01.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/04/y5HHrkK7sSJgVtqmXNW1CdErV0wmwQal.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<씽2게더> 개봉 기념 경품 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.05 ~ 2022.01.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/30/R9p8dW3q1R3OrnHHnMEfQn18JrpZyNd2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
