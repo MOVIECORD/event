@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 14:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 16:26:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,14 +238,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.13 ~ 2022.01.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/10/ykYSrRcTWB3JuSz75KgwM1e3XPjSmCCQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특송] 2차 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.13 ~ 2022.01.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/11/2395C8FRGcaJowbaVDdlrRmbol1liKRo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<청춘적니> 포토카드 인증 이벤트]]></title>
