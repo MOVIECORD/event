@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 01:01:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 02:11:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -768,6 +768,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/13/Gaak5XrzwbVRCRU2QLcXjqoFLIn81HCK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['피그' 익스트림무비 ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/72955570</link>
+            <guid>https://extmovie.com/sisaing/72955570</guid>
+            <pubDate>Mon, 24 Jan 2022 02:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[니콜라스 케이지 주연 영화 &lt;피그&gt; 익스트림무비 단독관 시사회에 초대합니다. ...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/570/955/072/295x295.crop.jpg?20220124104804" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['굿 보스' 언론, 배급 ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
             <link>https://extmovie.com/sisaing/72785484</link>
             <guid>https://extmovie.com/sisaing/72785484</guid>
@@ -781,7 +789,7 @@
             <guid>https://extmovie.com/sisaing/72609257</guid>
             <pubDate>Fri, 14 Jan 2022 02:42:09 GMT</pubDate>
             <content:encoded><![CDATA[니콜라스 케이지 주연 영화 &lt;피그&gt; 예매권 이벤트입니다. 위의 &lt;피그&gt; 포스터, ...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/257/609/072/295x295.crop.jpg?20220122190511" length="0" type="image/jpg"/>
+            <enclosure url="https://extmovie.com/files/thumbnails/257/609/072/295x295.crop.jpg?20220124104218" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['해적: 도깨비 깃발' ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
