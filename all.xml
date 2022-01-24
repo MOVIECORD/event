@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 05:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 06:26:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,14 +128,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/21/2wiPQF7piiWioo9C2fMiXHV2zyw6f3Ce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<프리! 더 파이널 스트로크 전편> 2주차 특전 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.27 ~ 2022.02.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/24/8SmMrN09wSolzK7jj58JmJ41sFGer3JV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<극장판 천재 추리 탐정 셜록홈즈> 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -144,12 +136,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/19/HWQO9yZ7AOvStVKkAtIrMFFFoL3USeZg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<프리! 더 파이널 스트로크 전편> 2주차 특전 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.27 ~ 2022.02.02]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/24/8SmMrN09wSolzK7jj58JmJ41sFGer3JV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[극장판 안녕 자두야: 제주도의 비밀] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.24 ~ 2022.02.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/21/0FrfXCgrpmT2RXHGeuk9Ku98d5IxyPO2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[아트나인과 함께 하는 <어나더 라운드> 시네마구구 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.24 ~ 2022.01.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/24/NZnlCtABFVi7wjVrNsM2LUdoJ64NRvwe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<특송> 단 3일간의 서프라이즈 6천원 관람 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -790,14 +798,6 @@
             <pubDate>Wed, 19 Jan 2022 02:02:11 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;굿 보스&gt; 언론, 배급 시사회에 초대합니다. 평일 오후에 진행됩니다. 꼭 ...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/484/785/072/295x295.crop.jpg?20220119100844" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['피그' 예매권 이벤트 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/72609257</link>
-            <guid>https://extmovie.com/sisaing/72609257</guid>
-            <pubDate>Fri, 14 Jan 2022 02:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[니콜라스 케이지 주연 영화 &lt;피그&gt; 예매권 이벤트입니다. 위의 &lt;피그&gt; 포스터, ...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/257/609/072/295x295.crop.jpg?20220124104218" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['해적: 도깨비 깃발' ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
