@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 04:25:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 05:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.28 ~ 2022.02.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/21/2wiPQF7piiWioo9C2fMiXHV2zyw6f3Ce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<원 세컨드> 개봉 기념 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.27 ~ 2022.02.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/25/2qrqEH2o7RN1ZBOi57WqalN5AASbEEpe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<극장판 천재 추리 탐정 셜록홈즈> 개봉기념 현장 증정 이벤트]]></title>
@@ -54,6 +62,14 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.27 ~ 2022.02.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/24/8SmMrN09wSolzK7jj58JmJ41sFGer3JV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<어나더 라운드> 2주차 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.26 ~ 2022.02.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/25/HI0kdiD0jo7OKtuxuOtKilqZJVT36R1c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<청춘적니> 3주차 현장증정 이벤트]]></title>
