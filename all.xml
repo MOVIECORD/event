@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 04:24:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 06:24:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -862,6 +862,14 @@
             <pubDate>Thu, 21 Oct 2021 02:09:28 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.14 ~ 2022.02.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/14/kvZYHvkxgc2yR2glh8HFA7KcxVmXocG6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윌 스미스의 자서전 '윌 WIL... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/73045380</link>
+            <guid>https://extmovie.com/sisaing/73045380</guid>
+            <pubDate>Wed, 26 Jan 2022 06:23:59 GMT</pubDate>
+            <content:encoded><![CDATA[할리우드 스타 윌 스미스의 자서전 &lt;윌 WILL&gt; 이벤트입니다. 윌 스미스가 출연한...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/380/045/073/295x295.crop.jpg?20220126150352" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['더 마더' 예매권 이벤트 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
