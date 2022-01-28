@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 03:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 04:25:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -664,20 +664,20 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/01/28/KFa8pQA1xZ0Ah1p8oHUNQVeDNStXkS4L.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[카카오뱅크 카드로 결제하면 4,000원 즉시할인 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.01 ~ 2022.07.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/07/27/TOPjDkRFANk2gHn5MRSEbjl6HRU9z1SP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[알뜰교통카드 X 메가박스] 알뜰하게 영화보고 콤보 구매하는 방법 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
             <pubDate>Thu, 07 Oct 2021 09:13:18 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.04 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/04/bgOu0U2V1FXLtQ0PbZRxj5SPENg0UzpQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오뱅크 카드로 결제하면 4,000원 즉시할인 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.01 ~ 2022.01.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/07/27/TOPjDkRFANk2gHn5MRSEbjl6HRU9z1SP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[메가박스X현대카드] 현대M포인트 금토일 5,000원 할인! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
