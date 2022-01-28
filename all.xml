@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 23:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 01:03:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코카콜라 에코백 증정 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.28 ~ 2022.02.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/27/SYyqxOmGwNmPzawIHFisukDGN95OIMgi.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 No.46 <킹메이커> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
@@ -104,6 +112,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/03/29/6EC7ZyTm663L6bBN7iqUtrQHoXvbAoqR.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[<나의 촛불> 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.06 ~ 2022.02.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/28/uQqoVwlfSuPl2w7KUWQfcGC1JO1oDwg0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<만년이 지나도 변하지 않는 게 있어> 스페셜 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -118,6 +134,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.30 ~ 2022.01.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/27/SQEDLI216XgNMX00rPyQ0iKZ9LBRp4H7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<인민을 위해 복무하라> 기대평 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.28 ~ 2022.02.11]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/28/pe3L1Q2EoO1WWupiyXYHdjYHtXEVzsSM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<스파이더맨: 노 웨이 홈> 스페셜 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
