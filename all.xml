@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 14:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 15:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -310,14 +310,6 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.17 ~ 2022.02.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/14/AKui9CZrk7BdAWOWkBfrH0HOdpJ3bTHV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<백조의 호수> 개봉 기념 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.15 ~ 2022.01.29]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/10/b9q6WIj0hZZODjCjesk6mxWPpxjH1ReA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해적: 도깨비 깃발] 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
