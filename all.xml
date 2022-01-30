@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 14:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 15:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,14 +126,6 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.31 ~ 2022.01.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/20/VleKpL5HKSVyMKT6Yr9j9csCxBrR75lT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<특송> 굿즈 패키지 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.30 ~ 2022.01.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/27/SQEDLI216XgNMX00rPyQ0iKZ9LBRp4H7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<킹메이커> 미니포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -326,14 +318,6 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.14 ~ 2022.01.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/12/xp1NxESzUYazzE4frVsj31wpOMDz9RtJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<청춘적니> 포토카드 인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.12 ~ 2022.01.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/06/HHEB7F6YEYHZBxUGOnppsBJ7BenHoXPK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<뉴욕 메트로폴리탄 오페라> 시즌 2022 라인업 (코엑스, 센트럴, 성수, 킨텍스, 분당, 목동) (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -750,14 +734,6 @@
             <pubDate>Thu, 21 Oct 2021 02:09:28 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.29 ~ 2022.02.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/20/CGliObAWgeAWm6OIZAwj22w8yViGYovr.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<해적 : 도깨비깃발> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Thu, 21 Oct 2021 02:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.29 ~ 2022.01.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/21/3xoe7ZKJSZUpjaB7WSy2a6RejnnWnSgM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<인민을 위해 복무하라> 메가박스 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
