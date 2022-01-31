@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 14:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 17:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.06 ~ 2022.02.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/28/uQqoVwlfSuPl2w7KUWQfcGC1JO1oDwg0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<만년이 지나도 변하지 않는 게 있어> 스페셜 굿즈패키지 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.31 ~ 2022.01.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/20/VleKpL5HKSVyMKT6Yr9j9csCxBrR75lT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<킹메이커> 미니포스터 증정 이벤트]]></title>
@@ -198,22 +190,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.17 ~ 2022.02.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/14/AKui9CZrk7BdAWOWkBfrH0HOdpJ3bTHV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해적: 도깨비 깃발] 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.14 ~ 2022.01.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/12/MBExPmN9cavizhugafIWqXT6AP0oRwK2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[킹메이커] 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.14 ~ 2022.01.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/12/xp1NxESzUYazzE4frVsj31wpOMDz9RtJ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
