@@ -4,7 +4,7 @@
         <title>익스트림무비 ─ 시사회 ─ 시사회진행</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 05:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 06:23:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 27 Jan 2022 04:24:50 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;리코리쉬 피자&gt; 언론, 배급 시사회에 초대합니다. 평일 오후에 진행됩니다...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/390/088/073/295x295.crop.jpg?20220127141927" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['킹메이커' 2차 리뷰 ...]]></title>
-            <link>https://extmovie.com/sisaing/73062422</link>
-            <guid>https://extmovie.com/sisaing/73062422</guid>
-            <pubDate>Wed, 26 Jan 2022 12:29:38 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;킹메이커&gt; 2차 리뷰 이벤트입니다. &lt;킹메이커&gt;를 관람하신 분들은 영화수...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/422/062/073/295x295.crop.jpg?20220126212449" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윌 스미스의 자서전 '윌 WIL...]]></title>
@@ -46,14 +38,6 @@
             <pubDate>Tue, 25 Jan 2022 01:08:44 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;만년이 지나도 변하지 않는 게 있어&gt; 시사회에 초대합니다. 꼭 참석하고 ...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/513/996/072/295x295.crop.jpg?20220125093728" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['안테벨룸' 예매권 이벤트]]></title>
-            <link>https://extmovie.com/sisaing/72975377</link>
-            <guid>https://extmovie.com/sisaing/72975377</guid>
-            <pubDate>Mon, 24 Jan 2022 09:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;안테벨룸&gt; 예매권 이벤트입니다. 위 포스터와 예고편을 보시고 &lt;안테벨룸&gt;이 기...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/377/975/072/295x295.crop.jpg?20220126101427" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['피그' 익스트림무비 ...]]></title>
