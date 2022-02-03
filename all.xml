@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 14:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 15:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -222,46 +222,6 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.26 ~ 2022.02.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/25/HaaMNMz5f237qGunaKOpgUA8G5e2LXJq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<미스터 앤 미세스 아델만> 개봉 기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.20 ~ 2022.02.03]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/18/D4gqxeClmEaJU4qw6EruWC1s0fo8qMIw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<바이올렛 에버가든 오케스트라 콘서트 2021> 2주차 특전 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.20 ~ 2022.02.03]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/18/qLSRflR8qhs7wiV3pRXd1b2dcDasiFIP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<미싱타는 여자들> 개봉주 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.20 ~ 2022.02.03]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/18/sFOYNFcWQ5pcqblYwW3oXlhiisWaZXGK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<드라이브 마이 카> 5주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.20 ~ 2022.02.03]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/17/h2AiDuXnApHmUeSKSHo5oElc0pkKFJJm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<프랑스> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.20 ~ 2022.02.03]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/14/18OnY60rxFuL61yV5xE6lzlo2r9gf4JC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<뉴욕 메트로폴리탄 오페라> 시즌 2022 라인업 (코엑스, 센트럴, 성수, 킨텍스, 분당, 목동) (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -640,12 +600,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/25/I1OA6YXnh0F0UrBjJWHcl2GBT3Iy3kOW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<가슴이 떨리는 건 너 때문> 메가박스 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Thu, 21 Oct 2021 02:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.14 ~ 2022.02.03]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/14/kvZYHvkxgc2yR2glh8HFA7KcxVmXocG6.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['시라노' 언론, 배급 ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/73342646</link>
+            <guid>https://extmovie.com/sisaing/73342646</guid>
+            <pubDate>Thu, 03 Feb 2022 15:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[에드가 라이트 감독의 &lt;시라노&gt; 언론, 배급 시사회에 초대합니다. 평일 오후에 ...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/646/342/073/295x295.crop.jpg?20220203235141" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['리코리쉬 피자' 언론 ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
