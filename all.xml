@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 23:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 01:01:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
             <content:encoded><![CDATA[2021.03.29 ~ 2022.02.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/03/29/6EC7ZyTm663L6bBN7iqUtrQHoXvbAoqR.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<어나더 라운드> 굿즈패키지 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.08 ~ 2022.02.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/04/INd8aa0xQde1ZTt9Q5bEKIMjifuTrIPZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[355] 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -592,6 +600,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/11/11/7zZFIneF9efbrMAybQh2NRAxkvTdfTD5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<해적 : 도깨비깃발> 2주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Thu, 21 Oct 2021 02:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.05 ~ 2022.02.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/04/Ga0XigCzIHAdwxsl52Ufe75Z5CFZCNaG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<인민을 위해 복무하라> 메가박스 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
             <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
@@ -604,8 +620,8 @@
             <link>https://extmovie.com/sisaing/73342646</link>
             <guid>https://extmovie.com/sisaing/73342646</guid>
             <pubDate>Thu, 03 Feb 2022 15:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[에드가 라이트 감독의 &lt;시라노&gt; 언론, 배급 시사회에 초대합니다. 평일 오후에 ...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/646/342/073/295x295.crop.jpg?20220203235141" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[조 라이트 감독의 &lt;시라노&gt; 언론, 배급 시사회에 초대합니다. 평일 오후에 진행...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/646/342/073/295x295.crop.jpg?20220204084113" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['리코리쉬 피자' 언론 ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
