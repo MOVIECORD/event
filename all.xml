@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 12:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 13:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -710,6 +710,14 @@
             <pubDate>Thu, 21 Oct 2021 02:09:28 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.25 ~ 2022.02.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/25/I1OA6YXnh0F0UrBjJWHcl2GBT3Iy3kOW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['우리가 사랑이라고 믿는 것... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/73378790</link>
+            <guid>https://extmovie.com/sisaing/73378790</guid>
+            <pubDate>Fri, 04 Feb 2022 13:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[영화 &lt;우리가 사랑이라고 믿는 것&gt; 언론, 배급 시사회에 초대합니다. 평일 오전...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/790/378/073/295x295.crop.jpg?20220204220712" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['시라노' 언론, 배급 ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
