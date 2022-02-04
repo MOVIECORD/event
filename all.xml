@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 13:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 15:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.26 ~ 2022.02.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/19/VsQerh4B2pdYsU3Gs11JXnhAvaIF7Dsc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 메가박스 새해 福 관람권 패키지 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.26 ~ 2022.02.04]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/25/xqH4xCrnqIQdSzpiBJkXbpIy6MBD9baH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 라이프 다이어리 2022 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
