@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 03:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 04:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
             <content:encoded><![CDATA[2021.03.29 ~ 2022.02.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/03/29/6EC7ZyTm663L6bBN7iqUtrQHoXvbAoqR.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<굿 보스> 이동진 평론가 & 민용준 기자 GV 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.11 ~ 2022.02.11]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/04/6rXlPVGnitsc2gA8SxyojPB5lsE6xEPi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<어나더 라운드> 굿즈패키지 (메가박스 ─ 이벤트 ─ 영화)]]></title>
