@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 14:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 15:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.26 ~ 2022.02.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/24/mv1JOk1kVQFT2lZu6TjCPvg9iMyAySld.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가 설프라이즈 - 골드 위크 🎁 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.26 ~ 2022.02.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/19/VsQerh4B2pdYsU3Gs11JXnhAvaIF7Dsc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 라이프 다이어리 2022 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -142,14 +134,6 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.07 ~ 2022.02.15]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/03/LCG66mAdv71PM9Z5zF6BM9TaAUf9trap.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<나의 촛불> 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.06 ~ 2022.02.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/28/uQqoVwlfSuPl2w7KUWQfcGC1JO1oDwg0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<어나더 라운드> 3주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -254,14 +238,6 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.27 ~ 2022.02.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/24/LvQKW2GgyBqSGGFSoM3STlXONTgvOFV9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트나인과 함께 하는 <미싱타는 여자들> 예매 경품 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.27 ~ 2022.02.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/25/tzd0Ln9Jr1IgTVKgsjwexurTzAWSN2SI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<어나더 라운드> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -686,14 +662,6 @@
             <pubDate>Thu, 21 Oct 2021 02:09:28 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.13 ~ 2022.02.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/04/NlQIGMa8QduU3IpkKM9gHfDpEKFFgpSr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<해적 : 도깨비깃발> 2주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Thu, 21 Oct 2021 02:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.05 ~ 2022.02.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/04/Ga0XigCzIHAdwxsl52Ufe75Z5CFZCNaG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<피그> 메가박스 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
