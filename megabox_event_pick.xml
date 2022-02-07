@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 02:32:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 03:20:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메가박스 소식 받고 혜택 수락하시겠습니까?]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Thu, 07 Oct 2021 12:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.07 ~ 2022.02.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/07/lGZCeJSQm97FZzuKGa69EX6C2c1oW9gY.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메가 설프라이즈 - 연휴 후유증 제로 위크 💊]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
