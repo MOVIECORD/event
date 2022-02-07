@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 14:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 15:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,14 +182,6 @@
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.01 ~ 2022.02.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/24/nP9vTCeIei2rJM16qFMzC9JseRK30C4l.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[강동지역] 강.센.이 X 상.동.성이 준비한 13월의 월급]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.01 ~ 2022.02.07]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/05/Hv8WaiI8marxgVvBOWk7RAPOkSYBCq52.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대구이시아] 라운지 이용권 런칭]]></title>
