@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 04:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 05:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -694,6 +694,14 @@
             <pubDate>Thu, 21 Oct 2021 02:09:28 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.25 ~ 2022.02.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/25/I1OA6YXnh0F0UrBjJWHcl2GBT3Iy3kOW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['안테벨룸' 익스트림무... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/73447972</link>
+            <guid>https://extmovie.com/sisaing/73447972</guid>
+            <pubDate>Mon, 07 Feb 2022 05:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;안테벨룸&gt; 익스트림무비 단독관 시사회에 초대합니다. 꼭 참석하고 게시판에 후...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/972/447/073/295x295.crop.jpg?20220207141615" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['우리가 사랑이라고 믿는 것... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
