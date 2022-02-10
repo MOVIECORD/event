@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 06:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 07:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,14 +206,6 @@
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.03 ~ 2022.03.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/12/z0i9vALR5GDJ0VgbCnXxVcEhS5bLnH7n.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대구경북지역] 루카치키 x 메가박스 대구경북]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.01 ~ 2022.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/10/QKkSeDxP9Gu2AiY7h3qpAMM5QwSvIx0O.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[파주금촌] 농협 임직원 제휴 할인]]></title>

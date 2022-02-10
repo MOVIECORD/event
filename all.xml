@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 06:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 07:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,6 +94,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
             <content:encoded><![CDATA[2021.03.29 ~ 2022.02.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/03/29/6EC7ZyTm663L6bBN7iqUtrQHoXvbAoqR.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<리프레쉬> 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.20 ~ 2022.02.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/10/vKXeukS4EabFlUynUx3UGGVfjudluU3q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<만년이 지나도 변하지 않는 게 있어> 트럼프카드 굿즈 패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.03 ~ 2022.03.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/12/z0i9vALR5GDJ0VgbCnXxVcEhS5bLnH7n.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대구경북지역] 루카치키 x 메가박스 대구경북 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.01 ~ 2022.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/10/QKkSeDxP9Gu2AiY7h3qpAMM5QwSvIx0O.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[파주금촌] 농협 임직원 제휴 할인 (메가박스 ─ 이벤트 ─ 극장)]]></title>
