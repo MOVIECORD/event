@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 08:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 09:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.20 ~ 2022.02.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/10/vKXeukS4EabFlUynUx3UGGVfjudluU3q.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<시크릿 카운터> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.17 ~ 2022.03.03]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/10/RdSSqJz9LhJvE7CXfX6aEftnyFqEjLC6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<만년이 지나도 변하지 않는 게 있어> 트럼프카드 굿즈 패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
