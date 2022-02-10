@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 23:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 01:05:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.10 ~ 2022.02.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/08/EcZSmqNpdoT2tOd92iztEfvwLTspm3pA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[355] 2차 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.10 ~ 2022.02.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/08/6F4aoVValRYLVr1w1haiLd1uNSrL0nbp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<프리! 더 파이널 스트로크 전편> 4주차 특전 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
