@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 04:24:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 05:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.13 ~ 2022.02.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/04/gkwCaXs9ntilQ8XadGvOzqcz1jr0EzMl.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<어나더 라운드> 4주차 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.12 ~ 2022.02.26]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/10/hCtqCaYZj7vd00YZ5hFjxcfXUp8bNsm9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<굿 보스> 개봉기념 현장증정 이벤트]]></title>
