@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 08:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 09:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.17 ~ 2022.02.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/11/FZlFxQbqgp0mLNfLSL6WLfPBJAYanbsY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<언차티드> 돌비 포스터 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.16 ~ 2022.03.02]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/11/aFqxTl03DgUPab7EwBaYfYLJ5DXkhuvW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[리프레쉬] 선착순 빵원티켓]]></title>
