@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 08:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 09:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[<나일 강의 죽음> 스페셜 엽서세트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.16 ~ 2022.02.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/14/cl0RWyoDNM3MNSWF9npQCERG3x9CScqc.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 No.47 <나일 강의 죽음> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
@@ -136,6 +128,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/14/UcqdP6HiJZVLBrgtapcjHz4PtmXqbXay.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<역으로 가는 길을 알려줘> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.17 ~ 2022.03.03]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/14/PE04KZxmKCYo7cIPjhV5RgdkrtGKUKxW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<시크릿 카운터> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -160,12 +160,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/11/FZlFxQbqgp0mLNfLSL6WLfPBJAYanbsY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<만년이 지나도 변하지 않는 게 있어> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.16 ~ 2022.03.02]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/14/QLq6CxL3EJeXO3m2hATcpv5D4bU8ZRYm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<언차티드> 돌비 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.16 ~ 2022.03.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/11/aFqxTl03DgUPab7EwBaYfYLJ5DXkhuvW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<나일 강의 죽음> 스페셜 엽서세트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.16 ~ 2022.02.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/14/cl0RWyoDNM3MNSWF9npQCERG3x9CScqc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<볼쇼이 발레 인 시네마 : 주얼스> 관람 후기 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
