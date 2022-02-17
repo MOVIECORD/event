@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 08:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 11:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,6 +126,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.26 ~ 2022.02.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/16/yKG5buMb3yiCT31afHIUDAcGSveEiumU.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<안테벨룸> 한정판 아트 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.23 ~ 2022.03.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/17/Q8BvkrCFOSz6mKjLfatjF46G6bOFbKI0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<만년이 지나도 변하지 않는 게 있어> 굿즈 패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -872,6 +880,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/10/lfuOhdKvwapu6i5rSEt66NgG6TuQmePZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['그 남자는 타이타닉을 보고... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/73844262</link>
+            <guid>https://extmovie.com/sisaing/73844262</guid>
+            <pubDate>Thu, 17 Feb 2022 11:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[영화 &lt;그 남자는 타이타닉을 보고 싶지 않았다&gt; 익스트림무비 단독관 시사회에 ...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/262/844/073/295x295.crop.jpg?20220217195954" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['유어 러브 송' 시사회... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
             <link>https://extmovie.com/sisaing/73787418</link>
             <guid>https://extmovie.com/sisaing/73787418</guid>
@@ -894,14 +910,6 @@
             <pubDate>Mon, 14 Feb 2022 07:19:09 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;인민을 위해 복무하라&gt; 시사회에 초대합니다. 청소년 관람불가입니다. 성...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/490/715/073/295x295.crop.jpg?20220214160738" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['나이트메어 앨리' 예... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/73543786</link>
-            <guid>https://extmovie.com/sisaing/73543786</guid>
-            <pubDate>Fri, 11 Feb 2022 14:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[94회 아카데미 시상식 작품상 후보, 기예르모 델 토로 감독작 &lt;나이트메어 앨리&gt;...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/786/543/073/295x295.crop.jpg?20220211223303" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['피그' 한줄평/리뷰 이... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
