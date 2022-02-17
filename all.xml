@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 02:33:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 03:21:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -222,6 +222,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.16 ~ 2022.03.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/11/aFqxTl03DgUPab7EwBaYfYLJ5DXkhuvW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<킹메이커> 7,000원 할인 특가 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.16 ~ 2022.03.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/17/d09YsuGWvCZu8p0VoOB0MaE4PYTCGTZS.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<나일 강의 죽음> 스페셜 엽서세트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
