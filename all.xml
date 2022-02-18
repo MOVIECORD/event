@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 23:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 01:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.23 ~ 2022.03.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/17/Q8BvkrCFOSz6mKjLfatjF46G6bOFbKI0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인민을 위해 복무하라] 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.21 ~ 2022.03.03]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/18/VT6EJYKgT7EsNPBOkxZPj5fkQ4jgnLLg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<만년이 지나도 변하지 않는 게 있어> 굿즈 패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -862,6 +870,14 @@
             <pubDate>Thu, 21 Oct 2021 02:09:28 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.26 ~ 2022.02.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/16/FFWnF5l6o4DPUNQq4tn4Hg7dH4ENmF0e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<전투왕> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Thu, 21 Oct 2021 02:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.19 ~ 2022.02.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/18/NJlcNYURxpGSKSMuHX1tr2IoQg7NaXPL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<나의 촛불> 2주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
