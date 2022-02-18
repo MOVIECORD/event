@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 04:26:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 06:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.23 ~ 2022.03.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/17/Q8BvkrCFOSz6mKjLfatjF46G6bOFbKI0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<세라비 다섯 번의 기적> 관람 인증 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.23 ~ 2022.03.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/18/UiYydBXPSlHKZfwwdguAzWRLMxiB4fQ2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[광대: 소리꾼] 선착순 빵원티켓]]></title>

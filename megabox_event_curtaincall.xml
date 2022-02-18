@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 04:26:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 06:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<인민을 위해 복무하라> 개봉주 무대인사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Thu, 21 Oct 2021 02:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.26 ~ 2022.02.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/18/mrU5Y7cNFZn096V6cXLh8WQsr3BFqxjZ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<매미소리> 개봉 주 무대인사]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>

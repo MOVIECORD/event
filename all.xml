@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 04:26:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 06:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.23 ~ 2022.03.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/17/Q8BvkrCFOSz6mKjLfatjF46G6bOFbKI0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<세라비 다섯 번의 기적> 관람 인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.23 ~ 2022.03.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/18/UiYydBXPSlHKZfwwdguAzWRLMxiB4fQ2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[광대: 소리꾼] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -880,6 +888,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/11/11/7zZFIneF9efbrMAybQh2NRAxkvTdfTD5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<인민을 위해 복무하라> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Thu, 21 Oct 2021 02:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.26 ~ 2022.02.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/18/mrU5Y7cNFZn096V6cXLh8WQsr3BFqxjZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<매미소리> 개봉 주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
             <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
@@ -934,22 +950,6 @@
             <pubDate>Mon, 14 Feb 2022 07:19:09 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;인민을 위해 복무하라&gt; 시사회에 초대합니다. 청소년 관람불가입니다. 성...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/490/715/073/295x295.crop.jpg?20220214160738" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['피그' 한줄평/리뷰 이... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/73499570</link>
-            <guid>https://extmovie.com/sisaing/73499570</guid>
-            <pubDate>Wed, 09 Feb 2022 10:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;피그&gt; 한줄평/리뷰 이벤트입니다. &lt;피그&gt; 관람 후 아직 못 본 분들에게 추...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/570/499/073/295x295.crop.jpg?20220209182316" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['안테벨룸' 익스트림무... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/73447972</link>
-            <guid>https://extmovie.com/sisaing/73447972</guid>
-            <pubDate>Mon, 07 Feb 2022 05:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;안테벨룸&gt; 익스트림무비 단독관 시사회에 초대합니다. 꼭 참석하고 게시판에 후...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/972/447/073/295x295.crop.jpg?20220209183822" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시사회, 이벤트 당첨 확률 올리는 법 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
