@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 14:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 15:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,14 +102,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.20 ~ 2022.02.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/10/vKXeukS4EabFlUynUx3UGGVfjudluU3q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<가슴이 떨리는 건 너 때문> 오리지널 파우치 증정 특별 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.19 ~ 2022.02.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/14/UcqdP6HiJZVLBrgtapcjHz4PtmXqbXay.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안테벨룸] 빵원티켓 ➕]]></title>
@@ -310,14 +302,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.09 ~ 2022.02.22]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/04/cREle1qjT50HRf2J2jsJdVrsunewf8SO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<어나더 라운드> 3주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.05 ~ 2022.02.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/04/IaTMLNkEfdNmFyL2q0iqiDI9Ce7OFRmf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
