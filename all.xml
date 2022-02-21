@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 08:24:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 09:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.26 ~ 2022.02.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/21/rFQ5gdYYvdgPpL3G1DwATJUB2t3LhdoR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<프리! 더 파이널 스트로크 전편> 마지막 주차 특전 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.24 ~ 2022.03.02]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/21/0uU5tjbkTGhCBh1ZpDxSshzHV5a2sscF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<나이트메어 앨리> 타로카드 패키지 (메가박스 ─ 이벤트 ─ 영화)]]></title>
