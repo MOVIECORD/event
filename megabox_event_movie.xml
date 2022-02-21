@@ -4,9 +4,25 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 07:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 08:24:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<더 배트맨> 스페셜 굿즈패키지 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.02 ~ 2022.03.02]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/21/ojVj0MTrZ2t0gsrTeF4uLJkmxuPlzKiH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<스펜서> 2022 아카데미 기획전 포스터 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.27 ~ 2022.02.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/21/RLil10fhVinvBeeeQCtC8CRaecVAtb2q.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<피그> 스페셜 굿즈패키지 상영회]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
@@ -38,6 +54,14 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.26 ~ 2022.02.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/21/rFQ5gdYYvdgPpL3G1DwATJUB2t3LhdoR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<나이트메어 앨리> 타로카드 패키지]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.23 ~ 2022.03.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/21/eT42LMA4qwHaiMmcsZu6jHtC6osbdOpp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<피그> 개봉기념 현장증정 이벤트]]></title>
