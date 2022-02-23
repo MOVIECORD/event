@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 06:24:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 07:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,28 +72,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/08/qjmlX9n9VXZoXggMAcQpZnujEF7h5kmJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022년 VIP 선정 기준 안내 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.23 ~ 2023.02.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/19/qjtRQP6uIxWMcLW4cNgBy98tihTJ1prf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[나도 영화 평론가! 관람평 쓰고 포인트 받자! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.01 ~ 2022.06.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/30/r5HfuUkYR7L9ww5F8n9n0oAbdlM8rtjr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 VIP 혜택 안내 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[2021.02.25 ~ 2022.02.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/02/25/YYTfgW0Xw0hywOL0yiniNJL8GbfCEXrR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신규 & 휴면회원 만.반.잘.부! 모두 혜택 받아가세요 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
