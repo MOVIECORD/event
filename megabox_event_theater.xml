@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 05:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 06:24:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.01 ~ 2022.05.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/17/OPfUYiLVUQk54qjj7sowPVxyahLMEeJp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[코엑스] '지금 우리 코돌비는' 킹쁘다]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.01 ~ 2022.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/24/YiquevP8FHT7TckMfUOqFedOSYH9Bk7i.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[광주상무] 공무원증 할인이 된다고?]]></title>
@@ -93,7 +101,7 @@
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.01 ~ 2022.06.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/10/16p7EHmY9xFJ3NaORsQmlYTLjtWXSux8.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/24/BNoaWY6rFxd3BcnLHUk2qtjjclj4qbZE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[경기남부지역] 경기남부지역은 단골 모집 중]]></title>
