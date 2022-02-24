@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 12:32:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 15:21:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,14 +200,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/21/0uU5tjbkTGhCBh1ZpDxSshzHV5a2sscF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<전투왕> 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.24 ~ 2022.02.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/22/KfKNMoRqlEbXpzNHtLNnBClEsdkrTVhH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<안테벨룸> 관람인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -398,14 +390,6 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.12 ~ 2022.02.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/07/1NzcqEdI0kBucTMKXUafXknPC1EShEbv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<더 마더> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.10 ~ 2022.02.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/08/EcZSmqNpdoT2tOd92iztEfvwLTspm3pA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<뉴욕 메트로폴리탄 오페라> 시즌 2022 라인업 (코엑스, 센트럴, 성수, 킨텍스, 분당, 목동) (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -982,6 +966,14 @@
             <pubDate>Tue, 22 Feb 2022 13:24:32 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;안테벨룸&gt; 한줄평/리뷰 이벤트입니다. &lt;안테벨룸&gt; 관람 후 아직 못 본 분...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/603/020/074/295x295.crop.jpg?20220222214718" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['더 배트맨' 스크린X, ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/74014010</link>
+            <guid>https://extmovie.com/sisaing/74014010</guid>
+            <pubDate>Thu, 24 Feb 2022 15:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[영화 &lt;더 배트맨&gt; 스크린X / 4DX 예매권 이벤트입니다. 아래 댓글 신청 방법 예...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/010/014/074/295x295.crop.jpg?20220224235030" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['어거스트 버진' 시사... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
