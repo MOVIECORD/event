@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 03:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 04:25:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,22 @@
             <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
             <content:encoded><![CDATA[2021.03.29 ~ 2022.02.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/03/29/6EC7ZyTm663L6bBN7iqUtrQHoXvbAoqR.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<유어 러브 송> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.16 ~ 2022.03.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/25/4ZSwy4dZnvYqcnhLDMGGznqAE2xIbZHa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<유어 러브 송> 메가박스 포토카드 인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.16 ~ 2022.03.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/25/y19BE0FaW0W6S7q9bdj3fEMBbsfMwFkY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<소피의 세계> 스페셜 굿즈패키지 (메가박스 ─ 이벤트 ─ 영화)]]></title>
