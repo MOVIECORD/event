@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Feb 2022 14:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 15:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.22 ~ 2022.03.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/22/FjCWEUtgEmwUQRVFnHhqxpUoXBmknVDH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남돌비에서 마음껏 즐겨라!! 남돌비 원데이 패스 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.22 ~ 2022.02.26]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/22/lcUAl7gkPXZo2oNaz7nqV7lXF8HmkIKs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[멤버십 ONLY] 2월 메가 포인트 위크 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -190,14 +182,6 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.26 ~ 2022.02.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/16/yKG5buMb3yiCT31afHIUDAcGSveEiumU.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<이상한 나라의 수학자> 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.26 ~ 2022.02.26]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/21/rFQ5gdYYvdgPpL3G1DwATJUB2t3LhdoR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<극장판 주술회전 0> 돌비시네마 굿즈 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -422,22 +406,6 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.14 ~ 2022.03.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/14/lQ9Wl5SWTKhWMs7oFVvgIFACeMNGcDLg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<어나더 라운드> 4주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.12 ~ 2022.02.26]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/10/hCtqCaYZj7vd00YZ5hFjxcfXUp8bNsm9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<굿 보스> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.12 ~ 2022.02.26]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/07/1NzcqEdI0kBucTMKXUafXknPC1EShEbv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<뉴욕 메트로폴리탄 오페라> 시즌 2022 라인업 (코엑스, 센트럴, 성수, 킨텍스, 분당, 목동) (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -974,14 +942,6 @@
             <pubDate>Thu, 21 Oct 2021 02:09:28 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.26 ~ 2022.02.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/18/mrU5Y7cNFZn096V6cXLh8WQsr3BFqxjZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<매미소리> 개봉 주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Thu, 21 Oct 2021 02:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.26 ~ 2022.02.26]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/16/FFWnF5l6o4DPUNQq4tn4Hg7dH4ENmF0e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['그 남자는 타이타닉을 보고... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
