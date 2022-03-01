@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 01:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 02:47:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -704,6 +704,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/01/a6Hpyo5EtJ0XBKIbAC62RMsbg9BjZqMr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[페이북X메가박스] 매주 수요일 출석체크하고 메가박스 혜택받자! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.01 ~ 2022.03.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/28/SNem4CRaAEXC5afi3XbndlTdJwDifYzQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[차이로 결제하고 캐시백+쿠폰 혜택 받으세요! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
@@ -827,7 +835,7 @@
             <title><![CDATA[undefined (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 01 Mar 2022 01:19:17 GMT</pubDate>
+            <pubDate>Tue, 01 Mar 2022 02:47:23 GMT</pubDate>
             <content:encoded><![CDATA[해당 이벤트가 없습니다.]]></content:encoded>
         </item>
         <item>
