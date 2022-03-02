@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 14:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 15:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/23/sZeQsC6R2U9IX1tDBmninbMFKyR6k5mt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<더 배트맨> 스페셜 굿즈패키지 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.02 ~ 2022.03.02]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/21/ojVj0MTrZ2t0gsrTeF4uLJkmxuPlzKiH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<나이트메어 앨리> 스페셜 엽서세트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -158,30 +150,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.24 ~ 2022.03.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/24/Q9x7ofEgPDi9Iuhz7zuDKPOlqv0aFLQC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<우리가 사랑이라고 믿는 것> 개봉기념 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.24 ~ 2022.03.02]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/22/KGlN1nr8SrxtDylNVAaPcDemmoECw352.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 주술회전 0> 개봉 2주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.24 ~ 2022.03.02]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/22/zTynwVUraxBnmIkT0yErmNMvSQPeJHfh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<프리! 더 파이널 스트로크 전편> 마지막 주차 특전 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.24 ~ 2022.03.02]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/21/0uU5tjbkTGhCBh1ZpDxSshzHV5a2sscF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<안테벨룸> 관람인증 이벤트]]></title>
@@ -280,14 +248,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/18/VT6EJYKgT7EsNPBOkxZPj5fkQ4jgnLLg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[안테벨룸] 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.18 ~ 2022.03.02]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/15/5LjQpmrtVmQKmQSFjC6DjnpCdDKYvFCg.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[<굿 보스> 2주차 현장증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -310,30 +270,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.17 ~ 2022.03.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/10/RdSSqJz9LhJvE7CXfX6aEftnyFqEjLC6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<씽2게더> 이어폰 케이스 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.16 ~ 2022.03.02]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/15/ZP3LTjrX3TlEWVYvByMCfqzJnUqJcAV4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<만년이 지나도 변하지 않는 게 있어> 2주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.16 ~ 2022.03.02]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/14/QLq6CxL3EJeXO3m2hATcpv5D4bU8ZRYm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<언차티드> 돌비 포스터 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.16 ~ 2022.03.02]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/11/aFqxTl03DgUPab7EwBaYfYLJ5DXkhuvW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<볼쇼이 발레 인 시네마 : 주얼스> 관람 후기 이벤트]]></title>
