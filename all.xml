@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 06:25:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 07:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,6 +118,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.04 ~ 2022.03.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/28/fufEKU1ktQmaNlx2GoxNwJdXdkMjLm9d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<나이트 레이더스> 개봉기념 오리지널 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.03 ~ 2022.03.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/02/UV1CO6JQTOfCnWupqYJHKkA1EGd3Vmpl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<소피의 세계> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -827,7 +835,7 @@
             <title><![CDATA[undefined (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 02 Mar 2022 06:24:58 GMT</pubDate>
+            <pubDate>Wed, 02 Mar 2022 07:19:58 GMT</pubDate>
             <content:encoded><![CDATA[해당 이벤트가 없습니다.]]></content:encoded>
         </item>
         <item>
