@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 14:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 15:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,14 +72,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/25/HXDNcTbM0CulsT07689xcqcEwb4pPYQ1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<더 배트맨> 앵콜 스페셜 굿즈 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.04 ~ 2022.03.04]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/28/fufEKU1ktQmaNlx2GoxNwJdXdkMjLm9d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<나이트 레이더스> 개봉기념 오리지널 포스터 증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -142,14 +134,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.28 ~ 2022.03.16]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/28/KENqd2UKLLRiLnusDL6V8wfNWpyJ6y4N.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트나인과 함께 하는 <피그> 굿즈패키지 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.28 ~ 2022.03.04]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/28/vzhurxuV5uFca0QKPmaRnMIQLmxBpbfa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<우리가 사랑이라고 믿는 것> 관람 인증 이벤트]]></title>
@@ -232,14 +216,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/15/5LjQpmrtVmQKmQSFjC6DjnpCdDKYvFCg.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[<세라비 다섯 번의 기적> 관람 인증 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.23 ~ 2022.03.04]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/18/UiYydBXPSlHKZfwwdguAzWRLMxiB4fQ2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[인민을 위해 복무하라]2차 빵원티켓 ➕]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -262,14 +238,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.21 ~ 2022.03.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/21/Sjk0KPnbMh9ghHNsGK9Y4TjifEg5HTj8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<볼쇼이 발레 인 시네마 : 주얼스> 관람 후기 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.14 ~ 2022.03.04]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/14/lQ9Wl5SWTKhWMs7oFVvgIFACeMNGcDLg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
