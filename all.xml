@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 23:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 02:39:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.08 ~ 2022.03.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/03/Kft4KhBWe96x4KlYiZGBXd7F1YQppGkZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[문폴] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.07 ~ 2022.03.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/05/mFgQzOI3lxFNUwZmYdGV1PqKb3hxcoub.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<소피의 세계> 스페셜 굿즈패키지 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -755,7 +763,7 @@
             <title><![CDATA[undefined (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Fri, 04 Mar 2022 23:20:08 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2022 02:39:19 GMT</pubDate>
             <content:encoded><![CDATA[해당 이벤트가 없습니다.]]></content:encoded>
         </item>
         <item>
