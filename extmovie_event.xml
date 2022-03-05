@@ -4,7 +4,7 @@
         <title>익스트림무비 ─ 시사회 ─ 시사회진행</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 11:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 12:30:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Fri, 25 Feb 2022 01:11:59 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;나이트메어 앨리&gt; 리뷰 이벤트입니다. &lt;나이트메어 앨리&gt;를 관람하신 분들...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/734/024/074/295x295.crop.jpg?20220225090534" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['어거스트 버진' 시사...]]></title>
-            <link>https://extmovie.com/sisaing/73996957</link>
-            <guid>https://extmovie.com/sisaing/73996957</guid>
-            <pubDate>Tue, 22 Feb 2022 04:25:14 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;어거스트 버진&gt; 시사회에 초대합니다. 꼭 참석하고 게시판에 후기 남겨주...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/957/996/073/295x295.crop.jpg?20220222130615" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시사회, 이벤트 당첨 확률 올리는 법]]></title>
