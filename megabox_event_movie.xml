@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 14:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 15:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.05 ~ 2022.03.19]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/02/xuzfjxAfpGtfB9ZqBhELO39RMN3JMise.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<그 남자는 타이타닉을 보고 싶지 않았다> 굿즈패키지 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.05 ~ 2022.03.05]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/28/VrDlmXb8mNV3DfAcjECSATIJlfYDJqHE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블랙라이트] 선착순 빵원티켓]]></title>
