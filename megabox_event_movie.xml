@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 05:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 07:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,12 +40,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/07/N7fhZ7SPt6k6fppoAa4bDJPAeydj2AqF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<그 남자는 타이타닉을 보고 싶지 않았다> A3 포스터 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.10 ~ 2022.03.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/07/tBq1jJqXOlmiSOLAp0VLgxqF0BLhngYc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<레벤느망> 개봉기념 현장증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.10 ~ 2022.03.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/07/LxHVsAU7HOZktYSg3iTb1cz6re50OYxA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<나의 히어로 아카데미아 더 무비: 월드 히어로즈 미션> 1주차 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.09 ~ 2022.03.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/07/ghIbkqSbWHKe8QEc0h2F7G7evpcVMa6t.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<더 배트맨> 미니 포스터 증정 이벤트]]></title>
