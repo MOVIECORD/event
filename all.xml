@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 07:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 09:20:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.01 ~ 2022.06.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/30/r5HfuUkYR7L9ww5F8n9n0oAbdlM8rtjr.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[VIP제휴혜택] 2022 교보문고 & 핫트랙스 특별 제휴 안내 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.01 ~ 2023.02.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/08/6H8FMDOaAsy1LX4uA9TJlso9nOMWH3z5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신규 & 휴면회원 만반잘부! 모두 혜택 받아가세요 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -158,6 +166,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.09 ~ 2022.03.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/04/MP5CL44ia57tkaN7LYtmTnQ4uX2w0g6v.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<이상한 나라의 수학자> 딸기 우유 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.09 ~ 2022.03.15]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/08/9zZ51CEAvAwxqufu77WKf1qIs0XrSKRq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<극장판 주술회전 0> 4주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
