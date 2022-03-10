@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 14:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 15:32:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -254,22 +254,6 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.28 ~ 2022.03.16]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/28/KENqd2UKLLRiLnusDL6V8wfNWpyJ6y4N.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 주술회전 0> 돌비시네마 굿즈 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.24 ~ 2022.03.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/22/AqBM0Xlpy5QJPy8NGTaDvHPeVWYxBPpd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<굿 보스> 3주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.24 ~ 2022.03.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/22/6CgfFWwZ1LrpnbIQivJsgNiPPiDsDgVH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<안테벨룸> 관람인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
