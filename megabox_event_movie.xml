@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 09:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 10:23:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.27 ~ 2022.03.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/11/qpjdYg7CtBivTojley0QEJkUXt08ZXeN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<리디밍 러브> 굿즈패키지 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.26 ~ 2022.03.26]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/15/ap2YJaEEA0xbys1pUxuKR9NoUMUnByPg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<매미소리> 스페셜 GV 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.24 ~ 2022.03.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/15/5uV7QGBn1poHCiC2bwWV20k8w1Q5W4XI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<뜨거운 피> 메가토크]]></title>
