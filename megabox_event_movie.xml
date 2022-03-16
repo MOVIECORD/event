@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 14:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 17:21:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,14 +232,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/02/xuzfjxAfpGtfB9ZqBhELO39RMN3JMise.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[블랙라이트] 선착순 빵원티켓]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.04 ~ 2022.03.16]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/25/HXDNcTbM0CulsT07689xcqcEwb4pPYQ1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<나이트 레이더스> 개봉기념 오리지널 포스터 증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -254,30 +246,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.03 ~ 2022.03.17]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/28/wMbdGNGvD9oYFB1WlfSmc0jDH5SjU8k2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<피그> 2주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.02 ~ 2022.03.16]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/28/WkoHVGLle4nHKVBppi65qDxTiroXyZhq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<안테벨룸> 2주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.02 ~ 2022.03.16]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/28/VwI41WpPaB5z23lVTX26XVOf7QnPJIqW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<나이트메어 앨리> 스페셜 엽서세트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.28 ~ 2022.03.16]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/28/KENqd2UKLLRiLnusDL6V8wfNWpyJ6y4N.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<안테벨룸> 관람인증 이벤트]]></title>
