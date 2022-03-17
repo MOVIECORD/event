@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 13:27:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 16:29:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,30 +246,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.05 ~ 2022.03.19]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/02/xuzfjxAfpGtfB9ZqBhELO39RMN3JMise.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<나이트 레이더스> 개봉기념 오리지널 포스터 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.03 ~ 2022.03.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/02/UV1CO6JQTOfCnWupqYJHKkA1EGd3Vmpl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<소피의 세계> 개봉기념 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.03 ~ 2022.03.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/28/wMbdGNGvD9oYFB1WlfSmc0jDH5SjU8k2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<안테벨룸> 관람인증 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.23 ~ 2022.03.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/23/gQBMg6iXAvij5WWLBs9jNylkEFDnDM19.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 13:27:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 16:29:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,30 +294,6 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.05 ~ 2022.03.19]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/02/xuzfjxAfpGtfB9ZqBhELO39RMN3JMise.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<나이트 레이더스> 개봉기념 오리지널 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.03 ~ 2022.03.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/02/UV1CO6JQTOfCnWupqYJHKkA1EGd3Vmpl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<소피의 세계> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.03 ~ 2022.03.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/28/wMbdGNGvD9oYFB1WlfSmc0jDH5SjU8k2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<안테벨룸> 관람인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.23 ~ 2022.03.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/23/gQBMg6iXAvij5WWLBs9jNylkEFDnDM19.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<뉴욕 메트로폴리탄 오페라> 시즌 2022 라인업 (코엑스, 센트럴, 성수, 킨텍스, 분당, 목동) (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -838,22 +814,6 @@
             <pubDate>Mon, 07 Mar 2022 07:20:25 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.10 ~ 2022.03.21]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/10/mvT02VPFvEWg2qdSdDYJB8Eck3z7M49X.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<사랑 후의 두 여자> 메가박스 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Mon, 07 Mar 2022 07:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.10 ~ 2022.03.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/10/nMGeIiZItAmJAqYvAxC0KxiYauU0cuO2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<드라이> 메가박스 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Mon, 07 Mar 2022 07:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.07 ~ 2022.03.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/07/zVVtPvUv5w8c302QYxvb72mG8nofh7Tj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['돼지의 왕' 리뷰 이벤트 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
