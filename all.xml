@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 01:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 02:43:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.20 ~ 2022.03.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/10/Tgzzyz3Fhg6GXB0vi3B3GkO9IGB5WyDj.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<레벤느망> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.19 ~ 2022.04.02]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/17/LoxYisijhPZqrhld3n7zFH2e8FeSPKxW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<스펜서> '알렉스 프레거, 빅 웨스트' 전시회 티켓 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
