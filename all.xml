@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 22:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 01:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,6 +126,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.19 ~ 2022.03.19]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/16/vsQAQ1L6v2wCxXLcNQGWaMASaTV494Le.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이상한 나라의 수학자] 2차 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.18 ~ 2022.03.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/23/sZeQsC6R2U9IX1tDBmninbMFKyR6k5mt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<이상한 나라의 수학자> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -312,6 +320,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/16/cQLjjkjJfbtlZzJghva1EtD1hB5HrxFO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[양산라피에스타, 창원내서] 과육 팡팡! 프리미엄 음료 신규 런칭 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.18 ~ 2022.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/18/1wt65GGjwY1RJJaTP9tSYqm4euCqNIBq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[강남] 강남점 전용 관람권 패키지 판매 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -352,6 +368,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/04/s85DGWXOf9uZO7UEIW8JuNgJm8Y0YecE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[센트럴] 부티크 패키지 PICK! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.01 ~ 2022.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/18/ukXUPd399ZfJO6KEenp88SFESjSSRHs0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[송도] 인천지역 대학생 송도점으로 모여라! (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -382,6 +406,14 @@
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.01 ~ 2022.05.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/17/OPfUYiLVUQk54qjj7sowPVxyahLMEeJp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대구신세계] 대구 신세계 만원의 행복 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.01 ~ 2022.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/18/SdHqQNQrdMeq8BKRpKem56FN1n9oeKVv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[의정부민락] 방구석 1열 콤보 주문 싹- 가능 (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -422,6 +454,14 @@
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.24 ~ 2022.06.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/25/dqNxzGSdzGA7YFC7p6Rb3PCmVL7KeDYQ.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[동탄] 돌아온 동탄점 카카오채널 할인 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.22 ~ 2022.05.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/18/lu4AmuR5b2u7wfok2H0gNv7uZVxlt8dG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[부산경남지역] ALL 쿠폰 할인! (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -566,6 +606,14 @@
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.03 ~ 2022.03.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/12/z0i9vALR5GDJ0VgbCnXxVcEhS5bLnH7n.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[코엑스] SK텔레콤 임직원 영화 할인 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.01 ~ 2022.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/18/KxC6gr4sXeRl3j7wWxW7oRQ5eeas3U8B.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[코엑스] 서울종합예술학교 제휴 할인 (메가박스 ─ 이벤트 ─ 극장)]]></title>
