@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 06:25:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 08:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.24 ~ 2022.03.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/15/5uV7QGBn1poHCiC2bwWV20k8w1Q5W4XI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<신비한 동물사전> 재개봉 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.23 ~ 2022.03.29]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/18/7rgNTqFd4YFpcFpZpYG3I65yMry2d1sK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<뜨거운 피> 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -894,14 +902,6 @@
             <pubDate>Mon, 14 Mar 2022 12:33:19 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;에펠&gt; 한줄평/리뷰 이벤트입니다. &lt;에펠&gt; 관람 후 아직 못 본 분들에게 추...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/706/771/074/295x295.crop.jpg?20220314202448" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['드라이' 시사회에 초... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/74509293</link>
-            <guid>https://extmovie.com/sisaing/74509293</guid>
-            <pubDate>Mon, 07 Mar 2022 04:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;드라이&gt; 시사회에 초대합니다. 꼭 참석하고 게시판에 후기 남겨주실 분들...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/293/509/074/295x295.crop.jpg?20220307104758" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시사회, 이벤트 당첨 확률 올리는 법 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
