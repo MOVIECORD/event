@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 14:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 15:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Mon, 07 Mar 2022 07:20:25 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.11 ~ 2022.03.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/11/mcO2ODlYVXUkZofQ0dBE8oLKxBgXGLiR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<재춘언니> 필름소사이어티 회원시사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Mon, 07 Mar 2022 07:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.10 ~ 2022.03.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/10/mvT02VPFvEWg2qdSdDYJB8Eck3z7M49X.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
