@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 07:19:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 08:25:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/15/ap2YJaEEA0xbys1pUxuKR9NoUMUnByPg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<스펜서> 돌비시네마 특별 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.25 ~ 2022.03.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/22/OyHpdr2Vc5jqhTXsdPN5nSv9fsZSMUmM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<어거스트 버진> 개봉기념 현장증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -78,6 +86,14 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.24 ~ 2022.03.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/15/5uV7QGBn1poHCiC2bwWV20k8w1Q5W4XI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<유어 러브 송> 앵콜 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.23 ~ 2022.04.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/22/tWbpsU4QlTY2mjjubBipNuEPcXPWedax.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<고양이들의 아파트> 2주차 현장증정 이벤트]]></title>
