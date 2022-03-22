@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 04:26:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 05:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.24 ~ 2022.03.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/15/5uV7QGBn1poHCiC2bwWV20k8w1Q5W4XI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[유어 러브 송] 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.23 ~ 2022.04.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/22/OnfTX7ybVXZli8pqgTWwUCB1hwo0ZA0g.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[모비우스] 선착순 빵원티켓]]></title>
