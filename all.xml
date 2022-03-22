@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 06:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 07:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.09 ~ 2022.03.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/07/6jTyjtEC26dZAJAKvHNzNTpnFJVn34lv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 오리지널 티켓 No.48 <더 배트맨> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.01 ~ 2022.03.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/25/3SEfVhkfORuiSu6jfxea5UAPknV1WzdM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[봄시즌음료]딸기라떼, 옥수수라떼 론칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -526,14 +534,6 @@
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.01 ~ 2022.04.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/18/SdHqQNQrdMeq8BKRpKem56FN1n9oeKVv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[의정부민락] 방구석 1열 콤보 주문 싹- 가능 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.01 ~ 2022.04.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/10/38Y9eoCgS1mhlIJvVllIl2MmKEpnkMUL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[코엑스] '지금 우리 코돌비는' 킹쁘다 (메가박스 ─ 이벤트 ─ 극장)]]></title>
