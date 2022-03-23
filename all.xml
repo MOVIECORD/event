@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 11:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 12:34:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1022,14 +1022,6 @@
             <pubDate>Tue, 15 Mar 2022 10:23:57 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;약속의 네버랜드&gt; 언론 시사회에 초대합니다. 평일 낮에 진행됩니다. 꼭 ...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/338/803/074/295x295.crop.jpg?20220315191132" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['에펠' 한줄평/리뷰 이... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/74771706</link>
-            <guid>https://extmovie.com/sisaing/74771706</guid>
-            <pubDate>Mon, 14 Mar 2022 12:33:19 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;에펠&gt; 한줄평/리뷰 이벤트입니다. &lt;에펠&gt; 관람 후 아직 못 본 분들에게 추...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/706/771/074/295x295.crop.jpg?20220314202448" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시사회, 이벤트 당첨 확률 올리는 법 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
