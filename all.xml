@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 03:27:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 05:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.01 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/14/ACdDJx36kS3ytWbf8JuflttgFwbvJ0Mt.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<불도저에 탄 소녀> 프리미어 GV 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.04 ~ 2022.04.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/24/YkmNGeBgE8ToEzm0ooUiqqZOirqhY8Pj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<패러렐 마더스> 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
