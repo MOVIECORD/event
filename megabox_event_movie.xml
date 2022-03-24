@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 14:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 15:22:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,14 +110,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.24 ~ 2022.03.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/21/kne70f26IfP6mh0MxJyWxHcCm0uoIIvc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<매미소리> 스페셜 GV 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.24 ~ 2022.03.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/15/5uV7QGBn1poHCiC2bwWV20k8w1Q5W4XI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<유어 러브 송> 앵콜 현장증정 이벤트]]></title>
@@ -310,22 +302,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.14 ~ 2022.03.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/10/IyoSaLxjZ172RVN3nLY3C7oYn8HY3fOf.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<그 남자는 타이타닉을 보고 싶지 않았다> A3 포스터 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.10 ~ 2022.03.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/11/bG6Vi2XOK2I77UkNMZfiX5oNzfZw5dDZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<레벤느망> 개봉기념 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.10 ~ 2022.03.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/07/LxHVsAU7HOZktYSg3iTb1cz6re50OYxA.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
