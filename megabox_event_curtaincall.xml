@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 23:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 01:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<배니싱 : 미제사건> 개봉주 무대인사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 07 Mar 2022 07:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.02 ~ 2022.04.02]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/24/hu37sqITgZUOAjldxHxd3OZPTPMe6JQS.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<뜨거운 피> 개봉 주말 무대인사]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 23:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 01:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/18/tsUjMydrGtMW09bHwlCtglSB1iIGvUj6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[부산경남지역] 팝콘하면 MEGABOX! 단체 전용 팝콘 런칭! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.24 ~ 2022.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/24/Uu2Uzqsc0oX1l0RFHB7cJ0Mfq6SsAkMl.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[대구경북] 봄맞이 2탄 FREE한 메박 한달살이 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -376,12 +384,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/18/EgnO2IMMw40r8hOMFtnUrXcLS09YcL64.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[강동지역] 이곳은 휴게소인가? 영화관인가? (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.19 ~ 2022.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/24/juozj8uJjfpdMbwEAYcouFqCCiAWsMAc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[양산라피에스타, 창원내서] 과육 팡팡! 프리미엄 음료 신규 런칭 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.18 ~ 2022.06.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/18/1wt65GGjwY1RJJaTP9tSYqm4euCqNIBq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[성수] 피크닉패키지 들고 서울숲 나들이 가자 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.14 ~ 2022.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/24/I2qe0tizRdJbPmcb2oNoUdrymVbxJryH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[강남] 강남점 전용 관람권 패키지 판매 (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -462,6 +486,14 @@
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.01 ~ 2022.05.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/17/OPfUYiLVUQk54qjj7sowPVxyahLMEeJp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[부산경남지역] 선호지역 선택하자 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.01 ~ 2022.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/24/5sUXyExEpgcJO6MzvroiZAMIytC8Safw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대구신세계] 대구 신세계 만원의 행복 (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -894,6 +926,14 @@
             <pubDate>Thu, 07 Oct 2021 09:13:18 GMT</pubDate>
             <content:encoded><![CDATA[2015.01.06 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/11/11/7zZFIneF9efbrMAybQh2NRAxkvTdfTD5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<배니싱 : 미제사건> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 07 Mar 2022 07:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.02 ~ 2022.04.02]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/24/hu37sqITgZUOAjldxHxd3OZPTPMe6JQS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<뜨거운 피> 개봉 주말 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
