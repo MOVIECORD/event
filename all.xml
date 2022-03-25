@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 07:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 08:24:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -844,7 +844,7 @@
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
             <pubDate>Thu, 07 Oct 2021 09:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.28 ~ 2022.03.31]]></content:encoded>
+            <content:encoded><![CDATA[2022.02.28 ~ 2022.04.17]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/25/mG4gaR8Pzcmc4GyonXHU5mzdp4Nd4mWF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
