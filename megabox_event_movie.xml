@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 08:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 09:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.01 ~ 2022.04.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/25/2KbXTGKHHfyi17g95Dn3l8f9LWBWtPds.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<스펜서> 오리지널 포스터 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.30 ~ 2022.04.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/25/cGoFEfoUSvaSO59AVHpPzotcw3Ve803T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<모비우스> 돌비포스터 증정 이벤트]]></title>
