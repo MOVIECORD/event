@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 22:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 23:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -958,54 +958,6 @@
             <pubDate>Mon, 07 Mar 2022 07:20:25 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.11 ~ 2022.03.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/11/mcO2ODlYVXUkZofQ0dBE8oLKxBgXGLiR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['태어나길 잘했어' 시... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/75169418</link>
-            <guid>https://extmovie.com/sisaing/75169418</guid>
-            <pubDate>Fri, 25 Mar 2022 11:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;태어나길 잘했어&gt; 시사회에 초대합니다. 꼭 참석하고 게시판에 후기 남겨...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/418/169/075/295x295.crop.jpg?20220325195125" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['앰뷸런스' 익무 단독... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/75007272</link>
-            <guid>https://extmovie.com/sisaing/75007272</guid>
-            <pubDate>Mon, 21 Mar 2022 11:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;앰뷸런스&gt; 익무 단독관 GV 시사회에 초대합니다. 꼭 참석하고 게시판에 후...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/272/007/075/295x295.crop.jpg?20220321231500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['앰뷸런스' IMAX 언론 ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/75007100</link>
-            <guid>https://extmovie.com/sisaing/75007100</guid>
-            <pubDate>Mon, 21 Mar 2022 11:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;앰뷸런스&gt; 언론 시사회에 초대합니다. IMAX 상영관에서 평일 오후에 진행...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/100/007/075/295x295.crop.jpg?20220321231511" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['불도저에 탄 소녀' 시... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/75005949</link>
-            <guid>https://extmovie.com/sisaing/75005949</guid>
-            <pubDate>Mon, 21 Mar 2022 11:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;불도저에 탄 소녀&gt; 시사회에 초대합니다. 꼭 참석하고 게시판에 후기 남겨...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/949/005/075/295x295.crop.jpg?20220321192400" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['돼지의 왕' 리뷰 이벤트 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/74880299</link>
-            <guid>https://extmovie.com/sisaing/74880299</guid>
-            <pubDate>Thu, 17 Mar 2022 13:27:57 GMT</pubDate>
-            <content:encoded><![CDATA[드라마 &lt;돼지의 왕&gt; 리뷰 이벤트입니다. 시사회를 통해 &lt;돼지의 왕&gt;을 먼저 관람...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/299/880/074/295x295.crop.jpg?20220317203048" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시사회, 이벤트 당첨 확률 올리는 법 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/10382475</link>
-            <guid>https://extmovie.com/sisaing/10382475</guid>
-            <pubDate>Sat, 09 Oct 2021 20:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[시사회,예매권,경품등 통합해서 당첨확률을 올리는 팁입니다 일단 당첨자 비율 -...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/475/382/010/295x295.crop.jpg?20210417161650" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
