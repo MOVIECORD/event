@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 08:26:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 09:22:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/24/YkmNGeBgE8ToEzm0ooUiqqZOirqhY8Pj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<뱅드림! 팝핀' 드림!> 개봉 기념 '뱅드림! 시리즈' 특별 상영 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.02 ~ 2022.04.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/28/fCCWZSIjhsTgegi6HE4qzwIUTtl926cU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<패러렐 마더스> 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -110,6 +118,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.31 ~ 2022.04.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/24/Zls1db0wEjnEC3SevlKBEQPVPtuSN3yk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<뱅드림! 팝핀' 드림!> 2주차 특전 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.31 ~ 2022.04.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/28/1E6SJ6qRvSJ3XQ6ZtnJeJZFqUuPAXVF2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<스펜서> 오리지널 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -982,14 +998,6 @@
             <pubDate>Sun, 27 Mar 2022 03:24:56 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;불도저에 탄 소녀&gt; 시사회에 초대합니다. 꼭 참석하고 게시판에 후기 남겨...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/949/005/075/295x295.crop.jpg?20220321192400" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['돼지의 왕' 리뷰 이벤트 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/74880299</link>
-            <guid>https://extmovie.com/sisaing/74880299</guid>
-            <pubDate>Sun, 27 Mar 2022 03:24:56 GMT</pubDate>
-            <content:encoded><![CDATA[드라마 &lt;돼지의 왕&gt; 리뷰 이벤트입니다. 시사회를 통해 &lt;돼지의 왕&gt;을 먼저 관람...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/299/880/074/295x295.crop.jpg?20220317203048" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시사회, 이벤트 당첨 확률 올리는 법 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
