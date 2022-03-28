@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 10:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 11:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -974,6 +974,14 @@
             <pubDate>Mon, 07 Mar 2022 07:20:25 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.11 ~ 2022.03.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/11/mcO2ODlYVXUkZofQ0dBE8oLKxBgXGLiR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['복지식당' 언론 배급 ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/75285328</link>
+            <guid>https://extmovie.com/sisaing/75285328</guid>
+            <pubDate>Mon, 28 Mar 2022 11:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[영화 &lt;복지식당&gt; 언론/배급 시사회에 초대합니다. 평일 낮에 진행됩니다. 꼭 참...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/328/285/075/295x295.crop.jpg?20220328192528" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['쓰리: 아직 끝나지 않았다&... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
