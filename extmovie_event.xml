@@ -4,9 +4,17 @@
         <title>익스트림무비 ─ 시사회 ─ 시사회진행</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 09:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 10:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['쓰리: 아직 끝나지 않았다&...]]></title>
+            <link>https://extmovie.com/sisaing/75285135</link>
+            <guid>https://extmovie.com/sisaing/75285135</guid>
+            <pubDate>Mon, 28 Mar 2022 10:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[영화 &lt;쓰리: 아직 끝나지 않았다&gt; 시사회에 초대합니다. 꼭 참석하고 게시판에 ...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/135/285/075/295x295.crop.jpg?20220328192249" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['태어나길 잘했어' 시...]]></title>
             <link>https://extmovie.com/sisaing/75169418</link>
@@ -21,7 +29,7 @@
             <guid>https://extmovie.com/sisaing/75007272</guid>
             <pubDate>Sun, 27 Mar 2022 03:24:56 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;앰뷸런스&gt; 익무 단독관 GV 시사회에 초대합니다. 꼭 참석하고 게시판에 후...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/272/007/075/295x295.crop.jpg?20220321231500" length="0" type="image/jpg"/>
+            <enclosure url="https://extmovie.com/files/thumbnails/272/007/075/295x295.crop.jpg?20220328190103" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['앰뷸런스' IMAX 언론 ...]]></title>
@@ -29,7 +37,7 @@
             <guid>https://extmovie.com/sisaing/75007100</guid>
             <pubDate>Sun, 27 Mar 2022 03:24:56 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;앰뷸런스&gt; 언론 시사회에 초대합니다. IMAX 상영관에서 평일 오후에 진행...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/100/007/075/295x295.crop.jpg?20220321231511" length="0" type="image/jpg"/>
+            <enclosure url="https://extmovie.com/files/thumbnails/100/007/075/295x295.crop.jpg?20220328190111" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['불도저에 탄 소녀' 시...]]></title>
