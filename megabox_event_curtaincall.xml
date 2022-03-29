@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 14:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 15:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Mon, 07 Mar 2022 07:20:25 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.29 ~ 2022.04.07]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/29/mjCzVKHu1mDeH4zETN49GcDO0z9Rfcpw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<루이스 웨인 : 사랑을 그린 고양이 화가> 메가박스 회원 시사회]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Mon, 07 Mar 2022 07:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.11 ~ 2022.03.29]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/11/mcO2ODlYVXUkZofQ0dBE8oLKxBgXGLiR.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

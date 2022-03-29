@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 14:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 15:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,14 +248,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/17/6NdAmwKKVersEyMJedPspUTmwoCdxPtf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<극장판 주술회전 0> 6주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.24 ~ 2022.03.29]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/21/kne70f26IfP6mh0MxJyWxHcCm0uoIIvc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<유어 러브 송> 앵콜 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -318,14 +310,6 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.23 ~ 2022.04.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/21/juMWQCaxLNPhAj0Vk6fCQoSETGntuW91.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<신비한 동물사전> 재개봉 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.23 ~ 2022.03.29]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/18/7rgNTqFd4YFpcFpZpYG3I65yMry2d1sK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<패러렐 마더스> 기대평 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1014,14 +998,6 @@
             <pubDate>Mon, 07 Mar 2022 07:20:25 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.29 ~ 2022.04.07]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/29/mjCzVKHu1mDeH4zETN49GcDO0z9Rfcpw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<루이스 웨인 : 사랑을 그린 고양이 화가> 메가박스 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Mon, 07 Mar 2022 07:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.11 ~ 2022.03.29]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/11/mcO2ODlYVXUkZofQ0dBE8oLKxBgXGLiR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['앵커' 익스트림무비 ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
