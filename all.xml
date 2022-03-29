@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 10:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 11:33:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1022,6 +1022,22 @@
             <pubDate>Mon, 07 Mar 2022 07:20:25 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.11 ~ 2022.03.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/11/mcO2ODlYVXUkZofQ0dBE8oLKxBgXGLiR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['헝거' 시사회에 초대... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/75329169</link>
+            <guid>https://extmovie.com/sisaing/75329169</guid>
+            <pubDate>Tue, 29 Mar 2022 11:33:22 GMT</pubDate>
+            <content:encoded><![CDATA[영화 &lt;헝거&gt; 시사회에 초대합니다. 꼭 참석하고 게시판에 후기 남겨주실 분들만 ...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/169/329/075/295x295.crop.jpg?20220329200853" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['위대한 계약: 파주, 책, 도... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/75329091</link>
+            <guid>https://extmovie.com/sisaing/75329091</guid>
+            <pubDate>Tue, 29 Mar 2022 11:33:22 GMT</pubDate>
+            <content:encoded><![CDATA[영화 &lt;위대한 계약: 파주, 책, 도시&gt; 시사회에 초대합니다. 꼭 참석하고 게시판...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/091/329/075/295x295.crop.jpg?20220329200631" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['복지식당' 언론 배급 ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
