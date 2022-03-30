@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 01:26:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 03:00:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,6 +160,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/28/1F5W44MKfGZ5f60OxKDwerd2GoF0hkyR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<리디밍 러브> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.30 ~ 2022.04.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/30/2UdosgoW0FEEjO6pbKNmtaZPoSi70uiF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[수퍼소닉2] 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -190,6 +198,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.30 ~ 2022.04.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/24/WqQpCBRJSQn5bwpLMtYh9Abx3oreTSGi.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<드라이> 관람평 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.30 ~ 2022.04.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/29/jC0MOS7Bt7iLIXtJHxao81kXGVJIzybD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[앰뷸런스] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -432,6 +448,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/30/U3jyekrutGJsxy0dJZiB313hFiYwoDeG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[대전중앙로] <뱅드림! 팝핀' 드림!> 최다 관람객을 찾아라! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.31 ~ 2022.04.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/30/KBOu5epW1yhUYJOeVCMdf8pA9faNwdS2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[대구이시아] 기념일 패키지 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -446,6 +470,14 @@
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.30 ~ 2022.04.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/30/hFopZnJtTnHlTokjyZhh7s1q3CcgsHD3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[동탄] 인스타그램 싱글벙글 해시태그 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.28 ~ 2022.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/30/sfoQQ2blxQruSWj0ZPP38jsLJn8qhPo8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[부산경남지역] 팝콘하면 MEGABOX! 단체 전용 팝콘 런칭! (메가박스 ─ 이벤트 ─ 극장)]]></title>
