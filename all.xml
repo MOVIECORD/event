@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 09:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 10:24:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.01 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/14/ACdDJx36kS3ytWbf8JuflttgFwbvJ0Mt.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 아카데미 수상기념! 하마구치 류스케 특별전 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.08 ~ 2022.04.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/01/X9SAkbxCjFjetLljVJqTJRvuySB9fyav.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<앰뷸런스> 돌비시네마 관람 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -933,7 +941,7 @@
             <guid>https://extmovie.com/sisaing/75446811</guid>
             <pubDate>Fri, 01 Apr 2022 08:26:28 GMT</pubDate>
             <content:encoded><![CDATA[MBC, 넷플릭스 동시 공개 드라마 &lt;내일&gt; 원작 웹툰 책 증정 이벤트입니다. 아래 ...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/811/446/075/295x295.crop.jpg?20220401172045" length="0" type="image/jpg"/>
+            <enclosure url="https://extmovie.com/files/thumbnails/811/446/075/295x295.crop.jpg?20220401191136" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화 '드라이' 원작 소... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
