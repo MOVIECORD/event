@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 14:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 15:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,14 +110,6 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.02 ~ 2022.04.05]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/18/95eH790B2FllPq9eXpfFcQLallKJshwE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<사랑 후의 두 여자> 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.02 ~ 2022.04.02]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/24/yU9E9EWgrWKCCkvzFFnpObjgDq1QH0zQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[루이스 웨인: 사랑을 그린 고양이 화가] 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -326,22 +318,6 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.23 ~ 2022.04.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/21/juMWQCaxLNPhAj0Vk6fCQoSETGntuW91.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<레벤느망> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.19 ~ 2022.04.02]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/17/LoxYisijhPZqrhld3n7zFH2e8FeSPKxW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<스펜서> '알렉스 프레거, 빅 웨스트' 전시회 티켓 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.19 ~ 2022.04.02]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/04/e7aOJPEoDi7XOhNcmREhtNryIM3pJ8Lt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<뉴욕 메트로폴리탄 오페라> 시즌 2022 라인업 (코엑스, 센트럴, 성수, 킨텍스, 분당, 목동) (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -910,14 +886,6 @@
             <pubDate>Thu, 07 Oct 2021 09:13:18 GMT</pubDate>
             <content:encoded><![CDATA[2015.01.06 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/11/11/7zZFIneF9efbrMAybQh2NRAxkvTdfTD5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<배니싱 : 미제사건> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Mon, 07 Mar 2022 07:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.02 ~ 2022.04.02]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/24/hu37sqITgZUOAjldxHxd3OZPTPMe6JQS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<공기살인> 메가박스 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
