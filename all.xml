@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 08:25:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 09:21:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/04/FIynyCjyEnVvEkY6Fhk8ocpuvHBhyQ2A.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<루이스 웨인 : 사랑을 그린 고양이 화가> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.08 ~ 2022.04.22]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/04/xCfk3vXoBbDMMxxVzCJUbeqwUs8e0G35.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022 아카데미 수상기념! 하마구치 류스케 특별전 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -78,6 +86,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.07 ~ 2022.04.21]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/04/RWw6udUiWjMCDp9e6lNc5PLn8f7stcgs.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<뱅드림! 팝핀' 드림> 3주차 특전 증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.07 ~ 2022.04.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/04/vCffVKjkhs2f3eVtoD2PLaS9rpKoJuYO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<사랑 후의 두 여자> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -110,6 +126,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.06 ~ 2022.04.19]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/04/vAtiRciBYkmYU9ZJ7aDDcJX7Ze9MY1bt.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<조제, 호랑이 그리고 물고기들> 홍대 애니메이션 기획전 굿즈 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.06 ~ 2022.04.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/04/V80QvBzj2kDJhnBqMv2OcjZ4Sl8FuOwX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[불도저에 탄 소녀] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -400,6 +424,30 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/30/3voFvKO1jS1cVYeyOHNgnW7y6UalckW6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[이수, 성수] 필름 카메라 갖고싶지~? 못참겠지~? (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.01 ~ 2022.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/04/vf8zjDg2TSpTmJxnVpStTlDuUvoqFX9o.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영종] 친구 추가하고 영화 할인 받자! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.01 ~ 2022.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/04/IBPqjppCzDuWYmC0sXRWlllQpHywYr6b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[양산라피에스타] 양라점 쿠팡이츠 배달 이벤트! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.01 ~ 2022.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/04/etdrGot63VZRRn8jatNFs3TV1hqEhATl.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[양산라피에스타] 3주년 '삼.3데이' (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -414,6 +462,14 @@
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.01 ~ 2022.04.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/30/U3jyekrutGJsxy0dJZiB313hFiYwoDeG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파주금촌] 파주 지역 주민 할인 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.01 ~ 2022.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/17/Ic6vKY0dgIlTRX5451bDAptU9Et3opVj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대전중앙로] <뱅드림! 팝핀' 드림!> 최다 관람객을 찾아라! (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -526,6 +582,14 @@
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.04 ~ 2022.06.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/04/33CZ6JhTJkYyxRgdQGFrEJOOtP8k1W5n.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[양산] 다시 만나요! 메가박스 양산! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.01 ~ 2022.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/04/CrwnnSMyMGLfEDLxSh19QUshKyl0m9E5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[센트럴] 부티크 패키지 PICK! (메가박스 ─ 이벤트 ─ 극장)]]></title>
