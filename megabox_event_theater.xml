@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 04:26:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 06:26:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.17 ~ 2022.05.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/16/cQLjjkjJfbtlZzJghva1EtD1hB5HrxFO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[부산경남] 2022년 영화 적금 출시! 이자율 33.3%]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.04 ~ 2022.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/30/MD3ZIK5jJoTrQPYUNFdXGeYJb3j0xmL2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[양산] 학생증 인증하고 할인 받자!]]></title>

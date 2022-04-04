@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 04:26:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 06:26:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,12 +56,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/01/X9SAkbxCjFjetLljVJqTJRvuySB9fyav.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<스펜서> 4주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.06 ~ 2022.04.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/04/Vg5RztxN98EB0EDRQMdIMixEpVhqfZmW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<앰뷸런스> 돌비시네마 관람 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.06 ~ 2022.04.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/29/6WSNIctzYq7oWdQLQMwvCIYx9X99Zeyi.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<헝거> 기대평 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.06 ~ 2022.04.19]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/04/vAtiRciBYkmYU9ZJ7aDDcJX7Ze9MY1bt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[불도저에 탄 소녀] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -326,6 +342,14 @@
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.17 ~ 2022.05.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/16/cQLjjkjJfbtlZzJghva1EtD1hB5HrxFO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[부산경남] 2022년 영화 적금 출시! 이자율 33.3% (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.04 ~ 2022.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/30/MD3ZIK5jJoTrQPYUNFdXGeYJb3j0xmL2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[양산] 학생증 인증하고 할인 받자! (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -902,6 +926,14 @@
             <pubDate>Mon, 07 Mar 2022 07:20:25 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.29 ~ 2022.04.07]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/29/mjCzVKHu1mDeH4zETN49GcDO0z9Rfcpw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['열대왕사' 시사회에 ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/75519410</link>
+            <guid>https://extmovie.com/sisaing/75519410</guid>
+            <pubDate>Mon, 04 Apr 2022 06:26:06 GMT</pubDate>
+            <content:encoded><![CDATA[영화 &lt;열대왕사&gt; 시사회에 초대합니다. 꼭 참석하고 게시판에 후기 남겨주실 분...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/410/519/075/295x295.crop.jpg?20220404135032" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드라마 '내일' 원작 도... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
