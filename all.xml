@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 09:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 10:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1038,6 +1038,14 @@
             <pubDate>Mon, 07 Mar 2022 07:20:25 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.29 ~ 2022.04.07]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/29/mjCzVKHu1mDeH4zETN49GcDO0z9Rfcpw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['앰뷸런스' 리뷰 이벤트 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/75564747</link>
+            <guid>https://extmovie.com/sisaing/75564747</guid>
+            <pubDate>Tue, 05 Apr 2022 10:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[영화 &lt;앰뷸런스&gt; 리뷰 이벤트입니다. 영화수다 게시판에 &lt;앰뷸런스&gt; 리뷰(감상 ...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/747/564/075/295x295.crop.jpg?20220405184506" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['니 부모 얼굴이 보고 싶다&... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
