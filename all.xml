@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 23:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 01:23:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.06 ~ 2022.04.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/04/WvAgrEPA8b7dG4sar9SiGTRPUsrBPXKe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<수퍼 소닉 2> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.06 ~ 2022.04.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/04/Ur9eP2cpGnoRdo2A507EHyAyCFmQmVNT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<스펜서> 4주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1016,6 +1024,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/29/mjCzVKHu1mDeH4zETN49GcDO0z9Rfcpw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['니 부모 얼굴이 보고 싶다&... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/75544322</link>
+            <guid>https://extmovie.com/sisaing/75544322</guid>
+            <pubDate>Tue, 05 Apr 2022 01:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[영화 &lt;니 부모 얼굴이 보고 싶다&gt; 익스트림무비 단독관 GV 시사회에 초대합니다....]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/322/544/075/295x295.crop.jpg?20220405091819" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['열대왕사' 시사회에 ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
             <link>https://extmovie.com/sisaing/75519410</link>
             <guid>https://extmovie.com/sisaing/75519410</guid>
@@ -1062,14 +1078,6 @@
             <pubDate>Tue, 29 Mar 2022 11:33:22 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;위대한 계약: 파주, 책, 도시&gt; 시사회에 초대합니다. 꼭 참석하고 게시판...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/091/329/075/295x295.crop.jpg?20220329200631" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['태어나길 잘했어' 시... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/75169418</link>
-            <guid>https://extmovie.com/sisaing/75169418</guid>
-            <pubDate>Sun, 27 Mar 2022 03:24:56 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;태어나길 잘했어&gt; 시사회에 초대합니다. 꼭 참석하고 게시판에 후기 남겨...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/418/169/075/295x295.crop.jpg?20220325195125" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시사회, 이벤트 당첨 확률 올리는 법 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
