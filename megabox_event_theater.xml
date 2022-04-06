@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 05:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 06:24:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,14 @@
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.30 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/30/auK52q3mGilOdkB0YKv8qScERD3tSie7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[울산] 쫀드기 런칭!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.30 ~ 2022.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/30/rC00skb9Ol5R7Oy542DN9e3a5vuNfysn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대전유성] 할인 해 봄! 하나, 둘, 셋]]></title>
