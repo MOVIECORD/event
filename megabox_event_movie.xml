@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 12:36:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 15:22:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,14 +152,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/01/0pYBMzb3zPsO3lEYEEelXW1zOh8He2vV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<뱅드림! 팝핀' 드림!> 개봉 기념 '뱅드림! 시리즈' 특별 상영 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.02 ~ 2022.04.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/28/fCCWZSIjhsTgegi6HE4qzwIUTtl926cU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[루이스 웨인: 사랑을 그린 고양이 화가] 빵원티켓 ➕]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -198,14 +190,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.31 ~ 2022.04.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/24/Zls1db0wEjnEC3SevlKBEQPVPtuSN3yk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<뱅드림! 팝핀' 드림!> 2주차 특전 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.31 ~ 2022.04.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/28/1E6SJ6qRvSJ3XQ6ZtnJeJZFqUuPAXVF2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<리디밍 러브> 2주차 현장증정 이벤트]]></title>
@@ -272,84 +256,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/22/PN3pOJSSaaAKlZbIbSZJTLdSQV2ox49j.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[배니싱: 미제사건] 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.28 ~ 2022.04.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/24/P5ynnKEiE4hcm5TUMCqv8pPoroZQH6gX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<어거스트 버진> 개봉기념 현장증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.24 ~ 2022.04.07]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/21/h6xcmaPefOjCo5PnadEar00G3EIgr34U.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<유어 러브 송> 앵콜 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.23 ~ 2022.04.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/22/tWbpsU4QlTY2mjjubBipNuEPcXPWedax.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<고양이들의 아파트> 2주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.23 ~ 2022.04.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/22/82iUhM7Akzq7z8zzgRmD4bPMAFNDE7jG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유어 러브 송] 선착순 빵원티켓]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.23 ~ 2022.04.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/22/OnfTX7ybVXZli8pqgTWwUCB1hwo0ZA0g.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[모비우스] 선착순 빵원티켓]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.23 ~ 2022.04.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/22/xtGNZTLkyHxG3FbCu9oO0rjHkMf9aImv.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<리디밍 러브> 개봉기념 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.23 ~ 2022.04.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/21/RY4aW087TXiCahJYOWV31OdPsjypwbcQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<스펜서> 스페셜 포스터 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.23 ~ 2022.04.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/21/J8T8KozPXubSLEkThGKBnIgJ3IhgPYYR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<에펠> 개봉기념 포스터 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.23 ~ 2022.04.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/21/cczc3SmjOawrUwBJCwXBoWLPaFRJwyAs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<벨파스트> 개봉기념 엽서 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.23 ~ 2022.04.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/21/juMWQCaxLNPhAj0Vk6fCQoSETGntuW91.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
