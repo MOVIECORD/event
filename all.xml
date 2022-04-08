@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 21:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 22:21:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1022,6 +1022,14 @@
             <pubDate>Mon, 07 Mar 2022 07:20:25 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.30 ~ 2022.04.10]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/30/CQete6dVvGihVl3KqO5ieULgMiSqhpoQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['신비한 동물들과 덤블도어... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/75679012</link>
+            <guid>https://extmovie.com/sisaing/75679012</guid>
+            <pubDate>Fri, 08 Apr 2022 22:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[영화 &lt;신비한 동물들과 덤블도어의 비밀&gt; 스크린X / 4DX 예매권 이벤트입니다. ...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/012/679/075/295x295.crop.jpg?20220409070353" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['달빛 그림자' 언론 배... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
