@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 23:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 01:22:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1102,14 +1102,6 @@
             <pubDate>Fri, 01 Apr 2022 08:26:28 GMT</pubDate>
             <content:encoded><![CDATA[MBC, 넷플릭스 동시 공개 드라마 &lt;내일&gt; 원작 웹툰 책 증정 이벤트입니다. 아래 ...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/811/446/075/295x295.crop.jpg?20220401191136" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '드라이' 원작 소... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/75361645</link>
-            <guid>https://extmovie.com/sisaing/75361645</guid>
-            <pubDate>Wed, 30 Mar 2022 08:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[에릭 바나 주연 영화 &lt;드라이&gt; 원작 도서 이벤트입니다. 아래 댓글란에 "이 책을...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/645/361/075/295x295.crop.jpg?20220330163630" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시사회, 이벤트 당첨 확률 올리는 법 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
