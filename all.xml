@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 14:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 15:21:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,14 +110,6 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.08 ~ 2022.04.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/08/ecOBYLSDGvTEDkrtDcdpbheFpgf9zH0j.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 아카데미 수상기념! 하마구치 류스케 특별전 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.08 ~ 2022.04.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/01/X9SAkbxCjFjetLljVJqTJRvuySB9fyav.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<패러렐 마더스> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -486,14 +478,6 @@
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.22 ~ 2022.04.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/18/tsUjMydrGtMW09bHwlCtglSB1iIGvUj6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[세종나성] 배달주문 2천원 할인 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.21 ~ 2022.04.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/30/Bai5suNUapP1Mv44hMz8YnKokUDzDWXz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[강동지역] 이곳은 휴게소인가? 영화관인가? (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -984,14 +968,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/08/hb3CilX56xsv5PoJdZexTUSkL00DVg9C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<스텔라> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Mon, 07 Mar 2022 07:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.09 ~ 2022.04.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/07/z8dMoVyIujXbnOVQ9wwON1xeCxO0PGJW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<4월은 너의 거짓말> 메가박스 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
             <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
@@ -1014,14 +990,6 @@
             <pubDate>Mon, 07 Mar 2022 07:20:25 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.31 ~ 2022.04.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/31/j6zIcCixSYSvE2yjbWGQWDEGQK5ZWpqu.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<앵커> 메가박스 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Mon, 07 Mar 2022 07:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.30 ~ 2022.04.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/30/CQete6dVvGihVl3KqO5ieULgMiSqhpoQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['신비한 동물들과 덤블도어... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
