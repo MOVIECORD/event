@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 04:26:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 05:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -336,6 +336,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/22/PN3pOJSSaaAKlZbIbSZJTLdSQV2ox49j.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[inno.N X 메가박스] 컨디션 스틱 메가 샘플링 EVENT (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.11 ~ 2022.07.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/11/11Mmn0C9kA2RUcTnko8FDdla15f21rz2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<뉴욕 메트로폴리탄 오페라> 시즌 2022 라인업 (코엑스, 센트럴, 성수, 킨텍스, 분당, 목동) (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -350,6 +358,14 @@
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.17 ~ 2022.05.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/16/cQLjjkjJfbtlZzJghva1EtD1hB5HrxFO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[경기서부지역] 아미테라 빵원 매점 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.11 ~ 2022.05.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/04/gM9DOR8z9qCJKpj5uUPQPKHvW7VoNXB5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[부산경남] 2022년 영화 적금 출시! 이자율 33.3% (메가박스 ─ 이벤트 ─ 극장)]]></title>
