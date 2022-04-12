@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 14:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 15:23:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,14 +238,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.06 ~ 2022.04.15]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/06/IJo3dWOGVuXjx9wiaRZ8fGEM9bzpUX5V.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<조제, 호랑이 그리고 물고기들> 홍대 애니메이션 기획전 굿즈 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.06 ~ 2022.04.12]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/04/V80QvBzj2kDJhnBqMv2OcjZ4Sl8FuOwX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[불도저에 탄 소녀] 선착순 빵원티켓]]></title>
