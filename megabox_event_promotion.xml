@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 제휴 할인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 23:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 01:41:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KT멤버십X메가박스] 4월 나의 초이스]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:55:40 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.11 ~ 2022.04.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/08/CFBt0r7xSwvl3OEoiBlp9j1qnK60fTkX.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[신세계포인트X메가박스] 이벤트 참여하면 혜택이 쏟아진다!]]></title>
             <link>https://www.megabox.co.kr/event/promotion#</link>
