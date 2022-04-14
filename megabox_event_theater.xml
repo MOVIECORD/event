@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 08:26:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 10:24:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,6 +32,22 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/16/cQLjjkjJfbtlZzJghva1EtD1hB5HrxFO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[상암월드컵경기장] 함께해요 환경보호, 함께써요 다회용컵]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.20 ~ 2022.07.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/14/Z2yV2z0DvmM9AdIusVBiZAdvS6vXkTis.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대전중앙로] 지점 3주년 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.15 ~ 2022.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/14/N4RgBKYBZApdcjfHcjBg0FWfUxnrfPHE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[경기서부지역] 아미테라 빵원 매점]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -54,6 +70,14 @@
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.01 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/30/3voFvKO1jS1cVYeyOHNgnW7y6UalckW6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대구이시아] 딜리버리 더블 혜택]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.01 ~ 2022.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/14/x24jR3wibbb2tFC4EWmTiLdezU1QNLT0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이수, 성수] 필름 카메라 갖고싶지~? 못참겠지~?]]></title>
