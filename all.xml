@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 01:44:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 03:09:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -998,14 +998,6 @@
             <pubDate>Wed, 13 Apr 2022 07:21:10 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;쿠폰의 여왕&gt; 언론/배급 시사회에 초대합니다. 평일 낮에 진행됩니다. 꼭 ...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/515/818/075/295x295.crop.jpg?20220413153554" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['로스트 시티' 시사회... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/75761249</link>
-            <guid>https://extmovie.com/sisaing/75761249</guid>
-            <pubDate>Mon, 11 Apr 2022 14:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;로스트 시티&gt; 시사회에 초대합니다. 꼭 참석하고 게시판에 후기 남겨주실 ...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/249/761/075/295x295.crop.jpg?20220411230630" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['앵커' 리뷰 이벤트 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
