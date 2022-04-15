@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 08:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 09:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,22 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/15/UlTYHMBOGbZ5owMFou20HSoLEB9giepQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<신비한 동물들과 덤블도어의 비밀> 돌비 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.20 ~ 2022.05.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/15/h0d5Ft6dF1IM78VI069keFfljJw6sMoY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<신비한 동물들과 덤블도어의 비밀> 민화 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.20 ~ 2022.05.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/15/NJ9yfjlCcZhY5Aj3mH9jVlyHAQIGLsQg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쓰리: 아직 끝나지 않았다] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -134,6 +150,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.15 ~ 2022.04.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/07/iMczlVwP8JN9q7HCiQeZzF2HmE9eqprM.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[백상예술대상 작품상 후보작 기획전 & 기념 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.15 ~ 2022.04.26]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/15/qUazLRlgM4Y7uXjFbkaTYI8qUGqYKTCU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<복지식당> 관람인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
