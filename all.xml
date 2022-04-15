@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 23:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 01:39:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.01 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/14/ACdDJx36kS3ytWbf8JuflttgFwbvJ0Mt.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<열정> 이동진평론가 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.23 ~ 2022.04.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/14/okMVBPocQMe0XhvmcegMq8KB2Di1mpTt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<헝거> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
