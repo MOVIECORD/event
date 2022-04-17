@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 14:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 15:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -326,14 +326,6 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.06 ~ 2022.04.19]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/04/vAtiRciBYkmYU9ZJ7aDDcJX7Ze9MY1bt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<뱅드림! 팝핀' 드림!> 개봉 기념 '뱅드림! 시리즈' 특별 상영 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.06 ~ 2022.04.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/28/fCCWZSIjhsTgegi6HE4qzwIUTtl926cU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[inno.N X 메가박스] 컨디션 스틱 메가 샘플링 EVENT (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -878,14 +870,6 @@
             <pubDate>Thu, 07 Oct 2021 09:13:18 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.01 ~ 2022.04.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/29/fF2LErwuthHZcyAA1KpnX50bFRpLQ1CJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차이로 결제하고 캐시백+쿠폰 혜택 받으세요! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.01 ~ 2022.04.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/25/mG4gaR8Pzcmc4GyonXHU5mzdp4Nd4mWF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KT멤버십 고객 메가박스 영화 할인 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
