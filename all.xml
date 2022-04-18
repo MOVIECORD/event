@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 05:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 06:30:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,6 +94,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.21 ~ 2022.05.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/14/xL4nTciA3plrnI2XrE4KsrSRIvSkQu6i.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<뱅드림! 팝핀' 드림> 5주차 특전 증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.21 ~ 2022.04.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/18/YaIjfB0FmtyacHcF0Cgtf4j1P9BRpGPh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<열대왕사> 정성일 평론가와 함께하는 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -238,6 +246,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.13 ~ 2022.04.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/11/n5Ljv5hmW5madW8FnTsIJ0ursONBMZG5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<루이스 웨인 : 사랑을 그린 고양이 화가> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.13 ~ 2022.04.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/11/WZZt1P6bLp7miA7DI9euVhxbvycF0tOD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[앵커] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -848,7 +864,7 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/12/04/6fKl1TrWah4mFLNl4yRPvblxt3sGuU5p.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[메가박스X삼성화재] 내 차 보험료 확인하고 영화 할인쿠폰 받기! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
+            <title><![CDATA[내 차 보험료 확인하고 영화 1만원 할인쿠폰 받으세요! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
             <pubDate>Thu, 07 Oct 2021 09:13:18 GMT</pubDate>
@@ -1040,14 +1056,6 @@
             <enclosure url="https://extmovie.com/files/thumbnails/769/826/075/295x295.crop.jpg?20220413194239" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['쿠폰의 여왕' 언론 배... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/75818515</link>
-            <guid>https://extmovie.com/sisaing/75818515</guid>
-            <pubDate>Wed, 13 Apr 2022 07:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;쿠폰의 여왕&gt; 언론/배급 시사회에 초대합니다. 평일 낮에 진행됩니다. 꼭 ...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/515/818/075/295x295.crop.jpg?20220413153554" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['앵커' 리뷰 이벤트 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
             <link>https://extmovie.com/sisaing/75755187</link>
             <guid>https://extmovie.com/sisaing/75755187</guid>
@@ -1062,30 +1070,6 @@
             <pubDate>Fri, 08 Apr 2022 10:24:01 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;달빛 그림자&gt; 언론/배급 시사회에 초대합니다. 평일 낮에 진행됩니다. 꼭 ...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/918/663/075/295x295.crop.jpg?20220408182627" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인디스토리 4월 '수요단편극... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/75641963</link>
-            <guid>https://extmovie.com/sisaing/75641963</guid>
-            <pubDate>Thu, 07 Apr 2022 15:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[인디스토리X서울아트시네마 - 4월 수요단편극장 상영회에 초대합니다. 꼭 참석하...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/963/641/075/295x295.crop.jpg?20220407232558" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['내가 처음으로 사랑한 소녀... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/75641886</link>
-            <guid>https://extmovie.com/sisaing/75641886</guid>
-            <pubDate>Thu, 07 Apr 2022 15:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;내가 처음으로 사랑한 소녀&gt; 시사회에 초대합니다. 꼭 참석하고 게시판에 ...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/886/641/075/295x295.crop.jpg?20220407232722" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['팔마' 시사회에 초대... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/75641842</link>
-            <guid>https://extmovie.com/sisaing/75641842</guid>
-            <pubDate>Thu, 07 Apr 2022 15:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;팔마&gt; 시사회에 초대합니다. 꼭 참석하고 게시판에 후기 남겨주실 분들만 ...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/842/641/075/295x295.crop.jpg?20220407232627" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['앰뷸런스' 리뷰 이벤트 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
