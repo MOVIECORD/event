@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 08:28:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 09:22:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,7 +152,7 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/14/xL4nTciA3plrnI2XrE4KsrSRIvSkQu6i.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[니 부모의 얼굴이 보고 싶다] 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <title><![CDATA[[니 부모 얼굴이 보고 싶다] 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
