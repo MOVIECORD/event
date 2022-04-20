@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 14:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 15:24:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,14 +288,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/11/nRqcOpf2gVuphhPwZnXgpndMLCQ4kN7J.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<뱅드림! 팝핀'드림!> 4주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.14 ~ 2022.04.20]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/11/PB8RSMacUnYDMbb1q8x80FsFPSXoxGII.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[로스트 시티] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -344,14 +336,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/12/HcxBXfT3qJcS78iTsxAWi9GZNDAv9gXF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<루이스 웨인 : 사랑을 그린 고양이 화가> 포토카드 인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.11 ~ 2022.04.20]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/11/nY3E7Qob32SSa2xlvx4LJ0Q4myjpx5Wi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<루이스 웨인 : 사랑을 그린 고양이 화가> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -374,38 +358,6 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.07 ~ 2022.04.21]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/04/RWw6udUiWjMCDp9e6lNc5PLn8f7stcgs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<사랑 후의 두 여자> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.06 ~ 2022.04.20]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/04/WvAgrEPA8b7dG4sar9SiGTRPUsrBPXKe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<수퍼 소닉 2> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.06 ~ 2022.04.20]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/04/Ur9eP2cpGnoRdo2A507EHyAyCFmQmVNT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<스펜서> 4주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.06 ~ 2022.04.20]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/04/Vg5RztxN98EB0EDRQMdIMixEpVhqfZmW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<앰뷸런스> 돌비시네마 관람 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.06 ~ 2022.04.20]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/29/6WSNIctzYq7oWdQLQMwvCIYx9X99Zeyi.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[inno.N X 메가박스] 컨디션 스틱 메가 샘플링 EVENT (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -518,14 +470,6 @@
             <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.01 ~ 2022.04.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/17/Ic6vKY0dgIlTRX5451bDAptU9Et3opVj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대전중앙로] <뱅드림! 팝핀' 드림!> 최다 관람객을 찾아라! (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.31 ~ 2022.04.20]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/30/KBOu5epW1yhUYJOeVCMdf8pA9faNwdS2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대구이시아] 기념일 패키지 (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -1094,6 +1038,14 @@
             <pubDate>Mon, 07 Mar 2022 07:20:25 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.15 ~ 2022.04.21]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/15/OgvjJuATq2St5gyMWvQucF7KSyvbbUBw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['배드 가이즈' 언론 배... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/76085746</link>
+            <guid>https://extmovie.com/sisaing/76085746</guid>
+            <pubDate>Wed, 20 Apr 2022 15:24:38 GMT</pubDate>
+            <content:encoded><![CDATA[애니메이션 &lt;배드 가이즈&gt; 언론/배급 시사회에 초대합니다. 평일 낮에 진행됩니...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/746/085/076/295x295.crop.jpg?20220421000549" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['크로스 더 라인' 언론... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
