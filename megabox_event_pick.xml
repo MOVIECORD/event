@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 23:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 01:46:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Thu, 07 Oct 2021 12:22:18 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.01 ~ 2022.06.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/30/r5HfuUkYR7L9ww5F8n9n0oAbdlM8rtjr.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<귀멸의칼날>키링 마지막 할인 판매!]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Thu, 07 Oct 2021 12:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.21 ~ 2022.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/21/C4VQkr2IRphxCC3DSEYHTtwdl3LjCh37.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[VIP제휴혜택] 2022 교보문고 & 핫트랙스 특별 제휴 안내]]></title>
