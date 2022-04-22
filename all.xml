@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 09:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 10:25:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,22 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.02 ~ 2022.05.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/20/zu6YfWpQLVSMQ2iZe9Vi1HCXhh3MkpHW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[킹프리 전편 상영회 특전 안내 (동대문) (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.30 ~ 2022.05.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/22/yx3VDvBZyiWUFKvx0lfT0ogMbAgUJGqn.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<서울괴담> 관람인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.27 ~ 2022.05.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/22/3gkQvxWvxz84ImpRvn8WPyhRvre7iPrw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[배드 가이즈] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
