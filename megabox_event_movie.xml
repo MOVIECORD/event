@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 13:40:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 15:22:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,22 +94,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.23 ~ 2022.04.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/14/okMVBPocQMe0XhvmcegMq8KB2Di1mpTt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<닥터 스트레인지: 대혼돈의 멀티버스> 지구의 날 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.22 ~ 2022.04.22]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/22/VxRL69ObkrIo4TPq5eBYi6v6jyuu0kGA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<중경삼림 리마스터링> 정성일 평론가 스페셜 GV]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.22 ~ 2022.04.22]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/15/DldCR6Xsr604Aaeqrt7UoaCnAh4FvRFP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<위대한 계약: 파주, 책, 도시> 개봉기념 현장증정 이벤트]]></title>
@@ -272,14 +256,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/15/1BwygFZpSLU7Ab0aplHSDSR8nGY7pr0B.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[<극장판 주술회전 0> 9주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.14 ~ 2022.04.22]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/11/nRqcOpf2gVuphhPwZnXgpndMLCQ4kN7J.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<코다> 재개봉 기념 포스터 증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -318,14 +294,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.13 ~ 2022.04.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/11/AwiUc2zgttm5hIxURgB2nKNGtk7gvan3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<루이스 웨인 : 사랑을 그린 고양이 화가> 개봉기념 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.08 ~ 2022.04.22]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/04/xCfk3vXoBbDMMxxVzCJUbeqwUs8e0G35.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
