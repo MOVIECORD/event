@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 03:03:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 04:25:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1182,14 +1182,6 @@
             <pubDate>Sat, 16 Apr 2022 02:55:34 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;스프링 블라썸&gt; 시사회에 초대합니다. 꼭 참석하고 게시판에 후기 남겨주...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/995/926/075/295x295.crop.jpg?20220416110057" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['전체관람가+: 숏버스터&#03... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/75826769</link>
-            <guid>https://extmovie.com/sisaing/75826769</guid>
-            <pubDate>Wed, 13 Apr 2022 10:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[티빙 오리지널로 방영될 예정인 &lt;전체관람가+: 숏버스터&gt;를 극장에서 미리 볼 수...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/769/826/075/295x295.crop.jpg?20220413194239" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['앵커' 리뷰 이벤트 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
