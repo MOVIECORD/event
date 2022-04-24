@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 14:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 15:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,22 +22,6 @@
             <pubDate>Sat, 23 Apr 2022 06:25:00 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.26 ~ 2022.04.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/22/bXQbZ1NkkwNzx5qBmkhgbs9WiRTzgEZO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<공기살인> 개봉주 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Sat, 23 Apr 2022 06:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.23 ~ 2022.04.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/15/MAgd1VXCarsPmfwExWhE3xfOyuZGJd8N.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<앵커> 개봉주 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Sat, 23 Apr 2022 06:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.23 ~ 2022.04.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/08/hb3CilX56xsv5PoJdZexTUSkL00DVg9C.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

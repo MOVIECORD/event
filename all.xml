@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 14:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 15:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -366,14 +366,6 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.13 ~ 2022.04.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/07/trauYQW3wKqK8ixOwaPXrnmDBy0HKGpI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[로스트 시티] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.13 ~ 2022.04.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/11/AwiUc2zgttm5hIxURgB2nKNGtk7gvan3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[inno.N X 메가박스] 컨디션 스틱 메가 샘플링 EVENT (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -952,22 +944,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/18/5RVUubKdnYv8gkiZefwOG5A4aX8SjHEx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[KT멤버십X메가박스] 4월 나의 초이스 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.11 ~ 2022.04.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/08/CFBt0r7xSwvl3OEoiBlp9j1qnK60fTkX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신세계포인트X메가박스] 이벤트 참여하면 혜택이 쏟아진다! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.06 ~ 2022.04.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/06/vrkx9Gs2DDfkNIgnnGhvY2Z8Ma0BPkoM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[페이북X메가박스] 매주 수요일 출석체크하고 메가박스 혜택받자! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
@@ -1102,22 +1078,6 @@
             <pubDate>Mon, 07 Mar 2022 07:20:25 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.26 ~ 2022.04.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/22/bXQbZ1NkkwNzx5qBmkhgbs9WiRTzgEZO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<공기살인> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Mon, 07 Mar 2022 07:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.23 ~ 2022.04.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/15/MAgd1VXCarsPmfwExWhE3xfOyuZGJd8N.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<앵커> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Mon, 07 Mar 2022 07:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.23 ~ 2022.04.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/08/hb3CilX56xsv5PoJdZexTUSkL00DVg9C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마블 코믹스 '닥터 스트레인... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
