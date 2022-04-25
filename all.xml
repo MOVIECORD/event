@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 01:30:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 03:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,6 +142,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.25 ~ 2022.05.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/21/MI7jzcoHuemfI2UUjtywN1wTWpyNLCFN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[로스트 시티] 앵콜! 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.25 ~ 2022.05.02]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/25/qniFscrFTtBGlXFMI9hdgusYx2qMQcis.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[극장판 엉덩이 탐정 : 수플레 섬의 비밀] 어린이날 선예매 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
