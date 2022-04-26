@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 14:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 15:22:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -176,14 +176,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/22/qzhW5tBsDtWUtR8HdHwwRqTH2SqqVZCU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<극장판 주술회전 0> 10주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.23 ~ 2022.04.26]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/18/l1o0VvBNxFPn5KlrJUGGt2ZpmYojhHAU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<위대한 계약: 파주, 책, 도시> 개봉기념 현장증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -280,14 +272,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/15/QFKGRyO1NYhuQ7RxJoD84umIA6t5S8db.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[신비한 동물들과 덤블도어의 비밀] 선착순 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.19 ~ 2022.04.26]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/18/YucLojL7z3hjP9UiNxhlm4KKcM7R9Qry.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[열대왕사] 선착순 빵원티켓]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -302,14 +286,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.15 ~ 2022.04.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/07/iMczlVwP8JN9q7HCiQeZzF2HmE9eqprM.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[백상예술대상 작품상 후보작 기획전 & 기념 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.15 ~ 2022.04.26]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/15/qUazLRlgM4Y7uXjFbkaTYI8qUGqYKTCU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<복지식당> 관람인증 이벤트]]></title>
