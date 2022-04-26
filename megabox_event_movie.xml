@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 08:27:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 09:23:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.02 ~ 2022.05.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/20/zu6YfWpQLVSMQ2iZe9Vi1HCXhh3MkpHW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<배드 가이즈> 프리미어 상영회 & 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.30 ~ 2022.05.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/26/rBq5Ui1bW5qRtVVa8lHOR076UNbF96NK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[킹프리 전편 상영회 특전 안내 (동대문)]]></title>

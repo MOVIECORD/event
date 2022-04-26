@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 08:27:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 09:23:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,6 +118,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.02 ~ 2022.05.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/20/zu6YfWpQLVSMQ2iZe9Vi1HCXhh3MkpHW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<배드 가이즈> 프리미어 상영회 & 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.30 ~ 2022.05.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/26/rBq5Ui1bW5qRtVVa8lHOR076UNbF96NK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[킹프리 전편 상영회 특전 안내 (동대문) (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1168,12 +1176,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/21/x88WCN844xAJSxdCPr06AKc1p8hTXqGr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<민스미트 작전> 메가박스 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 07 Mar 2022 07:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.26 ~ 2022.05.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/26/wnirYcf3C2jIq0o9M16LSxwFlvpT4Im5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<서울괴담> 개봉전야 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
             <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
             <pubDate>Mon, 07 Mar 2022 07:20:25 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.26 ~ 2022.04.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/22/bXQbZ1NkkwNzx5qBmkhgbs9WiRTzgEZO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['매스' 언론 배급 시사... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/76307743</link>
+            <guid>https://extmovie.com/sisaing/76307743</guid>
+            <pubDate>Tue, 26 Apr 2022 09:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[영화 &lt;매스&gt; 언론/배급 시사회에 초대합니다. 평일 낮에 진행됩니다. 꼭 참석하...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/743/307/076/295x295.crop.jpg?20220426173136" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마블 코믹스 '닥터 스트레인... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
