@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 23:23:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 01:51:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -158,6 +158,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.28 ~ 2022.05.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/25/SgSXmXgcINGlVG02WmNJrlK3sbflouE1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<중경삼림 리마스터링> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.27 ~ 2022.05.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/26/vyEMqvj5ljk76VlmuuIQagFKrOAmn6Uy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<서울괴담> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1158,14 +1166,6 @@
             <pubDate>Fri, 22 Apr 2022 06:27:00 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;나를 만나는 길&gt; 언론/배급 시사회에 초대합니다. 평일 낮에 진행됩니다. ...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/692/161/076/295x295.crop.jpg?20220422145932" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['배드 가이즈' 언론 배... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/76085746</link>
-            <guid>https://extmovie.com/sisaing/76085746</guid>
-            <pubDate>Wed, 20 Apr 2022 15:24:38 GMT</pubDate>
-            <content:encoded><![CDATA[애니메이션 &lt;배드 가이즈&gt; 언론/배급 시사회에 초대합니다. 평일 낮에 진행됩니...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/746/085/076/295x295.crop.jpg?20220421000549" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['크로스 더 라인' 언론... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
