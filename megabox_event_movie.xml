@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 04:35:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 05:22:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<큐어> 구로사와 기요시 감독 GV]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.05 ~ 2022.05.05]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/26/yKCGPOkKfsj0ArTJxYqhYT6FjXxFAHnJ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<우연과 상상> 이동진 평론가와 함께하는 메가토크]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
