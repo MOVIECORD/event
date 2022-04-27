@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 14:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 16:32:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Thu, 07 Oct 2021 12:22:18 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.15 ~ 2022.04.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/15/tdFDHU1YO5x5PY81lvYXHT0HtrjfoNLM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 오리지널 티켓 No.50 <신비한 동물들과 덤블도어의 비밀>]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Thu, 07 Oct 2021 12:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.13 ~ 2022.04.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/08/21MHJTdPFQ1TBOpDysYS45sKIJpNq8Ub.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상영관 내 취식가능 안내]]></title>

@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 14:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 16:32:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Sat, 23 Apr 2022 06:25:00 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.27 ~ 2022.05.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/27/FoYitn1Wk1p172c3uy0MHRfGlmq2ki9c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<서울괴담> 개봉주 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Sat, 23 Apr 2022 06:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.27 ~ 2022.04.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/21/x88WCN844xAJSxdCPr06AKc1p8hTXqGr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<민스미트 작전> 메가박스 회원 시사회]]></title>
