@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 23:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 01:52:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1158,6 +1158,14 @@
             <pubDate>Mon, 07 Mar 2022 07:20:25 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.26 ~ 2022.05.01]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/26/wnirYcf3C2jIq0o9M16LSxwFlvpT4Im5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['닥터 스트레인지: 대혼돈의... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/76330035</link>
+            <guid>https://extmovie.com/sisaing/76330035</guid>
+            <pubDate>Wed, 27 Apr 2022 01:52:10 GMT</pubDate>
+            <content:encoded><![CDATA[영화 &lt;닥터 스트레인지: 대혼돈의 멀티버스&gt; 개봉전 IMAX 시사회에 초대합니다. ...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/035/330/076/295x295.crop.jpg?20220427085635" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['전체관람가+: 숏버스터&#03... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
