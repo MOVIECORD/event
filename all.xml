@@ -4,16 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 05:31:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 06:27:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[목동지점] 리뉴얼오픈 이벤트! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <title><![CDATA[[사상지점] 오픈 이벤트! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.27 ~ 2022.06.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/27/tTPXh2PVxHpuZKMHD4GZ2LWS1xUiWCbM.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2022.04.27 ~ 2022.05.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/27/FUTAY80zdCWemRqfKzhzl5D28IQlVWMX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓북 시즌2 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.18 ~ 2022.05.01]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/17/h8hsxADTFmElnGVfjIp3ZGBkLinLwNmE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[목동지점] 리뉴얼오픈 이벤트! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.27 ~ 2022.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/27/tTPXh2PVxHpuZKMHD4GZ2LWS1xUiWCbM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 Re.12 <중경삼림> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
