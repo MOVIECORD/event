@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 04:48:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 05:31:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[목동지점] 리뉴얼오픈 이벤트!]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Thu, 07 Oct 2021 12:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.27 ~ 2022.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/27/tTPXh2PVxHpuZKMHD4GZ2LWS1xUiWCbM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓북 시즌2]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
@@ -22,14 +30,6 @@
             <pubDate>Thu, 07 Oct 2021 12:22:18 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.25 ~ 2022.05.01]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/19/SrLJ2s8tFtEigUFUTrHeqFcpMMTJ2fFj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<닥터 스트레인지: 대혼돈의 멀티버스> 얼리버드 예매 스페셜 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Thu, 07 Oct 2021 12:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.21 ~ 2022.04.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/21/XfRfbHsSv1vraSSymNkQgQbg0hjYNEun.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[메가 올팝위크] 컴백! 영화보며 팝콘을 즐겨 보세요!]]></title>
