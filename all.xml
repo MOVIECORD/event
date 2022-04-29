@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 13:41:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 15:23:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -382,14 +382,6 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.18 ~ 2022.05.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/15/kNJJ5lSvnEHFKgWlWEDPCQzJ8xmVlMmr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공기살인] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.15 ~ 2022.04.29]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/07/iMczlVwP8JN9q7HCiQeZzF2HmE9eqprM.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<복지식당> 관람인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1206,6 +1198,14 @@
             <pubDate>Thu, 28 Apr 2022 12:41:28 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;범죄도시 2&gt; 익무 단독관 GV 시사회에 초대합니다. 꼭 참석하고 게시판에 ...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/741/410/076/295x295.crop.jpg?20220428204353" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['우연과 상상' 현리 배... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/76382326</link>
+            <guid>https://extmovie.com/sisaing/76382326</guid>
+            <pubDate>Fri, 29 Apr 2022 15:23:41 GMT</pubDate>
+            <content:encoded><![CDATA[하마구치 류스케 감독 작품 &lt;우연과 상상&gt;에 출연한 현리 배우에게 물어보고 싶...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/326/382/076/295x295.crop.jpg?20220429235401" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['닥터 스트레인지: 대혼돈의... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
