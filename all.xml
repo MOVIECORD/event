@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 04:36:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 06:27:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.05 ~ 2022.05.05]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/26/yKCGPOkKfsj0ArTJxYqhYT6FjXxFAHnJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[복지식당] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.02 ~ 2022.05.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/29/TX83TlYhlLrzQPEyb86ncJfuOeiUMyml.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<우연과 상상> 이동진 평론가와 함께하는 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
