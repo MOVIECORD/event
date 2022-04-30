@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 14:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 15:22:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,14 +192,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/20/T6s9Vh4KxSLYzNpjUw6D9CWn1dgN4moT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<중경삼림 리마스터링> 파인애플 통조림 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.23 ~ 2022.04.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/22/qzhW5tBsDtWUtR8HdHwwRqTH2SqqVZCU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<위대한 계약: 파주, 책, 도시> 개봉기념 현장증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -286,14 +278,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.18 ~ 2022.05.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/15/kNJJ5lSvnEHFKgWlWEDPCQzJ8xmVlMmr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<복지식당> 관람인증 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.14 ~ 2022.04.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/14/87KSMozpG8nI5uIn27LPgR2V0wWqiGX6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
