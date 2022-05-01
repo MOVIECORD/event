@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 14:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 15:22:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,22 +46,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.02 ~ 2022.05.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/20/zu6YfWpQLVSMQ2iZe9Vi1HCXhh3MkpHW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<배드 가이즈> 프리미어 상영회 & 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.30 ~ 2022.05.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/26/rBq5Ui1bW5qRtVVa8lHOR076UNbF96NK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[킹프리 전편 상영회 특전 안내 (동대문)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.30 ~ 2022.05.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/22/yx3VDvBZyiWUFKvx0lfT0ogMbAgUJGqn.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<내가 처음으로 사랑한 소녀> 개봉 기념 현장증정 이벤트]]></title>
@@ -230,14 +214,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.21 ~ 2022.05.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/14/xL4nTciA3plrnI2XrE4KsrSRIvSkQu6i.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[니 부모 얼굴이 보고 싶다] 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.21 ~ 2022.05.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/19/eugeHKVXHBQCZIzb8qMWShCaO4W6TSIl.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<중경삼림 리마스터링> 최다관람 경품 이벤트]]></title>

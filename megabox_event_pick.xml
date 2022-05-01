@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 14:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 15:22:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,22 +30,6 @@
             <pubDate>Thu, 07 Oct 2021 12:22:18 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.25 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/25/GwvH6olIa1O7OBMu6yhvDrSwLwGNJtyT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[무비 위크] 하루종일 영화 1천원, 팝콘 1천원]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Thu, 07 Oct 2021 12:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.25 ~ 2022.05.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/19/SrLJ2s8tFtEigUFUTrHeqFcpMMTJ2fFj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[메가 올팝위크] 컴백! 영화보며 팝콘을 즐겨 보세요!]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Thu, 07 Oct 2021 12:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.18 ~ 2022.05.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/17/h8hsxADTFmElnGVfjIp3ZGBkLinLwNmE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[목동지점] 리뉴얼오픈 이벤트!]]></title>
