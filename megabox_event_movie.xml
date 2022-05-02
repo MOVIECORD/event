@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 14:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 15:24:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,14 +70,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.02 ~ 2022.05.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/02/KUW0WHJCwLCo9yJdgkzgcVGjp2IKmosm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<우연과 상상> 이동진 평론가와 함께하는 메가토크]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.02 ~ 2022.05.02]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/20/zu6YfWpQLVSMQ2iZe9Vi1HCXhh3MkpHW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<내가 처음으로 사랑한 소녀> 개봉 기념 현장증정 이벤트]]></title>
@@ -190,14 +182,6 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.25 ~ 2022.05.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/21/OcTGn2RKkAMZd19oDdlpRGcvau5bWzt3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[로스트 시티] 앵콜! 선착순 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.25 ~ 2022.05.02]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/25/qniFscrFTtBGlXFMI9hdgusYx2qMQcis.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<열대왕사> 개봉기념 현장증정 이벤트]]></title>
