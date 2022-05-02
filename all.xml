@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 01:53:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 03:58:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[메가박스x밀크] 영화로운 포인트 생활2 - 최대50% PAY-BACK (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.02 ~ 2022.05.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/02/mgrvaF6vzgGg1V1WxwxLZNcsOs9n9NWg.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스프라이트 제로와 함께하는 100% 당첨 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
@@ -126,6 +134,14 @@
             <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.02 ~ 2022.05.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/29/9SopMzdyr8EPYxnPDacd0oziggAty4rf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트나인과 함께 하는 <평평남녀> 시네마구구 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.02 ~ 2022.05.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/02/KUW0WHJCwLCo9yJdgkzgcVGjp2IKmosm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<우연과 상상> 이동진 평론가와 함께하는 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -808,6 +824,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/12/04/6fKl1TrWah4mFLNl4yRPvblxt3sGuU5p.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[네이버페이 1만원 이상 결제 시, 2천P 적립! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.02 ~ 2022.05.15]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/02/YJQun2nA74wJ1NOsmZxQ3zrBQTwX3TdW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[현장에서 카카오페이 결제시 최대 7500원 혜택 제공! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
@@ -973,7 +997,7 @@
             <guid>https://extmovie.com/sisaing/76555341</guid>
             <pubDate>Mon, 02 May 2022 01:53:41 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;우연과 상상&gt; GV 상영회에 초대합니다. 꼭 참석하고 게시판에 후기 남겨주...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/341/555/076/295x295.crop.jpg?20220502100811" length="0" type="image/jpg"/>
+            <enclosure url="https://extmovie.com/files/thumbnails/341/555/076/295x295.crop.jpg?20220502113608" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['풀타임' 감독과 인터... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
