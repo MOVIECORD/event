@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 23:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 01:53:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/29/lXGyVarwrasacUEVAwyvxTX0BbzRE5zp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<닥터 스트레인지: 대혼돈의 멀티버스> 돌비 포스터 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.04 ~ 2022.05.18]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/02/xOLwRgqS3A8A41QAxk75x4Bujg4iCAaO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<닥터 스트레인지: 대혼돈의 멀티버스> 오리지널 티켓북 렌티큘러 포스터 증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -38,6 +46,14 @@
             <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.02 ~ 2022.05.17]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/29/TX83TlYhlLrzQPEyb86ncJfuOeiUMyml.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[니 부모 얼굴이 보고 싶다] 앵콜! 선착순 빵원티켓 ➕]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 31 Aug 2021 09:54:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.02 ~ 2022.05.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/29/9SopMzdyr8EPYxnPDacd0oziggAty4rf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<우연과 상상> 이동진 평론가와 함께하는 메가토크]]></title>
