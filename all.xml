@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 06:26:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 07:21:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.04 ~ 2022.07.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/02/38OT5AJGWlmVS2NlSWcPCYunRkxF5w0Y.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[5월 가정의달] MAY Be Happy! - 매일매일 50% (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.04 ~ 2022.05.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/03/5Zjifc0t9QoxDUlKb1s7wJHvBCCFKtLY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[5월 가정의달] MAY Be Happy! - 많2많2 경품이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Thu, 07 Oct 2021 09:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.04 ~ 2022.05.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/03/hqXNZwRsSnNA8TqPycwvr60PTkdAtOhS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[메가박스x밀크] 영화로운 포인트 생활2 - 최대50% PAY-BACK (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
