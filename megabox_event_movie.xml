@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 14:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 15:24:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,14 +110,6 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.02 ~ 2022.05.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/29/9SopMzdyr8EPYxnPDacd0oziggAty4rf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트나인과 함께 하는 <평평남녀> 시네마구구]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.02 ~ 2022.05.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/02/KUW0WHJCwLCo9yJdgkzgcVGjp2IKmosm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<내가 처음으로 사랑한 소녀> 개봉 기념 현장증정 이벤트]]></title>
