@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.megabox.co.kr/event/curtaincall</id>
-    <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
-    <updated>2022-05-06T05:20:20.723Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.megabox.co.kr/event/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 06 May 2022 06:29:21 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<범죄도시2> 메가박스 회원 시사회]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Fri, 06 May 2022 06:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.28 ~ 2022.05.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/28/1gTycw8bu6aGgVzHrffox1OLfmMMgYnZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<완벽한 축사를 준비하는 방법> 메가박스 회원 시사회]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Fri, 06 May 2022 06:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.27 ~ 2022.05.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/27/WwS3JVpBm2WEtx8zyTjlic1dlz9FSn5P.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<봉명주공> 필름소사이어티 회원시사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Fri, 06 May 2022 06:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.27 ~ 2022.05.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/27/FoYitn1Wk1p172c3uy0MHRfGlmq2ki9c.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
