@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 07:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 09:23:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.04 ~ 2022.07.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/04/2GHHmIYRvCnsM1LkeYvYc2FOVwipI26G.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어린이날 기념! 랜덤피규어콤보 출시]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.04 ~ 2022.05.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/04/xKKH5J1YO3i48u3DfEsR65X68QNo87nw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[5월 가정의달] MAY Be Happy! - 매일매일 50%]]></title>
