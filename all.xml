@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 14:19:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 15:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,14 +296,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/21/ukUm9UH36LwXLyw2ZYU1g9vOd9bNoC5P.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<열대왕사> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.23 ~ 2022.05.07]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/20/T6s9Vh4KxSLYzNpjUw6D9CWn1dgN4moT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[inno.N X 메가박스] 컨디션 스틱 메가 샘플링 EVENT (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -406,14 +398,6 @@
             <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.22 ~ 2022.05.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/22/rj29J7ugFodTSi0Dgz28HXuyvuB66K54.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해운대(장산)] 어린이 오페라 공연 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.22 ~ 2022.05.07]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/22/kYZs3QmjEkaqQFkZS24qPIOrSGRhXcAg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[영통] 댕댕이왈 영화관 나도 데려가시'개' (메가박스 ─ 이벤트 ─ 극장)]]></title>
