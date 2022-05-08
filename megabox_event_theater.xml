@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 14:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 15:22:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.04 ~ 2022.05.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/04/RKRzPkGgtA55PkHdMQOLJqStuUls7B6N.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[양주] 메박양이 쏜다!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.04 ~ 2022.05.08]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/04/qnAQZt3MraAyFXgAXc7TpT6rB5xxc9Sj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[경기서부지역] 경기도가 떡 빵원 매점]]></title>
