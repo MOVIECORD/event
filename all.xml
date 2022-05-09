@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 06:28:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 07:22:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -918,6 +918,14 @@
             <pubDate>Fri, 06 May 2022 06:29:13 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.27 ~ 2022.05.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/27/FoYitn1Wk1p172c3uy0MHRfGlmq2ki9c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['매스' 예매권 이벤트 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/76941013</link>
+            <guid>https://extmovie.com/sisaing/76941013</guid>
+            <pubDate>Mon, 09 May 2022 07:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[영화 &lt;매스&gt;의 예매권 이벤트입니다. 아래 댓글 신청 방법 예를 보시고 댓글 달...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/013/941/076/295x295.crop.jpg?20220509153257" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['더 노비스' 시사회에 ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
