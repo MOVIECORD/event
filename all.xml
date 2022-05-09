@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 08:28:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 09:22:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.11 ~ 2022.05.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/09/On7MueBOqi8eymQrlfGtmne76JfMn0yN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<닥터스트레인지:대혼돈의 멀티버스>프로모션 콤보 출시 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.09 ~ 2022.05.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/09/nCiTSLCFWnFZDIcskwJMqxRNNXBFVX6r.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[WELCOME TO DOLBY CINEMA LAND (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
