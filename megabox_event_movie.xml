@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 14:25:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 15:23:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,14 +78,6 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.11 ~ 2022.05.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/04/9LTnwn666GUlCkKOcwA8o5oRjjg8ukZS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 귀멸의 칼날 : 무한열차편> 렌고쿠 생일 축하 서프라이즈 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.10 ~ 2022.05.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/04/nCKkFVNrcqSDRm3hKZisXBG9Z9pvzxyp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<배드 가이즈> 개봉주 현장증정 이벤트]]></title>
@@ -214,14 +206,6 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.27 ~ 2022.05.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/26/z31YLUECzB7hySHr20DrMxUSTIYOrhCO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<서울괴담> 관람인증 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.27 ~ 2022.05.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/22/3gkQvxWvxz84ImpRvn8WPyhRvre7iPrw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[배드 가이즈] 선착순 빵원티켓 ➕]]></title>
