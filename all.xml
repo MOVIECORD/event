@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 05:31:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 06:31:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,6 +184,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/10/CSBJ5BtoXxs3sE4NIgIvh5ycxkkdsavO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아트나인과 함께 하는 <나를 만나는 길> 예매 경품 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.12 ~ 2022.05.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/11/QDHAU0Qh2l8JPq7YuCRdzTbONqarzN9k.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<나를 만나는 길> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -358,6 +366,14 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.25 ~ 2022.05.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/21/ukUm9UH36LwXLyw2ZYU1g9vOd9bNoC5P.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[경기서부] 일산차움라이프센터 오픈 2주년 쿠폰 프로모션 (~7/10) (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.11 ~ 2022.07.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/11/GOxGbBDEDbExNuArhYbYFEWmawpYKxn3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[inno.N X 메가박스] 컨디션 스틱 메가 샘플링 EVENT (메가박스 ─ 이벤트 ─ 극장)]]></title>

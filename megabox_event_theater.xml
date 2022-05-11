@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 05:31:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 06:31:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[경기서부] 일산차움라이프센터 오픈 2주년 쿠폰 프로모션 (~7/10)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.11 ~ 2022.07.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/11/GOxGbBDEDbExNuArhYbYFEWmawpYKxn3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[inno.N X 메가박스] 컨디션 스틱 메가 샘플링 EVENT]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
