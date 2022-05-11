@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 14:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 17:32:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,14 +128,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/03/1cGBXaghveVPvFJc1Q0nUFJ3DgRvTvv3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<극장판 주술회전 0> 60만 돌파 감사 특전 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.05 ~ 2022.05.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/03/Ec5vTAkXycuWvVp0Xx8WzaoYpJb1zRPb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<닥터 스트레인지: 대혼돈의 멀티버스> 3D 예매 스페셜 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -238,22 +230,6 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.27 ~ 2022.05.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/26/z31YLUECzB7hySHr20DrMxUSTIYOrhCO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[배드 가이즈] 선착순 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.26 ~ 2022.05.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/21/jz2mcSU7Zc9VxmrmUf0qkAnKBSWN2GCe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[부기나이트] 선착순 빵원티켓]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.25 ~ 2022.05.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/21/ukUm9UH36LwXLyw2ZYU1g9vOd9bNoC5P.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
