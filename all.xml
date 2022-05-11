@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 07:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 08:29:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -982,6 +982,14 @@
             <pubDate>Fri, 06 May 2022 06:29:13 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.14 ~ 2022.05.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/06/j0TqMBMyiJFJirSTLOrIc2G4hWFOBLBR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<더 노비스> 메가박스 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Fri, 06 May 2022 06:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.11 ~ 2022.05.19]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/11/6AcWxM2FIPv1W7VaxaaHGgRXtEcmF8pV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['애프터 양' 언론 배급... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
