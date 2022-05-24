@@ -1,27 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 23:23:37 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[<어부바> 개봉주 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Fri, 06 May 2022 06:29:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.14 ~ 2022.05.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/06/j0TqMBMyiJFJirSTLOrIc2G4hWFOBLBR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<더 노비스> 메가박스 회원 시사회]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Fri, 06 May 2022 06:29:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.11 ~ 2022.05.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/11/6AcWxM2FIPv1W7VaxaaHGgRXtEcmF8pV.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.megabox.co.kr/event/curtaincall</id>
+    <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
+    <updated>2022-05-24T03:28:30.160Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.megabox.co.kr/event/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[0]]></title>
+        <id>https://www.megabox.co.kr/event/curtaincall</id>
+        <link href="https://www.megabox.co.kr/event/curtaincall"/>
+        <updated>2022-05-24T03:28:23.133Z</updated>
+        <content type="html"><![CDATA[해당 이벤트가 없습니다.]]></content>
+    </entry>
+</feed>

@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 23:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 03:28:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,6 +32,22 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/05/sOJaxilAt6HbGjjwoXdTferKjpGQVzgZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[파주금촌] 우리, 다시 만나요!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.19 ~ 2022.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/19/AkvKflh1uuIMBULtpyWBNjgBYT2S88N6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대전지역] 6월 1일 지방선거 참여하세요!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.19 ~ 2022.06.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/19/oCh3x8FFaxPKKnez3BLs2g2iSmfaxIqk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[수원] 우리, 다시 만나요!]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -48,12 +64,36 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/04/RKRzPkGgtA55PkHdMQOLJqStuUls7B6N.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[경기서부지역] 경기도가 떡 빵원 매점]]></title>
+            <title><![CDATA[[대구이시아] 발코니 10회 이용권 패키지]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.02 ~ 2022.05.22]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/04/8lFyLojyR4ed7Lkta0aWepiVRS9bSdWF.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2022.05.01 ~ 2022.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/13/lLST2nUB3yzQNFr5wcxTKJlGxpdbmze6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[부산경남지역] 두근두근 럭키박스! 1석2조 배달쿠폰!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.01 ~ 2022.07.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/19/fpyrxJOuChj7pvHGVe3rM7V80NnxHXDH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대구신세계] 대구 신세계 만원의 행복]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.01 ~ 2022.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/18/SdHqQNQrdMeq8BKRpKem56FN1n9oeKVv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[양산라피에스타] 일반관 미니팝콘 무료!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.01 ~ 2022.05.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/13/mkfZ1VfVZoAN8BPrYMrRtZX10I9z6sXj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[하남스타필드, 분당] 더 부티크 스위트 감사 할인]]></title>
