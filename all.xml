@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 13:42:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 15:24:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,28 +200,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/23/xbeMJBbrJFzWfDLTwFqyIqkSfT1MrKFX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<그대가 조국> 전야 유료 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.24 ~ 2022.05.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/19/EISgZcmA8TG5sVe29hcaPoDnaRLTLbm9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<닥터 스트레인지 2 : 대혼돈의 멀티버스> 스페셜 경품 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.21 ~ 2022.06.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/19/7x7L6kv8BKj8plwaF6pWWQS7CGhVf8hF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 주술회전 0> 14주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.18 ~ 2022.05.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/16/NFM3Ub21utpXvsU4DXrdPklw8gRiIvDE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<파리, 13구> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -248,28 +232,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/11/QDHAU0Qh2l8JPq7YuCRdzTbONqarzN9k.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<나를 만나는 길> 메가박스 관람인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.12 ~ 2022.05.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/13/q77Rs1YrKvRWjoeHI5heMV7F3N6GbmWl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<우연과 상상> 에피소드 2화 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.11 ~ 2022.05.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/10/5D6Yyi27lOYYWIuyIjzaeO7BsOWJVuYO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<배드 가이즈> 개봉주 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.07 ~ 2022.05.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/04/FIzRrmbw2AA2VuUt4JSkrUIz3OnoRJoZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<내가 처음으로 사랑한 소녀> 개봉 기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -808,14 +776,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/12/04/6fKl1TrWah4mFLNl4yRPvblxt3sGuU5p.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[신세계포인트X메가박스] 포스터 증정 앵콜 이벤트! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:57 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.20 ~ 2022.05.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/19/ITRamTTaFY5iMLHvgo0jvqpV69misgnL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[현장에서 카카오페이 결제시 최대 7500원 혜택 제공! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
@@ -947,7 +907,7 @@
             <title><![CDATA[undefined (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 24 May 2022 13:42:25 GMT</pubDate>
+            <pubDate>Tue, 24 May 2022 15:24:45 GMT</pubDate>
             <content:encoded><![CDATA[해당 이벤트가 없습니다.]]></content:encoded>
         </item>
         <item>
