@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 13:44:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 14:26:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -923,7 +923,7 @@
             <title><![CDATA[undefined (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 25 May 2022 13:44:19 GMT</pubDate>
+            <pubDate>Wed, 25 May 2022 14:26:20 GMT</pubDate>
             <content:encoded><![CDATA[해당 이벤트가 없습니다.]]></content:encoded>
         </item>
         <item>
@@ -932,7 +932,7 @@
             <guid>https://extmovie.com/sisaing/77827848</guid>
             <pubDate>Tue, 24 May 2022 12:42:56 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;플레이그라운드&gt; 리뷰 이벤트입니다. &lt;플레이그라운드&gt;를 관람하신 분들께...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/848/827/077/295x295.crop.jpg?20220525155018" length="0" type="image/jpg"/>
+            <enclosure url="https://extmovie.com/files/thumbnails/848/827/077/295x295.crop.jpg?20220525230154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['실종' 언론 배급 시사... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
