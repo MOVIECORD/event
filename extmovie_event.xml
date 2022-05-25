@@ -4,7 +4,7 @@
         <title>익스트림무비 ─ 시사회 ─ 시사회진행</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 12:45:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 13:44:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,22 +62,6 @@
             <pubDate>Tue, 24 May 2022 03:28:29 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;카시오페아&gt; 리뷰 이벤트입니다. &lt;카시오페아&gt;를 관람하신 분들께서는 영...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/570/426/077/295x295.crop.jpg?20220518111622" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['매스' 리뷰 이벤트]]></title>
-            <link>https://extmovie.com/sisaing/77385808</link>
-            <guid>https://extmovie.com/sisaing/77385808</guid>
-            <pubDate>Tue, 24 May 2022 03:28:29 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;매스&gt; 리뷰 이벤트입니다. &lt;매스&gt;를 관람하신 분들께서는 영화수다 게시판...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/808/385/077/295x295.crop.jpg?20220517163344" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['윤시내가 사라졌다' ...]]></title>
-            <link>https://extmovie.com/sisaing/77299186</link>
-            <guid>https://extmovie.com/sisaing/77299186</guid>
-            <pubDate>Tue, 24 May 2022 03:28:29 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;윤시내가 사라졌다&gt; 시사회에 초대합니다. 꼭 참석하고 게시판에 후기 남...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/186/299/077/295x295.crop.jpg?20220516095536" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시사회, 이벤트 당첨 확률 올리는 법]]></title>
