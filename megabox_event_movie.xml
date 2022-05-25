@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 06:28:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 07:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<범죄도시 2> 스페셜 굿즈패키지 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.01 ~ 2022.06.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/25/CzFhuKE9FURgIWy3nbXJ4xIl0m10SElU.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<애프터양> 코고나다 월드 토크 스페셜 GV]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 06:28:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 07:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,6 +142,14 @@
             <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.01 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/14/ACdDJx36kS3ytWbf8JuflttgFwbvJ0Mt.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<범죄도시 2> 스페셜 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.01 ~ 2022.06.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/25/CzFhuKE9FURgIWy3nbXJ4xIl0m10SElU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<애프터양> 코고나다 월드 토크 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -907,7 +915,7 @@
             <title><![CDATA[undefined (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 25 May 2022 06:28:42 GMT</pubDate>
+            <pubDate>Wed, 25 May 2022 07:21:20 GMT</pubDate>
             <content:encoded><![CDATA[해당 이벤트가 없습니다.]]></content:encoded>
         </item>
         <item>
@@ -916,7 +924,7 @@
             <guid>https://extmovie.com/sisaing/77827848</guid>
             <pubDate>Tue, 24 May 2022 12:42:56 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;플레이그라운드&gt; 리뷰 이벤트입니다. &lt;플레이그라운드&gt;를 관람하신 분들께...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/848/827/077/295x295.crop.jpg?20220524221341" length="0" type="image/jpg"/>
+            <enclosure url="https://extmovie.com/files/thumbnails/848/827/077/295x295.crop.jpg?20220525155018" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['실종' 언론 배급 시사... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
@@ -924,7 +932,7 @@
             <guid>https://extmovie.com/sisaing/77799103</guid>
             <pubDate>Tue, 24 May 2022 04:39:24 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;실종&gt; 언론/배급 시사회에 초대합니다. 평일 오후에 진행됩니다. 꼭 참석...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/103/799/077/295x295.crop.jpg?20220524132059" length="0" type="image/jpg"/>
+            <enclosure url="https://extmovie.com/files/thumbnails/103/799/077/295x295.crop.jpg?20220525152945" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['아부쟁이' 언론 배급 ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
