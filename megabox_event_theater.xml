@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 03:28:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 04:36:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.19 ~ 2022.06.01]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/19/oCh3x8FFaxPKKnez3BLs2g2iSmfaxIqk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[양산라피에스타] 하나로마트 구매 영수증 제시하면]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.12 ~ 2022.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/26/33UywDJ3E5DshT2Rm0IugYhBXbRAZbRK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[경기서부] 일산차움라이프센터 오픈 2주년 쿠폰 프로모션 (~7/10)]]></title>
