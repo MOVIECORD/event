@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 13:40:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 15:26:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,22 +230,6 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.21 ~ 2022.06.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/19/7x7L6kv8BKj8plwaF6pWWQS7CGhVf8hF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<파리, 13구> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.12 ~ 2022.05.26]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/10/IuhzQ6FLMn47ZpcMrBL9SXwZEPwXgMxX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<크로스 더 라인> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.12 ~ 2022.05.26]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/10/CSBJ5BtoXxs3sE4NIgIvh5ycxkkdsavO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<뉴욕 메트로폴리탄 오페라> 시즌 2022 라인업 (코엑스, 센트럴, 성수, 킨텍스, 분당, 목동) (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -941,7 +925,7 @@
             <guid>https://extmovie.com/sisaing/77557660</guid>
             <pubDate>Tue, 24 May 2022 03:28:29 GMT</pubDate>
             <content:encoded><![CDATA[익스트림무비 단독관으로 진행되는 블라인드 시사회에 초대합니다. 어떤 영화인...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/660/557/077/295x295.crop.jpg?20220520155757" length="0" type="image/jpg"/>
+            <enclosure url="https://extmovie.com/files/thumbnails/660/557/077/295x295.crop.jpg?20220526235612" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['그대라는기억 연숙씨'... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
