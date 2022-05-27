@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 06:32:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 07:33:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -950,22 +950,6 @@
             <pubDate>Tue, 24 May 2022 03:28:29 GMT</pubDate>
             <content:encoded><![CDATA[익스트림무비 단독관으로 진행되는 블라인드 시사회에 초대합니다. 어떤 영화인...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/660/557/077/295x295.crop.jpg?20220526235612" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['그대라는기억 연숙씨'... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/77472886</link>
-            <guid>https://extmovie.com/sisaing/77472886</guid>
-            <pubDate>Tue, 24 May 2022 03:28:29 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;그대라는기억 연숙씨&gt; 언론/배급 시사회에 초대합니다. 평일 오후에 진행...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/886/472/077/295x295.crop.jpg?20220518235726" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['카시오페아' 리뷰 이벤트 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/77426570</link>
-            <guid>https://extmovie.com/sisaing/77426570</guid>
-            <pubDate>Tue, 24 May 2022 03:28:29 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;카시오페아&gt; 리뷰 이벤트입니다. &lt;카시오페아&gt;를 관람하신 분들께서는 영...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/570/426/077/295x295.crop.jpg?20220518111622" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시사회, 이벤트 당첨 확률 올리는 법 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
