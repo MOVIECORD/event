@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 23:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 02:03:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,14 @@
             <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.01 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/14/ACdDJx36kS3ytWbf8JuflttgFwbvJ0Mt.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<카시오페아> 개봉기념 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.03 ~ 2022.06.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/26/lemAbEWJpYI5SHOdD0f1Dv4iWqzuzCm2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<쥬라기 월드 : 도미니언> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
