@@ -4,7 +4,7 @@
         <title>익스트림무비 ─ 시사회 ─ 시사회진행</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 06:32:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 08:31:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://extmovie.com/sisaing/78864099</guid>
             <pubDate>Wed, 01 Jun 2022 02:04:56 GMT</pubDate>
             <content:encoded><![CDATA[&lt;쥬라기 월드: 도미니언&gt;을 4DX로 관람하신 후, 작품 자체보다 4DX 효과 위주의 ...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/099/864/078/295x295.crop.jpg?20220601142320" length="0" type="image/jpg"/>
+            <enclosure url="https://extmovie.com/files/thumbnails/099/864/078/295x295.crop.jpg?20220601155619" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['니얼굴' 시사회에 초...]]></title>
@@ -54,14 +54,6 @@
             <pubDate>Sat, 28 May 2022 01:45:15 GMT</pubDate>
             <content:encoded><![CDATA[6월 15일부터 시작되는 서울국제어린이영화제에 초대합니다. 꼭 참석하고 게시판...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/416/275/078/295x295.crop.jpg?20220528090424" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19SIEFF 서울국제환경영화제에 초...]]></title>
-            <link>https://extmovie.com/sisaing/78015519</link>
-            <guid>https://extmovie.com/sisaing/78015519</guid>
-            <pubDate>Thu, 26 May 2022 07:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[19SIEFF 서울국제환경영화제에 출품된 영화 3편의 상영회에 초대합니다. 꼭 참석...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/519/015/078/295x295.crop.jpg?20220530233234" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['플레이그라운드' 리뷰...]]></title>
