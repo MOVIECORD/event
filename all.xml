@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 14:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 15:22:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -808,6 +808,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/31/ygJhimx3PM7L6IJZYACcVKeFjfJOQ5eP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['브로커' 리뷰 이벤트 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/79236643</link>
+            <guid>https://extmovie.com/sisaing/79236643</guid>
+            <pubDate>Fri, 03 Jun 2022 15:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[영화 &lt;브로커&gt; 리뷰 이벤트입니다. &lt;브로커&gt;를 관람하신 분들께서는 영화수다 게...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/643/236/079/295x295.crop.jpg?20220604001250" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['우스운게 딱! 좋아!' ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
             <link>https://extmovie.com/sisaing/79032863</link>
             <guid>https://extmovie.com/sisaing/79032863</guid>
@@ -821,7 +829,7 @@
             <guid>https://extmovie.com/sisaing/79032081</guid>
             <pubDate>Thu, 02 Jun 2022 05:35:08 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;모어&gt; 익스트림무비 단독관 GV 시사회에 초대합니다. 꼭 참석하고 게시판...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/081/032/079/295x295.crop.jpg?20220602135447" length="0" type="image/jpg"/>
+            <enclosure url="https://extmovie.com/files/thumbnails/081/032/079/295x295.crop.jpg?20220604000657" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['탑건: 매버릭 IMAX 시사회... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
