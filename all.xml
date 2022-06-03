@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 08:25:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 09:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -829,7 +829,7 @@
             <guid>https://extmovie.com/sisaing/78885993</guid>
             <pubDate>Wed, 01 Jun 2022 06:32:24 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;탑건: 매버릭&gt; IMAX 시사회에 초대합니다. 평일 낮에 진행됩니다. 꼭 참석...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/993/885/078/295x295.crop.jpg?20220601140725" length="0" type="image/jpg"/>
+            <enclosure url="https://extmovie.com/files/thumbnails/993/885/078/295x295.crop.jpg?20220603174855" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['쥬라기 월드: 도미니언&#03... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
