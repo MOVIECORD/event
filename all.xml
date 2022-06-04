@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 01:37:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 03:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -806,6 +806,14 @@
             <pubDate>Thu, 26 May 2022 06:28:07 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.31 ~ 2022.06.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/31/ygJhimx3PM7L6IJZYACcVKeFjfJOQ5eP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['오비완 케노비' 1, 2... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/79274234</link>
+            <guid>https://extmovie.com/sisaing/79274234</guid>
+            <pubDate>Sat, 04 Jun 2022 03:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[디즈니+ 시리즈 &lt;오비완 케노비&gt; 1, 2화 스페셜 상영회에 초대합니다. 꼭 참석하...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/234/274/079/295x295.crop.jpg?20220604120633" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['브로커' 리뷰 이벤트 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
