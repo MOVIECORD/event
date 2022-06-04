@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 23:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 01:37:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -822,14 +822,6 @@
             <pubDate>Thu, 02 Jun 2022 05:35:08 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;우스운게 딱! 좋아!&gt; 시사회에 초대합니다. 꼭 참석하고 게시판에 후기 남...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/863/032/079/295x295.crop.jpg?20220602135758" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['모어' 익무 단독관 무... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/79032081</link>
-            <guid>https://extmovie.com/sisaing/79032081</guid>
-            <pubDate>Thu, 02 Jun 2022 05:35:08 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;모어&gt; 익스트림무비 단독관 GV 시사회에 초대합니다. 꼭 참석하고 게시판...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/081/032/079/295x295.crop.jpg?20220604000657" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['탑건: 매버릭 IMAX 시사회... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
