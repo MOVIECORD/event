@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 23:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 03:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/14/ACdDJx36kS3ytWbf8JuflttgFwbvJ0Mt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<범죄도시 2> 앵콜 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.11 ~ 2022.06.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/07/Fh5TIAhfI2nj9NfoxnhbxihxpwS7wEYL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<극장판 포켓몬스터 DP : 기라티나와 하늘의 꽃다발 쉐이미> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -110,6 +118,14 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.11 ~ 2022.06.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/03/VNw9v7JqHbkdHc3yvCBGOUcTscIAIk98.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<윤시내가 사라졌다> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.08 ~ 2022.06.22]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/07/p27KiVlSS9ivU3xWtM0QAY3DhFzxI3Rv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[쥬라기 월드: 도미니언] 앵콜! 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -222,6 +238,14 @@
             <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.05 ~ 2022.11.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/05/sOJaxilAt6HbGjjwoXdTferKjpGQVzgZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[송도] 유타대학교 포켓영화제 진행(~6/10) (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.07 ~ 2022.06.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/03/vjVTh9Zs64BcrLRmvVV3ZA2v7bKpnN4x.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[하남스타필드&분당] 더 부티크 스위트 특별 할인 (메가박스 ─ 이벤트 ─ 극장)]]></title>
