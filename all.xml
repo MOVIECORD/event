@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 15:26:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 16:29:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메가피크닉팩 구매하고 워터밤 가자! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.10 ~ 2022.06.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/10/ZI4GrkkEdfOvyhocg8fjATbrFYlcak0s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<마녀2> 돌비 시네마 특별 전야 시사회 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
@@ -822,6 +830,14 @@
             <pubDate>Thu, 26 May 2022 06:28:07 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.31 ~ 2022.06.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/31/ygJhimx3PM7L6IJZYACcVKeFjfJOQ5eP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['버즈 라이트이어' 예... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/79959190</link>
+            <guid>https://extmovie.com/sisaing/79959190</guid>
+            <pubDate>Thu, 09 Jun 2022 16:29:57 GMT</pubDate>
+            <content:encoded><![CDATA[애니메이션 &lt;버즈 라이트이어&gt; 예매 인증을 해주시는 분들에게 스페셜 경품 세트...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/190/959/079/295x295.crop.jpg?20220610003500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['버즈 라이트이어' 시... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
