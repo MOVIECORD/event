@@ -4,9 +4,17 @@
         <title>익스트림무비 ─ 시사회 ─ 시사회진행</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 18:29:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 19:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인디스토리 6월 '수요단편극...]]></title>
+            <link>https://extmovie.com/sisaing/80081367</link>
+            <guid>https://extmovie.com/sisaing/80081367</guid>
+            <pubDate>Fri, 10 Jun 2022 19:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[인디스토리X서울아트시네마 - 6월 수요단편극장 상영회에 초대합니다. 꼭 참석하...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/367/081/080/295x295.crop.jpg?20220611033115" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['버즈 라이트이어' 예...]]></title>
             <link>https://extmovie.com/sisaing/79959190</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 02 Jun 2022 05:35:08 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;우스운게 딱! 좋아!&gt; 시사회에 초대합니다. 꼭 참석하고 게시판에 후기 남...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/863/032/079/295x295.crop.jpg?20220602135758" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['니얼굴' 시사회에 초...]]></title>
-            <link>https://extmovie.com/sisaing/78853923</link>
-            <guid>https://extmovie.com/sisaing/78853923</guid>
-            <pubDate>Wed, 01 Jun 2022 02:04:56 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;니얼굴&gt; 시사회에 초대합니다. 꼭 참석하고 게시판에 후기 남겨주실 분들...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/923/853/078/295x295.crop.jpg?20220601085505" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시사회, 이벤트 당첨 확률 올리는 법]]></title>
