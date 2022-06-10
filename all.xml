@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 01:52:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 03:26:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,6 +118,14 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.17 ~ 2022.06.17]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/08/5dmS7UajMWRwtozqoPkXmA1GTus0406U.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<버즈 라이트 이어> 돌비 시네마 관람 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.15 ~ 2022.06.29]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/10/nETWV4Auk4xqZsuKgBxXUsm90ldowOA3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<아치의 노래, 정태춘> 메가박스 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -822,6 +830,14 @@
             <pubDate>Thu, 26 May 2022 06:28:07 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.11 ~ 2022.06.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/07/7kLBmgNK9UIcNmCG3poUA2A0x4Bxl6E4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<탑건: 매버릭> 메가박스 돌비시네마 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Thu, 26 May 2022 06:28:07 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.10 ~ 2022.06.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/10/rNOMCSNYnxdUg9F2V2wGBbtbGWy4a8Q5.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<룸 쉐어링> 메가박스 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
