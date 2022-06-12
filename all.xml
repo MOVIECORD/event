@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 01:57:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 03:27:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -838,14 +838,6 @@
             <pubDate>Thu, 09 Jun 2022 16:29:57 GMT</pubDate>
             <content:encoded><![CDATA[애니메이션 &lt;버즈 라이트이어&gt; 예매 인증을 해주시는 분들에게 스페셜 경품 세트...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/190/959/079/295x295.crop.jpg?20220610003500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['버즈 라이트이어' 시... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/79943539</link>
-            <guid>https://extmovie.com/sisaing/79943539</guid>
-            <pubDate>Thu, 09 Jun 2022 14:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[애니메이션 &lt;버즈 라이트이어&gt; 시사회에 초대합니다. 좌석이 적습니다. 꼭 참석...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/539/943/079/295x295.crop.jpg?20220609224328" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소설 '새들이 모조리 사라진... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
