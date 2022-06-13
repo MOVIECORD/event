@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 07:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 08:26:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,14 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.10 ~ 2022.06.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/08/JD4nc2QqcKIqWCmQkav197Y50h4hFjVl.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<윤시내가 사라졌다> 2주차 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.08 ~ 2022.06.22]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/13/EznMeKCyIAUHzX72BZjTyIo6qGPzD7vB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<윤시내가 사라졌다> 개봉기념 현장증정 이벤트]]></title>
