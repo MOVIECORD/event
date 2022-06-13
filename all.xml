@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 01:58:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 03:40:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,6 +94,14 @@
             <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.01 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/14/ACdDJx36kS3ytWbf8JuflttgFwbvJ0Mt.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<극장판 포켓몬스터 DP : 기라티나와 하늘의 꽃다발 쉐이미> 3주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.18 ~ 2022.07.02]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/13/w8hZ5o5F0lJ3qJRywRsVug1kW5DEIKUZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<실종> 이동진 평론가 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -662,6 +670,14 @@
             <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.10 ~ 2022.11.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/12/AN3CpOSli9Kj3f4xiD2OFZO6XG2qhVA1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KT멤버십X메가박스] 6월 나의 초이스 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.13 ~ 2022.06.26]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/03/jE2WXEjnUBLUtuiwqlQGX3nXho66tHdE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대한항공X메가박스] SKYPASS 회원 할인 프로모션 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
