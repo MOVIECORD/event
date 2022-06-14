@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 14:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 15:24:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,22 +152,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/10/nETWV4Auk4xqZsuKgBxXUsm90ldowOA3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[탑건:매버릭] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.14 ~ 2022.06.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/13/6YLKGTacdprLdhVTmGQwomwz9q5hZXkS.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<아치의 노래, 정태춘> 메가박스 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.14 ~ 2022.06.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/07/4Ul5nScJjqFS2j6h6nCUwOZXz1RoELuy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[2022 시네 도슨트] 강연 안내 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -278,14 +262,6 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.01 ~ 2022.06.15]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/26/iLo0yWyn7vTEX4tjY2LCoZf3Hc65SHFy.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<쥬라기 월드: 도미니언> 3D 예매 경품 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.01 ~ 2022.06.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/26/b4Ma3heArsR6pCKYg2Au1ML5K6jyXytx.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[대구신세계, 대구이시아, 북대구(칠곡)] 대구시 문화소비 6천원 할인 쿠폰 (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -870,14 +846,6 @@
             <pubDate>Thu, 26 May 2022 06:28:07 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.18 ~ 2022.06.19]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/13/y3rNlmQcuCF6LSSBU9G6Bo7vYcc02M7K.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<탑건: 매버릭> 메가박스 돌비시네마 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Thu, 26 May 2022 06:28:07 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.10 ~ 2022.06.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/10/rNOMCSNYnxdUg9F2V2wGBbtbGWy4a8Q5.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['큐어' 언론 배급 시사... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
