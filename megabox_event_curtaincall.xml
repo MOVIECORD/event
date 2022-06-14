@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 23:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 02:01:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<브로커> 메가박스 2주차 무대인사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Thu, 26 May 2022 06:28:07 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.18 ~ 2022.06.19]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/13/y3rNlmQcuCF6LSSBU9G6Bo7vYcc02M7K.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<탑건: 매버릭> 메가박스 돌비시네마 회원 시사회]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
