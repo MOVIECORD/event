@@ -4,7 +4,7 @@
         <title>익스트림무비 ─ 시사회 ─ 시사회진행</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 23:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 03:44:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,22 +40,6 @@
             <enclosure url="https://extmovie.com/files/thumbnails/367/081/080/295x295.crop.jpg?20220611033115" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['버즈 라이트이어' 예...]]></title>
-            <link>https://extmovie.com/sisaing/79959190</link>
-            <guid>https://extmovie.com/sisaing/79959190</guid>
-            <pubDate>Thu, 09 Jun 2022 16:29:57 GMT</pubDate>
-            <content:encoded><![CDATA[애니메이션 &lt;버즈 라이트이어&gt; 예매 인증을 해주시는 분들에게 스페셜 경품 세트...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/190/959/079/295x295.crop.jpg?20220610003500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소설 '새들이 모조리 사라진...]]></title>
-            <link>https://extmovie.com/sisaing/79774558</link>
-            <guid>https://extmovie.com/sisaing/79774558</guid>
-            <pubDate>Wed, 08 Jun 2022 07:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[소설 &lt;새들이 모조리 사라진다면&gt; 출간 기념 이벤트입니다. 이 책에 대한 기대평...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/558/774/079/295x295.crop.jpg?20220608214445" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['마녀(魔女) Part2' 리...]]></title>
             <link>https://extmovie.com/sisaing/79681446</link>
             <guid>https://extmovie.com/sisaing/79681446</guid>
@@ -70,22 +54,6 @@
             <pubDate>Tue, 07 Jun 2022 11:19:07 GMT</pubDate>
             <content:encoded><![CDATA[애니메이션 &lt;벰: 비컴 휴먼&gt; 시사회에 초대합니다. 토요일 낮에 진행됩니다. 꼭 ...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/364/672/079/295x295.crop.jpg?20220607193130" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['워킹데드 시즌 11' 익...]]></title>
-            <link>https://extmovie.com/sisaing/79620917</link>
-            <guid>https://extmovie.com/sisaing/79620917</guid>
-            <pubDate>Tue, 07 Jun 2022 04:31:43 GMT</pubDate>
-            <content:encoded><![CDATA[디즈니+로 단독 공개되는 &lt;워킹데드 시즌 11&gt; 익스트림무비 단독관 시사회에 초...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/917/620/079/295x295.crop.jpg?20220607130544" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['브로커' 리뷰 이벤트]]></title>
-            <link>https://extmovie.com/sisaing/79236643</link>
-            <guid>https://extmovie.com/sisaing/79236643</guid>
-            <pubDate>Fri, 03 Jun 2022 15:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;브로커&gt; 리뷰 이벤트입니다. &lt;브로커&gt;를 관람하신 분들께서는 영화수다 게...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/643/236/079/295x295.crop.jpg?20220604001250" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시사회, 이벤트 당첨 확률 올리는 법]]></title>
