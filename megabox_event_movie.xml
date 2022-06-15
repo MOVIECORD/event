@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 14:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 15:23:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -158,38 +158,6 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.02 ~ 2022.06.16]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/30/SCNeQi564lxJDHP4gToPFX3np6sUa6Kl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<애프터 양> 개봉기념 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.01 ~ 2022.06.15]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/30/QQmtf1K1ILCgEUX4zHneUK5jv1UuVIDG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 포켓몬스터 DP : 기라티나와 하늘의 꽃다발 쉐이미> 1주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.01 ~ 2022.06.15]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/27/QQ7GYPL17S8iJ9SvdSa9NOZMZv5r2Qzw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<범죄도시 2> 3주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.01 ~ 2022.06.15]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/27/2KzxV2Z6iXjHAhS1SRQLeKIcnYIVE9y2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<쥬라기 월드 : 도미니언> 개봉기념 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.01 ~ 2022.06.15]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/26/iLo0yWyn7vTEX4tjY2LCoZf3Hc65SHFy.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
