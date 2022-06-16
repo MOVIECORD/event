@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 04:37:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 05:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,6 +94,14 @@
             <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.01 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/14/ACdDJx36kS3ytWbf8JuflttgFwbvJ0Mt.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<탑건 : 매버릭> DOLBY 오리지널 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.22 ~ 2022.07.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/16/XELaL85yvz6zQPJmVxvZEboEfv2Fofmw.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<그대가 조국> 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -862,6 +870,14 @@
             <pubDate>Thu, 26 May 2022 06:28:07 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.16 ~ 2022.06.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/16/ErE6wUynsjS8LCh1jXjhp0gUHD5cGFlP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['헤어질 결심' 익무 단... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/80654197</link>
+            <guid>https://extmovie.com/sisaing/80654197</guid>
+            <pubDate>Thu, 16 Jun 2022 05:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[영화 &lt;헤어질 결심&gt; 익스트림무비 단독관 GV 시사회에 초대합니다. GV까지 꼭 참...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/197/654/080/295x295.crop.jpg?20220616140439" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['감동주의보' 예매권 ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>

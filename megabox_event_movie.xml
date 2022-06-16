@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 04:37:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 05:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<탑건 : 매버릭> DOLBY 오리지널 포스터 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.22 ~ 2022.07.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/16/XELaL85yvz6zQPJmVxvZEboEfv2Fofmw.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[<그대가 조국> 스페셜 GV]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
