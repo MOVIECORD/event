@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 14:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 15:22:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -176,14 +176,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/13/XsF2rpCCml28creWspTIe9UPkOozp8Dl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[브로커] 앵콜! 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.16 ~ 2022.06.16]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/08/jB8Uok80JBXNCi75XB5b0GJHuSfQAjfa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[2022 시네도슨트] 서포터즈 모집 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -278,14 +270,6 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.07 ~ 2022.06.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/07/0i9HsoWOcGPoeE8YO9PQAhnMu8WObWPa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<올리 마키의 가장 행복한 날> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.02 ~ 2022.06.16]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/30/SCNeQi564lxJDHP4gToPFX3np6sUa6Kl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대구신세계, 대구이시아, 북대구(칠곡)] 대구시 문화소비 6천원 할인 쿠폰 (메가박스 ─ 이벤트 ─ 극장)]]></title>
