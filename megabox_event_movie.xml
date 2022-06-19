@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 14:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 15:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,14 +24,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/16/XELaL85yvz6zQPJmVxvZEboEfv2Fofmw.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[<그대가 조국> 스페셜 GV]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.19 ~ 2022.06.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/13/vzSmHGTicf6Y3JPjQKHVd0926Wy1EEL1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<마녀(魔女) Part2. The Other One> 개봉기념 현장증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -46,14 +38,6 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.18 ~ 2022.07.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/13/w8hZ5o5F0lJ3qJRywRsVug1kW5DEIKUZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<탑건 : 매버릭> 사전 유료 시사회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.18 ~ 2022.06.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/16/QyItguZoWU76hQYDWgktzvt1f8NodXMZ.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<경아의 딸> 개봉기념 현장증정 이벤트]]></title>
