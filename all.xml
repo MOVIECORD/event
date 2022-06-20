@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 06:29:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 07:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -854,6 +854,14 @@
             <pubDate>Thu, 26 May 2022 06:28:07 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.16 ~ 2022.06.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/16/ErE6wUynsjS8LCh1jXjhp0gUHD5cGFlP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['모어' 리뷰 이벤트 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/81164172</link>
+            <guid>https://extmovie.com/sisaing/81164172</guid>
+            <pubDate>Mon, 20 Jun 2022 07:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[영화 &lt;모어&gt; 리뷰 이벤트입니다. &lt;모어&gt;를 관람하신 분들께서는 영화수다 게시판...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/172/164/081/295x295.crop.jpg?20220620153507" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['썸머 필름을 타고!' ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
