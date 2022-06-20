@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 22:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 23:20:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -851,7 +851,7 @@
             <title><![CDATA[undefined (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 20 Jun 2022 22:20:21 GMT</pubDate>
+            <pubDate>Mon, 20 Jun 2022 23:20:49 GMT</pubDate>
             <content:encoded><![CDATA[해당 이벤트가 없습니다.]]></content:encoded>
         </item>
         <item>
@@ -877,14 +877,6 @@
             <pubDate>Fri, 17 Jun 2022 13:37:19 GMT</pubDate>
             <content:encoded><![CDATA[미드 &lt;워킹데드 시즌 11&gt; 감상평 이벤트입니다. &lt;워킹데드 시즌 11&gt; 에피소드 1~...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/204/843/080/295x295.crop.jpg?20220617225932" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['헤어질 결심' 익무 단... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/80654197</link>
-            <guid>https://extmovie.com/sisaing/80654197</guid>
-            <pubDate>Thu, 16 Jun 2022 05:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;헤어질 결심&gt; 익스트림무비 단독관 GV 시사회에 초대합니다. GV까지 꼭 참...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/197/654/080/295x295.crop.jpg?20220620142809" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['감동주의보' 예매권 ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
