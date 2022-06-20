@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 01:50:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 03:20:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.24 ~ 2022.06.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/16/fOxN5upl5iZmBunJ7UITqOquz7r1DjLM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<니 얼굴> 메가박스 관람인증 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.23 ~ 2022.07.07]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/20/MAhDuFiLCA6hNIRAIbjr7Ag6ADX2jiFS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<범죄도시 2> 흥행 감사 엽서 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.22 ~ 2022.07.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/20/KU6nGIjMuA1HLrvNjQ0mDS4ao3grd5Q0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<탑건 : 매버릭> DOLBY 오리지널 포스터 증정 이벤트]]></title>
