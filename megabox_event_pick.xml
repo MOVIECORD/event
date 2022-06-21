@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 14:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 15:23:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<탑건: 매버릭>프로모션 콤보 출시]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.21 ~ 2022.07.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/22/ILhs4iuApMjINliHaZ7FUAAKD0UMGgnb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 No.54 <버즈 라이트이어>]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
@@ -22,14 +30,6 @@
             <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.02 ~ 2022.06.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/02/1epL9yWKKLe8xulKfLyXY9XFrPf1wEqu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모든 것이 끝난다!! <쥬라기 월드: 도미니언> 1PICK 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.01 ~ 2022.06.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/31/bOr82XJFFxmrJtNindxEhg1aHSEV8mLG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[메가박스XHBAF] 달콤고소 끝판왕 허니버터팝콘 론칭!]]></title>
