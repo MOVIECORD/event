@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 11:24:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 12:43:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -867,7 +867,7 @@
             <title><![CDATA[undefined (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Tue, 21 Jun 2022 11:24:32 GMT</pubDate>
+            <pubDate>Tue, 21 Jun 2022 12:43:22 GMT</pubDate>
             <content:encoded><![CDATA[해당 이벤트가 없습니다.]]></content:encoded>
         </item>
         <item>
@@ -900,7 +900,7 @@
             <guid>https://extmovie.com/sisaing/80419063</guid>
             <pubDate>Tue, 14 Jun 2022 05:33:54 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;큐어&gt; 언론/배급 시사회에 초대합니다. 평일 오후에 진행됩니다. 꼭 참석...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/063/419/080/295x295.crop.jpg?20220615190849" length="0" type="image/jpg"/>
+            <enclosure url="https://extmovie.com/files/thumbnails/063/419/080/295x295.crop.jpg?20220621205116" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시사회, 이벤트 당첨 확률 올리는 법 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
