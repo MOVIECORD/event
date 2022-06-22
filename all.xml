@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 05:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 06:26:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -864,11 +864,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/11/11/7zZFIneF9efbrMAybQh2NRAxkvTdfTD5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[undefined (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 22 Jun 2022 05:24:04 GMT</pubDate>
-            <content:encoded><![CDATA[해당 이벤트가 없습니다.]]></content:encoded>
+            <title><![CDATA[<마녀(魔女) Part2. The Other One> 2주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Wed, 22 Jun 2022 06:26:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.25 ~ 2022.06.26]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/22/YcZKoVRwUVuYIbXCCLaplpNGn8iiDQgL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['모어' 리뷰 이벤트 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
