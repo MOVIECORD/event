@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 06:26:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 07:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -310,6 +310,22 @@
             <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.05 ~ 2022.11.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/05/sOJaxilAt6HbGjjwoXdTferKjpGQVzgZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[광명AK플라자, 광명소하] 메가박스에서 광명 찾자! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.27 ~ 2022.12.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/22/OSiA64w4OrEyfK5Zgu8myvWqiAwiJGAf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[전대] 북구 구민과 함께 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.22 ~ 2022.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/22/Cism0O56EwMiTcOhceDbEOjlUrMgNUMC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[코엑스] H.Point 신규 가입하고 영화 5천원 할인권 받자! (메가박스 ─ 이벤트 ─ 극장)]]></title>
