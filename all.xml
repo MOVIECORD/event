@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 07:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 08:30:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -766,6 +766,14 @@
             <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.10 ~ 2022.11.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/12/AN3CpOSli9Kj3f4xiD2OFZO6XG2qhVA1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[메가박스X더쎈카드] 내 카드 할인혜택 확인하고 관람권 받자! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.24 ~ 2022.08.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/23/HeMM22p3jkeDlJbeBlIQ3S8VOYJDzbzW.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[삼성페이 티켓담기 하고 오리지널 팝콘 받아가세요! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
