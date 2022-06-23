@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 03:41:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 04:40:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.24 ~ 2022.06.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/21/T1CgeSRRwKZRz1VDz2klZIXKeXCotPoX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[룸 쉐어링]앵콜! 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.24 ~ 2022.06.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/20/j6erBbmS3GV7xmr5lA6xPphssnpUD2Tt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<컴온 컴온> 이동진 평론가 스페셜 GV]]></title>
