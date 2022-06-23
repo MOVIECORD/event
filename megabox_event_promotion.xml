@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 제휴 할인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 23:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 01:51:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성페이 티켓담기 하고 오리지널 팝콘 받아가세요!]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.23 ~ 2022.07.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/23/sF4apJNB3H1PQdzv31gIIkaxz4Zivy7I.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KT멤버십X메가박스] 6월 나의 초이스]]></title>
             <link>https://www.megabox.co.kr/event/promotion#</link>

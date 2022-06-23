@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 23:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 01:51:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -416,14 +416,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/24/5sUXyExEpgcJO6MzvroiZAMIytC8Safw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[대구신세계] 대구 신세계 만원의 행복 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.01 ~ 2022.06.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/18/SdHqQNQrdMeq8BKRpKem56FN1n9oeKVv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[상암월드컵경기장] 함께해요 환경보호 함께써요 다회용컵 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -734,6 +726,14 @@
             <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.10 ~ 2022.11.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/12/AN3CpOSli9Kj3f4xiD2OFZO6XG2qhVA1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성페이 티켓담기 하고 오리지널 팝콘 받아가세요! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.23 ~ 2022.07.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/23/sF4apJNB3H1PQdzv31gIIkaxz4Zivy7I.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[KT멤버십X메가박스] 6월 나의 초이스 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
