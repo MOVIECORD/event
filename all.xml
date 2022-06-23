@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 05:25:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 06:29:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,12 +112,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/22/EOQmIse6OqIgfCP4CIKb1LxeUmjLrGZ1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<모어> 스페셜 GV 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.01 ~ 2022.07.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/23/bdwrwFvk5A6K5fXjrpGJrW7dPZv9vKn9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<프리! 더 파이널 스트로크 후편> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.30 ~ 2022.07.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/23/HYAHGKFxRhRK75hUNX7cUdw093mlOhsd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<애프터 양> 4주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.24 ~ 2022.07.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/22/ox18DpWFroU05nDQAINizM3RmD69qg1k.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<헤어질 결심> 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
