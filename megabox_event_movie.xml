@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 14:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 15:24:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,30 +38,6 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.24 ~ 2022.07.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/22/ox18DpWFroU05nDQAINizM3RmD69qg1k.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<헤어질 결심> 메가토크]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.24 ~ 2022.06.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/21/T1CgeSRRwKZRz1VDz2klZIXKeXCotPoX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[룸 쉐어링]앵콜! 선착순 빵원티켓]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.24 ~ 2022.06.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/20/j6erBbmS3GV7xmr5lA6xPphssnpUD2Tt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<컴온 컴온> 이동진 평론가 스페셜 GV]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.24 ~ 2022.06.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/16/fOxN5upl5iZmBunJ7UITqOquz7r1DjLM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<디어헌터> 개봉기념 현장증정 이벤트]]></title>
@@ -214,14 +190,6 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.11 ~ 2022.06.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/03/Jc77UElEIAOHS1qrOt1wIepmLyCIUBku.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<애프터 양> 2주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.10 ~ 2022.06.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/08/JD4nc2QqcKIqWCmQkav197Y50h4hFjVl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[클래식 라이브] 6월 스크린으로 만나는 클래식 음악회]]></title>
