@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 01:57:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 03:39:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -949,7 +949,7 @@
             <guid>https://extmovie.com/sisaing/81580482</guid>
             <pubDate>Thu, 23 Jun 2022 09:21:07 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;헤어질 결심&gt; 리뷰 이벤트입니다. &lt;헤어질 결심&gt;를 관람하신 분들께서는 ...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/482/580/081/295x295.crop.jpg?20220624090439" length="0" type="image/jpg"/>
+            <enclosure url="https://extmovie.com/files/thumbnails/482/580/081/295x295.crop.jpg?20220625123553" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['모어' 리뷰 이벤트 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
