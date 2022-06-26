@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 19:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 20:22:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -875,7 +875,7 @@
             <title><![CDATA[undefined (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 26 Jun 2022 19:17:17 GMT</pubDate>
+            <pubDate>Sun, 26 Jun 2022 20:22:28 GMT</pubDate>
             <content:encoded><![CDATA[해당 이벤트가 없습니다.]]></content:encoded>
         </item>
         <item>
