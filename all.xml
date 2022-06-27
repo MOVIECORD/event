@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 04:56:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 05:32:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -883,8 +883,16 @@
             <title><![CDATA[undefined (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 27 Jun 2022 04:56:09 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2022 05:31:53 GMT</pubDate>
             <content:encoded><![CDATA[해당 이벤트가 없습니다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['로스트 도터' 시사회... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/82002715</link>
+            <guid>https://extmovie.com/sisaing/82002715</guid>
+            <pubDate>Mon, 27 Jun 2022 05:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[애니메이션 &lt;로스트 도터&gt; 시사회에 초대합니다. 꼭 참석하고 게시판에 꼼꼼하게...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/715/002/082/295x295.crop.jpg?20220627142807" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화 원작 소설 '본즈 앤 올... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
