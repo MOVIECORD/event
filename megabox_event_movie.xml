@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 01:56:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 03:47:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.30 ~ 2022.07.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/23/HYAHGKFxRhRK75hUNX7cUdw093mlOhsd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<미친 능력> 메가박스 관람인증 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.29 ~ 2022.07.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/28/ijDdIKrdyMrIy5hWcu1XTQ90sUCj4MNo.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<애프터 양> 4주차 현장증정 이벤트]]></title>
