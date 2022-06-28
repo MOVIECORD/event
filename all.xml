@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 23:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 01:56:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,6 +126,14 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.02 ~ 2022.07.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/22/EOQmIse6OqIgfCP4CIKb1LxeUmjLrGZ1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<마녀(魔女) Part2. The Other One> 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.01 ~ 2022.07.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/28/DnSlx7p57dfs6pjKEeJmlEhjA3k1dBOM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<모어> 스페셜 GV 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -883,7 +891,7 @@
             <title><![CDATA[undefined (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 27 Jun 2022 23:20:47 GMT</pubDate>
+            <pubDate>Tue, 28 Jun 2022 01:56:07 GMT</pubDate>
             <content:encoded><![CDATA[해당 이벤트가 없습니다.]]></content:encoded>
         </item>
         <item>
@@ -940,7 +948,7 @@
             <guid>https://extmovie.com/sisaing/81164172</guid>
             <pubDate>Mon, 20 Jun 2022 07:21:11 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;모어&gt; 리뷰 이벤트입니다. &lt;모어&gt;를 관람하신 분들께서는 영화수다 게시판...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/172/164/081/295x295.crop.jpg?20220620153507" length="0" type="image/jpg"/>
+            <enclosure url="https://extmovie.com/files/thumbnails/172/164/081/295x295.crop.jpg?20220628095419" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['썸머 필름을 타고!' ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
