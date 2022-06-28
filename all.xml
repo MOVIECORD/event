@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 09:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 10:25:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -174,6 +174,14 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.29 ~ 2022.07.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/28/ijDdIKrdyMrIy5hWcu1XTQ90sUCj4MNo.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[헤어질 결심] 앵콜! 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.29 ~ 2022.06.29]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/28/u1azQ7tQM4jDz37KjKnPACshSf9UVdIj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아트나인과 함께 하는 <니얼굴> 시네마구구 (메가박스 ─ 이벤트 ─ 영화)]]></title>
