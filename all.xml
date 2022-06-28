@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 07:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 08:30:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,6 +150,14 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.01 ~ 2022.07.01]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/23/bdwrwFvk5A6K5fXjrpGJrW7dPZv9vKn9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<컴온 컴온> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.30 ~ 2022.07.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/28/PxvQzM6i551YgIAAz6q6OFZdJZKfWmzZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<프리! 더 파이널 스트로크 후편> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -318,6 +326,14 @@
             <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.24 ~ 2022.07.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/24/YDb2Y4QWNHQhKgwQwQDIfdUCN35I5HAv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[광명소하지점] 오픈 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.28 ~ 2022.08.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/28/5zOVtzXFo3hYbXO9g41Mpub8pDkHzxBX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[광명AK플라자, 광명소하] 메가박스에서 광명 찾자! (메가박스 ─ 이벤트 ─ 극장)]]></title>
