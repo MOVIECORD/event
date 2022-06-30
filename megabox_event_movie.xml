@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 14:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 15:24:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,30 +142,6 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.18 ~ 2022.07.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/13/w8hZ5o5F0lJ3qJRywRsVug1kW5DEIKUZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<경아의 딸> 개봉기념 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.16 ~ 2022.06.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/13/XsF2rpCCml28creWspTIe9UPkOozp8Dl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<마녀(魔女) Part2. The Other One> 1급 기밀 프리미엄 N차 관람 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.15 ~ 2022.06.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/20/wkUlZmFwRCaV2A1l1I8aIwGJwxkO3YEe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022 시네도슨트] 서포터즈 모집]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.15 ~ 2022.06.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/15/1lgLrnwKZtzFjTWUCvcZnKjcR6sMceZu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022 시네 도슨트] 강연 안내]]></title>

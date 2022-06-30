@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 14:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 15:24:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,28 +80,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/25/GwvH6olIa1O7OBMu6yhvDrSwLwGNJtyT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[목동지점] 리뉴얼오픈 이벤트!]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.27 ~ 2022.06.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/27/tTPXh2PVxHpuZKMHD4GZ2LWS1xUiWCbM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[✌ 2022년 VIP 회원 혜택 안내 ✌]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.02 ~ 2023.02.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/23/QWWvsW0WkOVVckXmtBR45QbkfvmUtBkJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나도 영화 평론가! 관람평 쓰고 포인트 받자!]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.01 ~ 2022.06.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/12/30/r5HfuUkYR7L9ww5F8n9n0oAbdlM8rtjr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[VIP제휴혜택] 2022 교보문고 & 핫트랙스 특별 제휴 안내]]></title>
