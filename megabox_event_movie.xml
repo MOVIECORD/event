@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 14:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 15:23:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,22 +30,6 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.01 ~ 2022.07.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/01/KFYfjFB9QFNYb6ObMfu1vcyQqEtsnWqP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<마녀(魔女) Part2. The Other One> 스페셜 GV]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.01 ~ 2022.07.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/28/DnSlx7p57dfs6pjKEeJmlEhjA3k1dBOM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<모어> 스페셜 GV 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.01 ~ 2022.07.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/23/bdwrwFvk5A6K5fXjrpGJrW7dPZv9vKn9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<컴온 컴온> 개봉기념 현장증정 이벤트]]></title>
