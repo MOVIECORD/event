@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 23:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 02:05:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,14 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.06 ~ 2022.07.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/01/p1F6O1kIBB4KXRdIkhwmiNCRPBQUdUtC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022 SUMMER] 클래식 페스티벌 Live중계 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.04 ~ 2022.08.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/04/AcEW0D75Ud4vMofOfHJPJlqbMjGXSVsR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아트나인과 함께 하는 <컴온 컴온> 시네마구구 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -230,6 +238,14 @@
             <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.01 ~ 2022.08.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/01/Apfk31Wmwfyk3dg8SeGOtXLmAuFw15j9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사상] 에어부산 임직원 제휴 할인 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.30 ~ 2022.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/30/t6gIMFHqjR0JKdauS4VaN1gyJhmxD9st.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[부천스타필드시티] 제 26회 부천국제판타스틱 영화제 (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -691,16 +707,8 @@
             <title><![CDATA[undefined (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Sun, 03 Jul 2022 23:20:51 GMT</pubDate>
+            <pubDate>Mon, 04 Jul 2022 02:05:33 GMT</pubDate>
             <content:encoded><![CDATA[해당 이벤트가 없습니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['체리마호' 시사회에 ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/82027642</link>
-            <guid>https://extmovie.com/sisaing/82027642</guid>
-            <pubDate>Mon, 27 Jun 2022 09:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;체리마호 : 30살까지 동정이면 마법사가 될 수 있대&gt; 시사회에 초대합니다...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/642/027/082/295x295.crop.jpg?20220627173148" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화 원작 소설 '본즈 앤 올... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
