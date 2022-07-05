@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 23:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 01:56:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7월 메7ㅏ 포인트 페스타🎉 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.07 ~ 2022.07.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/04/qBGdPM1EP2LK5kgI8kLPrbtKfAYMqF7o.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메가박스 대구신세계 돌비 시네마 신규 오픈 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
@@ -126,6 +134,14 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.06 ~ 2022.07.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/04/WcDqaqTvy4Qnqq7IhZW2aqEyGBf9O7uE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<토르 : 러브 앤 썬더> 3D 오리지널 경품 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.06 ~ 2022.07.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/05/8rvAsSNDtnveU6SbqeUnofvJAcwHnzgb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<빅샤크4 : 바다공룡 대모험> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -712,19 +728,20 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/11/11/7zZFIneF9efbrMAybQh2NRAxkvTdfTD5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[undefined (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://MOVIECORD.github.io/event/all.xml</link>
-            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 04 Jul 2022 23:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[해당 이벤트가 없습니다.]]></content:encoded>
+            <title><![CDATA[<헤어질 결심> 2주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Tue, 05 Jul 2022 01:56:40 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.09 ~ 2022.07.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/05/37xg00B0URcpBpKTVU8yFSE8nLiLJxZ7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[영화 원작 소설 '본즈 앤 올... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/81731115</link>
-            <guid>https://extmovie.com/sisaing/81731115</guid>
-            <pubDate>Fri, 24 Jun 2022 14:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[소설 &lt;본즈 앤 올&gt; 출간 기념 이벤트입니다. &lt;콜 미 바이 유어 네임&gt;의 루카 구...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/115/731/081/295x295.crop.jpg?20220624230948" length="0" type="image/jpg"/>
+            <title><![CDATA['썸머 필름을 타고!' ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/82942473</link>
+            <guid>https://extmovie.com/sisaing/82942473</guid>
+            <pubDate>Tue, 05 Jul 2022 01:56:46 GMT</pubDate>
+            <content:encoded><![CDATA[영화 &lt;썸머 필름을 타고!&gt; 리뷰 이벤트입니다. &lt;썸머 필름을 타고!&gt;를 관람하신 ...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/473/942/082/295x295.crop.jpg?20220705093153" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시사회, 이벤트 당첨 확률 올리는 법 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>

@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 23:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 01:56:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.06 ~ 2022.07.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/04/WcDqaqTvy4Qnqq7IhZW2aqEyGBf9O7uE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<토르 : 러브 앤 썬더> 3D 오리지널 경품 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.06 ~ 2022.07.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/05/8rvAsSNDtnveU6SbqeUnofvJAcwHnzgb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<빅샤크4 : 바다공룡 대모험> 개봉기념 현장증정 이벤트]]></title>
