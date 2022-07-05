@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 07:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 08:36:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -740,7 +740,7 @@
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
             <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
             <pubDate>Tue, 05 Jul 2022 01:56:40 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.09 ~ 2022.07.09]]></content:encoded>
+            <content:encoded><![CDATA[2022.07.09 ~ 2022.07.10]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/05/37xg00B0URcpBpKTVU8yFSE8nLiLJxZ7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
