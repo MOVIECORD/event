@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 07:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 08:27:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.20 ~ 2022.08.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/06/YhU0PPAXN8EVMJTl6l5me6L3WcqPAnIu.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<명탐정 코난: 할로윈의 신부> 성우 무대인사 프리미엄 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.12 ~ 2022.07.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/06/6eNFe0ipNL7GqfxrmiX8AcBVh1aMZsGm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<큐어> 스페셜 굿즈패키지 상영회]]></title>

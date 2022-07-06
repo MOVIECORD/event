@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 07:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 08:27:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,28 +184,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/24/Uu2Uzqsc0oX1l0RFHB7cJ0Mfq6SsAkMl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[강남] 강남점 전용 관람권 패키지 판매]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.10 ~ 2022.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/10/bMqUmfuXcUHZv5okqT1aPa2hlWM8dwzc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[양산] 다시 만나요! 메가박스 양산!]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.01 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/04/CrwnnSMyMGLfEDLxSh19QUshKyl0m9E5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[센트럴] 부티크 패키지 PICK!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.01 ~ 2022.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/18/ukXUPd399ZfJO6KEenp88SFESjSSRHs0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[광주상무] 공무원증 할인이 된다고?]]></title>
