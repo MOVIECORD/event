@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 제휴 할인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 02:00:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 03:48:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[휘닉스제주X메가박스] 휘닉스제주 이용하고 영화 티켓 받자!]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.08 ~ 2022.10.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/08/WOa36u58PBvPmt90RapglY8XmrBFen4N.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[메가박스X더쎈카드] 내 카드 할인혜택 확인하고 관람권 받자!]]></title>
             <link>https://www.megabox.co.kr/event/promotion#</link>
