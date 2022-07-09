@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 14:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 15:22:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.11 ~ 2022.07.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/05/Cgl6TdrgbgAp4ElFwaqmVicovO4F6s4l.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<큐어> 스페셜 굿즈패키지 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.09 ~ 2022.07.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/04/Ph7C0stUDB4ZddOj05YSmEN1uqkK3v0T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<니얼굴> 3주차 현장증정 이벤트]]></title>
@@ -112,28 +104,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/01/p1F6O1kIBB4KXRdIkhwmiNCRPBQUdUtC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아트나인과 함께 하는 <니얼굴> 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.05 ~ 2022.07.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/05/tv9rPZOy9l41NTuViP4omgkNnBO6CLkm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[2022 SUMMER] 클래식 페스티벌 Live중계]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.04 ~ 2022.08.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/04/AcEW0D75Ud4vMofOfHJPJlqbMjGXSVsR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트나인과 함께 하는 <컴온 컴온> 시네마구구]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.01 ~ 2022.07.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/01/KFYfjFB9QFNYb6ObMfu1vcyQqEtsnWqP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022 시네 도슨트] 강연 안내]]></title>
