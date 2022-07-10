@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 14:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 15:21:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.29 ~ 2022.07.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/27/71mJ5tDi1E1uhmr0kntMWHrfJs8amBK9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<탑건: 매버릭>프로모션 콤보 출시 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.21 ~ 2022.07.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/22/PiQrYTTagGMeC3QE8BjFYM7eNYQWA5hp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가피크닉팩 출시 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -248,14 +240,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/30/t6gIMFHqjR0JKdauS4VaN1gyJhmxD9st.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[부천스타필드시티] 제 26회 부천국제판타스틱 영화제 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.30 ~ 2022.07.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/30/6CMU0oBNAiDvWc3JD9ij8HANwSJgcV2b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[광명AK플라자, 광명소하] 메가박스에서 광명 찾자! (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -294,14 +278,6 @@
             <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.01 ~ 2022.10.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/25/dqNxzGSdzGA7YFC7p6Rb3PCmVL7KeDYQ.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[경기서부] 일산차움라이프센터 오픈 2주년 쿠폰 프로모션 (~7/10) (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.11 ~ 2022.07.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/11/GOxGbBDEDbExNuArhYbYFEWmawpYKxn3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대구이시아] 발코니 10회 이용권 패키지 (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -512,14 +488,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/12/AN3CpOSli9Kj3f4xiD2OFZO6XG2qhVA1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[부천스타필드시티] 제 26회 부천국제판타스틱 영화제 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.01 ~ 2022.07.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/30/miQc8jjaPXeIBYmUeIOYdwObewC082Ch.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[휘닉스제주X메가박스] 휘닉스제주 이용하고 영화 티켓 받자! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
@@ -678,14 +646,6 @@
             <pubDate>Tue, 05 Jul 2022 01:56:40 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.12 ~ 2022.07.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/06/6eNFe0ipNL7GqfxrmiX8AcBVh1aMZsGm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<헤어질 결심> 2주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Tue, 05 Jul 2022 01:56:40 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.09 ~ 2022.07.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/05/37xg00B0URcpBpKTVU8yFSE8nLiLJxZ7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['엘비스' 스크린X 관람... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
