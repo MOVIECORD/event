@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 01:58:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 03:42:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,6 +94,14 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.20 ~ 2022.08.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/06/YhU0PPAXN8EVMJTl6l5me6L3WcqPAnIu.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<멘> 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.17 ~ 2022.07.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/11/Rlisu0q4fAzkIJdxFBnxG7WEnqhRFuy8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<디어헌터> 정성일 평론가 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
