@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 02:04:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 04:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -166,6 +166,14 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.13 ~ 2022.07.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/07/sfiSm70f7x0ViWvPinvkjrD53dNYWhYH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[외계+인1부] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.13 ~ 2022.07.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/12/WVWtNfd7ttZe7Z8sSEUTy6POO5sIWJco.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[아트나인과 함께하는 <체리마호> 감독&PD 내한 시네마구구 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -581,7 +589,7 @@
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
             <pubDate>Fri, 06 May 2022 06:28:57 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.08 ~ 2022.10.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/08/WOa36u58PBvPmt90RapglY8XmrBFen4N.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/12/YdR56rOFAKE2XFM2DmQQTXHgz1BOhDC1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[메가박스X더쎈카드] 내 카드 할인혜택 확인하고 관람권 받자! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
