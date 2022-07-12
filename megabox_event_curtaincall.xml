@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 13:49:38 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[<명탐정 코난: 할로윈의 신부> 성우 무대인사 프리미엄 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Tue, 05 Jul 2022 01:56:40 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.12 ~ 2022.07.12]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/06/6eNFe0ipNL7GqfxrmiX8AcBVh1aMZsGm.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.megabox.co.kr/event/curtaincall</id>
+    <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
+    <updated>2022-07-12T15:24:18.018Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.megabox.co.kr/event/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[0]]></title>
+        <id>https://www.megabox.co.kr/event/curtaincall</id>
+        <link href="https://www.megabox.co.kr/event/curtaincall"/>
+        <updated>2022-07-12T15:24:10.438Z</updated>
+        <content type="html"><![CDATA[해당 이벤트가 없습니다.]]></content>
+    </entry>
+</feed>
