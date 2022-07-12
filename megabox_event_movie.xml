@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 23:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 02:04:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/11/CqxqDQ4V4IZ2rvacTXOJ1RjH8Shg0O6H.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<명탐정 코난 : 할로윈의 신부> 개봉기념 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.13 ~ 2022.07.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/12/GKrqjrkTCCVYJBH0p888t7HmKs4wIMY3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<멘> 개봉기념 현장증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -70,6 +78,30 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.13 ~ 2022.07.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/07/sfiSm70f7x0ViWvPinvkjrD53dNYWhYH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트나인과 함께하는 <체리마호> 감독&PD 내한 시네마구구]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.12 ~ 2022.07.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/12/lRbNs0UWCIUCZSGf1sqU0sQ9WONnRYvV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<체리마호> [체REACTION]응원상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.12 ~ 2022.07.15]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/12/OZCYvBYZn2MHArkqrlSH6wgTrF2kTIwq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트나인과 함께하는 <체리마호> 굿즈패키지 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.12 ~ 2022.07.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/12/cQAmIml0VtJMwbtcbLvL1Nkr6AbCFhFF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[미니언즈2] 선착순 빵원티켓 ➕]]></title>
