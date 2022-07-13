@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 05:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 06:30:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,6 +342,14 @@
             <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.01 ~ 2022.08.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/01/Apfk31Wmwfyk3dg8SeGOtXLmAuFw15j9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[북대구(칠곡)] 대구시 문화소비 6천원 할인 쿠폰 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.14 ~ 2022.08.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/11/pvrkklMSm82LalWyZGmtmRGmSaZfW1xz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[사상] 첫 업그레이드 관람 인증 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -755,7 +763,7 @@
             <title><![CDATA[undefined (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Wed, 13 Jul 2022 05:24:54 GMT</pubDate>
+            <pubDate>Wed, 13 Jul 2022 06:30:05 GMT</pubDate>
             <content:encoded><![CDATA[해당 이벤트가 없습니다.]]></content:encoded>
         </item>
         <item>
