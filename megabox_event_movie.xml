@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 14:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 15:24:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,22 +88,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/13/QPv7OFO2MP2T1YrLpgCjMZfyHIgXU8mo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[한산: 용의 출현] 선착순 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.13 ~ 2022.07.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/12/NXBlu87ZtMd2AAbyjd4wa8JLPUh6myhT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[외계+인1부] 선착순 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.13 ~ 2022.07.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/12/WVWtNfd7ttZe7Z8sSEUTy6POO5sIWJco.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[아트나인과 함께하는 <체리마호> 감독&PD 내한 시네마구구]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -118,14 +102,6 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.12 ~ 2022.07.15]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/12/OZCYvBYZn2MHArkqrlSH6wgTrF2kTIwq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트나인과 함께하는 <체리마호> 굿즈패키지 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.12 ~ 2022.07.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/12/cQAmIml0VtJMwbtcbLvL1Nkr6AbCFhFF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<보일링 포인트> SNS 기대평 이벤트]]></title>
@@ -150,14 +126,6 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.07 ~ 2022.07.21]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/05/ZtiOobRcI5Ju5VtexkESS56pwzM1CM5B.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<프리! 더 파이널 스트로크 후편> 2주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.07 ~ 2022.07.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/04/VwfQUFQunaCNyLkqGQhEHpA4jCmS3tfG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<토르: 러브 앤 썬더> 오리지널 티켓북 포스터]]></title>
