@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 06:27:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 07:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,14 +288,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/13/3w6ABBRMHicw97H14io99blRvZF6jV9Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[굽네치킨X김포한강신도시점] 영화보면 굽네치킨 3,000원 할인 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.13 ~ 2022.07.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/11/trS9fQLxdZtu51lQGJYO3qHFb1o4inq5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[춘천석사지점] 오픈 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -342,6 +334,14 @@
             <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.14 ~ 2022.08.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/11/pvrkklMSm82LalWyZGmtmRGmSaZfW1xz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[굽네치킨X김포한강신도시점] 영화보면 굽네치킨 3,000원 할인 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.13 ~ 2022.07.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/11/trS9fQLxdZtu51lQGJYO3qHFb1o4inq5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[부산대] 중,고등학생!! 할인 받고 영화 보자! (메가박스 ─ 이벤트 ─ 극장)]]></title>
