@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 04:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 05:43:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -864,6 +864,14 @@
             <enclosure url="https://extmovie.com/files/thumbnails/650/215/084/295x295.crop.jpg?20220715091019" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[인디스토리 7월 '수요단편극... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/84217080</link>
+            <guid>https://extmovie.com/sisaing/84217080</guid>
+            <pubDate>Fri, 15 Jul 2022 02:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[인디스토리X서울아트시네마 - 7월 수요단편극장 상영회에 초대합니다. 꼭 참석하...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/080/217/084/295x295.crop.jpg?20220715090842" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[도서 '왕가위의 시간' ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
             <link>https://extmovie.com/sisaing/84218498</link>
             <guid>https://extmovie.com/sisaing/84218498</guid>
@@ -878,14 +886,6 @@
             <pubDate>Fri, 15 Jul 2022 02:12:35 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스 인기 드라마의 원작 코믹스 &lt;엄브렐러 아카데미&gt; 정식 국내판 이벤트입...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/950/217/084/295x295.crop.jpg?20220715092456" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인디스토리 7월 '수요단편극... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/84217080</link>
-            <guid>https://extmovie.com/sisaing/84217080</guid>
-            <pubDate>Fri, 15 Jul 2022 02:12:35 GMT</pubDate>
-            <content:encoded><![CDATA[인디스토리X서울아트시네마 - 7월 수요단편극장 상영회에 초대합니다. 꼭 참석하...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/080/217/084/295x295.crop.jpg?20220715090842" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['뽀로로 극장판 드래곤캐슬 ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
