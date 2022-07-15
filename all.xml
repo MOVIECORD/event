@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 23:23:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 02:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,22 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/06/YhU0PPAXN8EVMJTl6l5me6L3WcqPAnIu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<모어> 성수 스페셜 GV 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.19 ~ 2022.07.19]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/15/spnB50eBzwuvVRS3kp6JYKGLYzepwOzZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[그레이 맨] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.18 ~ 2022.07.18]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/15/dK7LoFQj21NLJO45sjewWSX5ZJXiUImI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<멘> 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -120,7 +136,7 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/11/Rlisu0q4fAzkIJdxFBnxG7WEnqhRFuy8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<모어> 스페셜 GV 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <title><![CDATA[<모어> 코엑스 스페셜 GV 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
@@ -632,6 +648,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/12/AN3CpOSli9Kj3f4xiD2OFZO6XG2qhVA1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카카오페이] 온라인 결제 시 즉시할인 선착순 혜택 제공! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.15 ~ 2022.07.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/14/3IsbiU8pIEqPIFZ8kAIbfqdLb5COAlle.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[KT멤버십X메가박스] 7월 '나의 초이스' 8천원 영화관람 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
@@ -806,6 +830,46 @@
             <pubDate>Thu, 14 Jul 2022 04:12:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.16 ~ 2022.07.17]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/14/Q18aU8anMRZN2dFS3RCNIrKgr4F1miWq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['헌트' 익무 단독관 GV... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/84215650</link>
+            <guid>https://extmovie.com/sisaing/84215650</guid>
+            <pubDate>Fri, 15 Jul 2022 02:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[익스트림무비 인스타그램 구독부터 하시면 좋습니다 영화 &lt;헌트&gt; 익스트림무비 ...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/650/215/084/295x295.crop.jpg?20220715091019" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도서 '왕가위의 시간' ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/84218498</link>
+            <guid>https://extmovie.com/sisaing/84218498</guid>
+            <pubDate>Fri, 15 Jul 2022 02:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[도서 &lt;왕가위의 시간&gt; 출간 기념 이벤트입니다. 아래 댓글란에 본인이 가장 좋아...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/498/218/084/295x295.crop.jpg?20220715092418" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넷플릭스 드라마 '엄브렐러 ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/84217950</link>
+            <guid>https://extmovie.com/sisaing/84217950</guid>
+            <pubDate>Fri, 15 Jul 2022 02:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 인기 드라마의 원작 코믹스 &lt;엄브렐러 아카데미&gt; 정식 국내판 이벤트입...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/950/217/084/295x295.crop.jpg?20220715092456" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인디스토리 7월 '수요단편극... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/84217080</link>
+            <guid>https://extmovie.com/sisaing/84217080</guid>
+            <pubDate>Fri, 15 Jul 2022 02:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[인디스토리X서울아트시네마 - 7월 수요단편극장 상영회에 초대합니다. 꼭 참석하...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/080/217/084/295x295.crop.jpg?20220715090842" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['뽀로로 극장판 드래곤캐슬 ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/84216130</link>
+            <guid>https://extmovie.com/sisaing/84216130</guid>
+            <pubDate>Fri, 15 Jul 2022 02:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[익스트림무비 인스타그램 구독부터 하시면 좋습니다 애니메이션 &lt;뽀로로 극장판 ...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/130/216/084/295x295.crop.jpg?20220715090941" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['보일링 포인트' 시사... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
