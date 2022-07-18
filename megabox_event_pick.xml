@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 07:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 08:33:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.20 ~ 2022.08.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/15/RpcC4ZN4ulCUiwzinFmWUsCwyN8LxKdl.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 오리지널 티켓 No.58 <미니언즈2>]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.20 ~ 2022.08.03]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/18/Vbrpu3JPpp12TznjnKqaZQexXokW6Nk5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무더운 여름, 에이드 한잔!]]></title>
@@ -36,8 +44,8 @@
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.13 ~ 2022.07.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/11/fbJsPsDBIlOenATb4WuCg2P6Z0nfZWfW.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2022.07.13 ~ 2022.07.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/18/AEbq2h9t4JssAAVx65so4SYkLGl60Wmo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[7월 메7ㅏ 포인트 페스타🎉]]></title>
