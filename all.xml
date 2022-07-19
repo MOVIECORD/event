@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 23:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 02:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,30 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.24 ~ 2022.07.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/18/wUiNvFGEmwE4rBe8cGu9gvV0NgYXfkXP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<로스트 도터> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.21 ~ 2022.08.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/19/xaVjVxQvudCoXLc8zLOdY2UDHZF0CreC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<프리! 더 파이널 스트로크 후편> 4주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.21 ~ 2022.07.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/19/FQvPemRzV6ax54Xh4rCKurl89t0ZZG3c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<썸머 필름을 타고!> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.20 ~ 2022.08.03]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/19/VDcid3Nn76ZK5gIGhyKaKF2LzbqWnrVU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<큐어> 3주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -838,6 +862,14 @@
             <pubDate>Thu, 14 Jul 2022 04:12:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.18 ~ 2022.07.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/18/iJQVuMqugTmDDKh1A3v0l09M4zsMxZpA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['멋진 세계' 익무 단독... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/84781993</link>
+            <guid>https://extmovie.com/sisaing/84781993</guid>
+            <pubDate>Tue, 19 Jul 2022 02:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[익스트림무비 인스타그램 구독부터 하시면 좋습니다 영화 &lt;멋진 세계&gt; 익스트림...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/993/781/084/295x295.crop.jpg?20220719103311" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['비상선언' VIP 시사회... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
