@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 14:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 15:25:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,22 +78,6 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.21 ~ 2022.07.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/19/FQvPemRzV6ax54Xh4rCKurl89t0ZZG3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[외계+인1부]앵콜! 선착순 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.21 ~ 2022.07.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/19/PbUG4F5WpXzAxVlkQ1017DouNtxOaEjd.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[한산: 용의 출현]앵콜! 선착순 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.21 ~ 2022.07.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/19/eAGBSqBwnDncqGfON7ae3x1EPzuaQ5Sx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<토르: 러브 앤 썬더> 3주차 현장증정 이벤트]]></title>
@@ -198,22 +182,6 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.11 ~ 2022.07.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/11/tBTd8m86pMrrEnAqnGzFoVKKCK7XvLuG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<니얼굴> 3주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.07 ~ 2022.07.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/06/MDxWRv6wrVQDjeTA259ImQRZp5QBly8h.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<컴온 컴온> 2주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.07 ~ 2022.07.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/05/ZtiOobRcI5Ju5VtexkESS56pwzM1CM5B.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<토르: 러브 앤 썬더> 오리지널 티켓북 포스터]]></title>
