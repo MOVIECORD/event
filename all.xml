@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 05:30:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 06:29:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -800,6 +800,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/11/04/bgOu0U2V1FXLtQ0PbZRxj5SPENg0UzpQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[메가박스X현대카드] 현대M포인트 금토일 5,000원 할인! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:57 GMT</pubDate>
+            <content:encoded><![CDATA[2020.10.29 ~ 2022.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/10/27/iaqx1sdAqvW8HLxO5Rsevdh08yYPdoDn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[도서상품권] 온라인 예매도 도서문화상품권으로 간편하게! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
@@ -886,6 +894,14 @@
             <pubDate>Fri, 06 May 2022 06:28:57 GMT</pubDate>
             <content:encoded><![CDATA[2015.01.06 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/11/11/7zZFIneF9efbrMAybQh2NRAxkvTdfTD5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<외계+인 1부> 2주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Thu, 14 Jul 2022 04:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.30 ~ 2022.07.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/22/KZD0jCq0p6W1sAXwkdB2JdDelIonreSL.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<한산 : 용의 출현> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
