@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 02:02:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 04:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -172,7 +172,7 @@
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.22 ~ 2022.08.05]]></content:encoded>
+            <content:encoded><![CDATA[2022.07.22 ~ 2022.07.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/20/CUiTXClreUKpJQH2H5Uy0QTCexbXCNWM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -918,6 +918,14 @@
             <pubDate>Thu, 14 Jul 2022 04:12:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.18 ~ 2022.07.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/18/iJQVuMqugTmDDKh1A3v0l09M4zsMxZpA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에세이 서적 '그럴 때 우린 ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/85341117</link>
+            <guid>https://extmovie.com/sisaing/85341117</guid>
+            <pubDate>Fri, 22 Jul 2022 04:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[에세이 서적 &lt;그럴 때 우린 이 노랠 듣지&gt; 출간 기념 이벤트입니다. 이 책에 대...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/117/341/085/295x295.crop.jpg?20220722125627" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['한산: 용의 출현' 4DX... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
