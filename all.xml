@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 14:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 15:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,22 +134,6 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.27 ~ 2022.07.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/14/gy3pBkN5H4YuPG7c563WNAucVkhIwvDH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<초록밤> 프리미어 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.24 ~ 2022.07.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/19/qqMvk4yF3hDSU36ODQCZh6yneaJHcvJU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<썸머 필름을 타고!> 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.24 ~ 2022.07.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/18/wUiNvFGEmwE4rBe8cGu9gvV0NgYXfkXP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SVT [BE THE SUN] 라이브뷰잉 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -294,14 +278,6 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.13 ~ 2022.07.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/13/QPv7OFO2MP2T1YrLpgCjMZfyHIgXU8mo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<보일링 포인트> SNS 기대평 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.11 ~ 2022.07.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/11/tBTd8m86pMrrEnAqnGzFoVKKCK7XvLuG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<토르: 러브 앤 썬더> 오리지널 티켓북 포스터 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -696,14 +672,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/12/AN3CpOSli9Kj3f4xiD2OFZO6XG2qhVA1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[신세계포인트X메가박스] <헌트> 특별 시사회 초청 이벤트 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:57 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.18 ~ 2022.07.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/18/qc9xf3Tp46sNJRx2NQz8ga0Hgv7Fv6nZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[카카오페이] 온라인 결제 시 즉시할인 선착순 혜택 제공! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
@@ -720,28 +688,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/23/HeMM22p3jkeDlJbeBlIQ3S8VOYJDzbzW.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[삼성페이 티켓담기 하고 오리지널 팝콘 받아가세요! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:57 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.23 ~ 2022.07.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/23/sF4apJNB3H1PQdzv31gIIkaxz4Zivy7I.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[내 차 보험료 확인하고 영화 1만원 할인쿠폰 받으세요! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
             <pubDate>Fri, 06 May 2022 06:28:57 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.18 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/19/5JwwahPffOCxijnBBFDo0Uja7kD3vwWQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KT멤버십X메가박스] 7월 '나의 초이스' 8천원 영화관람 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:57 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.11 ~ 2022.07.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/08/QZJgtMHUzUOtAjPpJnQoF47fSoLjI92G.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[휘닉스제주X메가박스] 휘닉스제주 이용하고 영화 티켓 받자! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
@@ -910,22 +862,6 @@
             <pubDate>Thu, 14 Jul 2022 04:12:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.30 ~ 2022.07.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/20/qncWOvXgYVZDBBQoYwSDSiB43gQqmvJs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<한산 : 용의 출현> 개봉 전 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Thu, 14 Jul 2022 04:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.24 ~ 2022.07.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/20/G049A3EK61ZDEMLYdJHAEwnYln11dDSS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<외계+인 1부> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Thu, 14 Jul 2022 04:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.23 ~ 2022.07.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/14/fNvauPFaKI7lNPVnW6gMB9rmVxkelGnc.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<헌트> 메가박스 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
