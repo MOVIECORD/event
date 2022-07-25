@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 12:45:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 13:47:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -878,6 +878,22 @@
             <pubDate>Thu, 14 Jul 2022 04:12:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.18 ~ 2022.07.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/18/iJQVuMqugTmDDKh1A3v0l09M4zsMxZpA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['뱅크시' 언론 배급 시... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/85950584</link>
+            <guid>https://extmovie.com/sisaing/85950584</guid>
+            <pubDate>Mon, 25 Jul 2022 13:47:32 GMT</pubDate>
+            <content:encoded><![CDATA[다큐멘터리 영화 &lt;뱅크시&gt; 시사회에 초대합니다. 평일 오후에 진행됩니다. 꼭 참...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/584/950/085/295x295.crop.jpg?20220725220859" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 '프레이' 떡밥 예... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/85949536</link>
+            <guid>https://extmovie.com/sisaing/85949536</guid>
+            <pubDate>Mon, 25 Jul 2022 13:47:32 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;프레데터&gt; 시리즈 프리퀄, 디즈니+ 오리지널 영화 &lt;프레이&gt; 떡밥 찾기 이벤트입...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/536/949/085/295x295.crop.jpg?20220725221524" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['비상선언' 리뷰 이벤트 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
