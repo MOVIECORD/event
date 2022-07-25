@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 01:58:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 03:53:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[돌친자들 모여라!! 돌비 시네마 2주년 파티 2gether 🎉 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.26 ~ 2022.08.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/25/UXSUBRoNCVah1uKtsTSZfMdDozdXTRlU.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(관람하느라) 바쁘다 바빠 현대사회! 개봉 메가 러쉬 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
@@ -870,6 +878,14 @@
             <pubDate>Thu, 14 Jul 2022 04:12:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.18 ~ 2022.07.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/18/iJQVuMqugTmDDKh1A3v0l09M4zsMxZpA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['한산: 용의 출현' 스... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/85852266</link>
+            <guid>https://extmovie.com/sisaing/85852266</guid>
+            <pubDate>Mon, 25 Jul 2022 03:53:12 GMT</pubDate>
+            <content:encoded><![CDATA[영화 &lt;한산: 용의 출현&gt; 스크린X, 4DX 리뷰 이벤트입니다. 스크린X 혹은 4DX로 &lt;...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/266/852/085/295x295.crop.jpg?20220725120442" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에세이 서적 '그럴 때 우린 ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
