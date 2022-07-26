@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 06:28:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 07:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -944,6 +944,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/18/iJQVuMqugTmDDKh1A3v0l09M4zsMxZpA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['비상선언' 4DX 익무 ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/86070818</link>
+            <guid>https://extmovie.com/sisaing/86070818</guid>
+            <pubDate>Tue, 26 Jul 2022 07:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[익스트림무비 인스타그램 팔로우부터 하시면 좋습니다 영화 &lt;비상선언&gt; 4DX 익스...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/818/070/086/295x295.crop.jpg?20220726161825" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[소설 '한밤의 미스터리 키친... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
             <link>https://extmovie.com/sisaing/86025418</link>
             <guid>https://extmovie.com/sisaing/86025418</guid>
@@ -997,7 +1005,7 @@
             <guid>https://extmovie.com/sisaing/84048982</guid>
             <pubDate>Wed, 13 Jul 2022 15:24:11 GMT</pubDate>
             <content:encoded><![CDATA[익스트림무비 인스타그램 팔로우부터 하시면 좋습니다 넷플릭스 오리지널 영화 &lt;...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/982/048/084/295x295.crop.jpg?20220719114235" length="0" type="image/jpg"/>
+            <enclosure url="https://extmovie.com/files/thumbnails/982/048/084/295x295.crop.jpg?20220726160146" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시사회, 이벤트 당첨 확률 올리는 법 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
