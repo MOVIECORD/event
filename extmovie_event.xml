@@ -4,9 +4,17 @@
         <title>익스트림무비 ─ 시사회 ─ 시사회진행</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 02:08:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 04:27:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소설 '한밤의 미스터리 키친...]]></title>
+            <link>https://extmovie.com/sisaing/86025418</link>
+            <guid>https://extmovie.com/sisaing/86025418</guid>
+            <pubDate>Tue, 26 Jul 2022 04:27:56 GMT</pubDate>
+            <content:encoded><![CDATA[소설 &lt;한밤의 미스터리 키친&gt; 출간 기념 이벤트입니다. 이 책에 대한 기대평을 ...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/418/025/086/295x295.crop.jpg?20220726114314" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['뱅크시' 언론 배급 시...]]></title>
             <link>https://extmovie.com/sisaing/85950584</link>
@@ -37,7 +45,7 @@
             <guid>https://extmovie.com/sisaing/85341117</guid>
             <pubDate>Fri, 22 Jul 2022 04:00:00 GMT</pubDate>
             <content:encoded><![CDATA[에세이 서적 &lt;그럴 때 우린 이 노랠 듣지&gt; 출간 기념 이벤트입니다. 이 책에 대...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/117/341/085/295x295.crop.jpg?20220722125627" length="0" type="image/jpg"/>
+            <enclosure url="https://extmovie.com/files/thumbnails/117/341/085/295x295.crop.jpg?20220726114356" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['한산: 용의 출현' 리...]]></title>

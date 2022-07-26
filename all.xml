@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 02:08:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 04:27:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -896,14 +896,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/20/qncWOvXgYVZDBBQoYwSDSiB43gQqmvJs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<미니언즈 2> 개봉 2주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Thu, 14 Jul 2022 04:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.30 ~ 2022.07.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/26/CdKZpfjEkneYqIFWbh8p82PGxgBT5M3f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<뽀로로 극장판 드래곤캐슬 대모험> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
             <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
@@ -926,6 +918,14 @@
             <pubDate>Thu, 14 Jul 2022 04:12:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.18 ~ 2022.07.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/18/iJQVuMqugTmDDKh1A3v0l09M4zsMxZpA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소설 '한밤의 미스터리 키친... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/86025418</link>
+            <guid>https://extmovie.com/sisaing/86025418</guid>
+            <pubDate>Tue, 26 Jul 2022 04:27:56 GMT</pubDate>
+            <content:encoded><![CDATA[소설 &lt;한밤의 미스터리 키친&gt; 출간 기념 이벤트입니다. 이 책에 대한 기대평을 ...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/418/025/086/295x295.crop.jpg?20220726114314" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['뱅크시' 언론 배급 시... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
@@ -957,7 +957,7 @@
             <guid>https://extmovie.com/sisaing/85341117</guid>
             <pubDate>Fri, 22 Jul 2022 04:00:00 GMT</pubDate>
             <content:encoded><![CDATA[에세이 서적 &lt;그럴 때 우린 이 노랠 듣지&gt; 출간 기념 이벤트입니다. 이 책에 대...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/117/341/085/295x295.crop.jpg?20220722125627" length="0" type="image/jpg"/>
+            <enclosure url="https://extmovie.com/files/thumbnails/117/341/085/295x295.crop.jpg?20220726114356" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['한산: 용의 출현' 리... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
