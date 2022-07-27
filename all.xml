@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 14:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 15:24:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.14 ~ 2022.08.07]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/14/VfzViMCxu7yrtCDV4zVIU1qov6kMSJar.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 오리지널 티켓 No.57 <토르: 러브 앤 썬더> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.13 ~ 2022.07.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/18/AEbq2h9t4JssAAVx65so4SYkLGl60Wmo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[7월 메7ㅏ 포인트 페스타🎉 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -216,22 +208,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/26/36FOJEttRTHPajeAW8YEqj5qCA8cUopO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[DC 리그 오브 슈퍼-펫] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.27 ~ 2022.07.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/26/JcvD9CSpSrBiReEl3wCQdOMCUQn9asca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<초록밤> 프리미어 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.27 ~ 2022.07.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/14/gy3pBkN5H4YuPG7c563WNAucVkhIwvDH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[SVT [BE THE SUN] 라이브뷰잉 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -270,14 +246,6 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.21 ~ 2022.08.01]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/20/sBQQiBX3FQidKkQsWLHKOsaXVImsyWvE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<프리! 더 파이널 스트로크 후편> 4주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.21 ~ 2022.07.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/19/FQvPemRzV6ax54Xh4rCKurl89t0ZZG3c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<토르: 러브 앤 썬더> 3주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -334,30 +302,6 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.14 ~ 2022.08.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/11/WxdCA0sEtVGpk8fFoqFaXCjySYO18Qyj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<명탐정 코난 : 할로윈의 신부> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.13 ~ 2022.07.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/12/GKrqjrkTCCVYJBH0p888t7HmKs4wIMY3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<멘> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.13 ~ 2022.07.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/11/JuXuMBJmGVmm952vQSjqWhWlV21VqNcO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<엘비스> Dolby 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.13 ~ 2022.07.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/07/sfiSm70f7x0ViWvPinvkjrD53dNYWhYH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<토르: 러브 앤 썬더> 오리지널 티켓북 포스터 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -958,14 +902,6 @@
             <pubDate>Thu, 14 Jul 2022 04:12:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.27 ~ 2022.08.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/22/KZD0jCq0p6W1sAXwkdB2JdDelIonreSL.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<헌트> 메가박스 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Thu, 14 Jul 2022 04:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.18 ~ 2022.07.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/18/iJQVuMqugTmDDKh1A3v0l09M4zsMxZpA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['모퉁이' 언론 배급 시... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
