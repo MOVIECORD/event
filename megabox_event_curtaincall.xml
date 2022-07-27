@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 08:28:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 09:21:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Thu, 14 Jul 2022 04:12:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.30 ~ 2022.07.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/25/k28SQADR1CsccJuU2SKVKLxPGjcckoWd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<녹턴> 메가박스 필름소사이어티 회원시사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Thu, 14 Jul 2022 04:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.27 ~ 2022.08.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/27/PCpahu53uiXpRZFXxFqE8BXod0gHg2mV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<외계+인 1부> 2주차 무대인사]]></title>
