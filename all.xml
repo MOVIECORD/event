@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 15:24:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 16:32:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -902,6 +902,14 @@
             <pubDate>Thu, 14 Jul 2022 04:12:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.27 ~ 2022.08.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/22/KZD0jCq0p6W1sAXwkdB2JdDelIonreSL.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['헌트' 리뷰 이벤트 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/86349145</link>
+            <guid>https://extmovie.com/sisaing/86349145</guid>
+            <pubDate>Wed, 27 Jul 2022 16:32:57 GMT</pubDate>
+            <content:encoded><![CDATA[영화 &lt;헌트&gt; 리뷰 이벤트입니다. &lt;헌트&gt;를 관람하신 분들께서는 영화수다 게시판...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/145/349/086/295x295.crop.jpg?20220728005549" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['모퉁이' 언론 배급 시... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
