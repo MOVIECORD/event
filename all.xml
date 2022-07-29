@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 23:24:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 02:08:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -934,6 +934,14 @@
             <pubDate>Thu, 14 Jul 2022 04:12:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.27 ~ 2022.08.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/27/PCpahu53uiXpRZFXxFqE8BXod0gHg2mV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['블랙폰' 익스트림무비... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/86536866</link>
+            <guid>https://extmovie.com/sisaing/86536866</guid>
+            <pubDate>Fri, 29 Jul 2022 02:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[익스트림무비 인스타그램 팔로우부터 하시면 좋습니다 영화 &lt;블랙폰&gt; 익스트림무...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/866/536/086/295x295.crop.jpg?20220729102411" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['녹턴' 시사회에 초대... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
