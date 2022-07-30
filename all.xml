@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 04:42:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 05:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -974,14 +974,6 @@
             <pubDate>Thu, 28 Jul 2022 01:58:04 GMT</pubDate>
             <content:encoded><![CDATA[다큐멘터리 영화 &lt;작은새와 돼지씨&gt; 시사회에 초대합니다. 꼭 참석하고 게시판에...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/545/371/086/295x295.crop.jpg?20220728090009" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['헌트' 비하인드 스토... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/86350159</link>
-            <guid>https://extmovie.com/sisaing/86350159</guid>
-            <pubDate>Sat, 30 Jul 2022 01:58:04 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;헌트&gt;의 제작과 관련된 흥미로운 비하인드 스토리를 영화수다 게시판에 글...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/159/350/086/295x295.crop.jpg?20220730090108" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['헌트' 리뷰 이벤트 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
