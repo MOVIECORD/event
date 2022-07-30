@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 03:52:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 04:42:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 14 Jul 2022 04:12:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.06 ~ 2022.08.07]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/22/Zno2azWmqTW4zGqvserUYPvaJhj1ADyK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<DC 리그 오브 슈퍼-펫> 메가박스 패밀리 회원 시사회]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Thu, 14 Jul 2022 04:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.30 ~ 2022.08.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/30/YvOMi4y4ScCOdXhxjShKJ62ID0PhgHR1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<비상선언> 개봉 전 무대인사]]></title>
@@ -54,6 +62,14 @@
             <pubDate>Thu, 14 Jul 2022 04:12:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.30 ~ 2022.07.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/25/k28SQADR1CsccJuU2SKVKLxPGjcckoWd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<육사오> 메가박스 회원 시사회]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Thu, 14 Jul 2022 04:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.28 ~ 2022.08.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/30/dUomjT1HnWQc7DwhLdeAejj04TbqfYKh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<녹턴> 메가박스 필름소사이어티 회원시사]]></title>
