@@ -4,17 +4,9 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 14:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 15:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[춘천석사지점] 오픈 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.24 ~ 2022.07.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/29/MgzGqnipuIwyUNPXOQNcARZuknEx3toT.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[광명소하지점] 오픈 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
@@ -96,14 +88,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/11/pvrkklMSm82LalWyZGmtmRGmSaZfW1xz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[굽네치킨X김포한강신도시점] 영화보면 굽네치킨 3,000원 할인]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.13 ~ 2022.07.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/11/trS9fQLxdZtu51lQGJYO3qHFb1o4inq5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[부산대] 중,고등학생!! 할인 받고 영화 보자!]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -118,14 +102,6 @@
             <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.01 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/14/XnvV8qNxNhFxOCWLRKzlQP1I1luGoYF6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사상] 첫 업그레이드 관람 인증 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.01 ~ 2022.07.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/07/9wn1UUJxq951xYEkHT2YuVFZeCZJMIbt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[사상] 에어부산 임직원 제휴 할인 이벤트]]></title>
@@ -176,22 +152,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/13/lLST2nUB3yzQNFr5wcxTKJlGxpdbmze6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[부산경남지역] 두근두근 럭키박스! 1석2조 배달쿠폰!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.01 ~ 2022.07.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/05/19/fpyrxJOuChj7pvHGVe3rM7V80NnxHXDH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[상암월드컵경기장] 함께해요 환경보호 함께써요 다회용컵]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.28 ~ 2022.07.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/28/oBSFUqtrnSrpHP803XqawIgU80e3c1GZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[코엑스] 프로포즈 인 프라이빗]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -214,14 +174,6 @@
             <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.16 ~ 2022.08.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/28/Onpdhk2DcnvzO36XjhleVmKOZBjR4Z9q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[inno.N X 메가박스] 컨디션 스틱 메가 샘플링 EVENT]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.11 ~ 2022.07.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/11/11Mmn0C9kA2RUcTnko8FDdla15f21rz2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[양산라피에스타] 학생증 제시 시 영화 3천원 할인!]]></title>
