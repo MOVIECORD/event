@@ -4,9 +4,25 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 23:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 02:08:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코카-콜라 굿즈와 함께 여름 휴가를 준비하세요!]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.01 ~ 2022.09.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/01/ttmPM9MaA17YbaF9DIBgeuOZ9ZWHgB47.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더블콤보 구매하고 월드컵 트로피투어 가자!]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.01 ~ 2022.08.15]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/01/W8dgMx2XJGVvG83hbUBJ6bdo4xBbpBBW.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[돌친자들 모여라!! 돌비 시네마 2주년 파티 2gether 🎉]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
