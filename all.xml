@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 06:39:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 07:25:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,6 +126,14 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.04 ~ 2022.08.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/26/5MmeM3ybgfGH6btpzoTzMUqeBoMOPrRC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<헌트> 기대평 이벤트 '틀린 그림을 색출하라!' (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.01 ~ 2022.08.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/01/mG75R5tEvpCWfLZ5UmlbsyOwUue85sHZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[한산: 용의 출현]앵콜! 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -800,6 +808,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/11/11/7zZFIneF9efbrMAybQh2NRAxkvTdfTD5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<헌트> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Thu, 14 Jul 2022 04:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.13 ~ 2022.08.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/01/YFuGB8zvxWhfCAuplFVrevAeProCVjL6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<한산 : 용의 출현> 2주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
             <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
@@ -845,7 +861,7 @@
             <guid>https://extmovie.com/sisaing/86582169</guid>
             <pubDate>Fri, 29 Jul 2022 06:28:52 GMT</pubDate>
             <content:encoded><![CDATA[익스트림무비 인스타그램 팔로우부터 하시면 좋습니다 영화 &lt;풀타임&gt; 익스트림무...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/169/582/086/295x295.crop.jpg?20220729144902" length="0" type="image/jpg"/>
+            <enclosure url="https://extmovie.com/files/thumbnails/169/582/086/295x295.crop.jpg?20220801155731" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['블랙폰' 익스트림무비... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
