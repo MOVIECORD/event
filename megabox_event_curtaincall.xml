@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 07:25:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 09:24:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,7 +32,23 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/22/Zno2azWmqTW4zGqvserUYPvaJhj1ADyK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<DC 리그 오브 슈퍼-펫> 메가박스 패밀리 회원 시사회]]></title>
+            <title><![CDATA[<비상선언> 개봉주 무대인사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Thu, 14 Jul 2022 04:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.06 ~ 2022.08.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/01/6b1Gdl5qH7qmR4fpIaNp9LnHtjoCced4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<DC 리그 오브 슈퍼-펫>(자막) 메가박스 회원 시사회]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Thu, 14 Jul 2022 04:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.01 ~ 2022.08.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/01/4ftqQhzVIKCMH003rhFnIZCXIMetYDpx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<DC 리그 오브 슈퍼-펫>(더빙) 메가박스 패밀리 회원 시사회]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
             <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
             <pubDate>Thu, 14 Jul 2022 04:12:05 GMT</pubDate>
