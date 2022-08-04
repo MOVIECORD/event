@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 01:55:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 03:36:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,22 @@
             <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.01 ~ 2022.08.15]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/01/W8dgMx2XJGVvG83hbUBJ6bdo4xBbpBBW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<헌트> 기대평 이벤트 '틀린 그림을 색출하라!']]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.01 ~ 2022.08.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/01/mG75R5tEvpCWfLZ5UmlbsyOwUue85sHZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<한산: 용의 출현> DOLBY ATMOS 관중일기 관람평]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.27 ~ 2022.08.16]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/27/DW7ixm2bkFLUhHsuptZhCknRfPoZwb5V.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[돌친자들 모여라!! 돌비 시네마 2주년 파티 2gether 🎉]]></title>
