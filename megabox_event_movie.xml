@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 23:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 01:58:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<헌트> 2차 메가토크]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.12 ~ 2022.08.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/05/1Q1W4zwoG5xsP0bwDeubBMDQPICMfRdg.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<극장판 살아남기 시리즈: 인체에서 살아남기> 관람인증 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
