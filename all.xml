@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 12:42:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 13:46:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -254,6 +254,14 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.03 ~ 2022.08.17]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/02/yn6aKdDeL5P0XS6YIxIYl8mTkRqhSitg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<극장판 살아남기 시리즈 : 인체에서 살아남기> 예매 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.03 ~ 2022.08.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/05/mcydCjTerDFLedb0bNSgvlxVdR0K8WOQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아트나인과 함께 하는 <멋진 세계> 시네마구구 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -934,6 +942,14 @@
             <pubDate>Thu, 14 Jul 2022 04:12:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.27 ~ 2022.08.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/27/PCpahu53uiXpRZFXxFqE8BXod0gHg2mV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['파라다이스 하이웨이'... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/87811258</link>
+            <guid>https://extmovie.com/sisaing/87811258</guid>
+            <pubDate>Fri, 05 Aug 2022 13:46:09 GMT</pubDate>
+            <content:encoded><![CDATA[익스트림무비 인스타그램 팔로우부터 하시면 좋습니다 영화 &lt;파라다이스 하이웨...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/258/811/087/295x295.crop.jpg?20220805220004" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디즈니+ '프레이' 리뷰... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
