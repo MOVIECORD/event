@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 22:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 23:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -934,14 +934,6 @@
             <pubDate>Thu, 04 Aug 2022 22:29:38 GMT</pubDate>
             <content:encoded><![CDATA[익스트림무비 인스타그램 팔로우부터 하시면 좋습니다 영화 &lt;엔젤 하트&gt; 시사회...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/326/686/087/295x295.crop.jpg?20220805115005" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['놉' 최초 익무 단독 I... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/87474543</link>
-            <guid>https://extmovie.com/sisaing/87474543</guid>
-            <pubDate>Wed, 03 Aug 2022 16:30:57 GMT</pubDate>
-            <content:encoded><![CDATA[익스트림무비 인스타그램 팔로우부터 하시면 좋습니다 &lt;놉&gt; 익무 단관 시사회 초...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/543/474/087/295x295.crop.jpg?20220804091503" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['파로호' GV 시사회에 ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
