@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 06:30:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 07:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[무비올나잇] 비상선언 + 헌트 연속상영 패키지]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.12 ~ 2022.08.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/05/8uamV2KBmM4EsCRrvsVEs86xzu81aMCR.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<모퉁이> 도서 증정 상영회]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
@@ -22,6 +30,22 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.12 ~ 2022.08.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/05/1Q1W4zwoG5xsP0bwDeubBMDQPICMfRdg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<카우> 개봉기념 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.11 ~ 2022.08.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/08/oZHga8bPikPkgMbGeixWy7FPcl1Rm2xG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<극장판 도라에몽: 진구의 우주소전쟁> 2주차 현장증정이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.11 ~ 2022.08.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/08/KOHHQQCgOAv73YI1WNW3tRTdfBkRQ310.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<DC 리그 오브 슈퍼-펫>  3인 이상 현장 증정 이벤트]]></title>
