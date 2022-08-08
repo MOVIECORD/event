@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 01:53:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 03:44:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<헌트> 1PICK 이벤트 😎]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.08 ~ 2022.08.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/08/Ipn3tbAagSKEDzB5LsnAyBuvBpl4cBcz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<한산: 용의 출현> 100점 위인의 축복! 100P 럭키코인🎁]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
