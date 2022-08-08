@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 23:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 01:53:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -174,6 +174,14 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.10 ~ 2022.08.17]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/03/jXH58JmAdyI3tOSGHM3F8FIXJqLK1uSl.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[놉] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.09 ~ 2022.08.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/03/gahZ4oE5AfFBNavphh6du8vr1XIIef8a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<탑건 : 매버릭> X <한산 : 용의 출현> 스페셜 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
