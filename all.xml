@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 05:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 06:30:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,12 +144,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/14/ACdDJx36kS3ytWbf8JuflttgFwbvJ0Mt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[무비올나잇] 비상선언 + 헌트 연속상영 패키지 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <title><![CDATA[<모퉁이> 도서 증정 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.12 ~ 2022.08.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/05/8uamV2KBmM4EsCRrvsVEs86xzu81aMCR.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2022.08.12 ~ 2022.08.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/08/koD6RhyUUIb7of5RAvDVa2EgKnQ251I5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<헌트> 2차 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -174,6 +174,14 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.10 ~ 2022.08.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/05/XaGdC59Zbq5YbyuTfUpLiRDNZsEF6I2n.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<헌트> 메가박스 N차 관람 인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.10 ~ 2022.08.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/08/n78Gm6COg25JoEeppk3anMeTxc03pJD5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<극장판 살아남기 시리즈: 인체에서 살아남기> 관람인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
