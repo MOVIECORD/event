@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 14:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 15:25:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -966,14 +966,6 @@
             <pubDate>Thu, 14 Jul 2022 04:12:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.28 ~ 2022.08.10]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/30/dUomjT1HnWQc7DwhLdeAejj04TbqfYKh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<녹턴> 메가박스 필름소사이어티 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Thu, 14 Jul 2022 04:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.27 ~ 2022.08.08]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/27/PCpahu53uiXpRZFXxFqE8BXod0gHg2mV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['귀멸의 칼날: 아사쿠사 편&... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
