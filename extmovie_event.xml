@@ -4,7 +4,7 @@
         <title>익스트림무비 ─ 시사회 ─ 시사회진행</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 07:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 08:28:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>https://extmovie.com/sisaing/87811258</guid>
             <pubDate>Fri, 05 Aug 2022 13:46:09 GMT</pubDate>
             <content:encoded><![CDATA[익스트림무비 인스타그램 팔로우부터 하시면 좋습니다 영화 &lt;파라다이스 하이웨...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/258/811/087/295x295.crop.jpg?20220809161834" length="0" type="image/jpg"/>
+            <enclosure url="https://extmovie.com/files/thumbnails/258/811/087/295x295.crop.jpg?20220809162152" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디즈니+ '프레이' 리뷰...]]></title>
@@ -78,22 +78,6 @@
             <pubDate>Thu, 28 Jul 2022 09:22:11 GMT</pubDate>
             <content:encoded><![CDATA[다큐멘터리 영화 &lt;녹턴&gt; 시사회에 초대합니다. 꼭 참석하고 게시판에 꼼꼼하게 ...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/602/452/086/295x295.crop.jpg?20220804145504" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['기도의 숨결' 시사회...]]></title>
-            <link>https://extmovie.com/sisaing/86371684</link>
-            <guid>https://extmovie.com/sisaing/86371684</guid>
-            <pubDate>Thu, 28 Jul 2022 01:58:04 GMT</pubDate>
-            <content:encoded><![CDATA[다큐멘터리 영화 &lt;기도의 숨결&gt; 시사회에 초대합니다. 꼭 참석하고 게시판에 꼼...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/684/371/086/295x295.crop.jpg?20220728085949" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['작은새와 돼지씨' 시...]]></title>
-            <link>https://extmovie.com/sisaing/86371545</link>
-            <guid>https://extmovie.com/sisaing/86371545</guid>
-            <pubDate>Thu, 28 Jul 2022 01:58:04 GMT</pubDate>
-            <content:encoded><![CDATA[다큐멘터리 영화 &lt;작은새와 돼지씨&gt; 시사회에 초대합니다. 꼭 참석하고 게시판에...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/545/371/086/295x295.crop.jpg?20220728090009" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시사회, 이벤트 당첨 확률 올리는 법]]></title>
