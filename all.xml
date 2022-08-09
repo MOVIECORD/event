@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 06:28:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 07:20:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -190,6 +190,14 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.11 ~ 2022.08.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/08/oZHga8bPikPkgMbGeixWy7FPcl1Rm2xG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<굿 럭 투 유, 리오 그랜드> 개봉기념 현장증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.11 ~ 2022.08.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/08/M562BX5126TDHrB5UV3KSMvmZelhe51O.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<극장판 도라에몽: 진구의 우주소전쟁> 2주차 현장증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1005,7 +1013,7 @@
             <guid>https://extmovie.com/sisaing/87811258</guid>
             <pubDate>Fri, 05 Aug 2022 13:46:09 GMT</pubDate>
             <content:encoded><![CDATA[익스트림무비 인스타그램 팔로우부터 하시면 좋습니다 영화 &lt;파라다이스 하이웨...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/258/811/087/295x295.crop.jpg?20220808105449" length="0" type="image/jpg"/>
+            <enclosure url="https://extmovie.com/files/thumbnails/258/811/087/295x295.crop.jpg?20220809161834" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디즈니+ '프레이' 리뷰... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
