@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 10:24:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 11:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -784,14 +784,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/12/AN3CpOSli9Kj3f4xiD2OFZO6XG2qhVA1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[H.PointX메가박스] H.point 회원대상 제휴 프로모션 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:57 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.12 ~ 2022.09.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/11/Jy87EEUfMICzBlRph1xAuqhTAvNUlQ5g.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[메가박스X더쎈카드] 내 카드 할인혜택 확인하고 관람권 받자! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
@@ -982,6 +974,14 @@
             <pubDate>Thu, 14 Jul 2022 04:12:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.04 ~ 2022.08.17]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/04/3weFWCD5YHN9IZTzZFxp9tHmCSEHyJxY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소설 '다크 플레이스의 비밀... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/88659050</link>
+            <guid>https://extmovie.com/sisaing/88659050</guid>
+            <pubDate>Thu, 11 Aug 2022 11:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[스릴러 소설 &lt;다크 플레이스의 비밀&gt; 출간 기념 이벤트입니다. 이 책에 대한 기...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/050/659/088/295x295.crop.jpg?20220811195125" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['헌트' 오리지널 굿즈 ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
