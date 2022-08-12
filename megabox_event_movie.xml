@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 03:38:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 04:36:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[8월 심리학 읽는 영화관 <카모메 식당>]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.29 ~ 2022.08.29]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/12/YPw4mbWVg279hhsGNCFGQqgFWsDTG2FT.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<불릿 트레인> 돌비 포스터 증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
