@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 14:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 15:25:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -240,22 +240,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/05/8uamV2KBmM4EsCRrvsVEs86xzu81aMCR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<모퉁이> 도서 증정 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.12 ~ 2022.08.12]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/08/koD6RhyUUIb7of5RAvDVa2EgKnQ251I5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<헌트> 2차 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.12 ~ 2022.08.12]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/05/1Q1W4zwoG5xsP0bwDeubBMDQPICMfRdg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<뱅크시> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -440,14 +424,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/28/262z6Fgg3Q4GgPzGZy2MURTdxBjpp5pc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<명탐정 코난 : 할로윈의 신부> 3주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.29 ~ 2022.08.12]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/27/CMHO1JhcKWGi9pz2dSeL2TY0Wr7ukSAe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<로스트 도터> 3주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -582,14 +558,6 @@
             <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.14 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/14/Uqja1WFOZGpi1Z8zOud1ljrqGDYiCc1L.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[북대구(칠곡)] 대구시 문화소비 6천원 할인 쿠폰 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.14 ~ 2022.08.12]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/11/pvrkklMSm82LalWyZGmtmRGmSaZfW1xz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[부산대] 중,고등학생!! 할인 받고 영화 보자! (메가박스 ─ 이벤트 ─ 극장)]]></title>
