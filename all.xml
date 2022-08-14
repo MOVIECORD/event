@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Aug 2022 14:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 15:22:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,14 +238,6 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.12 ~ 2022.11.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/12/9frWCzCLsW2JciNsQ9hmjkeVqIGxjZ71.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[무비올나잇] 비상선언 + 헌트 연속상영 패키지 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.12 ~ 2022.08.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/05/8uamV2KBmM4EsCRrvsVEs86xzu81aMCR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<뱅크시> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -974,14 +966,6 @@
             <pubDate>Thu, 14 Jul 2022 04:12:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.15 ~ 2022.08.15]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/05/4DPa37nr4qrUltuJLisv1TrHu9pBNxqE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<헌트> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Thu, 14 Jul 2022 04:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.13 ~ 2022.08.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/01/YFuGB8zvxWhfCAuplFVrevAeProCVjL6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 시사회 전문 모니터링 요원 [프리뷰어] 모집 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
