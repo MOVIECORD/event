@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 02:04:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 04:04:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -176,12 +176,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/12/zBVfLONJgY9aO6rB6ghcUJo9Q16mUVOC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<굿 럭 투 유, 리오 그랜드> 2주차 현장증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.20 ~ 2022.09.03]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/16/841h6TIT8S7vMBj7G3Noy9h8zqhnvfj7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[DC 리그 오브 슈퍼-펫] 2주차 액티비티북 증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.20 ~ 2022.09.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/12/Adj3CkmPtjBW1rd5eSaj4lHuPXXnuwC8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<풀타임> 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.20 ~ 2022.08.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/16/zjsQuwqmjrn0YS1lgu4emZ32dLFqEUic.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<파로호> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1000,14 +1016,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/04/3weFWCD5YHN9IZTzZFxp9tHmCSEHyJxY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['둠둠' 시사회에 초대... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/88725183</link>
-            <guid>https://extmovie.com/sisaing/88725183</guid>
-            <pubDate>Fri, 12 Aug 2022 01:53:24 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;둠둠&gt; 시사회에 초대합니다. (15세 이상 관람가) 꼭 참석하고 게시판에 꼼...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/183/725/088/295x295.crop.jpg?20220814140200" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['썬다운' 시사회에 초... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
             <link>https://extmovie.com/sisaing/88724949</link>
             <guid>https://extmovie.com/sisaing/88724949</guid>
@@ -1077,7 +1085,7 @@
             <guid>https://extmovie.com/sisaing/87686326</guid>
             <pubDate>Thu, 04 Aug 2022 22:29:38 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;엔젤 하트&gt; 시사회에 초대합니다. 청소년 관람불가입니다. 성인분들 중에...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/326/686/087/295x295.crop.jpg?20220815224702" length="0" type="image/jpg"/>
+            <enclosure url="https://extmovie.com/files/thumbnails/326/686/087/295x295.crop.jpg?20220816115913" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시사회, 이벤트 당첨 확률 올리는 법 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
