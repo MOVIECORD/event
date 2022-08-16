@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 09:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 10:22:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -198,6 +198,30 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.20 ~ 2022.08.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/16/zjsQuwqmjrn0YS1lgu4emZ32dLFqEUic.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<뱅크시> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.18 ~ 2022.09.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/16/BU92Xdcq0Axl0m1Tme70oObNuHQvNFOv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<썸머 필름을 타고!> 5주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.18 ~ 2022.09.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/16/fGo9sWoaeQheZ9MVWvLWEayuQX6gto3g.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<풀타임> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.18 ~ 2022.09.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/16/lHH9mr6fbw749BzLJcMkz9SIi4L6nbcd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<파로호> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1046,14 +1070,6 @@
             <pubDate>Mon, 08 Aug 2022 07:20:48 GMT</pubDate>
             <content:encoded><![CDATA[애니메이션 &lt;귀멸의 칼날: 아사쿠사편&gt; 예매권 이벤트입니다. 아래 댓글 신청 방...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/879/207/088/295x295.crop.jpg?20220814140255" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['멋진 세계' 리뷰 이벤트 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/87686683</link>
-            <guid>https://extmovie.com/sisaing/87686683</guid>
-            <pubDate>Thu, 04 Aug 2022 23:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;멋진 세계&gt; 리뷰 이벤트입니다. &lt;멋진 세계&gt;를 관람하신 분들께서는 영화...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/683/686/087/295x295.crop.jpg?20220814140312" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시사회, 이벤트 당첨 확률 올리는 법 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>

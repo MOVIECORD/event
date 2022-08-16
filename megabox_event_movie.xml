@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 09:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 10:22:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,30 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.20 ~ 2022.08.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/16/zjsQuwqmjrn0YS1lgu4emZ32dLFqEUic.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<뱅크시> 2주차 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.18 ~ 2022.09.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/16/BU92Xdcq0Axl0m1Tme70oObNuHQvNFOv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<썸머 필름을 타고!> 5주차 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.18 ~ 2022.09.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/16/fGo9sWoaeQheZ9MVWvLWEayuQX6gto3g.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<풀타임> 개봉기념 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.18 ~ 2022.09.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/16/lHH9mr6fbw749BzLJcMkz9SIi4L6nbcd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<파로호> 개봉기념 현장증정 이벤트]]></title>
