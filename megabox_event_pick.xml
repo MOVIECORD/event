@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 14:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 15:24:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.01 ~ 2022.08.17]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/01/miiUMGbt4YJ3TwwLTMm5vZs5BQQLIY4Y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<한산: 용의 출현> DOLBY ATMOS 관중일기 관람평]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.27 ~ 2022.08.16]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/27/DW7ixm2bkFLUhHsuptZhCknRfPoZwb5V.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[돌친자들 모여라!! 돌비 시네마 2주년 파티 2gether 🎉]]></title>
