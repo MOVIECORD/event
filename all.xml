@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 23:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 02:04:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,6 +184,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/12/Adj3CkmPtjBW1rd5eSaj4lHuPXXnuwC8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<파로호> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.18 ~ 2022.08.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/16/HbeTTJLixHpad4esTVADOHOJV5xF6cEz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<놉> 돌비포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -214,6 +222,14 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.17 ~ 2022.08.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/12/tqmEkcCO8kkCFBy6ZwTvdDnf8eBxcan2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[한산: 용의 출현]앵콜! 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.16 ~ 2022.08.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/16/p3eWPSX7I4eXVuwRxXUq0zLEaDnk9TUz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<모퉁이> 뱃지 증정 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -792,6 +808,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/12/AN3CpOSli9Kj3f4xiD2OFZO6XG2qhVA1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[KT멤버십X메가박스] 8월 '나의 초이스' 싱글콤보 2천원 구매 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.16 ~ 2022.08.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/10/lCVRWpdteP7WwfyTIXUZYpILrbV24dFR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[H.PointX메가박스] H.point 회원대상 제휴 프로모션 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
@@ -998,14 +1022,6 @@
             <pubDate>Fri, 12 Aug 2022 01:53:24 GMT</pubDate>
             <content:encoded><![CDATA[다큐멘터리 영화 &lt;코코순이&gt; 시사회에 초대합니다. (전체관람가) 꼭 참석하고 게...]]></content:encoded>
             <enclosure url="https://extmovie.com/files/thumbnails/643/724/088/295x295.crop.jpg?20220814140215" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소설 '다크 플레이스의 비밀... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/88659050</link>
-            <guid>https://extmovie.com/sisaing/88659050</guid>
-            <pubDate>Thu, 11 Aug 2022 11:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[스릴러 소설 &lt;다크 플레이스의 비밀&gt; 출간 기념 이벤트입니다. 이 책에 대한 기...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/050/659/088/295x295.crop.jpg?20220811195125" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['헌트' 오리지널 굿즈 ... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>

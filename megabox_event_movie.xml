@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 23:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 02:04:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/12/Adj3CkmPtjBW1rd5eSaj4lHuPXXnuwC8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<파로호> 개봉기념 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.18 ~ 2022.08.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/16/HbeTTJLixHpad4esTVADOHOJV5xF6cEz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<놉> 돌비포스터 증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -70,6 +78,14 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.17 ~ 2022.08.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/12/tqmEkcCO8kkCFBy6ZwTvdDnf8eBxcan2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[한산: 용의 출현]앵콜! 선착순 빵원티켓 ➕]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.16 ~ 2022.08.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/16/p3eWPSX7I4eXVuwRxXUq0zLEaDnk9TUz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<모퉁이> 뱃지 증정 상영회]]></title>
