@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 14:26:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 15:24:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.12 ~ 2022.08.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/12/ylXy5gGxfhgULqLqJB9tA6LvVL3qwhLK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돌비 시네마에서 보고 싶은 영화 VOTE (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.12 ~ 2022.08.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/12/Gm7S04PCBjJdvnyezbgVp0JythgIsSZY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 No.60 <헌트> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -54,14 +46,6 @@
             <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.01 ~ 2022.09.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/01/ttmPM9MaA17YbaF9DIBgeuOZ9ZWHgB47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 오리지널 티켓 No.59 <비상선언> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.01 ~ 2022.08.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/01/miiUMGbt4YJ3TwwLTMm5vZs5BQQLIY4Y.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[돌친자들 모여라!! 돌비 시네마 2주년 파티 2gether 🎉 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -304,14 +288,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/16/uUWVvXfm3tIbXYh2KlYFoHojnm5Nfvp3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[한산: 용의 출현]앵콜! 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.16 ~ 2022.08.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/16/p3eWPSX7I4eXVuwRxXUq0zLEaDnk9TUz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022 심리학 읽는 영화관 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -416,14 +392,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/08/n78Gm6COg25JoEeppk3anMeTxc03pJD5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<극장판 살아남기 시리즈: 인체에서 살아남기> 관람인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.10 ~ 2022.08.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/03/jXH58JmAdyI3tOSGHM3F8FIXJqLK1uSl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[아트나인과 함께 하는 <헤어질 결심> 시네마구구 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -446,46 +414,6 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.04 ~ 2022.08.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/02/yJ8L5bE8UzRasJghuTwCaACi2SVm5OZo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<외계+인 1부> 현장 굿즈 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.03 ~ 2022.08.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/02/o2vb1oNX2fYrafE4b0i9M9E6mJM39crr.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<큐어> 5주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.03 ~ 2022.08.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/02/qB3LPwFkHUxfMpmXUjoIuwOZbWPOwjXF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<썸머 필름을 타고!> 3주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.03 ~ 2022.08.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/02/a0MS8wKRgi7dqgB4nQcBy0JC02987b25.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 도라에몽: 진구의 우주소전쟁> 현장증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.03 ~ 2022.08.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/02/yn6aKdDeL5P0XS6YIxIYl8mTkRqhSitg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<멘> 3주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.27 ~ 2022.08.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/26/a2Ysng7PBJ4PPMYtG0zppBOtA1rkE6Jv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SVT [BE THE SUN] 라이브뷰잉 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1024,20 +952,11 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/11/11/7zZFIneF9efbrMAybQh2NRAxkvTdfTD5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[메가박스 시사회 전문 모니터링 요원 [프리뷰어] 모집 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Thu, 14 Jul 2022 04:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.12 ~ 2022.08.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/12/mIFeSY3voiRDl35qnDuPtbC0qyQ6EwvB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<블랙폰> 메가박스 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Thu, 14 Jul 2022 04:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.04 ~ 2022.08.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/04/3weFWCD5YHN9IZTzZFxp9tHmCSEHyJxY.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[undefined (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://MOVIECORD.github.io/event/all.xml</link>
+            <guid>https://MOVIECORD.github.io/event/all.xml</guid>
+            <pubDate>Wed, 17 Aug 2022 15:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[해당 이벤트가 없습니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['뱅크시' 리뷰 이벤트 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>

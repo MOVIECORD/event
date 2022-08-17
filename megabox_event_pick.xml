@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 14:26:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 15:24:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.12 ~ 2022.08.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/12/ylXy5gGxfhgULqLqJB9tA6LvVL3qwhLK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돌비 시네마에서 보고 싶은 영화 VOTE]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.12 ~ 2022.08.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/12/Gm7S04PCBjJdvnyezbgVp0JythgIsSZY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 No.60 <헌트>]]></title>
@@ -54,14 +46,6 @@
             <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.01 ~ 2022.09.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/01/ttmPM9MaA17YbaF9DIBgeuOZ9ZWHgB47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 오리지널 티켓 No.59 <비상선언>]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.01 ~ 2022.08.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/01/miiUMGbt4YJ3TwwLTMm5vZs5BQQLIY4Y.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[돌친자들 모여라!! 돌비 시네마 2주년 파티 2gether 🎉]]></title>
