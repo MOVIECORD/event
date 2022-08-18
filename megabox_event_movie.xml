@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 06:28:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 07:20:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.29 ~ 2022.08.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/12/YPw4mbWVg279hhsGNCFGQqgFWsDTG2FT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<사랑할 땐 누구나 최악이 된다> 굿즈패키지 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.27 ~ 2022.08.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/18/osbIK5b2fQM2WvdDnsiOdbP03JNiP1Kv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<불릿 트레인> 돌비 포스터 증정 이벤트]]></title>
