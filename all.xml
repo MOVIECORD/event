@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 08:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 10:30:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/14/ACdDJx36kS3ytWbf8JuflttgFwbvJ0Mt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<9명의 번역가> 황석희 번역가 X 민용준 기자 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.02 ~ 2022.09.02]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/19/eoLLB28I0A7KiyJegZdBEqbgUs3H12qz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[8월 심리학 읽는 영화관 <카모메 식당> (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -150,6 +158,14 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.27 ~ 2022.08.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/18/osbIK5b2fQM2WvdDnsiOdbP03JNiP1Kv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<사랑할 땐 누구나 최악이 된다> 이동진 평론가 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.26 ~ 2022.08.26]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/19/EOaavZmkFLUkTEAtL5CGUu9JTClQ280o.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<큐브> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -220,7 +236,7 @@
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.19 ~ 2022.08.22]]></content:encoded>
+            <content:encoded><![CDATA[2022.08.19 ~ 2022.08.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/18/oU4SG0lqBO0V5EIWHwBR3DS6ey5UkFT5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -228,7 +244,7 @@
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.19 ~ 2022.08.22]]></content:encoded>
+            <content:encoded><![CDATA[2022.08.19 ~ 2022.08.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/18/RTvOuPQxHikcr0rpFeT3OBEoh9qKE2UW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
