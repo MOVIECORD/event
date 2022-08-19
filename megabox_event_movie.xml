@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 04:09:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 05:31:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.27 ~ 2022.08.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/18/osbIK5b2fQM2WvdDnsiOdbP03JNiP1Kv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<큐브> 개봉기념 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.24 ~ 2022.09.07]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/19/sGp78fyFBWptWaCoFx7Cl9y094Rqc1cJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<불릿 트레인> 돌비 포스터 증정 이벤트]]></title>
@@ -78,6 +86,22 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.20 ~ 2022.08.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/16/zjsQuwqmjrn0YS1lgu4emZ32dLFqEUic.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[어웨이크]선착순 빵원티켓 ➕]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.19 ~ 2022.08.22]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/18/oU4SG0lqBO0V5EIWHwBR3DS6ey5UkFT5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[불릿 트레인]선착순 빵원티켓 ➕]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.19 ~ 2022.08.22]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/18/RTvOuPQxHikcr0rpFeT3OBEoh9qKE2UW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<뱅크시> 2주차 현장증정 이벤트]]></title>

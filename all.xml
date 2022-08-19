@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 04:09:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 05:31:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,6 +144,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/18/osbIK5b2fQM2WvdDnsiOdbP03JNiP1Kv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<큐브> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.24 ~ 2022.09.07]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/19/sGp78fyFBWptWaCoFx7Cl9y094Rqc1cJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<불릿 트레인> 돌비 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -198,6 +206,22 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.20 ~ 2022.08.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/16/zjsQuwqmjrn0YS1lgu4emZ32dLFqEUic.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[어웨이크]선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.19 ~ 2022.08.22]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/18/oU4SG0lqBO0V5EIWHwBR3DS6ey5UkFT5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[불릿 트레인]선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.19 ~ 2022.08.22]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/18/RTvOuPQxHikcr0rpFeT3OBEoh9qKE2UW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<뱅크시> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -976,12 +1000,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/11/11/7zZFIneF9efbrMAybQh2NRAxkvTdfTD5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<육사오> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Thu, 18 Aug 2022 06:28:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.27 ~ 2022.08.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/19/kHskqGTSZSLTNuvVNe6IX1gtaNUjFbKF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<헌트> 개봉 2주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
             <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
             <pubDate>Thu, 18 Aug 2022 06:28:16 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.20 ~ 2022.08.21]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/18/G9swaxXMWA0tCTAvEssfGS0zWchWzZE9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['뱅크시' 리뷰 이벤트 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
+            <link>https://extmovie.com/sisaing/88323511</link>
+            <guid>https://extmovie.com/sisaing/88323511</guid>
+            <pubDate>Fri, 19 Aug 2022 05:31:18 GMT</pubDate>
+            <content:encoded><![CDATA[영화 &lt;뱅크시&gt; 리뷰 이벤트입니다. &lt;뱅크시&gt;를 관람하신 분들께서는 영화수다 게...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/511/323/088/295x295.crop.jpg?20220819135945" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['귀멸의 칼날: 아사쿠사 편&... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
