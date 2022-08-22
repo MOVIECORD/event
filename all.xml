@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 23:21:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 02:02:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메가박스 관람권을 구매하면 스타벅스 텀블러가 무료! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.22 ~ 2022.08.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/18/SmCy1TIp76fFdLKs7QfRMXJntVvKNRPg.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메가박스 돌비시네마 페이퍼 엘피 Label.03 <엘비스> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
@@ -206,6 +214,14 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.20 ~ 2022.09.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/12/Adj3CkmPtjBW1rd5eSaj4lHuPXXnuwC8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[헌트]앵콜! 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.19 ~ 2022.08.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/19/meKK0pO6TjGSFnq9sIUFZqgK5iQ5jDka.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[어웨이크]선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -798,6 +814,14 @@
             <pubDate>Fri, 06 May 2022 06:28:41 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.10 ~ 2022.11.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/12/AN3CpOSli9Kj3f4xiD2OFZO6XG2qhVA1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[광주은행X메가박스] 메가박스 카드 런칭기념 이벤트 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.22 ~ 2023.02.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/19/Xrp5Tofqsk1VhCZhJKfyuUjmtO9nVbVi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[KT멤버십X메가박스] 8월 '나의 초이스' 싱글콤보 2천원 구매 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
