@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 07:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 08:28:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,12 +168,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/19/EOaavZmkFLUkTEAtL5CGUu9JTClQ280o.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<엔젤 하트> 개봉기념 렌티큘러 엽서 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.25 ~ 2022.09.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/22/JFe5dCxeMG4N2o8u2zmznRNEjbOzOP8w.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<사랑할 땐 누구나 최악이 된다> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.25 ~ 2022.09.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/22/M84RvwFi5td2dX5Lw9NoB8DDKJvmvGqf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<굿 럭 투 유, 리오 그랜드> 3주차 현장증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.25 ~ 2022.08.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/22/t5esiXJnwxN4FsJ16M0SmizUhcCFkVRY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<헌트> 3주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -232,20 +248,20 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/22/jp8i9ddyI7aa9FO4S5DNAypijM8mtbVx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<굿 럭 투 유, 리오 그랜드> 2주차 현장증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.20 ~ 2022.09.03]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/16/841h6TIT8S7vMBj7G3Noy9h8zqhnvfj7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[DC 리그 오브 슈퍼-펫] 2주차 액티비티북 증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.20 ~ 2022.09.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/12/Adj3CkmPtjBW1rd5eSaj4lHuPXXnuwC8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<굿 럭 투 유, 리오 그랜드> 2주차 현장증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.20 ~ 2022.08.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/16/841h6TIT8S7vMBj7G3Noy9h8zqhnvfj7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[헌트]앵콜! 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
