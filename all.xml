@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 08:27:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 09:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1077,7 +1077,7 @@
             <guid>https://extmovie.com/sisaing/10382475</guid>
             <pubDate>Mon, 22 Aug 2022 05:45:14 GMT</pubDate>
             <content:encoded><![CDATA[시사회,예매권,경품등 통합해서 당첨확률을 올리는 팁입니다 일단 당첨자 비율 -...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/475/382/010/295x295.crop.jpg?20220822141137" length="0" type="image/jpg"/>
+            <enclosure url="https://extmovie.com/files/thumbnails/475/382/010/295x295.crop.jpg?20220823180850" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
