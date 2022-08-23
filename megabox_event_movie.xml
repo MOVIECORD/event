@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 14:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 16:31:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,30 +168,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/16/841h6TIT8S7vMBj7G3Noy9h8zqhnvfj7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[헌트]앵콜! 선착순 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.19 ~ 2022.08.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/19/meKK0pO6TjGSFnq9sIUFZqgK5iQ5jDka.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[어웨이크]선착순 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.19 ~ 2022.08.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/18/oU4SG0lqBO0V5EIWHwBR3DS6ey5UkFT5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[불릿 트레인]선착순 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.19 ~ 2022.08.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/18/RTvOuPQxHikcr0rpFeT3OBEoh9qKE2UW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<뱅크시> 2주차 현장증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -312,14 +288,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/08/KOHHQQCgOAv73YI1WNW3tRTdfBkRQ310.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<베르히만 아일랜드> 2주차 현장 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.11 ~ 2022.08.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/10/CmPG6iH9LIKejeTZYczNFUsCTq8gxze8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<썸머 필름을 타고!> 4주차 현장증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -350,14 +318,6 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.10 ~ 2022.08.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/05/XaGdC59Zbq5YbyuTfUpLiRDNZsEF6I2n.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<헌트> 메가박스 N차 관람 인증 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.10 ~ 2022.08.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/08/n78Gm6COg25JoEeppk3anMeTxc03pJD5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<베르히만 아일랜드> 개봉기념 현장증정 이벤트]]></title>
