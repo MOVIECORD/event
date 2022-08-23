@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 07:25:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 08:27:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,14 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.02 ~ 2022.09.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/19/eoLLB28I0A7KiyJegZdBEqbgUs3H12qz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<아라시 20주년 투어 콘서트 5X20> 전야 상영 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.30 ~ 2022.08.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/23/jDqQsLP6jpW2UK6b6e4BGJ1RMUHbwNvt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[8월 심리학 읽는 영화관 <카모메 식당> (메가박스 ─ 이벤트 ─ 영화)]]></title>
