@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 14:21:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 15:23:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.12 ~ 2022.08.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/12/ylXy5gGxfhgULqLqJB9tA6LvVL3qwhLK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 오리지널 티켓 No.60 <헌트> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.10 ~ 2022.08.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/08/Fgn2NVTAWhvwnUW9XyhzhwW2FAAKtuc4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<헌트> 1PICK 이벤트 😎 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -280,28 +272,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/17/VBLXfopiE30I5PqJxCasWOmdO2YVZsa8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[놉]앵콜! 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.23 ~ 2022.08.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/22/jp8i9ddyI7aa9FO4S5DNAypijM8mtbVx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[DC 리그 오브 슈퍼-펫] 2주차 액티비티북 증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.20 ~ 2022.09.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/12/Adj3CkmPtjBW1rd5eSaj4lHuPXXnuwC8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<굿 럭 투 유, 리오 그랜드> 2주차 현장증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.20 ~ 2022.08.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/16/841h6TIT8S7vMBj7G3Noy9h8zqhnvfj7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<뱅크시> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -430,38 +406,6 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.10 ~ 2022.08.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/10/FSR4rnULRWEgTMCa2q2UiaDdZxsiuMZm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 살아남기 시리즈: 인체에서 살아남기> 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.10 ~ 2022.08.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/08/dWepW1Y2vCj7rVPlCvothws6lGMgh3P6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<DC 리그 오브 슈퍼-펫>  3인 이상 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.10 ~ 2022.08.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/05/ng1ZY2OTMjUHTkSSImvlErW53mNgD8pK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<DC 리그 오브 슈퍼-펫> 개봉기념 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.10 ~ 2022.08.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/05/XaGdC59Zbq5YbyuTfUpLiRDNZsEF6I2n.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<베르히만 아일랜드> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.04 ~ 2022.08.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/02/yJ8L5bE8UzRasJghuTwCaACi2SVm5OZo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022 SUMMER] 클래식 페스티벌 중계 (메가박스 ─ 이벤트 ─ 영화)]]></title>
