@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 09:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 10:25:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,6 +126,14 @@
             <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.02 ~ 2022.09.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/19/eoLLB28I0A7KiyJegZdBEqbgUs3H12qz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<육사오(6/45)> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Fri, 06 May 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.01 ~ 2022.09.15]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/25/s5keNUDaUEe8CxNDvzlf0Rn8rJkVvHMe.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<K클래식 제너레이션> 메가박스 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
