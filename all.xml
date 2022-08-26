@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 14:24:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 15:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Thu, 25 Aug 2022 12:41:06 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.22 ~ 2022.08.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/18/SmCy1TIp76fFdLKs7QfRMXJntVvKNRPg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 돌비시네마 페이퍼 엘피 Label.03 <엘비스> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Thu, 25 Aug 2022 12:41:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.12 ~ 2022.08.26]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/12/ylXy5gGxfhgULqLqJB9tA6LvVL3qwhLK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<헌트> 1PICK 이벤트 😎 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -206,14 +198,6 @@
             <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.26 ~ 2022.08.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/25/RYsuaBHTAHGYLVoh5kILERr6vAtcKARj.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<사랑할 땐 누구나 최악이 된다> 이동진 평론가 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.26 ~ 2022.08.26]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/19/EOaavZmkFLUkTEAtL5CGUu9JTClQ280o.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<엔젤 하트> 개봉기념 렌티큘러 엽서 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
