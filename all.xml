@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 23:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 02:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/14/ACdDJx36kS3ytWbf8JuflttgFwbvJ0Mt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<하윤경 배우전> 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.17 ~ 2022.09.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/29/JgzZvg50VOTLGeWeJWz8LGX1Xth2CGdy.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[<9명의 번역가> 황석희 번역가 X 민용준 기자 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -126,6 +134,14 @@
             <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.01 ~ 2022.09.15]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/25/s5keNUDaUEe8CxNDvzlf0Rn8rJkVvHMe.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<리미트> 메가박스 관람인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.31 ~ 2022.09.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/29/4AygFPPmvw6PAXWCZji1uXqCz4AiXGTE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<아라시 20주년 투어 콘서트 5X20> 개봉주 경품 이벤트 및 스페셜 상영 안내 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -158,6 +174,14 @@
             <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.29 ~ 2022.09.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/26/bVw5erV0dK35dYWjJ8HYz1AmbaRwzpZ0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[공조2: 인터내셔날] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.29 ~ 2022.09.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/29/8mAVwz5Ii2fbczsvHwoTgqifenEpi2PM.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8월 심리학 읽는 영화관 <카모메 식당> (메가박스 ─ 이벤트 ─ 영화)]]></title>
