@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 08:28:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 09:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,22 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/19/eoLLB28I0A7KiyJegZdBEqbgUs3H12qz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<우리가 말하지 않은 것> 개봉기념 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.01 ~ 2022.09.15]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/29/wzNvEgnfTaJ9JAqsLWdUUc1DM1rnWjIh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<사랑할 땐 누구나 최악이 된다> 2주차 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.01 ~ 2022.09.15]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/29/btIwhTXfr8H57BzHNpkqMmhrXcQS0h6t.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<육사오(6/45)> 2주차 현장증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -38,6 +54,22 @@
             <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.01 ~ 2022.09.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/29/AKRMMhllnQiiOnvUOS1DtcARPsrlvONO.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<썬다운> 개봉기념 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.31 ~ 2022.09.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/29/wSZxj9r6nQ5dondiuZBAE9EPIzENS80L.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<K클래식 제너레이션> 개봉기념 현장증정이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.31 ~ 2022.09.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/29/fsbc7MyXHCD9sFN1dW2mJvww1mQLNoy7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<리미트> 메가박스 관람인증 이벤트]]></title>
