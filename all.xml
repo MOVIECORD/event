@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 02:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 04:46:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,6 +182,14 @@
             <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.29 ~ 2022.09.01]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/29/8mAVwz5Ii2fbczsvHwoTgqifenEpi2PM.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[블랙폰] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.29 ~ 2022.08.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/29/oAunh3VQD6M2NTqJBAY74bNtsGZiiKEZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[8월 심리학 읽는 영화관 <카모메 식당> (메가박스 ─ 이벤트 ─ 영화)]]></title>
