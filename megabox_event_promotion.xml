@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 제휴 할인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 14:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 15:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Thu, 25 Aug 2022 12:41:58 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.22 ~ 2023.02.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/19/Xrp5Tofqsk1VhCZhJKfyuUjmtO9nVbVi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KT멤버십X메가박스] 8월 '나의 초이스' 싱글콤보 2천원 구매]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Thu, 25 Aug 2022 12:41:58 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.16 ~ 2022.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/10/lCVRWpdteP7WwfyTIXUZYpILrbV24dFR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[H.PointX메가박스] H.point 회원대상 제휴 프로모션]]></title>
