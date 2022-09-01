@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 제휴 할인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 23:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 02:05:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[메가박스X더쎈카드] 내 카드 할인혜택 확인하고 관람권 받자!]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.01 ~ 2022.10.02]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/31/909iTayNX1oU4H8mtnXSxS2OSEhndi3m.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게토PC방 X 메가박스] 게토PC방 영화예매 런칭 프로모션]]></title>
             <link>https://www.megabox.co.kr/event/promotion#</link>
