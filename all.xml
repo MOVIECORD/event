@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 05:53:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 06:35:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -326,6 +326,14 @@
             <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.13 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/13/3w6ABBRMHicw97H14io99blRvZF6jV9Q.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[코엑스] 스타벅스RTD 콜드브루 돌체 증정 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.01 ~ 2022.09.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/01/c6niuKWjDqE5CMJ2gl3afnTehyGAXTUc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대구이시아] 제 11회 스웨덴영화제 (메가박스 ─ 이벤트 ─ 극장)]]></title>
