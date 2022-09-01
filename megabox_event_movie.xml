@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 14:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 15:26:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,14 +136,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/26/bVw5erV0dK35dYWjJ8HYz1AmbaRwzpZ0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[공조2: 인터내셔날] 선착순 빵원티켓]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.29 ~ 2022.09.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/29/8mAVwz5Ii2fbczsvHwoTgqifenEpi2PM.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[<한산 : 용의 출현> 라스트특가 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -222,30 +214,6 @@
             <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.18 ~ 2022.09.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/16/BU92Xdcq0Axl0m1Tme70oObNuHQvNFOv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<멋진 세계> 2주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.18 ~ 2022.09.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/17/4s88cnfqV6JtdNs1mddPpdN4SAXWvkzL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<썸머 필름을 타고!> 5주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.18 ~ 2022.09.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/16/fGo9sWoaeQheZ9MVWvLWEayuQX6gto3g.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<풀타임> 개봉기념 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.18 ~ 2022.09.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/16/lHH9mr6fbw749BzLJcMkz9SIi4L6nbcd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 심리학 읽는 영화관]]></title>
