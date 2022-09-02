@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 08:28:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 09:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[편안한 연휴에 필수! 추석 대피소 MGBX (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.02 ~ 2022.09.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/02/Cf0DBFGnV4R2JX4UyKbY94JszYQGSDZt.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코카-콜라 굿즈와 함께 여름 휴가를 준비하세요! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
@@ -78,6 +86,22 @@
             <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.09 ~ 2022.09.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/02/qgjLu0FIjoLOCLNckF6rDKGEZDrk0Hoa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<다 잘된 거야> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.07 ~ 2022.09.21]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/02/P7PcndR0lwnWtER28fo3ByNUnhfj2OvX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<공조 2 : 인터내셔날> 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.07 ~ 2022.09.07]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/02/ZzStHmNA5nDsPDmYf1kN8XnqNYJUiyeg.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[워너 필름 소사이어티 기획 상영전 & 스페셜 패키지 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -918,6 +942,14 @@
             <pubDate>Thu, 25 Aug 2022 12:42:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.03 ~ 2022.09.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/25/XoV7OJaaGmpNoaFIYmagTd13O2iCBJ6w.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<인생은 아름다워> 메가박스 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:42:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.01 ~ 2022.09.18]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/02/utr3KPvWMkHniphzM4NH7WVtaR80uoBB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<둠둠> 필름소사이어티 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
