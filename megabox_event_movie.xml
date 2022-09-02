@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 14:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 15:23:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,14 +78,6 @@
             <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.02 ~ 2022.09.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/02/XSx4ITnvyIF1iL6XKBNqhupbmIvIkpVX.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<9명의 번역가> 황석희 번역가 X 민용준 기자 스페셜 GV]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.02 ~ 2022.09.02]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/19/eoLLB28I0A7KiyJegZdBEqbgUs3H12qz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<우리가 말하지 않은 것> 개봉기념 현장증정 이벤트]]></title>
