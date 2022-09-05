@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 23:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 02:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.09 ~ 2022.09.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/02/qgjLu0FIjoLOCLNckF6rDKGEZDrk0Hoa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<공조2: 인터내셔날> 개봉기념 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.07 ~ 2022.09.21]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/05/2xgsnV1XqU0A8g6cDdBABemWkUmYOqa6.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<다 잘된 거야> 개봉기념 현장증정 이벤트]]></title>
