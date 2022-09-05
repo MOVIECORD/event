@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 04:50:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 06:06:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/02/qgjLu0FIjoLOCLNckF6rDKGEZDrk0Hoa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<헌트> 스페셜 특가 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.07 ~ 2022.10.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/05/TrPd3sWdQTz59DKY7jAmu67wB3IoOaE9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<썬다운> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -120,6 +128,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/02/P7PcndR0lwnWtER28fo3ByNUnhfj2OvX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<쥬라기캅스 극장판: 공룡시대 대모험> 관람인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.07 ~ 2022.09.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/05/XuEgKob7Opwl3ExmrNkEoftM7AttKBya.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<성적표의 김민영> 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -142,6 +158,14 @@
             <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.06 ~ 2022.12.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/31/WuuAhgoqmuU6hX6fWXJDXNuETcPfm0mN.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<육사오> 앵콜 LAUGH ALONG 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.05 ~ 2022.09.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/05/1pdv8NyYsRV3GiCAb1XietWuraNEgXZx.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[아트나인과 함께 하는 <말아> 시네마구구 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -910,6 +934,14 @@
             <pubDate>Thu, 25 Aug 2022 12:42:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.10 ~ 2022.09.10]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/01/YMkMOuSDueyZ8y46ZH6qbQ3XHqtKySr4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<공조 2 : 인터내셔날> 개봉일 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:42:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.07 ~ 2022.09.07]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/05/TjyJIiIKbEsYvzroYHzHWMqV8dQtOkgR.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<인생은 아름다워> 메가박스 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
