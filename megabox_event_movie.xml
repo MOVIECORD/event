@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 02:24:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 04:57:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,12 +56,36 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/02/qgjLu0FIjoLOCLNckF6rDKGEZDrk0Hoa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<성적표의 김민영> 개봉기념 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.08 ~ 2022.09.22]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/06/e4SazbeeLjeh6J2Z7dgtRTPCXsCkLnLd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<한여름밤의 재즈> 개봉기념 현장증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.08 ~ 2022.09.22]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/05/AN6SdovE0xghDeSeuKBwjBF7t6RrWA8U.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<아라시 20주년 투어 콘서트 5X20> 2주차 현장 경품 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.08 ~ 2022.09.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/06/UzotY26FfGHjFgvWBEmieXLvzT9klQhd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<성적표의 김민영> 골든벨 뱃지 증정 특별 회차]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.08 ~ 2022.09.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/06/aPGjeF06a7SfzzigeSSWICqjEtUu9wDI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<헌트> 스페셜 특가 이벤트]]></title>
@@ -142,6 +166,14 @@
             <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.06 ~ 2022.12.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/31/WuuAhgoqmuU6hX6fWXJDXNuETcPfm0mN.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<헌트> 400만 돌파 기념, 돌비 시네마 5천원 할인 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.06 ~ 2022.09.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/06/LuTzupyOVYOE8IdqIEvl1nTUqSlanYKd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아트나인과 함께 하는 <성적표의 김민영> 시네마구구]]></title>
