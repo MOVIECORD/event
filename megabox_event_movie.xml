@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 02:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 04:59:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[9월 심리학 읽는 영화관 <실버라이닝 플레이북>]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.26 ~ 2022.09.26]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/07/RKUxVrvK62J6GXWpP06JcKe0VhoPj3ud.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<워너 필름 소사이어티> 기획 상영전 스탬프 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
