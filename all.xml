@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 06:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 07:44:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,6 +150,14 @@
             <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.08 ~ 2022.09.22]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/05/AN6SdovE0xghDeSeuKBwjBF7t6RrWA8U.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<극장판 엄마 까투리: 도시로 간 까투리 가족> 메가박스 관람인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.08 ~ 2022.09.18]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/07/yeq5nuuYbAq69hCjN0FFOHEbunaSQxYz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<아라시 20주년 투어 콘서트 5X20> 2주차 현장 경품 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -464,6 +472,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/25/7zZ6qwJ8G8NAc5TFm39KqyKOmsT4BAxF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[경기남부지역] 선호지점 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.01 ~ 2022.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/07/fEXvv2t1tIBaWtTbClFMsxzDuTxUTEKX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[부산대,사상] '영팝 패키지’ 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -478,6 +494,14 @@
             <pubDate>Thu, 25 Aug 2022 12:41:42 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.01 ~ 2022.12.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/01/XOp0o7YD9EWCSpUcJG2STHL5b6ddH1oM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대구신세계] 동돌비 패키지 런칭! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.23 ~ 2022.10.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/07/NxWZ7QeXq1oEmCpFkBKZfqtfgLcJLqCj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대구이시아] 롯데아울렛 구매 영수증 제시하면 (메가박스 ─ 이벤트 ─ 극장)]]></title>
