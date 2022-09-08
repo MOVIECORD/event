@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 14:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 15:25:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,14 +208,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/06/UzotY26FfGHjFgvWBEmieXLvzT9klQhd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<성적표의 김민영> 골든벨 뱃지 증정 특별 회차 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.08 ~ 2022.09.08]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/06/aPGjeF06a7SfzzigeSSWICqjEtUu9wDI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<헌트> 스페셜 특가 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -288,14 +280,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/06/LuTzupyOVYOE8IdqIEvl1nTUqSlanYKd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아트나인과 함께 하는 <성적표의 김민영> 시네마구구 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.06 ~ 2022.09.08]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/05/wWP9rhQoUYmOMZy2kvUMk2Xf85DiUt3e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<육사오(6/45)> 스페셜 4천원 할인쿠폰 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -336,14 +320,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/25/s5keNUDaUEe8CxNDvzlf0Rn8rJkVvHMe.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[특별 연속상영] "외계+인" 1부 & "헤어질 결심" 몰아보기 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.01 ~ 2022.09.08]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/29/AKRMMhllnQiiOnvUOS1DtcARPsrlvONO.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[<파라다이스 하이웨이> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -382,30 +358,6 @@
             <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.27 ~ 2022.09.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/25/Pq7IzIVePZiIFDZtTR8dpgU0U7EyJubE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<엔젤 하트> 개봉기념 렌티큘러 엽서 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.25 ~ 2022.09.08]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/22/JFe5dCxeMG4N2o8u2zmznRNEjbOzOP8w.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<사랑할 땐 누구나 최악이 된다> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.25 ~ 2022.09.08]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/22/M84RvwFi5td2dX5Lw9NoB8DDKJvmvGqf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<뱅크시> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.18 ~ 2022.09.08]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/16/BU92Xdcq0Axl0m1Tme70oObNuHQvNFOv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 심리학 읽는 영화관 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1086,14 +1038,6 @@
             <pubDate>Thu, 25 Aug 2022 12:42:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.01 ~ 2022.09.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/02/utr3KPvWMkHniphzM4NH7WVtaR80uoBB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<둠둠> 필름소사이어티 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Thu, 25 Aug 2022 12:42:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.23 ~ 2022.09.08]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/23/nARrapzvYjbnr1FavYEmAoshJpuR4seS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시사회, 이벤트 당첨 확률 올리는 법 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
