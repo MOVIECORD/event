@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 14:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 15:24:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,14 +142,6 @@
             <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.09 ~ 2022.09.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/05/5ACGfrNuLXZRbPpCk9wHQCyQTyTczSyJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2nd 무비올나잇] 추석연휴 심야 연속상영 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.09 ~ 2022.09.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/02/qgjLu0FIjoLOCLNckF6rDKGEZDrk0Hoa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<성적표의 김민영> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -848,14 +840,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/19/Xrp5Tofqsk1VhCZhJKfyuUjmtO9nVbVi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[H.PointX메가박스] H.point 회원대상 제휴 프로모션 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Thu, 25 Aug 2022 12:41:58 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.12 ~ 2022.09.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/11/Jy87EEUfMICzBlRph1xAuqhTAvNUlQ5g.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[내 차 보험료 확인하고 영화 1만원 할인쿠폰 받으세요! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
@@ -998,14 +982,6 @@
             <pubDate>Thu, 25 Aug 2022 12:42:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.11 ~ 2022.09.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/02/xPZLW5mfCdOoAnlEP1aJK4Vm9lyDVarj.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<육사오> 추석맞이 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Thu, 25 Aug 2022 12:42:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.11 ~ 2022.09.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/07/NVktC5cH2xedDjmvqmPRHM0okgB0yTIj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<정직한 후보2> 메가박스 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
