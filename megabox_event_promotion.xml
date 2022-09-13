@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 제휴 할인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 23:26:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 02:22:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 25 Aug 2022 12:41:58 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.18 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/05/hJ4pNRGMutomAaucRjyj0ganFC3yUGOg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KT멤버십X메가박스] 9월 '나의 초이스' 8천원 영화관람]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.13 ~ 2022.09.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/13/dDubiciLporCCMBE86su4OO38KgMqgXo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[휘닉스제주X메가박스] 휘닉스제주 이용하고 영화 티켓 받자!]]></title>
