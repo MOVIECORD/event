@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 23:25:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 02:28:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,12 +120,36 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/06/uNPjFSDsXgQAkck9pfocaVLww4FdMchl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<쥬라기캅스 극장판: 공룡시대 대모험> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.15 ~ 2022.09.29]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/15/rFjdyP5oQMp8sGWYQmSONk7ISZzcvnX3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<성적표의 김민영> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.15 ~ 2022.09.29]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/15/EajgTXkEoDetBfyjkXrAJgeKkeIkOFfu.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<다 잘된 거야> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.15 ~ 2022.09.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/13/Zg5470Ej1aEgct4Ev3M2f5xfuFTwTdjH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<홈리스> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.15 ~ 2022.09.29]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/13/2WDmnupFQ2o3iNEy09XUgrYmqoTsUhFv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<사랑할 땐 누구나 최악이 된다> 4주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -166,6 +190,22 @@
             <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.15 ~ 2022.09.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/14/X9zuAbJFITkoKFYx3xg6sSIZJbwltipW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[육사오(6/45)]앵콜! 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.15 ~ 2022.09.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/15/jebXWUFOTVdqtRI9XTOssDqmGNeaw5LU.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[공조2: 인터내셔날] 앵콜! 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.15 ~ 2022.09.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/15/NTviRRuDqNzVp63hV11THmPK11vwJStk.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<헌트> 직장인 할인 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -398,6 +438,22 @@
             <pubDate>Thu, 25 Aug 2022 12:41:42 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.05 ~ 2022.09.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/07/uZ2HHEAd2IRjR7Az75K7JCaPwEgrnce3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[마곡, 화곡] 청소년 누구나 영화 3천원 할인 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.01 ~ 2022.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/15/OB8XSsVqSpEAsgQANNKAiYJTsEJUC2Xl.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대구신세계] 대구신세계에서 즐기는 풀코스! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.01 ~ 2022.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/15/qj0YePlDrcBVjUp1MQMjk5MTWbqdWjRM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[경기남부지역] 선호지점 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -982,6 +1038,14 @@
             <pubDate>Thu, 25 Aug 2022 12:41:58 GMT</pubDate>
             <content:encoded><![CDATA[2015.01.06 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/11/11/7zZFIneF9efbrMAybQh2NRAxkvTdfTD5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<공조 2 : 인터내셔날> 2주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:42:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.17 ~ 2022.09.18]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/15/Fgil3VtlANapqpYp8S24kI64F6vDAhSY.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<인생은 아름다워> 개봉 전 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
