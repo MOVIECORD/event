@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 04:41:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 05:46:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1078,14 +1078,6 @@
             <pubDate>Thu, 25 Aug 2022 12:42:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.01 ~ 2022.09.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/02/utr3KPvWMkHniphzM4NH7WVtaR80uoBB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시사회, 이벤트 당첨 확률 올리는 법 (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/10382475</link>
-            <guid>https://extmovie.com/sisaing/10382475</guid>
-            <pubDate>Thu, 25 Aug 2022 12:42:28 GMT</pubDate>
-            <content:encoded><![CDATA[시사회,예매권,경품등 통합해서 당첨확률을 올리는 팁입니다 일단 당첨자 비율 -...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/475/382/010/295x295.crop.jpg?20220906150101" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
