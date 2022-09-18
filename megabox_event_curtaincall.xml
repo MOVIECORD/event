@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 14:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 15:24:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,22 +14,6 @@
             <pubDate>Thu, 25 Aug 2022 12:42:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.24 ~ 2022.09.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/16/ZEydO0eDRYJPPCidF7wti6lRUMG6IWhd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<공조 2 : 인터내셔날> 2주차 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Thu, 25 Aug 2022 12:42:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.17 ~ 2022.09.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/15/Fgil3VtlANapqpYp8S24kI64F6vDAhSY.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<인생은 아름다워> 개봉 전 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Thu, 25 Aug 2022 12:42:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.17 ~ 2022.09.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/13/iKr3As1x2XuIleX4y58Kl5TgGzpx8BCI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<성덕> 메가박스 회원 시사회]]></title>
@@ -54,14 +38,6 @@
             <pubDate>Thu, 25 Aug 2022 12:42:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.15 ~ 2022.09.21]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/15/p0thUXvkk6eOnXgySNlCnVOxD7783E84.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<인생은 아름다워> 메가박스 회원 시사회]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Thu, 25 Aug 2022 12:42:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.01 ~ 2022.09.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/02/utr3KPvWMkHniphzM4NH7WVtaR80uoBB.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
