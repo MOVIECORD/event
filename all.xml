@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 07:43:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 08:34:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메가박스 오리지널 티켓 Re.13 <사랑은 비를 타고> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.21 ~ 2022.10.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/19/x6xY9HK3It2IrDup8lFLupXIKbzqa3mU.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dolby cinema Collection (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
@@ -120,6 +128,22 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/16/O5Xy3eKEeUp02R0lG0frBDAdDNfsykM6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<썬더버드> 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.24 ~ 2022.09.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/19/FoBZ6EIHqQx6kxWrfCczAhhtnEDnrt7v.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<둠둠> 2주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.22 ~ 2022.10.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/19/pKIFxBVczieuzD3bRfmm0mFPVStFgEyK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<사랑할 땐 누구나 최악이 된다> 추억 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -142,6 +166,14 @@
             <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.21 ~ 2022.12.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/07/kHD7UJluHHW9xdxqO5GojJkqKjYsYj7a.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<썬더버드> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Thu, 25 Aug 2022 12:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.21 ~ 2022.10.05]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/19/1elKIivlPbeQrjN4j06WNxUzeVvIYNYT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<프린세스 아야> 현장 경품 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
