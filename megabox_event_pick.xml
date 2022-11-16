@@ -1,8 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.megabox.co.kr/event/megabox</id>
-    <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
-    <updated>2022-11-16T16:31:52.267Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.megabox.co.kr/event/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:27:57 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수능 끝! 새로운 시작 응원해📣]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.17 ~ 2022.12.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/15/JcDh1HJOEcZljVEdkuOKVuMLP3f2hUgv.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[사운드 맛집 메가박스 [S-FREQUENCY]]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.16 ~ 2022.12.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/14/lHdmBAbuUviMlT7H5CgPqLepGbEqf3kj.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 라이프 다이어리 2023]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.15 ~ 2023.01.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/15/ZKqpdfvzpECFQoinsFeFYPUmCxE1jObn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<블랙팬서: 와칸다 포에버>프로모션 콤보 출시]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.08 ~ 2022.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/08/SUSXKucNLV9J0olV3uHFgFK0hEWBGcd0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 오리지널 티켓 Re.14 <브이 포 벤데타>]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.31 ~ 2022.11.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/31/vLU8ezppmJ8X6F23pobMXYsRYjHxsydp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유자티와 함께 타르트 한조각!]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.28 ~ 2023.01.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/28/9mOIrHUmlUjf2VzfFAYPzDF0rLNpIiS1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BlackBlue in your area! 블랙&블루 스탬프 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.21 ~ 2022.12.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/21/Ihbx0DDbHHgVZWweWxTHyfBNdqxwELsV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찾았다! 우리동네 메가박스!! 카카오친구하고 할인쿠폰 받자!]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.21 ~ 2022.11.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/21/6a0ezdXpi7c2rbaMS3Bv7dX6n9guxpjm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 오리지널 티켓 No.63 <블랙 아담>]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.17 ~ 2022.11.18]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/17/PKWvY757E0Skl21KuVE78UkbbiDWVqcb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 오리지널 티켓 No.61 <오펀: 천사의 탄생>]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.11 ~ 2022.11.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/11/ZpUHSYTQV7vtddqEcGNodRrcKKerk5mk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예지미인X메가박스] 그날에 당황하지 말고 PINK BOX]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.07 ~ 2023.09.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/07/aVPaBWnnV3du3eA0WwccH3xMWqCszU8k.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나도 영화 평론가! 관람평 쓰고 포인트 받자!]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.01 ~ 2022.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/12/TtrOuwC2fcCU0gOxIcP6Zg0cn31pYmNG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 오리지널 티켓북 시즌2]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.25 ~ 2022.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/25/GwvH6olIa1O7OBMu6yhvDrSwLwGNJtyT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[✌ 2022년 VIP 회원 혜택 안내 ✌]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.02 ~ 2023.02.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/23/QWWvsW0WkOVVckXmtBR45QbkfvmUtBkJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[VIP제휴혜택] 2022 교보문고 & 핫트랙스 특별 제휴 안내]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.01 ~ 2023.02.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/03/08/6H8FMDOaAsy1LX4uA9TJlso9nOMWH3z5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신규 & 휴면회원 만반잘부! 모두 혜택 받아가세요]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.01 ~ 2022.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/14/ACdDJx36kS3ytWbf8JuflttgFwbvJ0Mt.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
