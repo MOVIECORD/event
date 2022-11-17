@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 06:27:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 07:19:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.10.21 ~ 2022.11.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/21/6a0ezdXpi7c2rbaMS3Bv7dX6n9guxpjm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[신규가입 이벤트] WELCOME TO MGBX 🎉]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.17 ~ 2022.11.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/17/7NKC5Fxmi81LiIy0hOqdUMLdYstJCq5Y.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 No.63 <블랙 아담>]]></title>
