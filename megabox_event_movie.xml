@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 03:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 04:26:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.24 ~ 2022.11.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/16/j5ikgUaJdelHoHlQhrgq2QAsiFmoUhUs.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<양자경의 더 모든 날 모든 순간> 대사집 증정 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.23 ~ 2022.11.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/17/61GrV3XoJTQUa3VI703yS6zWOegzmvfy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<데시벨> 개봉주말 현장증정 이벤트]]></title>
