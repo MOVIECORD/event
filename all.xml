@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 14:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 15:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.10.17 ~ 2022.11.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/17/7NKC5Fxmi81LiIy0hOqdUMLdYstJCq5Y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 오리지널 티켓 No.63 <블랙 아담> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.10.17 ~ 2022.11.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/17/PKWvY757E0Skl21KuVE78UkbbiDWVqcb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 No.61 <오펀: 천사의 탄생> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -240,14 +232,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/16/rGgsa4BsNKbK81BLVrRlqa507dl2QZEd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<양자경의 더 모든 날 모든 순간> 이동진 평론가 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.18 ~ 2022.11.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/15/BNw8StESSHqBNZ4uEh1Dkdx9Das3cqPr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<프레이 포 더 데블> SNS 기대평 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -294,22 +278,6 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.17 ~ 2022.11.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/15/sKXiZbKlXb0DTIzdaLbNIlNksx47OChp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[동감]앵콜! 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.17 ~ 2022.11.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/16/uk3eJIEFd6sCpKUtsu4MPBcAhGLlB75R.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[올빼미]앵콜! 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.17 ~ 2022.11.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/15/MCoHuDF16smYQRyjlR2AauCBwftEdYQx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<엑소시스트> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
