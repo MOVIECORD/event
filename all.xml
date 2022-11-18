@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 05:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 06:27:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -222,6 +222,14 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.19 ~ 2022.12.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/15/M6c6NlnoA1mfoqFkYqeSIKaYYKgwXQv2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트나인과 함께 하는 <창밖은 겨울> 시네마구구 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.18 ~ 2022.11.29]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/18/QxDZrvXRTASWOmnRtrcrKJrNjKdAbSAS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블랙 팬서: 와칸다 포에버] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -486,6 +494,14 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.13 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/13/3w6ABBRMHicw97H14io99blRvZF6jV9Q.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SSG 랜더스 KBO 통합 우승] 우승의 땅에 내린 메가 축복! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.18 ~ 2022.11.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/18/WWbwzWVrtFh2he4MnMcvJ6vfx2TaugFE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[강동] 강동점 선호지점 하면 음료가 나온다! (메가박스 ─ 이벤트 ─ 극장)]]></title>
