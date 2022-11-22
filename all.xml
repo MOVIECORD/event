@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 01:50:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 03:14:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/16/Vidhwhle2J9Un2YePbkBwXSLQRKhbwtr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<요정> 굿즈 증정 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.03 ~ 2022.12.03]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/22/8ki5l545AJXS3pYhPhwD9i2h8c22TPfj.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<우수> 정성일 평론가 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -182,6 +190,14 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.25 ~ 2022.11.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/17/jCGtcmAFqwC27CuMTin368Gvj4rrqvzq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<창밖은 겨울> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.24 ~ 2022.12.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/22/YZSk7opKTsfuQMgW4VKa7jRNn147m0Ud.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<우수> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
