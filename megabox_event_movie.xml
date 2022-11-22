@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 23:23:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 01:50:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.28 ~ 2022.11.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/17/QhIN7z9M1CgRDxPMAee0M1WW5ThpXCca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<헤이지니&럭키강이 비밀의 문> 개봉 전 유료 시사회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.26 ~ 2022.11.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/22/WJkYRbDa4hd9f3VX2cfNvjDfDB8r0wpt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<오늘 밤, 세계에서 이 사랑이 사라진다 해도> 굿즈패키지 상영회]]></title>
@@ -88,6 +96,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/21/3vjD9lHPoLfU6jejFRZItkG849CiWO3A.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<극장판 유루캠△> 5주차 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.24 ~ 2022.11.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/22/fAv692Pfyy3m9xKxwyVvW2goAQVqzqRb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022 프랑스 영화주간 상영 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -118,6 +134,14 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.23 ~ 2022.12.07]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/21/7EhUl1CQIYRug7t1w2vKDLyEax0aJaA7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[압꾸정] 선착순 빵원티켓 ➕]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.23 ~ 2022.11.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/21/6wmfJpBYR9efrYnE24AdWTkYKB8zuj6k.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[데시벨] 선착순 빵원티켓 ➕]]></title>
