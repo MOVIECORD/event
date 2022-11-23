@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 01:39:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 03:06:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.24 ~ 2022.12.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/23/5OusHG99HtcVECri119s4lAjFMrGUAd6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[정관] 당첨률 100%! 영화보고 관람권 받자!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.01 ~ 2023.01.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/23/lLOLYKjhh1AYj2W02iGYRI7vXRM4anwO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[금정AK플라자, 용인기흥] 우리모두 용기내!]]></title>
@@ -134,6 +142,14 @@
             <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.02 ~ 2022.11.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/06/rmxHDcAYmlLLp5TEHmeMg41GPZ1WXj20.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[마산, 창원, 창원내서] 이마트 마산점 제휴 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.01 ~ 2022.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/23/13kI0Mwra3K392byoeTevW4Z9B6DG5A7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[구미강동] 구미 다둥e카드 이벤트]]></title>
