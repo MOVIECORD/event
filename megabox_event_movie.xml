@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 14:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 15:21:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/21/3vjD9lHPoLfU6jejFRZItkG849CiWO3A.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아트나인과 함께 하는 <창밖은 겨울> 예매 경품 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.24 ~ 2022.12.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/22/JBbEgkMbvH3yv6LP2DziihXEzJGbJh6Q.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<극장판 유루캠△> 5주차 현장증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -200,22 +208,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/21/ZYYZcmXImQ4FvuQeVBQOTUwLHse8ip8C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<양자경의 더 모든 날 모든 순간> 대사집 증정 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.23 ~ 2022.11.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/17/61GrV3XoJTQUa3VI703yS6zWOegzmvfy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[동감]앵콜! 선착순 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.22 ~ 2022.11.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/16/uk3eJIEFd6sCpKUtsu4MPBcAhGLlB75R.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<데시벨> 개봉주말 현장증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -270,14 +262,6 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.17 ~ 2022.11.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/16/4Uh6r81Z1SnZgaHZK3DSLrn34sZGzbUu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 유루캠△> 4주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.17 ~ 2022.11.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/15/sKXiZbKlXb0DTIzdaLbNIlNksx47OChp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<엑소시스트> 개봉기념 현장증정 이벤트]]></title>
@@ -342,22 +326,6 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.10 ~ 2022.11.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/07/hpRkEGTQxT3tJ2nsfIXy9s6wwSHwUfVg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트나인과 함께 하는 <같은 속옷을 입는 두 여자> 예매 경품 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.10 ~ 2022.11.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/08/GoP6VRgciG7PMSumoieiXfWeUfF0r5RZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<블랙 팬서: 와칸다 포에버> 오리지널 굿즈 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.09 ~ 2022.11.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/28/P7685tEXtIbrTgiC3cbqiWFg7ntSYFVq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<블랙 팬서: 와칸다 포에버> N차 관람 이벤트]]></title>
