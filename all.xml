@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 06:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 07:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -176,6 +176,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/23/2qQ9dWow7i2V04nJbxRchFsm8ei8lQjY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[극장판 가면라이더: 세이버X젠카이저 슈퍼히어로 전기] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.28 ~ 2022.11.29]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/23/asAYPQwVGudzm1cLIv35hWTeNUGdun4t.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[11월 심리학 읽는 영화관 <그녀> (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -214,6 +222,14 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.26 ~ 2022.11.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/15/P8PefIcN2b5Tpdx788FQ3tg2ER3ZjDkY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<데시벨> 메가박스 N차관람 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.25 ~ 2022.12.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/24/oG0YrYBKG3d7GiBEWjK0Rxuje4bsDfQO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[탄생] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
