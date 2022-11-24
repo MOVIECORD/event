@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 08:25:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 09:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.29 ~ 2022.11.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/23/2qQ9dWow7i2V04nJbxRchFsm8ei8lQjY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오늘 밤, 세계에서 이 사랑이 사라진다 해도] 선착순 빵원티켓 ➕]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.28 ~ 2022.11.29]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/24/CiVbuIenPRbYT5yrKF8oQtHZt4D93XxC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[극장판 가면라이더: 세이버X젠카이저 슈퍼히어로 전기] 선착순 빵원티켓 ➕]]></title>
