@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 08:26:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 09:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,14 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.07 ~ 2022.12.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/16/Vidhwhle2J9Un2YePbkBwXSLQRKhbwtr.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<올빼미> 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.05 ~ 2022.12.05]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/29/6zgvKnYGMO7oPK0R07e7k1EK2DYaKOSB.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<그 겨울, 나는> 개봉기념 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
