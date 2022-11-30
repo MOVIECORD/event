@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 23:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 01:38:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -550,6 +550,14 @@
             <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.24 ~ 2022.12.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/23/5OusHG99HtcVECri119s4lAjFMrGUAd6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[부산경남지역] 부산 경남 직영점 관람권 패키지 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.01 ~ 2023.05.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/30/Bdlz1tYmptA59VOeHJNFEcRTUVM06767.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[정관] 당첨률 100%! 영화보고 관람권 받자! (메가박스 ─ 이벤트 ─ 극장)]]></title>
