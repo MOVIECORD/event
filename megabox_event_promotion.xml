@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 제휴 할인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 14:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 15:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,22 +30,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:33 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.18 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/05/hJ4pNRGMutomAaucRjyj0ganFC3yUGOg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KT멤버십X메가박스] 11월 '나의 초이스' 영화 3천원 영화관람]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.14 ~ 2022.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/14/KhNpfnxBwGpoulVQQ85QwwcbGHamwJse.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[삼성페이X메가박스] 멤버십 등록 + 티켓 담고 다양한 혜택 받으세요!]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022.10.17 ~ 2022.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/17/rE1UGlldvtA2gNbtkyNdrtXWK8VNtxht.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대한항공X메가박스] SKYPASS 회원 할인 프로모션]]></title>

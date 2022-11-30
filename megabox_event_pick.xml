@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 14:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 15:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.10.21 ~ 2022.12.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/21/Ihbx0DDbHHgVZWweWxTHyfBNdqxwELsV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찾았다! 우리동네 메가박스!! 카카오친구하고 할인쿠폰 받자!]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.10.21 ~ 2022.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/21/6a0ezdXpi7c2rbaMS3Bv7dX6n9guxpjm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예지미인X메가박스] 그날에 당황하지 말고 PINK BOX]]></title>

@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 14:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 15:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,14 +48,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/23/Qw1ayNgKciQi6INT3oNwaHmzp6jaq4sx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[강동] 강동점 선호지점 하면 음료가 나온다!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.23 ~ 2022.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/16/km6ktyDQDrBq8ESrRoLQEiJ0AheCEf7l.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[코엑스] 만원의 행복!]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -96,14 +88,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/16/uRQgTtV3XFfBuFWlUSaK3WUw789K01FQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[의정부민락] 시네마캐슬 포토월 SNS 인증 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.10 ~ 2022.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/16/ytaC0UpRKBemOyyyoaEqwxastAY6VfKB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[청라지젤] 청소년 대상 영화 할인 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -112,44 +96,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/09/SDTJkgE5Ei60LAXamkqhZ5gYM9SBVdNt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[남양주] 리뉴얼 기념  모든 콤보 5,000 할인!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.09 ~ 2022.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/09/zALiiu6MwgmOSKLeHRr8eNyjbidkLvXK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[코엑스] 이비스 스타일 강남점과 1+1 둘이서 패키지]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.08 ~ 2022.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/08/srT8U2FYs04BAtYa6rABml7RP4Eg9rdv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[대구이시아] 청소년 누구나 할인!]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.02 ~ 2022.12.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/02/bmTK6b71boXGsZ763450GZtRmU7DB3Xo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[고양스타필드, 상암월드컵경기장] 손흥민음료ORS 선착순 빵매 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.02 ~ 2022.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/02/xlOD82htVkdPzlOluJiyIGi3pcB9jlRE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[덕천]  보고 또 보고~]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.02 ~ 2022.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/06/rmxHDcAYmlLLp5TEHmeMg41GPZ1WXj20.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[마산, 창원, 창원내서] 이마트 마산점 제휴 이벤트]]></title>
@@ -192,46 +144,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/22/utBXHnUuFs6mfQBvNNIDjxAULnyBjxmG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[동탄] Thanks Movie Day]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.01 ~ 2022.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/16/5ShEJgp9EEExJAiIhXeZBNg5s0WOKHyP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[금정AK플라자] 금정이가 추천하는 싱글세트]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.01 ~ 2022.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/09/q88o7JKkZUVz8GHtp0awyXEEgC0TVD3Y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[영종] 영화보고 투썸 할인 받고!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.01 ~ 2022.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/09/YOspYkxhT8wgPTyjtAN7GsTWUg9jHOhT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[전주혁신] 오픈 2주년 기념 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.01 ~ 2022.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/26/syowzsPi0Qbk3gRTQlftxtU7zTRWi2iR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[일산] 재방문 할인 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.01 ~ 2022.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/20/i8KVPFsYLQOfU5VntZ1zkDeUGjxxQ5yB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[강동] 영화 관람 후 팝콘 리필받자]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -248,52 +160,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/19/f5ByKSUtMcz7cHaT15C4zOubGZHhyowo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[파주운정] 재방문 할인 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.10.24 ~ 2022.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/26/BJP4teDSv12BvIioKMqt1R0a8tKilvrg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[목동] 또와! 페스티벌]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.10.20 ~ 2022.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/19/liQpHBIrgue7554RHAqfqXd30gRXkqrC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[부천스타필드시티] 더블카라멜팝콘 런칭]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
             <content:encoded><![CDATA[2022.10.19 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/02/BNiZcWN9PWdbjyBnVpHHnIyO1M5ZFfaf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[구미강동] 영화보면 팝콘 무료 증정]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.10.19 ~ 2022.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/02/2Xm0jjLaMB6jWzwvafJ8tUXCr2qQ1IM9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[광명AK플라자, 광명소하] 오직 광명에서만 즐기는 브런치 세트]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.10.19 ~ 2022.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/19/853sC4wF5Cc61H7VoQzibLNbVVdy1cjm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[별내] SNS에 방문인증만 하면 할인!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.10.12 ~ 2022.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/12/Kd2s6vrqsWXHb20E0FKPDXzMp4J6XKHf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대구이시아] 발코니 무비패스 5회권 런칭]]></title>
@@ -326,38 +198,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
             <content:encoded><![CDATA[2022.10.04 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/12/gAM3zCTGJqxwZpFTezRtd0ZmBLNvYJmm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[춘천석사] 춘천석사점 관람권 할인 패키지]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.10.02 ~ 2022.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/12/D4qxdzxvf2BK0dlHQH75Wo8tIwqzAfcb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[천안] 천안 대학생들에게만 드리는 특급할인!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.10.01 ~ 2022.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/12/3XspiMgpixzPxRdwG2xVc5m34iAkBsOo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대전중앙로] 영화 N차 관람 시 섭섭지 않은 혜택!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.26 ~ 2022.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/29/3pf5UU8e1DhAkPndINosmsLvkhef7PKm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대전유성] 유성점에서 영화볼때 마다 혜택이 N차로!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.21 ~ 2022.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/21/a9iXd6ZQ6MfWkVNkTT8eT3aU0GsK6q15.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[북대구(칠곡)] 외부주차장 이용시 영화 할인]]></title>
@@ -440,28 +280,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/01/XOp0o7YD9EWCSpUcJG2STHL5b6ddH1oM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[경기남부지역] 모바일오더 전용 할인 콤보 런칭]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.01 ~ 2022.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/07/tKSYzb5QBqEmoF9byxmWTKPHVc7Gsz4j.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[사상] 신라대학교 할인 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.30 ~ 2023.08.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/07/ovZJ1epW05CNadtkmI4rDyt6M50ytsE4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대구이시아] 롯데아울렛 구매 영수증 제시하면]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.22 ~ 2022.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/25/s1Vm6KT32KVS0dvMRhcn1viibhFbqqEl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[세종(조치원)] 월,화,수요일은 온라인예매하자!]]></title>
@@ -568,14 +392,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/25/dqNxzGSdzGA7YFC7p6Rb3PCmVL7KeDYQ.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[부산경남] 부산경남 직영점 관람권 패키지]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.01 ~ 2022.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/08/WuD9j1j3ttUFL3aF9ZNueckkRPyKgL01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[코엑스] 프로포즈 인 프라이빗]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -672,14 +488,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/05/2VQL8ng7J02knrnzwgSExUQZVgqyZdm3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<뉴욕 메트로폴리탄 오페라> 시즌 2022 라인업 (코엑스, 센트럴, 성수, 킨텍스, 분당, 목동)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.05 ~ 2022.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/05/sOJaxilAt6HbGjjwoXdTferKjpGQVzgZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[코엑스] SK텔레콤 임직원 영화 할인]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -750,14 +558,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.27 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/05/24/o0cHVKJPDqINwJaF28FBJkGKPlCrDaJO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[수원] 농협 임직원 제휴 할인 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.10 ~ 2022.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/12/AN3CpOSli9Kj3f4xiD2OFZO6XG2qhVA1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
