@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 08:27:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 09:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 16 Nov 2022 17:27:51 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.04 ~ 2022.12.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/29/CmR4sMmC4J4GF378jEfwaEQgNbJZFG7r.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<올빼미> 흥행감사 무대인사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.03 ~ 2022.12.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/30/mOME6C5i3DEn47SEAh6ren8OrHKuZxjV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<헤이지니&럭키강이 비밀의 문> 하이터치 무대인사]]></title>
