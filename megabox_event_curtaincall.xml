@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 03:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 04:25:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 16 Nov 2022 17:27:51 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.04 ~ 2022.12.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/29/CmR4sMmC4J4GF378jEfwaEQgNbJZFG7r.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<탄생> 개봉주 무대인사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.03 ~ 2022.12.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/01/1gsxXKF6RqPO3HCo5zvMiipYhlwtaGVf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<올빼미> 흥행감사 무대인사]]></title>
