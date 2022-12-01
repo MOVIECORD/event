@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 14:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 15:22:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -240,14 +240,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/23/EOKEtiZt33b6t6Hk1Rsr9FtjBgwn59M2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[데시벨] 선착순 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.30 ~ 2022.12.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/21/ZYYZcmXImQ4FvuQeVBQOTUwLHse8ip8C.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[클소토크] 라 보엠]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -350,30 +342,6 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.17 ~ 2022.12.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/15/5YLzXyYkRJUKvBuZTg1iWCmAr3z84C5A.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<트랜스> 개봉기념 현장증정이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.17 ~ 2022.12.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/16/QMfOe9SBaKGENvmO0cbTIcpX57e78Rks.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<파이어버드> 개봉기념 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.17 ~ 2022.12.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/15/cMQikxyAAZFZNztx6iksaOh0lpJ74m5o.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<알카라스의 여름> 3주차 현장증정이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.17 ~ 2022.12.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/15/yzYXErveS8xOhSszrAobiPiPLey3Vslj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<엑소시스트> 개봉기념 현장증정 이벤트]]></title>
