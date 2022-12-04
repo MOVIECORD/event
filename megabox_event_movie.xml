@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 14:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 15:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,14 +70,6 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.05 ~ 2022.12.05]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/29/6zgvKnYGMO7oPK0R07e7k1EK2DYaKOSB.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<그 겨울, 나는> 개봉기념 스페셜 GV]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.04 ~ 2022.12.04]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/28/5lu5ZSEmkE6ITSQ56nqGjvURANOJiRhJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<올빼미> 스페셜포스터 증정 이벤트]]></title>
@@ -270,14 +262,6 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.24 ~ 2022.12.07]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/21/3vjD9lHPoLfU6jejFRZItkG849CiWO3A.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트나인과 함께 하는 <창밖은 겨울> 예매 경품 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.24 ~ 2022.12.04]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/22/JBbEgkMbvH3yv6LP2DziihXEzJGbJh6Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<올빼미> 개봉기념 현장증정 이벤트]]></title>
