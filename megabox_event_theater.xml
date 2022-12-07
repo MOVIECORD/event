@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 06:24:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 08:24:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.14 ~ 2023.01.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/06/kcUNhg7quxWljwkv7rxwHnPSFRnmQuLt.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[대구경북지역] 포대 팝콘 출시!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.08 ~ 2023.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/07/pcZEERMpzPSs4Bkejvxh4cLiG5znNs2S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[더 부티크 목동현대백화점] H.POINT 신규가입하고 콤보 받자!]]></title>
