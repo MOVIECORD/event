@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 02:48:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 03:22:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,6 +150,22 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.10 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/29/9B0bBvn5Jx8RnnR3V8binpNXlb61S5Py.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<올빼미> 2023 달력 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.10 ~ 2022.12.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/08/dLNly4VU52shFDSID9QBBGtkcOEiK5yn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<원피스 필름 레드> 우타 라이브 영상 특별 상영 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.10 ~ 2022.12.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/08/lifBwLJVSDFzPCQLr4k0DthPGVhfwtLo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<헤이지니&럭키강이 비밀의 문> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
