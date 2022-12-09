@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 01:27:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 02:48:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,6 +126,14 @@
             <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.01 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/14/ACdDJx36kS3ytWbf8JuflttgFwbvJ0Mt.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[로열 발레] <호두까기 인형> 3명 이상 가족 관람 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.19 ~ 2023.01.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/08/6cEcmCFGetH1UIHKS17IfZVzXLKkSS3N.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[로열 발레] <호두까기 인형> 개봉 기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -525,7 +533,7 @@
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.07 ~ 2023.01.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/07/uOm9xhKHcVgHQeBPApIqMl9tKdRkzfcU.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/09/onz8DssrdM2rXIXYbdyJUk1Jdy1GCbHQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[포항지점] 오픈 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -533,7 +541,7 @@
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.01 ~ 2023.01.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/02/BCF3NMb1OGVyFBtuPoYY1bB7LVL3ixcC.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/09/Vib1JRJ5SkswFt7Jlp6Uw1OjUdAF5dPI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[수원호매실] 호매실에서 산타보고! 영화보고! (메가박스 ─ 이벤트 ─ 극장)]]></title>
