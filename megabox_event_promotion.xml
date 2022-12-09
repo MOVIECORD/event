@@ -4,17 +4,9 @@
         <title>메가박스 ─ 이벤트 ─ 제휴 할인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 23:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 01:27:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[해피포인트X메가박스] 더욱 강력해진 메가 해피 먼스]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.05 ~ 2022.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/05/oVNTrAYS7U00YEX8lASPKTxkQaZkbVL8.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[메가박스X더쎈카드] 더쎈카드 연말정산 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/promotion#</link>
@@ -38,6 +30,22 @@
             <pubDate>Wed, 16 Nov 2022 17:27:33 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.18 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/05/hJ4pNRGMutomAaucRjyj0ganFC3yUGOg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KTX메가박스] 3D 영화관람하고 풍성한 혜택 받으세요]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:27:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.12 ~ 2022.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/08/pDF3pgKqUtNld5W6UGgv9RdgHwczbjWA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[해피포인트X메가박스] 더욱 강력해진 메가 해피 먼스]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:27:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.05 ~ 2022.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/05/oVNTrAYS7U00YEX8lASPKTxkQaZkbVL8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대한항공X메가박스] SKYPASS 회원 할인 프로모션]]></title>
