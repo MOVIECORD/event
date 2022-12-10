@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Dec 2022 14:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Dec 2022 15:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,14 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.10 ~ 2022.12.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/07/CuMzOjGHzVjfbxKhT4OWzwb38MhzH8kZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<오늘 밤, 세계에서 이 사랑이 사라진다 해도> 앵콜 굿즈패키지 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.10 ~ 2022.12.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/21/07GVrrGz3IOhMOQyO5znv75zOj2yCK4o.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<탄생> 청년 2+1 관람 이벤트]]></title>
@@ -382,14 +374,6 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.29 ~ 2022.12.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/07/Ig4RAOpSDRvcKiFEujc83udxcxOgrlT2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<데시벨> 스페셜 포스터 현장 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.26 ~ 2022.12.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/15/Xievf3tULtAcORgs4KhKSNnpywb4lJbm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<데시벨> 메가박스 N차관람 이벤트]]></title>
