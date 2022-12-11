@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 14:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 15:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,14 +216,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/05/unDuBzcBts4WCX7KjMCQOMJHJ4DTQgDF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<신비아파트 극장판 차원도깨비와 7개의 세계> 개봉 전 유료시사회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.10 ~ 2022.12.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/07/CuMzOjGHzVjfbxKhT4OWzwb38MhzH8kZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<탄생> 청년 2+1 관람 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -430,14 +422,6 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.01 ~ 2022.12.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/23/GQgai8gt7rwY0Slqaw9nxuyjTna2AWJr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 가면라이더: 세이버X젠카이저 슈퍼히어로 전기> SNS 관람인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.01 ~ 2022.12.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/29/GkpFBHHdm0jC8xkgxdSxp4pZeOBflJZF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<원피스 필름 레드> 최다관람 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -664,14 +648,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/09/SDTJkgE5Ei60LAXamkqhZ5gYM9SBVdNt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[대구이시아] 청소년 누구나 할인! (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.02 ~ 2022.12.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/02/bmTK6b71boXGsZ763450GZtRmU7DB3Xo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[마산, 창원, 창원내서] 이마트 마산점 제휴 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -758,14 +734,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
             <content:encoded><![CDATA[2022.10.06 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/06/GL48dnZOvkQ7vOEvlyRo4KKSkqA6LhTf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[동대문,상봉] 팝콘 무료 증정 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.10.04 ~ 2022.12.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/12/gAM3zCTGJqxwZpFTezRtd0ZmBLNvYJmm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[북대구(칠곡)] 외부주차장 이용시 영화 할인 (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -1288,28 +1256,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/11/11/7zZFIneF9efbrMAybQh2NRAxkvTdfTD5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<헤이지니&럭키강이 비밀의 문> 2주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.11 ~ 2022.12.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/08/0DmXJ6qpjhykgwbRQJiVgLHmhdH7sO5L.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<크레이지 컴페티션> 메가박스 필름소사이어티 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
             <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:51 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.10 ~ 2022.12.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/10/Q2bwEXMNu4UDQfMrmVg3BsGpndh181CV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<크리스마스 캐럴> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.10 ~ 2022.12.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/01/iTa4eTMwHR1fEqOKWWQtqJc5AgyvI3pJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<젠틀맨> 메가박스 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
@@ -1326,14 +1278,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:51 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.02 ~ 2022.12.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/02/2bXf96LGI4t35dn4hqZBVp8OHXuaZvFo.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<눈의 여왕5: 스노우 프린세스와 미러랜드의 비밀>(더빙) 메가박스 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.02 ~ 2022.12.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/02/xHLwHurM2SfoQHgTh7h4af9JwRNalRV3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

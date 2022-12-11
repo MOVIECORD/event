@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 14:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 15:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,14 +94,6 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.10 ~ 2022.12.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/05/unDuBzcBts4WCX7KjMCQOMJHJ4DTQgDF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<신비아파트 극장판 차원도깨비와 7개의 세계> 개봉 전 유료시사회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.10 ~ 2022.12.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/07/CuMzOjGHzVjfbxKhT4OWzwb38MhzH8kZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<탄생> 청년 2+1 관람 이벤트]]></title>
@@ -310,14 +302,6 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.01 ~ 2022.12.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/23/GQgai8gt7rwY0Slqaw9nxuyjTna2AWJr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 가면라이더: 세이버X젠카이저 슈퍼히어로 전기> SNS 관람인증 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.01 ~ 2022.12.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/29/GkpFBHHdm0jC8xkgxdSxp4pZeOBflJZF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<원피스 필름 레드> 최다관람 이벤트]]></title>
