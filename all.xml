@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 01:27:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 02:51:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[메가박스X티웨이항공] GOODBYE 2022 WELCOME 2023 @SYDNEY (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.12 ~ 2023.01.18]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/12/J2jpbyDJ5x38xKlyPuxRCBoI9sxmYoSC.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<아바타: 물의길> 프로모션 콤보 출시 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
@@ -174,14 +182,6 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.12 ~ 2022.12.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/08/vfd2odzVpk4kj0xE8EJhJldeUa1abTva.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[시네 도슨트] 알버트 왓슨 사진전 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.10 ~ 2022.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/29/9B0bBvn5Jx8RnnR3V8binpNXlb61S5Py.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<올빼미> 2023 달력 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
