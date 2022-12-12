@@ -4,9 +4,33 @@
         <title>메가박스 ─ 이벤트 ─ 제휴 할인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 21:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 01:27:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카카오페이]영화예매 시 즉시할인 혜택 선착순 제공!]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:27:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.12 ~ 2022.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/12/pNxWyGFGcyTjzRA2roDTpvfXp3mTuSdu.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KTX메가박스] 3D 영화관람하고 풍성한 혜택 받으세요]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:27:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.12 ~ 2022.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/08/pDF3pgKqUtNld5W6UGgv9RdgHwczbjWA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[신세계포인트X메가박스] 신세계포인트 회원님을 위한 메가박스 혜택]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:27:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.09 ~ 2022.12.18]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/08/ngioSC2C7o3kLCRaBprKRRBXCUBf1eKO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[메가박스X더쎈카드] 더쎈카드 연말정산 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/promotion#</link>
@@ -30,14 +54,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:33 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.18 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/05/hJ4pNRGMutomAaucRjyj0ganFC3yUGOg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KTX메가박스] 3D 영화관람하고 풍성한 혜택 받으세요]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.12 ~ 2022.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/08/pDF3pgKqUtNld5W6UGgv9RdgHwczbjWA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해피포인트X메가박스] 더욱 강력해진 메가 해피 먼스]]></title>
