@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 14:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 15:24:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,14 +94,6 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.13 ~ 2022.12.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/12/m6A7s6EDemtRyMNE7iKRzIM5yD7YR2Mu.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[올빼미]앵콜! 선착순 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.12 ~ 2022.12.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/08/vfd2odzVpk4kj0xE8EJhJldeUa1abTva.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<올빼미> 2023 달력 증정 이벤트]]></title>
@@ -264,14 +256,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/07/PC8rCkpIfP9wxds6sOsSmn9ZB40RCgw3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<보디가드> 개봉기념 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.07 ~ 2022.12.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/14/YCJl1Qdef5cGkPMAfpM6WdDKuYdM6Ugl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[클래식 소사이어티] 2023년 신년 음악회]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -408,44 +392,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/23/EOKEtiZt33b6t6Hk1Rsr9FtjBgwn59M2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[클소토크] 라 보엠]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.29 ~ 2022.12.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/07/Ig4RAOpSDRvcKiFEujc83udxcxOgrlT2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<데시벨> 메가박스 N차관람 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.25 ~ 2022.12.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/24/oG0YrYBKG3d7GiBEWjK0Rxuje4bsDfQO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[시즌 안내] 2022/23 로열 오페라 하우스 라이브 시네마]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.10.14 ~ 2023.08.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/14/WmofGtKpSqCeBuwwG1CYCDV2RMmkIL3H.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<워너 필름 소사이어티> 기획 상영전 스탬프 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.21 ~ 2022.12.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/07/kHD7UJluHHW9xdxqO5GojJkqKjYsYj7a.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[워너 필름 소사이어티 기획 상영전 & 스페셜 패키지]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.06 ~ 2022.12.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/31/WuuAhgoqmuU6hX6fWXJDXNuETcPfm0mN.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[2022 시네 도슨트] 강연 안내]]></title>
