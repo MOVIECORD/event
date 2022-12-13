@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 04:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 05:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -158,6 +158,14 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.19 ~ 2023.01.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/08/TsiiYhAIOrVYhvxeW8ZB5KzstPxHm97Y.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<오늘 밤, 세계에서 이 사랑이 사라진다 해도> 흥행감사 원작 도서 증정 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.17 ~ 2022.12.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/13/GpGiVYHfewMzpf2ipOj8aF8jLAojwfbP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<원피스 필름 레드> 3주차 선물 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1325,7 +1333,7 @@
             <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:51 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.18 ~ 2022.12.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/13/eapMEiJ57QabhLVkuvZs5lnKzrDIKqUn.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/13/9cvt2Ll5XveQ70ePjr7kEL9wI8ybpyED.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<크레이지 컴페티션> 메가박스 필름소사이어티 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
