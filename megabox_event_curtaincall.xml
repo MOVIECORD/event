@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 01:30:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 02:55:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<신비아파트 극장판 차원도깨비와 7개의 세계> 무대인사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.18 ~ 2022.12.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/13/eapMEiJ57QabhLVkuvZs5lnKzrDIKqUn.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<크레이지 컴페티션> 메가박스 필름소사이어티 회원시사]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
