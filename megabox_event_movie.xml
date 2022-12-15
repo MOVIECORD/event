@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 01:28:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 02:51:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,22 +22,6 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.19 ~ 2023.01.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/08/TsiiYhAIOrVYhvxeW8ZB5KzstPxHm97Y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<오늘 밤, 세계에서 이 사랑이 사라진다 해도> 흥행감사 원작 도서 증정 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.17 ~ 2022.12.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/13/GpGiVYHfewMzpf2ipOj8aF8jLAojwfbP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<라 비 앙 로즈> 개봉기념 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.15 ~ 2022.12.29]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/13/b1t2kVq9DogW9t4bNHvlE6tRn2MULKyL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<원피스 필름 레드> 3주차 선물 증정 이벤트]]></title>
@@ -62,22 +46,6 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.15 ~ 2022.12.15]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/01/epxEbu1hw1Oo5cEYjAjyrS8OPAddhUUV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<오늘 밤, 세계에서 이 사랑이 사라진다 해도> 3주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.14 ~ 2022.12.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/13/YpBC0g1woeXIiegmGLHGSCIuVhkTYjOH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<신비아파트 극장판 차원도깨비와 7개의 세계> 1주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.14 ~ 2022.12.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/13/Ks7magOoFQ8XvQIHxFv5m0YgkBfXwgXm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<아바타 : 물의 길> Dolby 오리지널 포스터 증정 이벤트]]></title>
@@ -350,6 +318,46 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.13 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/13/3w6ABBRMHicw97H14io99blRvZF6jV9Q.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<오늘 밤, 세계에서 이 사랑이 사라진다 해도> 흥행감사 원작 도서 증정 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.17 ~ 2022.12.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/13/GpGiVYHfewMzpf2ipOj8aF8jLAojwfbP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[젠틀맨] 선착순 빵원티켓 ➕]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.16 ~ 2022.12.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/15/sI330CGtjDVk06ZQMxIb3O2HhA8kNy5G.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<라 비 앙 로즈> 개봉기념 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.15 ~ 2022.12.29]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/13/b1t2kVq9DogW9t4bNHvlE6tRn2MULKyL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<오늘 밤, 세계에서 이 사랑이 사라진다 해도> 3주차 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.14 ~ 2022.12.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/13/YpBC0g1woeXIiegmGLHGSCIuVhkTYjOH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<신비아파트 극장판 차원도깨비와 7개의 세계> 1주차 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.14 ~ 2022.12.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/13/Ks7magOoFQ8XvQIHxFv5m0YgkBfXwgXm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
