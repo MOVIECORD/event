@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 11:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 13:27:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<아바타: 물의 길> N차 관람 이벤트!! 제일 오래 본 사람 나야 나!! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.14 ~ 2023.01.15]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/15/7isancTF39u58ZNZpO5VzZLg10Pmywza.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<아바타:물의 길> 굿즈패키지 출시 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
