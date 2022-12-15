@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 04:24:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 05:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,14 +688,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/02/BNiZcWN9PWdbjyBnVpHHnIyO1M5ZFfaf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[대구이시아] 발코니 무비패스 5회권 런칭 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.10.06 ~ 2022.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/06/F7XrmZXfmCj0BT7YaKmGkMInMzKC1ZKO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[청라지젤] 카카오 플러스 친구 추가 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -1062,14 +1054,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.01 ~ 2022.12.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/26/OA1KwcUsQW2Z06VNyYmhO48C2kl8bMqc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대구이시아] 라운지 이용권 런칭 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.27 ~ 2022.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/05/24/o0cHVKJPDqINwJaF28FBJkGKPlCrDaJO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[카카오페이]영화예매 시 즉시할인 혜택 선착순 제공! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
