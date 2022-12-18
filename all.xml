@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 14:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 15:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.09 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/09/xjtsSUyhZCTMxztQ3dTVacesFE1PDuCs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<원피스 필름 레드>OST 콤보 출시 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.01 ~ 2022.12.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/01/dvk9o2B96k29qHPOhuDUzk7yHhvY8cew.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 No.64 <원피스 필름 레드> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -344,14 +336,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/05/cGvPx7coj98IOUFJXnWSs90haEKDt4FM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<눈의 여왕5: 스노우 프린세스와 미러랜드의 비밀> SNS 기대평 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.05 ~ 2022.12.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/01/Y0BRwltpOxgvmYNoY0sfSamb2DJeKXOb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[메가박스X시네마캐슬] 시네마캐슬 12월 상영작 안내 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -366,14 +350,6 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.30 ~ 2023.01.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/29/eLE0gTPIRnMDeD88WcBUcOt96iunIUBG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<원피스 필름 레드> SNS 관람인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.30 ~ 2022.12.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/29/F9mXsKpnEHDRYxCGqCvAdPPiQ0pKoJT4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[시즌 안내] 2022/23 로열 오페라 하우스 라이브 시네마 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -704,14 +680,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/01/ojHfezTX8YclUua5dBkvFOEcIlV1kq35.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[전주혁신] SNS 팔로우 하고 할인 받자 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.01 ~ 2022.12.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/01/XOp0o7YD9EWCSpUcJG2STHL5b6ddH1oM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[사상] 신라대학교 할인 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -1000,14 +968,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/08/pDF3pgKqUtNld5W6UGgv9RdgHwczbjWA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[신세계포인트X메가박스] 신세계포인트 회원님을 위한 메가박스 혜택 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.09 ~ 2022.12.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/08/ngioSC2C7o3kLCRaBprKRRBXCUBf1eKO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[메가박스X더쎈카드] 더쎈카드 연말정산 이벤트 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
@@ -1182,14 +1142,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:51 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.15 ~ 2022.12.22]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/15/plGAaY1GYoXq1Pl6vTZStDTmXIWD8zHw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<크레이지 컴페티션> 메가박스 필름소사이어티 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.10 ~ 2022.12.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/10/Q2bwEXMNu4UDQfMrmVg3BsGpndh181CV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<장화신은 고양이: 끝내주는 모험> 메가박스 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>

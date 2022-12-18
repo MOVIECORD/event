@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 14:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 15:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,14 +294,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.01 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/01/ojHfezTX8YclUua5dBkvFOEcIlV1kq35.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[전주혁신] SNS 팔로우 하고 할인 받자]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.01 ~ 2022.12.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/01/XOp0o7YD9EWCSpUcJG2STHL5b6ddH1oM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[사상] 신라대학교 할인 이벤트]]></title>
