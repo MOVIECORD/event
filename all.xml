@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 02:36:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 04:22:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1142,6 +1142,14 @@
             <pubDate>Wed, 16 Nov 2022 17:27:51 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.19 ~ 2023.01.05]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/19/eWEYX1s38FttcOb0LV4ZZ4QhMxCXBQFD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<더 퍼스트 슬램덩크>메가박스 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.19 ~ 2022.12.26]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/19/PmBizTNDm7YZxQWYZfxbJRKDkTgIV4Zy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<신비아파트 극장판 차원도깨비와 7개의 세계> 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
