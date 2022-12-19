@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 01:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 02:36:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<시간을 꿈꾸는 소녀> 메가박스 필름소사이어티 회원시사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.19 ~ 2023.01.05]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/19/eWEYX1s38FttcOb0LV4ZZ4QhMxCXBQFD.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<신비아파트 극장판 차원도깨비와 7개의 세계> 무대인사]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>

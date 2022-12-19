@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 01:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 02:36:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,6 +142,14 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.22 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/16/Qj83qilnmuVn53hUAujrBWcfIqa977sn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[올빼미]앵콜! 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.20 ~ 2022.12.21]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/19/rqira7ds8Xq1Czx5YTVNWCX4XP0quVqI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[로열 발레] <호두까기 인형> 3명 이상 가족 관람 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -952,6 +960,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/26/OA1KwcUsQW2Z06VNyYmhO48C2kl8bMqc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스타필드 3개지점(고양, 안성, 하남) 챔피언패키지 출시 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:27:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.19 ~ 2023.01.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/15/uPMIpJpThWKWJ8edDRsDqewu6TrMeeY7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[카카오페이] 푸짐한 혜택 받으세요! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
@@ -1118,6 +1134,14 @@
             <pubDate>Wed, 16 Nov 2022 17:27:33 GMT</pubDate>
             <content:encoded><![CDATA[2015.01.06 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/11/11/7zZFIneF9efbrMAybQh2NRAxkvTdfTD5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<시간을 꿈꾸는 소녀> 메가박스 필름소사이어티 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.19 ~ 2023.01.05]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/19/eWEYX1s38FttcOb0LV4ZZ4QhMxCXBQFD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<신비아파트 극장판 차원도깨비와 7개의 세계> 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
