@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 06:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 07:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[메가박스X티웨이항공] 캘린더 럭키 드로우 in 더 부티크 스위트]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.21 ~ 2023.01.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/20/ThWT4aFj1K2OljVOmfeTQ3e6nLmhMdha.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MERRY POINT FESTA🎅]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
