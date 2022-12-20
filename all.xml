@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 13:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 15:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,14 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.10.28 ~ 2023.01.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/28/9mOIrHUmlUjf2VzfFAYPzDF0rLNpIiS1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BlackBlue in your area! 블랙&블루 스탬프 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.10.21 ~ 2022.12.20]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/21/Ihbx0DDbHHgVZWweWxTHyfBNdqxwELsV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예지미인X메가박스] 그날에 당황하지 말고 PINK BOX (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -414,14 +406,6 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.07 ~ 2022.12.21]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/05/8WtZuVBMPYNxt1Li1EFitpvtWw8Pdi7n.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<핑크퐁 시네마 콘서트 2: 원더스타 콘서트 대작전> SNS 기대평 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.07 ~ 2022.12.20]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/07/PC8rCkpIfP9wxds6sOsSmn9ZB40RCgw3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[클래식 소사이어티] 2023년 신년 음악회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -878,14 +862,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.30 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/30/t6gIMFHqjR0JKdauS4VaN1gyJhmxD9st.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[광명AK플라자, 광명소하] 메가박스에서 광명 찾자! (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.27 ~ 2022.12.20]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/22/OSiA64w4OrEyfK5Zgu8myvWqiAwiJGAf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[전대] 북구 구민과 함께 (메가박스 ─ 이벤트 ─ 극장)]]></title>

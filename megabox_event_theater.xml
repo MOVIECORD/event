@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 13:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 15:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -390,14 +390,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.30 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/30/t6gIMFHqjR0JKdauS4VaN1gyJhmxD9st.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[광명AK플라자, 광명소하] 메가박스에서 광명 찾자!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.27 ~ 2022.12.20]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/22/OSiA64w4OrEyfK5Zgu8myvWqiAwiJGAf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[전대] 북구 구민과 함께]]></title>
