@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 23:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 01:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/16/Qj83qilnmuVn53hUAujrBWcfIqa977sn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[영웅] 선착순 빵원티켓 ➕]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.22 ~ 2022.12.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/20/kV1cgT8msJTAL9CE6e7OOSymsp2qs9vA.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[<핑크퐁 시네마 콘서트 2: 원더스타 콘서트 대작전> 개봉기념 현장증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -78,6 +86,22 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.21 ~ 2023.01.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/20/qHCdKduq1dIIriGxFmq2OiP9RndATxJE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트나인과 함께 하는 <가가린> 시네마구구]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.21 ~ 2022.12.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/21/Q6ppF5PVod7VQYiSUBzGpy1fC5jQWEaF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트나인과 함께 하는 <코르사주> 시네마구구]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.21 ~ 2022.12.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/21/ZF0zUPxnMZPQB2v9PvdHbkDnjT2qFAfR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[올빼미]앵콜! 선착순 빵원티켓 ➕]]></title>
