@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 14:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 15:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,14 +272,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/21/ZF0zUPxnMZPQB2v9PvdHbkDnjT2qFAfR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[올빼미]앵콜! 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.20 ~ 2022.12.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/19/rqira7ds8Xq1Czx5YTVNWCX4XP0quVqI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[로열 발레] <호두까기 인형> 3명 이상 가족 관람 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -310,14 +302,6 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.16 ~ 2023.01.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/16/kgAMOxKBLEW7QxrIY5Wzfq2yDXLhH6L5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<원피스 필름 레드> 3주차 선물 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.15 ~ 2022.12.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/13/VnhJeRjKr1ba1dXkJvrbmb4yq0Jqa1aZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<아바타 : 물의 길> Dolby 오리지널 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -438,30 +422,6 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.07 ~ 2022.12.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/16/Vidhwhle2J9Un2YePbkBwXSLQRKhbwtr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<프레이 포 더 데블> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.07 ~ 2022.12.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/06/TxkJqGxUoCC4W8pxLYH8Ro6uHu0PkWbZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<스페이스 키드: 우주에서 살아남기> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.07 ~ 2022.12.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/06/de2P6dK00EI9mq2jWjq7JNyThWHMX7Th.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<오늘 밤, 세계에서 이 사랑이 사라진다 해도> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.07 ~ 2022.12.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/05/8WtZuVBMPYNxt1Li1EFitpvtWw8Pdi7n.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[클래식 소사이어티] 2023년 신년 음악회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
