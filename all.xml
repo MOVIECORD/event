@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 14:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 15:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,14 +184,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/13/o0e8tkLH7nnSyUOnu8PTu7oE1GMamsnh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<라 비 앙 로즈> 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.23 ~ 2022.12.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/19/EvEeCZzl4C5gMdDWhJJTfa67g6SBQdtm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<페르시아어 수업> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -254,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.22 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/16/Qj83qilnmuVn53hUAujrBWcfIqa977sn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[영웅] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.22 ~ 2022.12.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/20/kV1cgT8msJTAL9CE6e7OOSymsp2qs9vA.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<핑크퐁 시네마 콘서트 2: 원더스타 콘서트 대작전> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -598,14 +582,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.23 ~ 2023.10.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/23/Qw1ayNgKciQi6INT3oNwaHmzp6jaq4sx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[코엑스] 만원의 행복! (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.21 ~ 2022.12.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/15/anBF7VSqBCITA8SohimBXAa8nArL37sT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[금정AK플라자] 금정 AK플라자 럭키박스 (메가박스 ─ 이벤트 ─ 극장)]]></title>
