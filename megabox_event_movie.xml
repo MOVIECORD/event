@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Dec 2022 14:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 15:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.31 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/21/blyQR1lL8dHB7phksyTNNPQnK0e4d0je.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[눈의 여왕5: 스노우 프린세스와 미러랜드의 비밀] 선착순 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.23 ~ 2022.12.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/13/o0e8tkLH7nnSyUOnu8PTu7oE1GMamsnh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<페르시아어 수업> 2주차 현장증정 이벤트]]></title>
@@ -158,46 +150,6 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.14 ~ 2022.12.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/09/QUaZ9tZMRVHUUxQojjsFmkvIgHycuOr9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<올빼미> 2023 달력 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.10 ~ 2022.12.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/08/dLNly4VU52shFDSID9QBBGtkcOEiK5yn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<원피스 필름 레드> 우타 라이브 영상 특별 상영]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.10 ~ 2022.12.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/08/lifBwLJVSDFzPCQLr4k0DthPGVhfwtLo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<헤이지니&럭키강이 비밀의 문> 2주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.10 ~ 2022.12.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/07/tolvHIteUkjrQdREajoIDGPjkzBB01Cc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<양자경의 더 모든 날 모든 순간> 크리스마스 포스터 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.10 ~ 2022.12.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/07/UUvYQFeGoVnJGw66Fy092SxJqJWxAjhN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<본즈 앤 올> 2주차 주말 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.10 ~ 2022.12.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/05/unDuBzcBts4WCX7KjMCQOMJHJ4DTQgDF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[메가박스 X 휘닉스 평창] <눈의 여왕5: 스노우 프린세스와 미러랜드의 비밀> 패키지]]></title>
