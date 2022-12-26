@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 01:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 02:39:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,14 +118,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.23 ~ 2023.10.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/23/Qw1ayNgKciQi6INT3oNwaHmzp6jaq4sx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[금정AK플라자] 금정 AK플라자 럭키박스]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.11 ~ 2022.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/23/5MkGsRKAmSMGXgKoEKCIP5mIQjgd7Jzl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[의정부민락] 시네마캐슬에는 팝콘이 빠질 수 없지!]]></title>
