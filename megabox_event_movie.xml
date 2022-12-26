@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 05:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 06:23:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.31 ~ 2023.01.01]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/26/bcLII7b60w0BBEmfRon3yZnz0lEUKx5r.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<3000년의 기다림> 굿즈패키지 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.31 ~ 2022.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/26/To1KzH87PYcWg2LOj4KfX9uE3epJVSJx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<코르사주> 굿즈패키지 상영회]]></title>
