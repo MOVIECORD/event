@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 04:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 05:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,22 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.28 ~ 2023.01.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/26/CPzzB121xpIUckKVZxl1bd9fXvRw6WFL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[장화신은 고양이: 끝내주는 모험] 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.27 ~ 2022.12.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/26/UmdsCBGqQOHiLhHM75XFYSLXKtLVtmla.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[젠틀맨] 앵콜! 선착순 빵원티켓 ➕]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.27 ~ 2022.12.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/26/okIhfwXWxbRRV3JjKdrWmG9MQyzSHrgV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<페르시아어 수업> 2주차 현장증정 이벤트]]></title>
