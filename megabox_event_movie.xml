@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 01:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 02:37:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.29 ~ 2023.01.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/26/VVBy5RX95E9wa0d9JTXopj54gSMYo4XP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<핑크퐁 시네마 콘서트 2: 원더스타 콘서트 대작전> 2주차 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.28 ~ 2023.01.11]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/27/FuSyRqaraw4KRoTMAPPav8vpwF276Ffq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<코르사주> 2주차 현장증정 이벤트]]></title>
