@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 02:37:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 04:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -214,6 +214,22 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.28 ~ 2023.01.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/26/CPzzB121xpIUckKVZxl1bd9fXvRw6WFL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[100주년 기념] 베로나 오페라 페스티벌 시리즈 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.27 ~ 2023.03.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/27/jTujmR0iPts9AIWwrclkdp0oqWA5q29h.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<처음 꽃향기를 만난 순간> SNS 기대평 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.27 ~ 2023.01.03]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/27/Hj0DN3nC3vceJTD5pgKYW5Z3Q2fHdTk4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[스위치] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
