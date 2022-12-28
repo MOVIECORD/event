@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 02:38:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 03:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.29 ~ 2023.01.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/27/t0DT2UzISN6j1qbLDJQCT551dJrOT9Dq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더 퍼스트 슬램덩크] 선착순 빵원티켓 ➕]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.29 ~ 2022.12.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/27/ygazy6CFb5XuIUb2OWBmohgOXHv3k8EF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<핑크퐁 시네마 콘서트 2: 원더스타 콘서트 대작전> 2주차 현장증정 이벤트]]></title>
