@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 14:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 15:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,14 +110,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.01 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/23/RjPKuPOMpKgRpzgp1t0CPpDRzbD8i25p.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[수원호매실] 선물 상자의 주인공을 찾아라!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.01 ~ 2022.12.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/14/2gnBB7HDxb2eexPp3OJwFrc7B8jrNHPB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[부산경남지역] 어른SODA 신메뉴 런칭!]]></title>
@@ -286,14 +278,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.30 ~ 2023.08.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/07/ovZJ1epW05CNadtkmI4rDyt6M50ytsE4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[세종(조치원)] 월,화,수요일은 온라인예매하자!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.18 ~ 2022.12.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/18/zy1mmVGX5BpPdsaCu5lYKvXOae0bTbk2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[부산대] 이마트 금정점 구매 영수증으로 할인 받자!]]></title>
