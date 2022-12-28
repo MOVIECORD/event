@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 01:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 02:38:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,14 @@
             <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.10.28 ~ 2023.01.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/28/9mOIrHUmlUjf2VzfFAYPzDF0rLNpIiS1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 VIP 선정 기준 안내 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.28 ~ 2023.02.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/28/XicqoPWYXoF4QwTnK4RiMJNRK5gLewRA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예지미인X메가박스] 그날에 당황하지 말고 PINK BOX (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -1254,6 +1262,14 @@
             <pubDate>Wed, 16 Nov 2022 17:27:51 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.08 ~ 2023.01.15]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/26/efcbeBqwWs5d5TyyjWcYuXRwh3WaNHiU.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<스위치> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.04 ~ 2023.01.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/28/H1g6IG6I49VM5evIpN1OyAihQOruMptZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<핑크퐁 시네마 콘서트 2: 원더스타 콘서트 대작전> 2주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
