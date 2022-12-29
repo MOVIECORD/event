@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 01:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 02:40:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,12 +224,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/21/blyQR1lL8dHB7phksyTNNPQnK0e4d0je.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<크레이지 컴페티션> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <title><![CDATA[[무비올나잇] 올빼미 + 영웅 연속상영 패키지 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.29 ~ 2023.01.12]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/28/H0BvQ2xU74ferX1eTqha3lTRo3LnZG6R.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2022.12.30 ~ 2022.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/29/f3SSvVXR6aJcJdOxomnECXRAexJxyEdn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<가가린> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
