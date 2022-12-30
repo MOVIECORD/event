@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 01:23:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 02:40:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,12 +184,36 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/28/hIBIF3oeRmmKJ32eUVuZ6EUwo79vtSFf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<처음 꽃향기를 만난 순간> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.04 ~ 2023.01.18]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/30/D7vlzOcmObTr1PaTBpN1ffJlDimW9bB7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<젠틀맨> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.04 ~ 2023.01.18]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/30/IpZtsBJv11cPDve3ImQL1Tmz2AJCxD1C.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<장화신은 고양이: 끝내주는 모험> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.04 ~ 2023.01.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/26/7eLkc7bqDWmsN8yaUqg06kB3SxFA1zbX.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[3000년의 기다림] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.02 ~ 2023.01.03]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/30/NU9955i5armJXOKCFCL23W1cA1kmlTuX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[메가박스X시네마캐슬] 시네마캐슬 1월 상영작 안내 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -222,6 +246,14 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.31 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/21/blyQR1lL8dHB7phksyTNNPQnK0e4d0je.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트나인과 함께 하는 <해시태그 시그네> 시네마구구 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.30 ~ 2023.01.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/30/kJ24w1kR9CbAwKxzVHZlF7ywJ4ty4Whn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[무비올나잇] 올빼미 + 영웅 연속상영 패키지 (메가박스 ─ 이벤트 ─ 영화)]]></title>
