@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 14:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 15:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,14 +328,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/27/t0DT2UzISN6j1qbLDJQCT551dJrOT9Dq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[더 퍼스트 슬램덩크] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.29 ~ 2022.12.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/27/ygazy6CFb5XuIUb2OWBmohgOXHv3k8EF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<핑크퐁 시네마 콘서트 2: 원더스타 콘서트 대작전> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -454,14 +446,6 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.21 ~ 2023.01.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/20/qHCdKduq1dIIriGxFmq2OiP9RndATxJE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트나인과 함께 하는 <가가린> 시네마구구 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.21 ~ 2022.12.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/21/Q6ppF5PVod7VQYiSUBzGpy1fC5jQWEaF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[로열 발레] <호두까기 인형> 3명 이상 가족 관람 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1078,14 +1062,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.01 ~ 2022.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/05/7WaPVaeJaSqwhMA4xOxJpfHmz4V3kW7d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인천논현] 농협 임직원 제휴 할인 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.01 ~ 2022.12.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/26/OA1KwcUsQW2Z06VNyYmhO48C2kl8bMqc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스타필드 3개지점(고양, 안성, 하남) 챔피언패키지 출시 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
