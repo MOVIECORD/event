@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 제휴 할인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Jan 2023 14:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jan 2023 15:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:33 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.19 ~ 2023.01.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/15/uPMIpJpThWKWJ8edDRsDqewu6TrMeeY7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[메가박스X더쎈카드] 더쎈카드 연말정산 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022.10.24 ~ 2023.01.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/24/aCeSj4Dqi7WmoSmAyVAfgCs2ESjtSLdp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[광주은행X메가박스] 메가박스 카드 런칭기념 이벤트]]></title>
