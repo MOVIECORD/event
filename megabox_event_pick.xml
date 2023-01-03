@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 01:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 02:38:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,38 +30,6 @@
             <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.23 ~ 2023.02.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/23/HBG2Jv1cd7SHv5SE0ZEsJa2OFv4UrYYk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[메가박스X티웨이항공] 캘린더 럭키 드로우 in 더 부티크 스위트]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.21 ~ 2023.01.04]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/20/ThWT4aFj1K2OljVOmfeTQ3e6nLmhMdha.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 오리지널 티켓 No.65 <아바타: 물의 길>]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.20 ~ 2023.01.20]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/20/cdTreM0X9NJKWhZ9dkJA6JpbRAsM0Aox.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<아바타: 물의 길> N차 관람 이벤트!! 제일 오래 본 사람 나야 나!!]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.14 ~ 2023.01.15]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/15/7isancTF39u58ZNZpO5VzZLg10Pmywza.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<아바타:물의 길> 굿즈패키지 출시]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.13 ~ 2023.01.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/13/1eMTxtnlIkNuUX4vM8SOZNYmOSCu6DCQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[메가박스X티웨이항공] GOODBYE 2022 WELCOME 2023 @SYDNEY]]></title>
@@ -94,6 +62,38 @@
             <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.28 ~ 2023.02.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/28/nDlTsuZe13OXYChTIpdm4fHeocaGHzst.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[메가박스X티웨이항공] 캘린더 럭키 드로우 in 더 부티크 스위트]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.21 ~ 2023.01.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/20/ThWT4aFj1K2OljVOmfeTQ3e6nLmhMdha.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 오리지널 티켓 No.65 <아바타: 물의 길>]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.20 ~ 2023.01.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/20/cdTreM0X9NJKWhZ9dkJA6JpbRAsM0Aox.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<아바타: 물의 길> N차 관람 이벤트!! 제일 오래 본 사람 나야 나!!]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.14 ~ 2023.01.15]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/15/7isancTF39u58ZNZpO5VzZLg10Pmywza.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<아바타:물의 길> 굿즈패키지 출시]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.13 ~ 2023.01.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/13/1eMTxtnlIkNuUX4vM8SOZNYmOSCu6DCQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예지미인X메가박스] 그날에 당황하지 말고 PINK BOX]]></title>
