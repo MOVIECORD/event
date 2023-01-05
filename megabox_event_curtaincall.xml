@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 14:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 15:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:51 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.04 ~ 2023.01.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/28/H1g6IG6I49VM5evIpN1OyAihQOruMptZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<시간을 꿈꾸는 소녀> 메가박스 필름소사이어티 회원시사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.19 ~ 2023.01.05]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/19/eWEYX1s38FttcOb0LV4ZZ4QhMxCXBQFD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<젠틀맨> 2주차 무대인사]]></title>

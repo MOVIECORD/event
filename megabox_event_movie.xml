@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 14:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 15:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,22 +86,6 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.27 ~ 2023.03.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/03/ojIYAnvGpLDyBMnG9eQQsA4KyC5fPrRh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<원피스 필름 레드> 4주차 선물 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.22 ~ 2023.01.05]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/20/DbZofJqLKBwTjjhi0rKeXlsE6AyTNUyR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<드라이브 마이 카> 재개봉 기념 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.22 ~ 2023.01.05]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/19/zWMMA4Gae3ongY9frXB2Zd7qyJrs899C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[로열 발레] <호두까기 인형> 3명 이상 가족 관람 이벤트]]></title>
@@ -326,14 +310,6 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.26 ~ 2023.01.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/21/OEaKehkINlRhiTGXO3AfrwSuxtaZOgje.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<페르시아어 수업> 2주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.22 ~ 2023.01.05]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/21/QISP6yqBDPSHmcMYl4CDczV83naC9EtR.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
