@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 14:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 15:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,30 +62,6 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.05 ~ 2023.01.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/05/iYpE72NKkY0KXjNRmhX5qpjZtXC8hKvH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 퍼스트 슬램덩크]앵콜! 선착순 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.05 ~ 2023.01.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/03/mrWlpNQxGqbiwPUdWr16KYOqBDKl8EyH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유령] 선착순 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.05 ~ 2023.01.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/02/skg7gtomFJpiCWuVx8RvzOAX4ih9bL2s.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[교섭] 선착순 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.05 ~ 2023.01.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/02/E1W45ItXgPNFPcQZn12fQAaCS4IKcxvS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<제 10회 시네마 리플레이> 티저 이벤트]]></title>
