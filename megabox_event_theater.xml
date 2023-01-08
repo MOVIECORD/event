@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Jan 2023 14:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jan 2023 15:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.08 ~ 2023.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/07/pcZEERMpzPSs4Bkejvxh4cLiG5znNs2S.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대구이시아] 멜크 포토존]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.06 ~ 2023.01.08]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/20/EYrXUEp47V1Y33ALsWRLrGOfgHBD54Qr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[사상] 동서대 재학생, 임직원은 사상지점으로!]]></title>
