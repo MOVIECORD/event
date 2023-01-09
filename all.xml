@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 01:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 02:41:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/20/cdTreM0X9NJKWhZ9dkJA6JpbRAsM0Aox.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<아바타: 물의 길> N차 관람 이벤트!! 제일 오래 본 사람 나야 나!! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.14 ~ 2023.01.15]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/15/7isancTF39u58ZNZpO5VzZLg10Pmywza.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<아바타:물의 길> 굿즈패키지 출시 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
@@ -136,6 +128,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/07/aVPaBWnnV3du3eA0WwccH3xMWqCszU8k.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<교섭> 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.18 ~ 2023.01.18]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/09/fS2ahfpP7zshHs808QY2FnT1GfUSNA8B.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[로열 발레] <다이아몬드 기념 공연> 개봉 기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -158,6 +158,14 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.14 ~ 2023.01.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/05/ErSOeEfXaqgnjXkra2sxQRlyJ4SZYyaq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스위치] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.10 ~ 2023.01.11]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/26/blm2hkrl5BMWjyKEihW5qlWc4UgBb3cI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[시간을 꿈꾸는 소녀] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -206,6 +214,14 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.27 ~ 2023.03.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/03/ojIYAnvGpLDyBMnG9eQQsA4KyC5fPrRh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<아바타: 물의 길> N차 관람 이벤트!! 제일 오래 본 사람 나야 나!! (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.14 ~ 2023.01.15]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/15/7isancTF39u58ZNZpO5VzZLg10Pmywza.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[시즌 안내] 2022/23 로열 오페라 하우스 라이브 시네마 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -478,14 +494,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.05 ~ 2023.12.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/14/A9Ixy807Idhrx4yhbv6cAImFaeOaSPPM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[부산경남지역] 부산 경남 직영점 관람권 패키지 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.01 ~ 2023.05.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/30/Bdlz1tYmptA59VOeHJNFEcRTUVM06767.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대구경북지역] 대경이가 쏘는 초특급 혜택 (메가박스 ─ 이벤트 ─ 극장)]]></title>
