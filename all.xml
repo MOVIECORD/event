@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 07:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 08:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -198,6 +198,14 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.10 ~ 2023.01.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/26/blm2hkrl5BMWjyKEihW5qlWc4UgBb3cI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<제 10회 시네마 리플레이> 상영작 및 이벤트 안내 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.09 ~ 2023.02.19]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/09/PF8X5ApGc0oAlgGnhluVMFIp1Wg8bb0T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[시간을 꿈꾸는 소녀] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -670,6 +678,14 @@
             <pubDate>Wed, 16 Nov 2022 17:27:33 GMT</pubDate>
             <content:encoded><![CDATA[2017.01.01 ~ 2023.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/03/02/7Wv9ErsevpJobv4RTyW3mNTbuCegoJfl.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<교섭> 개봉일 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.18 ~ 2023.01.18]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/09/YEHejpXfE3q8Ypj51McwVp66IsYDd7zN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<장화신은 고양이: 끝내주는 모험> 개봉기념 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
