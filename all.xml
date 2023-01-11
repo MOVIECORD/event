@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 08:25:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 09:22:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -198,6 +198,14 @@
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.12 ~ 2023.01.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/10/xg90rvKtKpaTJqsoSo0pQP5FHHbpuVQg.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<스위치> 스페셜 특가 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.11 ~ 2023.01.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/11/6LH80qvwTl0aZgy22HoqpA8Z07tQnhlH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<가가린> 4주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
