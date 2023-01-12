@@ -4,17 +4,9 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 14:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 15:29:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[<더 퍼스트 슬램덩크> CRAZY FOR YOU 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.12 ~ 2023.01.12]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/09/tofjfp9e3YLtF9d5ZqVL2wOdo9TOQ2Zo.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[더 부티크 목동현대백화점] 오픈 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
