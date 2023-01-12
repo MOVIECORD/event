@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 01:25:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 02:44:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -774,6 +774,14 @@
             <pubDate>Wed, 16 Nov 2022 17:27:51 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.14 ~ 2023.01.15]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/12/nPCKl5TMs4v1C7BMk2Yiy7cPEGTrzIiX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<어메이징 모리스> 메가박스 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.12 ~ 2023.01.29]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/12/rZ2GaXHb58x22FEle0pkieMbgcbv3z9l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<장화신은 고양이: 끝내주는 모험> 개봉기념 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
