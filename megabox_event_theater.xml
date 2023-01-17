@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 04:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 07:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,38 @@
             <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.01 ~ 2023.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/20/VYkl6Uf3yLxTbOzKAJXI5WNeXWPAQ26v.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[구미강동] 구미 다둥e카드 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.01 ~ 2023.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/09/Hse3uLs4A4rXtAeqopDrvMJwlkfws4ou.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[부산대] 이마트 금정점 구매 영수증으로 할인 받자!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.01 ~ 2023.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/08/25/zMOPjojHZ3wOtxw0hxaTb63oUFM1u2LB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[부산대] 중,고등학생!! 할인 받고 영화 보자!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.01 ~ 2023.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/14/AiqmOFZBVhyx8nmw6lvFNdNOAZu1HgvI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[부산대] 22년도 금정구 구민 할인]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:27:16 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.01 ~ 2023.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/05/7WaPVaeJaSqwhMA4xOxJpfHmz4V3kW7d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대구이시아] 라운지 이용권 런칭!]]></title>
