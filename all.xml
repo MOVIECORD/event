@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 08:24:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 09:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,12 +152,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/17/YhRpK6iFjl0sv9AQXVa5RrPThdtIQoue.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<시간을 꿈꾸는 소녀> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.19 ~ 2023.02.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/17/jqCsBlWFY3Rp9RwurPYgtdgccVbnBD1S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<교섭> 등신대 SNS 인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.19 ~ 2023.02.05]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/16/3vtv7Eziew7zE4oRE4DeoZQrze90Z6vP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<극장판 파워레인저 캡틴포스: 지구를 위한 싸움> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.19 ~ 2023.02.02]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/17/neqMVdGCghn5HdJXFf7qBIdnetwHFkP1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<캐리와 슈퍼콜라> 개봉기념 BIG 선물 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
