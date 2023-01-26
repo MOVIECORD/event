@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 06:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 09:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -264,20 +264,20 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/30/Bdlz1tYmptA59VOeHJNFEcRTUVM06767.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[정관] 당첨률 100%! 영화보고 관람권 받자!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Sun, 22 Jan 2023 12:42:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.01 ~ 2023.03.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/23/lLOLYKjhh1AYj2W02iGYRI7vXRM4anwO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[대구경북지역] 대경이가 쏘는 초특급 혜택]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Sun, 22 Jan 2023 12:42:49 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.01 ~ 2023.02.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/14/2nai0TcbtlUHEZlwya1kXWAUrOV9oA7j.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[정관] 당첨률 100%! 영화보고 관람권 받자!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Sun, 22 Jan 2023 12:42:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.01 ~ 2023.01.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/23/lLOLYKjhh1AYj2W02iGYRI7vXRM4anwO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[부산경남지역] 어른SODA 신메뉴 런칭!]]></title>
