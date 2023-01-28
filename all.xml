@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Jan 2023 14:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jan 2023 16:23:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -358,14 +358,6 @@
             <pubDate>Sun, 22 Jan 2023 12:42:17 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.16 ~ 2023.02.05]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/02/i8hLbT7mCjFs9uBRYREwqV23WPWEk5pM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<영웅> 스페셜 경품 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 22 Jan 2023 12:42:17 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.14 ~ 2023.01.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/11/4XFZZlxgXYS5EroFVesHiiMkvwYh11g0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[아트나인과 함께 하는 <라인> 시네마구구 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -862,14 +854,6 @@
             <pubDate>Sun, 22 Jan 2023 12:43:59 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.28 ~ 2023.01.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/19/i9OzFZn2zzRw9FuSEGTS2EQAOft8y0RP.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<상견니> 평난소대 내한 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Sun, 22 Jan 2023 12:43:59 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.28 ~ 2023.01.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/26/uOgtyLSTnEJeh0Tkp6eOPvhsjv4KMqmK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<다음 소희> 메가박스 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
