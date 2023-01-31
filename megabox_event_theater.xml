@@ -4,25 +4,9 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 14:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 15:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[더 부티크 목동현대백화점] 오픈 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Sun, 22 Jan 2023 12:42:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.07 ~ 2023.01.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/09/onz8DssrdM2rXIXYbdyJUk1Jdy1GCbHQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포항지점] 오픈 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Sun, 22 Jan 2023 12:42:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.01 ~ 2023.01.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/09/Vib1JRJ5SkswFt7Jlp6Uw1OjUdAF5dPI.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[대전] 꽝 없는 추억의 뽑기 도전!]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
@@ -232,14 +216,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/14/a4t2BLjuDB8ftF16zt1oXpjEviOSphLR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[경기남부지역] 무료주차 확대!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Sun, 22 Jan 2023 12:42:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.14 ~ 2023.01.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/06/kcUNhg7quxWljwkv7rxwHnPSFRnmQuLt.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[대구경북지역] 포대 팝콘 출시!]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -270,14 +246,6 @@
             <pubDate>Sun, 22 Jan 2023 12:42:49 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.01 ~ 2023.02.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/14/2nai0TcbtlUHEZlwya1kXWAUrOV9oA7j.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[정관] 당첨률 100%! 영화보고 관람권 받자!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Sun, 22 Jan 2023 12:42:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.01 ~ 2023.01.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/11/23/lLOLYKjhh1AYj2W02iGYRI7vXRM4anwO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[부산경남지역] 어른SODA 신메뉴 런칭!]]></title>
