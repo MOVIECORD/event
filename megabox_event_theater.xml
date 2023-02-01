@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 05:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 06:24:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sun, 22 Jan 2023 12:42:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.01 ~ 2023.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/01/wLuaoRwCwO8CZImjsLjIoc0CivqBjVOF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[정관] 당첨률 100%! 영화보고 관람권 받자!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Sun, 22 Jan 2023 12:42:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.01 ~ 2023.03.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/26/KKF9Fd4S9ivMi31Yb9ErRnEl2hVO489O.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대전중앙로] 대전중앙로점 전용 관람권 패키지 출시]]></title>
