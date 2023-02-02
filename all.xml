@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 01:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 02:48:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,7 +136,7 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/26/gU6vjNjCCIiwDHJuGRHbwBzG65pa39I1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[2023 사건 읽는 영화관] 2월의 사건 : ep.01 연쇄살인사건 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <title><![CDATA[[2023 사건 읽는 영화관] 2월의 사건 : ep.01 시체 없는 살인사건의 공판 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Sun, 22 Jan 2023 12:42:17 GMT</pubDate>
