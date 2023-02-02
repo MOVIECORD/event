@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 07:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 09:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Sun, 22 Jan 2023 12:42:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.01 ~ 2023.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/01/jSB2S9LIcwGca2cEFskMSgIbVn2bhzuZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마곡] LG 임직원이라면 모두 할인!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Sun, 22 Jan 2023 12:42:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.01 ~ 2023.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/01/9lFhVcxz692eaKMC0jv3ZFCmRxnUEc9V.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[강남] 강남점 전용 관람권 패키지 특가 한정 판매!]]></title>
