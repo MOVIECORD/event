@@ -4,17 +4,9 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Feb 2023 09:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Feb 2023 10:19:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[<앤트맨과 와스프: 퀀텀매니아> 사라진 돌비 시네마 미니 티켓을 찾아라!!👀]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Sun, 22 Jan 2023 12:41:41 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.04 ~ 2023.02.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/01/7waWm80xsPBgwJ6C4wcodQi4izLAJE9u.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[모바일오더로 주문하면 선물이 팡팡!]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
@@ -78,6 +70,14 @@
             <pubDate>Sun, 22 Jan 2023 12:41:41 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.13 ~ 2023.02.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/13/T3qsF89jtpcmWRo021dV7HggGkanJrWA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<앤트맨과 와스프: 퀀텀매니아> 사라진 돌비 시네마 미니 티켓을 찾아라!!👀]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Sun, 22 Jan 2023 12:41:41 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.04 ~ 2023.02.05]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/01/7waWm80xsPBgwJ6C4wcodQi4izLAJE9u.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[메가박스XHBAF] 코끝까지 찡한 와사비마요팝콘 론칭!]]></title>
