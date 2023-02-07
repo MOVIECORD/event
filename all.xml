@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Feb 2023 04:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 05:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/28/nDlTsuZe13OXYChTIpdm4fHeocaGHzst.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[✌ 2022년 VIP 회원 혜택 안내 ✌ (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Sun, 22 Jan 2023 12:41:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.02 ~ 2023.02.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/02/23/QWWvsW0WkOVVckXmtBR45QbkfvmUtBkJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[VIP제휴혜택] 2022 교보문고 & 핫트랙스 특별 제휴 안내 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
@@ -168,6 +160,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/03/8uAIpqawh1RRUry1FboZqH3O2k0rfwEg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<다음 소희> 개봉주말 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 22 Jan 2023 12:42:17 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.11 ~ 2023.02.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/07/qYZt8WzitXPqOI3x8kS7afYhH7tSCSBz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<궁지에 몰린 쥐는 치즈 꿈을 꾼다> 유키사다 이사오 감독 내한 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -198,6 +198,22 @@
             <pubDate>Sun, 22 Jan 2023 12:42:17 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.08 ~ 2023.03.22]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/07/RCPhqLuEIAXbAjPUZnXiYsyFScZas2nk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<네가 떨어뜨린 푸른 하늘> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 22 Jan 2023 12:42:17 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.08 ~ 2023.02.22]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/07/uSX7Sh1F7awk1IR6rC9Sd6OI6Z7ilFgB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<성스러운 거미> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 22 Jan 2023 12:42:17 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.08 ~ 2023.02.22]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/07/mXShtK1Jxv0TIviqWuNJtzdvfmlioLnK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<애프터썬> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
