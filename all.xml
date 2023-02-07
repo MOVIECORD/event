@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Feb 2023 01:24:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 02:42:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,7 +40,7 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/30/ZkTG10NtwqduBiOQ3JVkAA9qv0HqCZfB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<교섭> 3주차 첫관람 이벤트! 안 본 눈 삽니다👀 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <title><![CDATA[<교섭> 4주차 첫관람 이벤트! 안 본 눈 삽니다👀 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Sun, 22 Jan 2023 12:41:41 GMT</pubDate>
@@ -198,6 +198,22 @@
             <pubDate>Sun, 22 Jan 2023 12:42:17 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.08 ~ 2023.02.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/19/KJfWlKYOtogwbgbTlLhuNMbNqhHTH9rB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트나인과 함께 하는<시간을 꿈꾸는 소녀> 시네마구구 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 22 Jan 2023 12:42:17 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.07 ~ 2023.02.16]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/07/Mvw3hX8FIBX3s2m2iwP09cuKl1ZuPzUN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트나인과 함께 하는<궁지에 몰린 쥐는 치즈 꿈을 꾼다> 시네마구구 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 22 Jan 2023 12:42:17 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.07 ~ 2023.02.11]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/07/i6NqJKVQP5WYA8fiNhRtVu5dqcYUoxpL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[로열 발레] <달콤 쌉사름한 초콜릿> 1+1 관람쿠폰 선착순 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
