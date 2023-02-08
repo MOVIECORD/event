@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 01:27:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 02:50:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -310,6 +310,14 @@
             <pubDate>Sun, 22 Jan 2023 12:42:17 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.07 ~ 2023.02.16]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/07/Mvw3hX8FIBX3s2m2iwP09cuKl1ZuPzUN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트나인과 함께 하는 <이마 베프> 굿즈패키지 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 22 Jan 2023 12:42:17 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.07 ~ 2023.02.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/08/VNXwgo99R7hiyXZ2MiDTVL82ffLke1Q9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아트나인과 함께 하는 <궁지에 몰린 쥐는 치즈 꿈을 꾼다> 시네마구구 (메가박스 ─ 이벤트 ─ 영화)]]></title>
