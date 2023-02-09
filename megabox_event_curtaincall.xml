@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 21:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 02:51:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 30 Jan 2023 10:21:08 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.12 ~ 2023.02.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/06/djkhMh9BYEzBOrfZSCH2WV4KNi3JVcW9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<더 퍼스트 슬램덩크> 흥행감사 성우 무대인사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 30 Jan 2023 10:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.11 ~ 2023.02.11]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/09/80OfuxViLUwRT4UdDGVEalXNA6ErYaGW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<다음 소희> 개봉기념 무대인사]]></title>
