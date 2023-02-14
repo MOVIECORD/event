@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 14:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 15:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,14 +294,6 @@
             <pubDate>Sun, 22 Jan 2023 12:42:49 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.15 ~ 2023.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/27/IwOFR5fvobJmrVwYXm4M8cqjdwQj0LoO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[송도] 시흥 웨이브파크 할인 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Sun, 22 Jan 2023 12:42:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.15 ~ 2023.02.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/14/a4t2BLjuDB8ftF16zt1oXpjEviOSphLR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대구경북지역] 포대 팝콘 출시!]]></title>
