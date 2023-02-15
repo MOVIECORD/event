@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 06:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 07:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,14 @@
             <pubDate>Sun, 22 Jan 2023 12:41:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.23 ~ 2023.02.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/23/HBG2Jv1cd7SHv5SE0ZEsJa2OFv4UrYYk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 VIP 혜택 안내]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Sun, 22 Jan 2023 12:41:41 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.02 ~ 2024.02.29]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/07/zX9ge6IdUnjLR8PGfdNH78cYbPYzY5ls.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 VIP 선정 기준 안내]]></title>
