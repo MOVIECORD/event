@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 06:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 07:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,6 +142,14 @@
             <pubDate>Sun, 22 Jan 2023 12:42:17 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.19 ~ 2023.03.19]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/17/u65LxjjavttFxQxjUGTJE2zUTwK32tEx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<콜 제인> 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 22 Jan 2023 12:42:17 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.01 ~ 2023.03.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/20/rqltnbkdpKQL9bzTdoh4INNimRsC8K9y.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<스즈메의 문단속> 특별관 프리미어 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
