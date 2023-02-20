@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Feb 2023 23:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 02:53:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -190,6 +190,14 @@
             <pubDate>Sun, 22 Jan 2023 12:42:17 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.21 ~ 2023.02.21]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/13/i7L0jiXFJuaUQRo9JpztQeFBalIFRZ8p.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[앤트맨과 와스프: 퀀텀매니아] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 22 Jan 2023 12:42:17 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.20 ~ 2023.02.21]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/16/nnN4Tv4BwfxuCWDa3eiur3EmotMPn6T4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[루비콘] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -664,22 +672,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/01/bxYtzWmwXuBO2uBHzAwYpdb4GyUDmhl8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[대전] 꽝 없는 추억의 뽑기 도전! (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Sun, 22 Jan 2023 12:42:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.21 ~ 2023.06.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/26/iKLRYXJ7A2o4AIPviwhaJHramVds1V2l.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대전충청지역] 충청지역 빅사이즈 팝콘 출시! (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Sun, 22 Jan 2023 12:42:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.18 ~ 2023.07.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/18/e5ShVUnBw0Z6q9Hclq9wmcfsVCgFWw6T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[세종] 팝콘 유료 리필 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -838,6 +830,14 @@
             <pubDate>Sun, 22 Jan 2023 12:42:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.01 ~ 2023.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/14/AiqmOFZBVhyx8nmw6lvFNdNOAZu1HgvI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사상] 이마트 사상점 구매 영수증으로 할인 받자! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Sun, 22 Jan 2023 12:42:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.01 ~ 2023.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/07/14/TcBx8Gc9wjiZXPePOo0jbipp0TTBpPMX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[부산대] 22년도 금정구 구민 할인 (메가박스 ─ 이벤트 ─ 극장)]]></title>
