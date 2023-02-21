@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 14:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 15:21:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Tue, 21 Feb 2023 07:17:27 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.01 ~ 2023.03.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/01/K47oASJFTl3GLN63FL3Wfs7v1jTPam6o.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[황홀하지만, 위태로운 <바빌론> 1PICK 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Tue, 21 Feb 2023 07:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.01 ~ 2023.02.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/30/ZkTG10NtwqduBiOQ3JVkAA9qv0HqCZfB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 No.68 <바빌론>]]></title>
