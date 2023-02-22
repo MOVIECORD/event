@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 05:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 06:25:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,7 +144,7 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/17/u65LxjjavttFxQxjUGTJE2zUTwK32tEx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2023 메가박스 아카데미 기획전 <에브리씽 에브리웨어 올 앳 워스+> 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <title><![CDATA[2023 메가박스 아카데미 기획전 <에브리씽 에브리웨어 올 앳 원스+> 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Tue, 21 Feb 2023 07:17:40 GMT</pubDate>
@@ -158,6 +158,14 @@
             <pubDate>Tue, 21 Feb 2023 07:17:40 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.01 ~ 2023.03.01]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/20/rqltnbkdpKQL9bzTdoh4INNimRsC8K9y.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<궁지에 몰린 쥐는 치즈 꿈을 꾼다> 앵콜 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 21 Feb 2023 07:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.26 ~ 2023.02.26]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/22/YhKINMf7arZXTRnzxE8y5ALewhU7ZcpW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 메가박스 아카데미 기획전 <더 웨일> 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1094,6 +1102,14 @@
             <pubDate>Sun, 22 Jan 2023 12:43:30 GMT</pubDate>
             <content:encoded><![CDATA[2016.03.04 ~ 2023.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/02/04/y8iDbdor9E21ccFsJMyhyoE9YODKiKOy.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<대외비> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Tue, 21 Feb 2023 07:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.01 ~ 2023.03.05]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/22/me6FXW21VFPosDyplgUJYrvnYO9ilRTq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<멍뭉이> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
