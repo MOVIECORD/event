@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 09:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 10:21:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Tue, 21 Feb 2023 07:17:52 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.25 ~ 2024.02.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/23/GxzVmS4I7JDhdph639OUMlDu7bSsqt5g.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[구미강동] 구미지역 기업체 할인]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 21 Feb 2023 07:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.23 ~ 2023.06.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/23/GOkGo9ycA5wZGoWZrS3HLOJh0T0AC1ca.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대전유성] 월요일 화요일도 문화의날!]]></title>
