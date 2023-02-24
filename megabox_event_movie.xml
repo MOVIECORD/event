@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 14:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 15:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,14 +160,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/22/f9LJzCjnG5OhN9Yeqzc3SA5aGIX3mHc9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<카운트> 메가토크]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 21 Feb 2023 07:17:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.24 ~ 2023.02.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/21/tWq2ZRPfsGlaGCwhVVjduXR4pv4gI8fB.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[<바빌론> 관람 굿즈 증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -182,14 +174,6 @@
             <pubDate>Tue, 21 Feb 2023 07:17:40 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.23 ~ 2023.03.01]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/21/uZHB9aJtcdFWT0dRam6j1Gmzq7KOa1jk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[두다다쿵: 후후섬의 비밀] 선착순 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 21 Feb 2023 07:17:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.23 ~ 2023.02.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/22/yZE5FCGYWMMXVkhuq60V4A6ZKP4slVOT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<두다다쿵: 후후섬의 비밀> 2주차 현장증정 이벤트]]></title>
@@ -326,14 +310,6 @@
             <pubDate>Tue, 21 Feb 2023 07:17:40 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.13 ~ 2023.03.05]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/03/8uAIpqawh1RRUry1FboZqH3O2k0rfwEg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트나인과 함께 하는 <단순한 열정> 시네마구구]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 21 Feb 2023 07:17:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.13 ~ 2023.02.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/03/g0GubevZ2A48DokFRBOld9SHKyEXw0A2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<바빌론> 2주차 LP 커버 스틸 증정 이벤트]]></title>
