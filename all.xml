@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 03:24:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 05:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <pubDate>Tue, 21 Feb 2023 07:17:40 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.01 ~ 2023.04.05]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/22/h8gVDkQcsEmXipbGAYNRAyezWENYK5eL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[메가박스X시네마캐슬] 시네마캐슬 3월 상영작 안내 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 21 Feb 2023 07:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.01 ~ 2023.03.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/28/2D10gWNYdUCnd3gGcj0OcDoEYPFqcDGH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<더 퍼스트 슬램덩크> 9주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
