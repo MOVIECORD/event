@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 04:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 05:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -222,6 +222,14 @@
             <pubDate>Tue, 21 Feb 2023 07:17:52 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.01 ~ 2023.04.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/16/DeoAwL8BBDlYGfcuQVP8cPtMgVlny2rL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[의정부민락] 삼천원패키지!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Tue, 21 Feb 2023 07:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.01 ~ 2023.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/16/gxnI9NVOT4mmtSz6jyqfynnExo9IxaWj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[광명AK플라자, 광명소하] 광명(AK/소하)지점에서 영화보고 무료쿠폰 받자!]]></title>
