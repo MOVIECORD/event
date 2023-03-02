@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 07:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 08:26:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 21 Feb 2023 07:17:40 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.19 ~ 2023.03.19]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/17/u65LxjjavttFxQxjUGTJE2zUTwK32tEx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<어떤 영웅> 이동진 평론가& 김중혁 작가 메가토크]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 21 Feb 2023 07:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.12 ~ 2023.03.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/02/bFkBCPZPXx33ko74LVBAUeR0tpKoE2zq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 메가박스 아카데미 기획전 <이니셰린의 밴시> GV]]></title>
@@ -94,6 +102,14 @@
             <pubDate>Tue, 21 Feb 2023 07:17:40 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.03 ~ 2023.03.05]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/02/66mXLRtwmIlN5A0CxnPn8pgFOvcNuxbF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카운트] 앵콜! 선착순 빵원티켓 ➕]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 21 Feb 2023 07:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.03 ~ 2023.03.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/23/GmVKajNhlW587dKznr5bfM7WtFnF97f2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<원피스 필름 레드> 스페셜 상영회 2주차 이벤트]]></title>
