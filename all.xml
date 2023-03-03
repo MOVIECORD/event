@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 23:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 03:23:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 21 Feb 2023 07:17:27 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.10 ~ 2023.03.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/01/6M8UQNH7Rx2vbA36C7sQ3jEJCcdbW4TS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<스즈메의 문단속> 굿즈패키지 출시 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Tue, 21 Feb 2023 07:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.03 ~ 2023.04.07]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/03/E5kMN1eVHCg4PhiZ55jzr5hO8jsJzXoX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새학기 새출발! 메가박스 할인 시간표🔔 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -256,12 +264,20 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/02/66mXLRtwmIlN5A0CxnPn8pgFOvcNuxbF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[멍뭉이] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <title><![CDATA[[서치2] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Tue, 21 Feb 2023 07:17:40 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.03 ~ 2023.03.04]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/22/f9LJzCjnG5OhN9Yeqzc3SA5aGIX3mHc9.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/03/pg45Roaj0YWnEed09NngBTpL6fNWBJch.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[멍뭉이] 앵콜! 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 21 Feb 2023 07:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.03 ~ 2023.03.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/03/RiY53Iy8IgtQvlpZcgzEBgczLuAOFPuX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[카운트] 앵콜! 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1022,6 +1038,14 @@
             <pubDate>Tue, 21 Feb 2023 07:17:52 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.22 ~ 2023.03.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/04/22/JfazFggntygIWVR2CJH25BH6XEjmPKHb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[메가박스XCU] WBC 예매하고 팝콘 공짜로 받자! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Sun, 22 Jan 2023 12:43:30 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.03 ~ 2023.03.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/02/iYFanhuQSIRlo5O1TFzIhhDyCFd2W5oH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[삼성카드X메가박스] 3월 만원의 행복 프로모션 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
