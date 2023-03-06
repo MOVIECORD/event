@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 04:24:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 05:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -496,6 +496,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/14/WmofGtKpSqCeBuwwG1CYCDV2RMmkIL3H.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[남포항, 포항] 33삼세번 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Tue, 21 Feb 2023 07:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.15 ~ 2023.05.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/03/iLqcbdYkCpXzCovwepEW9tyVQmtLCnT1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[남포항, 포항] 2023년 기업체 제휴할인 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -542,6 +550,14 @@
             <pubDate>Tue, 21 Feb 2023 07:17:52 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.01 ~ 2023.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/03/JISJJTnCinIFydhCDN7Mdu4iRwSa5QII.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[남포항, 포항] 영화보고 매점 혜택 받자! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Tue, 21 Feb 2023 07:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.01 ~ 2023.03.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/06/UcRLsMZlp7NsbdVDnt2FQFbLxPYK9HES.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대구신세계] 돌비시네마 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
