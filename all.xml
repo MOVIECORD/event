@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 06:26:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 07:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,6 +238,14 @@
             <pubDate>Tue, 21 Feb 2023 07:17:40 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.19 ~ 2023.03.19]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/17/u65LxjjavttFxQxjUGTJE2zUTwK32tEx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<모나리자와 블러드 문> 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 21 Feb 2023 07:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.17 ~ 2023.03.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/09/texcKJnDXILe5sZWtEwfq7SMM1JCSYXn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[유럽 클래식 콘서트 투어] 패키지 특가 판매 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
