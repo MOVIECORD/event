@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 04:24:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 05:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Tue, 21 Feb 2023 07:17:52 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.13 ~ 2023.06.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/10/zQSQbbdmABdHMoyaUNGtRXIFkvIt4z3b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[동대문,상봉] 조조보다 저렴하게, 월요팅 화요팅! 월요일 화요일 가격할인 이벤트!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Tue, 21 Feb 2023 07:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.13 ~ 2023.06.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/10/ONCrxlbW1e3fxlknxDqyMErWFec9jIVW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[수도권동부] <스즈메의 문단속> 개봉 기념 컵홀더 증정]]></title>
