@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 14:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 16:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,22 +14,6 @@
             <pubDate>Tue, 21 Feb 2023 07:18:14 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.14 ~ 2023.03.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/07/2ImXfdiVpTKM75dniZJHPnXzdTxzLSkG.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<그대 어이가리> 개봉주 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Tue, 21 Feb 2023 07:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.11 ~ 2023.03.12]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/07/pG5cTMNDPrzkbttKNNnJHJg8dlGr6ZT4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<대외비> 2주차 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Tue, 21 Feb 2023 07:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.11 ~ 2023.03.12]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/02/7gIDYrkLPExGITBEXDLpc7Xw8LyEb0iS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<???> 메가박스 블라인드 회원 시사회]]></title>

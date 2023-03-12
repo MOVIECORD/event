@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 14:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 16:23:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,22 +110,6 @@
             <pubDate>Tue, 21 Feb 2023 07:17:27 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.27 ~ 2023.03.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/26/HGch5Q1TiyuZq55Tacv1aTbTwDOgSKDW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<대외비> 1PICK 이벤트🤫]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Tue, 21 Feb 2023 07:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.24 ~ 2023.03.12]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/24/k3ud3nCfGGBA8eKAYt29p19VIpc2SXN1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정복자 캉을 대적할 <앤트맨과 와스프: 퀀텀매니아> N차 정복자는 누구?!]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Tue, 21 Feb 2023 07:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.15 ~ 2023.03.12]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/13/Q1M0XT2izr0Q6AEOsBa5twFvKjRxZX24.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[모바일오더로 주문하면 선물이 팡팡!]]></title>
