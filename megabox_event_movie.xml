@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 14:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 16:26:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,14 +224,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/13/jRxqxvbSUekyKEB6qB4WvgyooWxoIfZX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[소울메이트] 앵콜! 선착순 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 13 Mar 2023 18:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.14 ~ 2023.03.15]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/13/sTONVaL87eQ5tU52ocMSt1woPuqkUZch.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[유럽 클래식 콘서트 투어] 패키지 특가 판매 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -270,22 +262,6 @@
             <pubDate>Mon, 13 Mar 2023 18:21:58 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.10 ~ 2023.03.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/08/6a62NG5Eiepwk5sHxbyZ3BUMEtKA6tpB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유럽 클래식 콘서트 투어] 댓글 초대 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 13 Mar 2023 18:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.09 ~ 2023.03.15]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/08/rKmki52Rqn59CzX5lQ2fmmvBqj5NVJBw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 전생했더니 슬라임이었던 건에 대하여: 홍련의 인연> 6주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 13 Mar 2023 18:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.09 ~ 2023.03.15]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/07/iFR5lfQuLwfnsaNQbTXPmZlcphBiHrKc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<더 웨일> 2주차 현장증정 이벤트]]></title>
@@ -400,22 +376,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/28/2D10gWNYdUCnd3gGcj0OcDoEYPFqcDGH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<더 퍼스트 슬램덩크> 9주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 13 Mar 2023 18:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.01 ~ 2023.03.15]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/27/uZZyFStGK4DWQQn5yTllRcvKprJUij6O.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<에브리씽 에브리웨어 올 앳 원스+> 대사집+ 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 13 Mar 2023 18:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.01 ~ 2023.03.15]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/27/7OVqo6MkL2k8QwOiIfa265lUgglgSXA5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[메트오페라 23시즌 오픈 기념] 특별 관람권 패키지 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -462,14 +422,6 @@
             <pubDate>Mon, 13 Mar 2023 18:21:58 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.01 ~ 2024.02.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/31/jWbWvMX7D4pYS3y0rPbXmfAVIqjbJ7uq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<라인> 2주차 현장증정이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 13 Mar 2023 18:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.01 ~ 2023.03.15]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/31/0cO1SVySNy7UrbyrY1rpmpNQK4ZVVI5q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[시즌 안내] 2022/23 로열 오페라 하우스 라이브 시네마]]></title>
