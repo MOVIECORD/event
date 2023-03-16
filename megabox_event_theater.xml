@@ -4,9 +4,33 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 23:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 01:25:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[구미강동] 구미강동점도 배달의 민족!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 13 Mar 2023 18:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.16 ~ 2023.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/16/m6xePC90K3V7dTIKViZKNqi8Yd1DeC6U.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[목동] 회원님들께 드리는  thank you 쿠폰]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 13 Mar 2023 18:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.16 ~ 2023.05.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/16/BoNQewe9AsJ3q4r9IFjNDBZUVrm91USd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파주운정] 만원의 행복 EVENT]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 13 Mar 2023 18:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.15 ~ 2023.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/16/DtL1hUsWyUrcxP0O6c63ZRQpziMryBOT.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[남포항, 포항] 33삼세번]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
@@ -22,6 +46,14 @@
             <pubDate>Mon, 13 Mar 2023 18:22:19 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.13 ~ 2023.06.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/10/zQSQbbdmABdHMoyaUNGtRXIFkvIt4z3b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[의정부민락] 평일 만원의 행복]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 13 Mar 2023 18:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.13 ~ 2023.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/16/2DIz693yHvmcxrYdeQxTF3ZStikkFXCs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[수도권동부] <스즈메의 문단속> 개봉 기념 컵홀더 증정]]></title>
@@ -72,6 +104,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/03/xfqZDBKS2nNfdkXcQyqqJwqSJfya1Od7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[수도권서부] 매콤달콤 양념닭강정 출시]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 13 Mar 2023 18:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.01 ~ 2024.03.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/16/lD7vRNlpIAdWSm8tUpG6Tvvz2mVxQwGo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[성수] 매월 마지막 주 수요일, 성수 부티크 할인]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -102,6 +142,30 @@
             <pubDate>Mon, 13 Mar 2023 18:22:19 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.01 ~ 2023.05.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/10/MY9Ttb88BipTMV0dmBujn4yu06S6yYO3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대전신세계 아트앤사이언스] 더 부티크 스위트 2인 관람권 할인]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 13 Mar 2023 18:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.01 ~ 2023.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/16/DU9QPdX9Qj80PlkzxtzsU7wqZSoWfJxc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대전신세계 아트앤사이언스] 더 부티크 스위트 대관 이벤트!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 13 Mar 2023 18:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.01 ~ 2023.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/16/XwpitZ6KB8BCixBQVchzug8dUmdCInET.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[코엑스] HAPPY BIRTHDAY PARTY IN PRIVATE Ⅱ]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 13 Mar 2023 18:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.01 ~ 2023.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/16/rLZrR6lVNnkrIn1q6woU4TCblZsKCgXF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[영종] SNS 팔로우 인증 이벤트]]></title>
