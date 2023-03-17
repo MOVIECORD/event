@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 04:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 05:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Mon, 13 Mar 2023 18:22:19 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.09 ~ 2023.03.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/03/RNHaONyH9Tv6zoQv2pGazEoX725KeXLC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[안성스타필드] 배부른 녀석들이 온다!!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 13 Mar 2023 18:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.06 ~ 2023.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/17/C8k4vhyjzEnVJ3pd32VbcDDCCHvkmbo6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[양산증산] 양산증산점으로 새롭게!]]></title>
