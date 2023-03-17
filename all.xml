@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 23:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 01:23:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -93,15 +93,7 @@
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Mon, 13 Mar 2023 18:21:37 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.02 ~ 2023.03.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/16/mBcP1jCezh2hqsqP9ZRUmUzjIrSmXctL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새학기 새출발! 메가박스 할인 시간표🔔 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Mon, 13 Mar 2023 18:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.02 ~ 2023.03.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/14/B4DMUFWuWek3ppbik9B5TzVfkmwkhBAy.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/17/783DlObXU7KTt1s0MeixUOsCys1prB2H.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<더 퍼스트 슬램덩크>단독굿즈 콤보 론칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
