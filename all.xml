@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 04:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 05:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,7 +224,7 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/21/yiAhY0ml3p5uLTIkyBWcSkgoqmMxa6aC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[메가박스 대전중앙로 X 애니플러스] 애니특별전 4월 상영작 안내 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <title><![CDATA[[메가박스 대전중앙로] 애니특별전 4월 상영작 안내 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Mon, 13 Mar 2023 18:21:58 GMT</pubDate>
