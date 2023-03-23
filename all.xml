@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 04:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 05:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -648,6 +648,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/14/WmofGtKpSqCeBuwwG1CYCDV2RMmkIL3H.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[울산] 봄맞이 특가 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 13 Mar 2023 18:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.23 ~ 2023.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/23/bR9DdN6jnlqQjUREq9Ro5e0I4UKLx0ov.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[구미강동] 구미강동점도 배달의 민족! (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -678,6 +686,14 @@
             <pubDate>Mon, 13 Mar 2023 18:22:19 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.15 ~ 2023.05.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/03/iLqcbdYkCpXzCovwepEW9tyVQmtLCnT1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[일산] 평일 하루 종일 영화가 만원!! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 13 Mar 2023 18:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.15 ~ 2023.04.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/23/XVsda3yTrQB2bUfl56uDAHFR4G0H0tSx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[동대문, 상봉] 조조보다 저렴하게, 월요팅! 화요팅! (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -1044,7 +1060,7 @@
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Mon, 13 Mar 2023 18:22:19 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.06 ~ 2023.04.30]]></content:encoded>
+            <content:encoded><![CDATA[2023.02.06 ~ 2023.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/16/tdbk2FRD3GfTIY9onhsPOskZ06KoXlJl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1438,6 +1454,14 @@
             <pubDate>Mon, 13 Mar 2023 18:22:19 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.30 ~ 2023.08.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/07/ovZJ1epW05CNadtkmI4rDyt6M50ytsE4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[전대] 북구 구민과 함께 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 13 Mar 2023 18:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.22 ~ 2023.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/22/Cism0O56EwMiTcOhceDbEOjlUrMgNUMC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[코엑스] 프로포즈 인 프라이빗 (메가박스 ─ 이벤트 ─ 극장)]]></title>
