@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 09:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 10:21:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,14 @@
             <pubDate>Mon, 13 Mar 2023 18:21:58 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.01 ~ 2023.04.15]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/23/s4tb9vIRTb4DxfVGuBuLwIZDrkBgufyM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<에어> 개봉 전 프리미어 유료 시사회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 13 Mar 2023 18:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.01 ~ 2023.04.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/27/OP61Pzhl57EoDbfH0j2TXnEfMf1hLoIt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<패왕별희 디 오리지널> 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
