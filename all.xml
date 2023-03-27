@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 04:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 05:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,6 +232,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/23/rvT8sgwYARzdO4r0S6zJLKlplvvkTJBM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<오늘 출가합니다> 관람인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 13 Mar 2023 18:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.05 ~ 2023.04.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/27/PkechWaNgXd4XneVsrraku08i5SpORZb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[클소토크] 마리아 칼라스 : 세기의 디바 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -272,6 +280,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/22/BvYo9IqfJBLFi1JpGo1MCxE4KgBqDExs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<던전 앤 드래곤: 도적들의 명예> 돌비시네마 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 13 Mar 2023 18:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.01 ~ 2023.04.15]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/23/s4tb9vIRTb4DxfVGuBuLwIZDrkBgufyM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<찬란한 나의 복수> 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -294,6 +310,14 @@
             <pubDate>Mon, 13 Mar 2023 18:21:58 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.29 ~ 2023.04.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/13/9EP891Wo99p5s0C5QjwD2IQg9jf3krCO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<이니셰린의 밴시> 3주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 13 Mar 2023 18:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.29 ~ 2023.04.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/27/DVMpBP1w8vjbvBZ1LDb2BuRmd7QojiLJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<스즈메의 문단속> 4주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
