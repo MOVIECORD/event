@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 01:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 02:37:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,14 @@
             <pubDate>Mon, 13 Mar 2023 18:21:58 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.01 ~ 2023.05.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/22/BvYo9IqfJBLFi1JpGo1MCxE4KgBqDExs.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[메가박스X시네마캐슬] 시네마캐슬 4월 상영작 안내]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 13 Mar 2023 18:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.01 ~ 2023.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/28/tEsb044aXOZwx0Gl4cCIDrQ2azitZwQg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<패왕별희 디 오리지널> 오리지널 포스터 현장 증정 이벤트]]></title>
