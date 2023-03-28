@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 14:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 15:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,22 +294,6 @@
             <pubDate>Mon, 13 Mar 2023 18:22:19 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.23 ~ 2023.03.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/23/TAxvlAlUyFyxtCvGtM8BsdkhdZ0wV9uN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[송도] 내 계정에도 미친 할인 쿠폰이!?]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 13 Mar 2023 18:22:19 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.23 ~ 2023.03.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/23/xvUG87DtUXeLAb4RQd9r9QUQn4lmhHb6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[송도] FAST! SALE! 주문 방법]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 13 Mar 2023 18:22:19 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.16 ~ 2023.03.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/16/QirlCTSaRnQJM6WWqR7XWRg14o4KxbJr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[목동] 팝콘이 서비스로?]]></title>
