@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 06:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 07:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -624,14 +624,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/26/wWCZr0ddM2jakUhmneIIfc3v9MCiO0xL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[천안] 추운 겨울 미니붕어빵으로 따뜻하게]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.12 ~ 2023.06.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/26/dAo4SUDyadfgF14eTMnlYjFIVBnwml7z.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[양산] 학생증 인증하고 할인 받자!]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -814,14 +806,6 @@
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.30 ~ 2023.08.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/07/ovZJ1epW05CNadtkmI4rDyt6M50ytsE4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[전대] 북구 구민과 함께]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.22 ~ 2023.06.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/06/22/Cism0O56EwMiTcOhceDbEOjlUrMgNUMC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[코엑스] 프로포즈 인 프라이빗]]></title>
