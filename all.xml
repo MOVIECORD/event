@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 04:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 05:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -262,6 +262,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.05 ~ 2023.04.05]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/23/phXGXqGdL7azKlOnCQQhTvhS4QuGP23o.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[응원상영] 2023 애니페스타 기획전 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.04 ~ 2023.05.05]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/27/bIedxcCgOj4DObvqvyhZYEFf6UidTtca.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[시네도슨트 2023 시즌1] <그리스 신화> 프로그램 소개 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1712,14 +1720,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/02/04/y8iDbdor9E21ccFsJMyhyoE9YODKiKOy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<여덟 번째 감각> 개봉기념 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.02 ~ 2023.04.02]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/28/lsBxqEPOn4UzJQM9E6GFmXelCi8il5ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<더 퍼스트 슬램덩크> 한일 성우 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
             <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
@@ -1742,6 +1742,14 @@
             <pubDate>Wed, 29 Mar 2023 03:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.01 ~ 2023.04.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/27/IWxkUA84QWN3Ud4NPfxER0HeFhTPrJ5m.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<여덟 번째 감각> 개봉기념 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.01 ~ 2023.04.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/28/lsBxqEPOn4UzJQM9E6GFmXelCi8il5ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<라이스보이 슬립스> 메가박스 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
