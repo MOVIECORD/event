@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 05:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 06:24:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.29 ~ 2023.04.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/28/biHmzxJpDEHBiWyMdppWpzUf88oG5Css.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<해피투게더 리마스터링> 장국영 추모 20주기 온라인 사진전]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.29 ~ 2023.04.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/28/nV5VgaZ2sl2ykVyk6oT8Xn63kV8bDhxR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스..그므느..ㅡ은드...]]></title>
