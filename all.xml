@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 09:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 10:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,14 +238,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.06 ~ 2023.11.16]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/10/7kWufW5i0bHQMuFv3NfztsoGoqYbYzv6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<해피 투게더 리마스터링> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.06 ~ 2023.04.20]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/30/NT9Ug5gdYNpIeofdgdL4SZ3KfYUn3z8q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[유럽 클래식 콘서트 투어] 뮌헨 오데온스 광장 콘서트 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1734,6 +1726,14 @@
             <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
             <content:encoded><![CDATA[2016.03.04 ~ 2023.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/02/04/y8iDbdor9E21ccFsJMyhyoE9YODKiKOy.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<리바운드> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.08 ~ 2023.04.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/30/S1AOvQt5Z8g6Vjg4FhGrNxhtHe0169VF.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<더 퍼스트 슬램덩크> 한일 성우 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
