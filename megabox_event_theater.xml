@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 04:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 05:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[대구이시아] 발코니 무비패스 3회권 런칭]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.06 ~ 2023.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/31/qCcWaaUBg3R5nKwif6eVbSk2L1Mq7Ka0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[성수] 2023 성동구 체육시설 이용객 영화 할인]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
@@ -22,6 +30,14 @@
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.27 ~ 2023.12.10]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/31/jSIOueO97flXGiWnAKIOvvvCkZz7hdXk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[목동] 더 부티크 스위트 특가이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.27 ~ 2023.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/31/HZJmA0XSIWjkEy66QGYaVsTLxPSlDIGC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[목동] 더 부티크 스위트 데이]]></title>
@@ -56,6 +72,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/31/r3Yssk4q5lsKcYLY35YqfWlOKrpC0Gsf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[청라지젤] 붕세권 여기에요! 여기!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.17 ~ 2023.08.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/31/jt07LLbjeckzQjbEUpklyBBF2iM5kUCZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[구미강동] 구미강동점도 배달의 민족!]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -70,6 +94,14 @@
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.16 ~ 2023.05.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/16/BoNQewe9AsJ3q4r9IFjNDBZUVrm91USd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[남양주현대아울렛] 선호지점 설정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.15 ~ 2023.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/31/rOpEPYE7IywBkSQ3gYYD1WqOj7ffCI4U.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[파주운정] 만원의 행복 EVENT]]></title>
@@ -192,6 +224,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/16/lD7vRNlpIAdWSm8tUpG6Tvvz2mVxQwGo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[대구신세계] 빅3 체험학습 단체패키지]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.01 ~ 2023.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/31/HAKJMFLFv6HDH7T9awQG54suUB6eOgr6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[성수] 매월 마지막 주 수요일, 성수 부티크 할인]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -222,6 +262,14 @@
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.01 ~ 2023.05.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/10/MY9Ttb88BipTMV0dmBujn4yu06S6yYO3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[신촌] 봄맞이 대학생 할인 프로모션]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.01 ~ 2023.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/31/RHew6wTvMABrq9m3PwGDqDxSmqg2tO2Y.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대전신세계 아트앤사이언스] 더 부티크 스위트 2인 관람권 할인]]></title>
@@ -652,7 +700,7 @@
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.16 ~ 2023.03.31]]></content:encoded>
+            <content:encoded><![CDATA[2023.01.16 ~ 2023.04.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/09/o3ERJIJW6UBjh6c8V7bP6PVXLzWn20qr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
