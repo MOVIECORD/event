@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 08:23:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 09:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,7 +205,7 @@
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.06 ~ 2023.04.20]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/30/NT9Ug5gdYNpIeofdgdL4SZ3KfYUn3z8q.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/03/6zQtDIBB14HFDYpzUX2yjZENWZkpi24k.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[유럽 클래식 콘서트 투어] 뮌헨 오데온스 광장 콘서트 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -246,6 +246,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.05 ~ 2023.04.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/03/YdPwhdgTYnXEXo3UwcLdG9wdeTqO5nxg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<여섯 개의 밤> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.05 ~ 2023.04.19]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/03/1HMZ64iEPQZt25HYrn7zsAs2OuAIID8q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<스즈메의 문단속> 5주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1510,6 +1518,14 @@
             <pubDate>Wed, 29 Mar 2023 03:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.03 ~ 2023.04.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/03/A1lcTMh9EJ9CNU6UpwcPG0HzLGUaZktE.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<렌필드 > 메가박스 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.03 ~ 2023.04.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/03/adIEcFuPO7Jp3D6qlgtU8TVORZZS75xH.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
