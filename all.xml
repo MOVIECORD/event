@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 03:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 04:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -318,6 +318,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.04 ~ 2023.05.05]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/27/bIedxcCgOj4DObvqvyhZYEFf6UidTtca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<존 윅 4> 개봉 전 프리미어 유료시사회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.04 ~ 2023.04.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/04/kOcSIr7ITvEJPNTKpR6LGxZG7SbeYmfH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<존 윅> 스페셜 굿즈 패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
