@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 02:33:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 03:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1534,6 +1534,14 @@
             <pubDate>Wed, 29 Mar 2023 03:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.08 ~ 2023.04.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/30/S1AOvQt5Z8g6Vjg4FhGrNxhtHe0169VF.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<다음 소희>백상예술대상 GUCCI IMPACT AWARD GV 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.06 ~ 2023.04.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/06/kJgs9GQzuvZdiu9pzdIYr15rdFQBAf4Z.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<슈퍼 마리오 브라더스 > 메가박스 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
