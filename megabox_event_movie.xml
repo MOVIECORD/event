@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 14:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 16:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -158,22 +158,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.06 ~ 2023.04.07]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/05/JTbV8dIrDlk7B5ngxfuDExAeN0mLlZNa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<소울메이트> 앵콜 메가토크]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.06 ~ 2023.04.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/29/TtvJc8GXRDbRCsJflUtJ1AnncISC8vzW.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<리바운드> 릴레이 메가토크 1탄]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.06 ~ 2023.04.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/23/6itRtxBoXK15dBf6K1fA8qCqXGeoP17J.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<오토라는 남자> 스페셜 특가]]></title>
