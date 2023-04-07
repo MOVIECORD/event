@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 01:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 02:31:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,6 +150,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.16 ~ 2023.04.16]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/20/TfkpGaeZETFwTCUqGFUmhYIge1tIe8qM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<리바운드> 응원 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.15 ~ 2023.04.15]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/07/naIBB6nG2px8Jo9rq93vEtG9r66O79MZ.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<라스트 필름 쇼> 황석희 번역가 X민용준 기자 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
