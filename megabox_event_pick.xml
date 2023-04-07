@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 14:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 15:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,28 +72,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/03/442KSKhQKevehYSDBMfLWKrPTmnXvXZ8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[메가박스 오리지널 스크립트 No.1 <대외비>]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.07 ~ 2023.04.07]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/07/GT9xyz0HjUqajDHIDJZnqNsCJrk8AFVr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[모바일오더로 주문하고 할인 받으세요!]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.06 ~ 2023.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/06/qo3sZvhN7rf8nQtpmau70IKV8FRCGM4S.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<스즈메의 문단속> 굿즈패키지 출시]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.03 ~ 2023.04.07]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/03/E5kMN1eVHCg4PhiZ55jzr5hO8jsJzXoX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 VIP 혜택 안내]]></title>
