@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Apr 2023 14:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 15:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -552,38 +552,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/27/Ct0m2QPlXqzZfgIspUZ2ijwkcVhV5NsH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<소울메이트> 2주차 주말 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.25 ~ 2023.04.08]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/23/wjvJhis8r5n4Olq2JGFEBTabMHzlWVhI.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<더 웨일> 아카데미 수상 기념 굿즈 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.25 ~ 2023.04.08]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/22/nBDNoE7fWP7O0Ly1iRC34GpMfudY8PrO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<더 퍼스트 슬램덩크> 12주차 주말 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.25 ~ 2023.04.08]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/22/gJnC1PfW2OLjNnkkpwB2laLZv9snWCuQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<에브리씽 에브리웨어 올 앳 원스+> 오스카수상기념 앵콜 뱃지 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.25 ~ 2023.04.08]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/20/Ewd6Qg6fGRQU26tcTUf34Nvw7gJI4B6C.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[클래식소사이어티] 유럽 클래식 콘서트 투어 기획전 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -598,14 +566,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.15 ~ 2023.04.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/04/MJP2tk6KXTVtTo1VNscBQWOOZZj9TmGs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<원피스 필름 레드> 스페셜 상영회 2주차 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.02 ~ 2023.04.08]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/27/d98EFUWbkMVgUB6M2PWuv80N9s7lo8aE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2023 사건 읽는 영화관] 강연 안내 (메가박스 ─ 이벤트 ─ 영화)]]></title>
