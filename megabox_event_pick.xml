@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 23:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 01:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.12 ~ 2023.04.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/10/CmVILzOjZOQ5yg0lRSddVQBohBvgIY5V.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<스파이더맨: 어크로스 더 유니버스> 최초 공개 30초 예고편 보고 경품 받자!]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.12 ~ 2023.04.16]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/11/kTQw3KrZVd7qhSzSEsP9N8HN0loY96pU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 No.73 <에어>]]></title>

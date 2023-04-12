@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 23:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 01:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.20 ~ 2023.07.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/16/7AlRSMCK2h3NfxrZ1ldw59wwwU611pIJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[유럽 클래식 콘서트 투어] 프라하 블타바 강변 콘서트 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.20 ~ 2023.04.29]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/12/fknKIaxkNEdmKTPAMdQnqV46TG4uRdNR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[시네 마인드 런] 첫 번째 강연: 불안의 심리학]]></title>
@@ -88,6 +96,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/11/PGIkMuyhFSUvqVUqNPUGL1icZyhILDey.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[라이스보이 슬립스] 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.13 ~ 2023.04.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/11/P1jCEjWCxkvGyVZM7QgA6JSszFjw8eBv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<라스트 필름 쇼> 개봉기념 현장증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -142,6 +158,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.12 ~ 2023.04.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/04/eHgiHpLhDU2cm3BPoqwRfeKI4XDEue6Y.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트나인과 함께 하는 <라이스보이 슬립스> 시네마구구]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.12 ~ 2023.04.22]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/12/zifJLJB5wMSfdelANvCwfuYQwWbglgVQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[리바운드X넥슨] 앵콜! 넥슨캐시 1만원 증정]]></title>
