@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 04:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 05:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -814,6 +814,14 @@
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.30 ~ 2023.08.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/09/07/ovZJ1epW05CNadtkmI4rDyt6M50ytsE4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[메가박스 11개지점 입점] 셀픽 사진인화 50% 할인 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.17 ~ 2023.05.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/17/DunoraoehdxHmUgjUZwqQEqfXtH2GWAY.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
