@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 05:28:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 10:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,12 +16,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/18/q3FNncWIVynO7m1rhqER1LgMh9oCXr3b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<스즈메의 문단속> 신카이마코토 감독 흥행 감사 내한 무대인사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.28 ~ 2023.04.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/19/02GYdDfqeeQ8zqr0amlderJa62JvOqpK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<드림> 개봉일 무대인사]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
             <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
             <pubDate>Wed, 29 Mar 2023 03:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.26 ~ 2023.04.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/13/pxToSIESntEu3elx9YKIf9sJUDv6ROas.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<킬링 로맨스> 2주차 무대인사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.22 ~ 2023.04.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/19/3SHS8NE3qh6TLYJ56jcSvxEFmMyX2psM.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
