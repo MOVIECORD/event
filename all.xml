@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 08:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 09:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -198,6 +198,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.20 ~ 2023.05.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/18/K5kBjDmQmDwl5iq0fgs2XMyoAro0rpGg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트나인과 함께 하는 <토리와 로키타> 아트나인 시네마구구 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.20 ~ 2023.05.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/20/5K2FAluWTMh3IjBUu913vEUau6iLsGut.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[유럽 클래식 콘서트 투어] 프라하 블타바 강변 콘서트 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
