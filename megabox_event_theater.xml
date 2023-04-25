@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 14:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 16:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,14 +72,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/12/4PusKTaQ6sYXXM4WMWRjxu6xuCbQzrfT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[수도권남부지역] Re,Play! 애니메이션 기획전]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.05 ~ 2023.04.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/04/Vq5FTeZdcpG8ZjlrNva4BqTYyIEMFu2c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[송도] 영화 최저가 도전!]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -94,14 +86,6 @@
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.03 ~ 2023.05.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/05/ccPpn1gBxS22DuSXV4zviODoeaSedojy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[금정AK플라자] 팝콘시네마]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.03 ~ 2023.04.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/05/XE3GvvBcr0J6gQVtNnia1XEvuAdzzxEw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[송도] FAST! SALE!]]></title>
