@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 06:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 07:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1200,6 +1200,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/16/pGOtaSdWIk9iZdOPPHhhFgurY881GLqG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[대구이시아] 발코니 평일 스페셜 할인 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.01 ~ 2023.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/16/DeoAwL8BBDlYGfcuQVP8cPtMgVlny2rL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[이수] 3천만큼 할인해~ (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -1230,14 +1238,6 @@
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.01 ~ 2023.04.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/16/aeO1PicEutqzPpry16pfT0MXhXWwMjfc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대구이시아] 발코니 평일 스페셜 할인 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.01 ~ 2023.04.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/16/DeoAwL8BBDlYGfcuQVP8cPtMgVlny2rL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[의정부민락] 삼천원패키지! (메가박스 ─ 이벤트 ─ 극장)]]></title>
