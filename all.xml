@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 07:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 08:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,12 +128,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/17/Tt2pquhGiGHbCNXYT4pfiUdiCgUPEq5i.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<리턴 투 서울> 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.11 ~ 2023.05.11]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/02/nHGZwN3u6dhro0xtVfPYtNzY6smWxW2A.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<강수연, 영화롭게 오랫동안> 1주기 추모전 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.07 ~ 2023.05.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/27/UVFYkX6BqLz0ilxDzQkHDBOodGjLtxR0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<무명> 2주차 주말 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.06 ~ 2023.05.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/02/rgxYyVoCwsuIkbOaVOc1EBe5lCGvseLz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<더 퍼스트 슬램덩크> 어린이날 기념 북산VS산왕 특별 응원상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -166,6 +182,30 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.02 ~ 2023.05.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/02/S2K2lwBERf6s28UnZgxwvmd7mu1rJAtR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<드림> 개봉 2주차 현장 경품 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.02 ~ 2023.05.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/02/CHUyk5hHs7zGPj29wc6f0IYqAZS4nXA3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<라이스보이 슬립스> 3주차 현장 경품 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.02 ~ 2023.05.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/02/7lEaUYxmcUf6jEBPPdJbPEWPQO33Lc9K.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<항구의 니쿠코짱!> 2주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.02 ~ 2023.05.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/02/E9t4muvCh62qJPSTlfuQ7uNRYiDL2VFW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[분노의 질주: 라이드 오어 다이] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
