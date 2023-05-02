@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 06:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 07:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.03 ~ 2023.05.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/02/4Uj2kT8F0W93VTP95AE2qqFSx1IHYjNq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<극장판 짱구는 못말려: 동물소환 닌자 배꼽 수비대> 개봉 기념 콤보 론칭!]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.02 ~ 2023.05.21]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/02/FjiFDDxfmskCQPcFCD7PiQclcwmP9J0x.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Welcome to MEGABOX👋 신규 가입 이벤트]]></title>
