@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 06:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 07:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,6 +150,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.11 ~ 2023.05.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/02/nHGZwN3u6dhro0xtVfPYtNzY6smWxW2A.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<유랑지구2> SNS 관람 인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.10 ~ 2023.05.21]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/03/7i388QEkRhpbXUvf0ZxaMULyh09BwN8G.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<강수연, 영화롭게 오랫동안> 1주기 추모전 (메가박스 ─ 이벤트 ─ 영화)]]></title>
