@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 06:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 07:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -166,6 +166,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.18 ~ 2023.07.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/16/7AlRSMCK2h3NfxrZ1ldw59wwwU611pIJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<슬픔의 삼각형> 이동진 평론가 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.16 ~ 2023.05.16]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/04/KFm9CDG3TzL1nnoFkdSd2v2o0MsrBXXR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<슬픔의 삼각형> 개봉 전 프리미어 시사 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -560,6 +568,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/14/WmofGtKpSqCeBuwwG1CYCDV2RMmkIL3H.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[용인기흥] 3주년 팝콘해! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.08 ~ 2023.05.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/04/HWn8nIpiltqjT9EYr2iPY2JTN1rMQEeJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[세종(조치원)] 어린이 룰렛 한판! (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -574,6 +590,14 @@
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.04 ~ 2023.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/04/yX5Ejf83CrKJpDtudEs71IVvnAryMbyC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[하남스타필드] THE BOUTIQUE SUITE 특별가 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.01 ~ 2023.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/09/srjJIkCQAsULcEXeyb5IkDCQAwrz4V9z.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[부산대] 오픈 7주년 기념 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -680,6 +704,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/12/SUzAvAOZ0qg0DtAynDO4F1IIbkGyuJFV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[더 부티크 목동현대백화점] 리얼월드 예고된 테러 게임참여 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.10 ~ 2023.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/04/jSZWSL3A7Q8qB68O3peKuAWJjDrzNuhe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[청라지젤] 영화는 누워서 봐야 제맛! (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -702,6 +734,14 @@
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.01 ~ 2023.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/28/fOMHxNM4bJP8xUDzV8eZdryZTTB6IgOQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더 부티크 목동현대백화점] 리얼월드 인스타그램 인증 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.01 ~ 2023.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/04/R4oYEJjipiS2aqbkIGfB6d2UDXxEcKPc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[송도] FAST! SALE! (메가박스 ─ 이벤트 ─ 극장)]]></title>
