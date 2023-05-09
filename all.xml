@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 23:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 01:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,6 +246,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.11 ~ 2023.05.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/02/nHGZwN3u6dhro0xtVfPYtNzY6smWxW2A.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<바람개비> SNS 관람 인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.10 ~ 2023.05.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/09/OS9quZdQxZxevsSH5WkkgEa4YFM6Iek0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<리턴 투 서울> 개봉 2주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1459,7 +1467,7 @@
             <title><![CDATA[undefined (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
             <link>https://MOVIECORD.github.io/event/all.xml</link>
             <guid>https://MOVIECORD.github.io/event/all.xml</guid>
-            <pubDate>Mon, 08 May 2023 23:18:52 GMT</pubDate>
+            <pubDate>Tue, 09 May 2023 01:19:50 GMT</pubDate>
             <content:encoded><![CDATA[해당 이벤트가 없습니다.]]></content:encoded>
         </item>
     </channel>
