@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 22:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 01:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -270,6 +270,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.11 ~ 2023.05.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/08/y0D1JYpFLqNGiH0FX08ycGYVQsF6GJxs.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[로열 발레] 신데렐라 1+1 쿠폰 선착순 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.11 ~ 2023.05.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/10/xElF6Fa2lcHVi3QygZNW4khNT7HRc8DY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<칠중주: 홍콩 이야기> 개봉주 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
