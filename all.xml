@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 01:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 02:36:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.17 ~ 2023.05.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/10/yYxVljpX4fFFAwytHVPtGATf7KulPTF1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<아기공룡 둘리: 얼음별 대모험 리마스터링> 주말 프리미어 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.17 ~ 2023.05.21]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/17/P5mKDdmTdRvNkF9bCkx1xaTq3OiDNepf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[범죄도시 3] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
