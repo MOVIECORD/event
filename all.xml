@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 05:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 06:22:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -726,14 +726,6 @@
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.01 ~ 2023.05.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/27/8Ixr1OncwmOPJK0Cmy46Lubqr1DmlsP5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[대전] 꽝 없는 추억의뽑기 도전 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.29 ~ 2023.07.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/28/NfvExHLEpeZt5CkL6Vebn4kA77m6C0r0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[상봉] 한정수량 귀여운 스쿠비 한마리 데려가세요~ (메가박스 ─ 이벤트 ─ 극장)]]></title>
