@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 06:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 07:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -374,14 +374,6 @@
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.01 ~ 2023.05.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/10/MY9Ttb88BipTMV0dmBujn4yu06S6yYO3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대전] 조건없는 영화할인! 팝콘은 덤!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.27 ~ 2023.06.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/10/lQtI51QENCo1I7d5HCcCEoxugFZIxOvE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[구미강동] 영화보고 적립하면 팝콘+탄산 공짜!]]></title>
