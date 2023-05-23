@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 05:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 06:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -750,6 +750,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.17 ~ 2023.05.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/16/7swUwqDaO9DyUIXR4n99M0jfoRkL2qJ2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[성수] 제 20회 서울국제환경영화제 진행 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.01 ~ 2023.06.07]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/23/Lwj4cNvNunrHOHn2gbZczOP7JOKWXo45.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[수도권남부지역] 어디서든 예술치유 <힐링씨어터> (메가박스 ─ 이벤트 ─ 극장)]]></title>
