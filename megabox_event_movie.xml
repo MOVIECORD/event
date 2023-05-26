@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 03:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 04:20:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,30 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.06 ~ 2023.06.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/10/h0EJJin2hTguquC4trRpSL1yYrHKTc8t.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<극장판 짱구는 못말려: 동물소환 닌자 배꼽수비대> 5주차 현장 굿즈 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.02 ~ 2023.06.16]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/26/nzmZDUwfKYBfkxIBHrXHQRtwoGutKJ4I.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<사랑하는 당신에게> 개봉 기념 현장 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.31 ~ 2023.06.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/26/B1XVnFjK8b2OQozD9c780ISfAHXTm2Ms.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<슬픔의 삼격형> 칸영화제 배지 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.31 ~ 2023.06.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/26/cH7TOMOLkPyEgSQ6UGUGNtqGlZXewU4c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<드림팰리스> 메가토크]]></title>
