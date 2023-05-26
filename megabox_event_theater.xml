@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 14:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 15:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.26 ~ 2023.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/26/25dXpfsiVXlPnGKfZJMgW9kl9OfjvMbh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[수도권남부지역] 어디서든 예술치유 <힐링씨어터>]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.23 ~ 2023.05.26]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/18/hxrsH0pzXunBAzeQmzj6jONdDjE1uczF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[동대문, 상봉] 달콤바삭 크런키딸기초코라떼 런칭]]></title>
@@ -126,14 +118,6 @@
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.26 ~ 2023.06.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/28/5UWw13QoUebQUjosdV5r8G1ccmo3fxKr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[남춘천] 후르츠 팝콘 한정 판매]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.26 ~ 2023.05.26]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/28/FgWmZLWIlbWSYotRR28pDgc2VwXmsslo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[사상] 사상 첫 돌잔치!]]></title>
