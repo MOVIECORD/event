@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 14:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 15:24:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,22 +64,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/12/KFCVcDQxUimgzahlDIbxHRhOfon1Vmsf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<분노의 질주: 라이드 오어 다이>콤보 론칭]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.12 ~ 2023.05.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/12/gxbMGwJezVTEugWwVyTusRRY2WIzMHqF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<가디언즈 오브 갤럭시: Volume 3>OST 콤보 론칭]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.10 ~ 2023.05.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/10/5DYJgRzel8LB7AhX5RXiqpeNl0r8GxX8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[THANK YOU REAL HERO 소방관 우대 할인]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
@@ -88,36 +72,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/04/RRIa4QGWhTq1PZnBGwR36rYJjq9Di175.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<가디언즈 오브 갤럭시: Volume 3>콤보 론칭]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.03 ~ 2023.05.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/03/FzVDbRyWKKaRF2LXkbuJ2SuIRwrCQvxA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가정의 달 MGBX FAMILY FESTA🎉]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.01 ~ 2023.05.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/26/EpflHoqFIOmNOm7S4KPq85cDWYeYJVWu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[FRIENDS 회원 스탬프 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.01 ~ 2023.08.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/30/Hflfpd02hHfmGXhfCVMVjilveIiPU5EZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Welcome to MEGABOX👋 신규 가입 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.01 ~ 2023.05.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/04/27/aEuiU6f8wsQYydT5zLY03PJG55donGNT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[모바일오더로 주문하고 할인 받으세요!]]></title>
