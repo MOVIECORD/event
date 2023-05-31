@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 09:27:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 10:21:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -406,14 +406,6 @@
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.23 ~ 2023.06.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/23/F6FHoPPlcFCVp2ClLkB01WxejRJSKrJ5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[목동] 팝콘이 서비스로?]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.15 ~ 2023.06.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/03/EWfap4ggPbzcfRrLxg83nmSIaOI3nbnL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[마곡,화곡] 2년전 티켓 가격으로 영화를 즐기세요!]]></title>
