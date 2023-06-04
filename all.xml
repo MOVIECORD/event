@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 14:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jun 2023 15:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.15 ~ 2023.06.15]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/15/IpsZmVy0zEeoKJY8peVCcXDAnU5ejiGS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가피크닉팩 구매하고 2023스프라이트워터밤 가자! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.12 ~ 2023.06.04]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/12/KFCVcDQxUimgzahlDIbxHRhOfon1Vmsf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[THANK YOU REAL HERO 소방관 우대 할인 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
