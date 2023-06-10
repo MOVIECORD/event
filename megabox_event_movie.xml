@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Jun 2023 14:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jun 2023 15:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,36 +168,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/05/NaoK3YdFPAcBmZp79lS9dDGNpGAy2QQj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<아기공룡 둘리 : 얼음별 대모험 리마스터링> 굿즈패키지 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.10 ~ 2023.06.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/08/tE1V5rwQ29gGYcqtc0qQZTAcfGfLdzdI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[6월 클래식 음악회] 포인트 더블 적립 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.09 ~ 2023.06.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/25/HskQ4Nz0hhxkiIWjBp3Tbc4RvDGLJRUx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스파이더맨: 어크로스 더 유니버스] 선착순 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.09 ~ 2023.06.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/08/lXPbJx2J82YPqVrNhKcIuZbFhNfIYoGL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[귀공자] 선착순 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.09 ~ 2023.06.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/08/NCFmcYNoTEy4TYu4d65ffJ0bQplCr9K4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[시네 마인드 런] 강연 안내]]></title>
@@ -262,14 +238,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.07 ~ 2023.06.21]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/05/7LYAiqeDSMUPKcxB1a3XbSPcXDocAGRS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트나인과 함께 하는 <그 여름> 시네마구구]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.07 ~ 2023.06.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/07/vMLDUiLEYaqjiW0W0GlPoXqDUGQqjhco.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<아기공룡 둘리: 얼음별 대모험 리마스터링> 고길동 레터 증정 이벤트]]></title>
@@ -374,22 +342,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.31 ~ 2023.06.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/26/cH7TOMOLkPyEgSQ6UGUGNtqGlZXewU4c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<슈퍼 마리오 브라더스> 5주차 주말 경품 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.27 ~ 2023.06.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/23/zrL0rJlZ8l7tZuimZ2WbZegHOczviqPx.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<슈퍼 마리오 브라더스> 4주차 주말 경품 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.20 ~ 2023.06.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/12/vGWhgWARMLlW8mbBJylsPVmBkAgyAdjP.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[슬픔의 삼각형] N차의 역삼각형]]></title>
