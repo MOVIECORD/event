@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 07:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 08:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/12/4lRtcuuWvBIQ7bQmLIl4Y8nWPC1PpU4c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<플래시> 돌비 포스터 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.17 ~ 2023.07.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/12/l3f4q2WpoZ0gslOw6UOfMqtnUzdrAClG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<말없는 소녀> 굿즈패키지 상영회]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -72,12 +80,36 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/08/oIwxgS9OgpWiTIN6Q3qYvlt6PTfeNEhJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<말없는 소녀> 3주차 현장 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.15 ~ 2023.06.29]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/12/YvSmUCwLfW2gIrUSbTpTWEZ9BDgqNkds.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<슬픔의 삼각형> 이동진 평론가 앵콜 메가토크]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.15 ~ 2023.06.15]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/12/OKHiKYqtsf2QdQetT1hzlxILanAvYjLP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<너의 눈을 들여다보면> 개봉주 현장 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.14 ~ 2023.06.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/12/4MJHoiUHuvaSyE9iBGlqicbsGstRsBis.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<그 여름> 2주차 현장 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.14 ~ 2023.06.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/12/8RbbjyzhP3phYqlzYUTqZGtzRanHhLto.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<슬픔의 삼각형> 5주차 현장 증정 이벤트]]></title>
