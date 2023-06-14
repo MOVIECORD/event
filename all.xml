@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 23:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 01:27:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.14 ~ 2023.06.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/09/1P4zhiAIU6UQAOvZNr2Vb7NT1FNvp7K9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[플래시] 냥사원X숑PD 배우 감독 제작 인터뷰 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.14 ~ 2023.06.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/14/Vtv4kzMfbJqTBGDbxUZQogrvWTd3n0Ur.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스가 주는 회춘 선물! HAPPY YOUTHDAY😊 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -318,6 +326,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.14 ~ 2023.06.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/09/VRsSi8fNkAZtGcnQdhC3lEarkYb0nkVK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<너의 눈을 들여다 보면> N차 관람 SNS 인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.14 ~ 2023.06.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/13/445yHK8wL9HKV9tSCEbUCo2Vrx4PvGCA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[워너 필름 소사이어티 시즌2] 런칭기념 기대평 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
