@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 09:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 10:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,6 +238,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.17 ~ 2023.07.01]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/12/l3f4q2WpoZ0gslOw6UOfMqtnUzdrAClG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<자우림, 더 원더랜드> 스페셜 포토북 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.17 ~ 2023.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/15/AywPRq8UkWzLPuyL4WTzVII8FPUT35pd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<엘리멘탈> 개봉 기념 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
