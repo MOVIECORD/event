@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 05:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 06:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,12 +48,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/18/92DZD7j8aRUhcsX2ErVJSBsr5ExzHWVl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<플래시> 워너 플레잉카드 시리즈 1탄 플래시 카드 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.21 ~ 2023.07.05]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/16/3vebwuH9L3OfwFVen3wp6zYO5GW8LOKz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<스파이더맨: 어크로스 더 유니버스> 돌비 포스터 증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.21 ~ 2023.07.05]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/24/ksFuqtRxvanAlQAgPF5RK3Xb7OORkXyQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<손> 스페셜 특가 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.21 ~ 2023.07.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/16/AX0i6XjPykAPTknErFcUUpJfy4nCpksE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[귀공자] 선착순 빵원티켓 ➕]]></title>
@@ -118,6 +134,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.17 ~ 2023.06.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/13/vvJlcMhn1JHJrp60L0WGuKunHqCETXk4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<트랜스포머: 비스트의 서막> 굿즈패키지 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.17 ~ 2023.06.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/16/CWMuPV6WxbpXJrMZfSUxahtpSl2xHqti.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<말없는 소녀> 굿즈패키지 상영회]]></title>
