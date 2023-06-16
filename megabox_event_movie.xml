@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 02:43:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 03:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.28 ~ 2023.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/14/dvKc8ZGxz2tkUSLIBXXDNGWfGrkep6IV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<인디아나 존스 : 운명의 다이얼> 곽민수 소장 스페셜 GV]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.27 ~ 2023.06.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/15/cn1Yugf5WVisVj9w7uFbPzobhS903nf4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[존 크랑코 서거 50주년 기념] <오네긴> GV]]></title>
@@ -38,6 +46,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.21 ~ 2023.07.05]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/24/ksFuqtRxvanAlQAgPF5RK3Xb7OORkXyQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[귀공자] 선착순 빵원티켓 ➕]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.19 ~ 2023.06.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/15/R0MtrMRL6HaY1zbA8tybLx1hcvmFV2f1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<슬픔의 삼각형> 앵콜 굿즈패키지 상영회]]></title>
