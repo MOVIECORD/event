@@ -4,9 +4,25 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 23:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 01:28:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[수도권서부지역] 어른들의 놀이터, 스몹 할인받자!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.16 ~ 2023.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/16/Sh8UDzAhjqe99PZVF6TSrS9x4tWdJSzx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사상] 영화는 할인! 팝콘은 무료?!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.14 ~ 2023.09.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/16/HHci9Dzh9g4xHev7Z3nP02kwAianaeB1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[부산경남지역] 영화쿠폰의 비밀번호는 486!]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
