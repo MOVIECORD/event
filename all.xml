@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 01:28:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 02:44:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,6 +246,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.25 ~ 2023.06.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/18/92DZD7j8aRUhcsX2ErVJSBsr5ExzHWVl.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트나인과 함께 하는 <위대한 작은 농장> 시네마구구 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.22 ~ 2023.06.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/22/q7c716cxjMKqDWKsY5mVFTkY7Qo8ENOy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인디아나 존스: 운명의 다이얼] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -598,14 +606,6 @@
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.13 ~ 2023.07.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/22/lYvh9Hm1azfGygwBm4ew3sAwY6y04FEP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[구미강동] 월화수목금 이벤트! (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.03 ~ 2023.09.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/22/EjKC2OIbIZmw66xX5ik1PTZWCyiZNfoo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[동대문] <프리! 더 파이널 스트로크> 특별상영회 (메가박스 ─ 이벤트 ─ 극장)]]></title>
