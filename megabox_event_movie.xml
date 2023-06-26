@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 04:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 05:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,22 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.28 ~ 2023.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/14/dvKc8ZGxz2tkUSLIBXXDNGWfGrkep6IV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<스파이더맨: 어크로스 더 유니버스> 스파이더 보이즈 포토카드 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.28 ~ 2023.07.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/26/WK74LjQC9LXqNNq23agJRR8qDYtZ6npG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<너의 눈을 들여다보면> 개봉 3주차 현장 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.28 ~ 2023.07.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/26/B2NVI3C3Ah1KJzdK9qd6srgXNHmU6Qg3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<범죄도시3> 개봉 5주차 현장 증정 이벤트]]></title>
