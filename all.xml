@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 23:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 03:33:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -222,6 +222,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.05 ~ 2023.07.19]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/27/a4ASAInlMMe6MDY8tJv6TdhMePC3B1vD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<엔니오: 더 마에스트로> SNS 관람 인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.05 ~ 2023.07.18]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/29/5c72meeS8DbIwp6UdoZzRKi7rZN5Zn8w.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<에고이스트> 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
