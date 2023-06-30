@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 14:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 15:19:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -174,14 +174,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.30 ~ 2023.07.01]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/29/nXioMEit4ZcfpWadtYaDzVnD2mCnWgyR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<엔니오: 더 마에스트로> 메가토크]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.30 ~ 2023.06.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/26/d2muVRSjbyD7fhtOAO0r3jQiRACPiUa1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<극장판 피노키오 위대한 모험> SNS 기대평 이벤트]]></title>
@@ -398,14 +390,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.17 ~ 2023.07.01]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/12/l3f4q2WpoZ0gslOw6UOfMqtnUzdrAClG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<자우림, 더 원더랜드> 스페셜 포토북 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.17 ~ 2023.06.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/15/AywPRq8UkWzLPuyL4WTzVII8FPUT35pd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[존 크랑코's 발레 3부작 기획전] 스탬프 챌린지]]></title>
