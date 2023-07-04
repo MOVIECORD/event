@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 01:46:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 03:02:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,6 +150,30 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.05 ~ 2023.07.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/30/nFSxatnKTTqGXwCvhK64hWyZ2PFQpA53.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[여름날 우리] 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.05 ~ 2023.07.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/20/B42YTQ8grPCa8EeL0giIV89YqwFPHeVA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인디아나 존스: 운명의 다이얼] 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.05 ~ 2023.07.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/04/98e3RN4w13rOLxsoRzLzBqvl4DuI5PZr.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[악마들] 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.05 ~ 2023.07.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/04/zTwekRfpvXXE1Ay8xbjza5VUkcxBrA4W.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘리멘탈] 선착순 빵원티켓]]></title>
