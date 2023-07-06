@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 05:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 06:27:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -214,6 +214,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.07 ~ 2023.07.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/06/z8DUFIUW8tHSqI0Lxx4tKkYB9VbNQsJV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[빈틈없는 사이] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.07 ~ 2023.07.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/03/vSId5KWCO3XzDMhDt84Fb6TBNl5nz6gi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<풍재기시> 정성일 평론가 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
