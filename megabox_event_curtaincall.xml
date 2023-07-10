@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 01:45:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 03:04:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<밀수> 스페셜 무대인사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Tue, 09 May 2023 05:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.23 ~ 2023.07.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/10/0lxAaUGEkTFEaN9bVKIiB3zchX7PMj7i.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<해피 메리 엔딩> 무대인사]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
