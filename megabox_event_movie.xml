@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 05:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 06:25:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,12 +56,44 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/11/tRDu7ACmEFXsuOdFarFKWaAMQPczzOiB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<극장판 슈퍼윙스: 맥시멈 스피드> 개봉주 현장 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.20 ~ 2023.08.03]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/17/TDplvlmp9pcMCxD7C4JCZfnwfYQ03XCF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<슈퍼 키드 헤일리> 개봉 기념 현장 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.20 ~ 2023.07.26]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/17/2QazXnykIrGTnK6OIdkOguTAUC1QTcrn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<명탐정코난: 흑철의 어영> 1주차 현장 증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.20 ~ 2023.07.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/12/jy51gyP1vb4iyckJqi1utZBMu1wv6Aa1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<여름날 우리> 4주차 현장 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.19 ~ 2023.08.02]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/17/DWXxdoqpcgyBKGh0mb4XngTPiAfq9hOR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<보통의 카스미> 개봉주 현장 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.19 ~ 2023.08.02]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/17/7upZfFVODFd9LwjTGgKueARItrVs1nBJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<미션 임파서블: 데드 레코닝 PART ONE> 2주차 현장 증정 이벤트]]></title>
@@ -78,6 +110,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.18 ~ 2023.07.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/05/wImn8PcYkoklSDEhAZplm69ngbSrWKv9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트나인과 함께 하는 <에고이스트> 굿즈 패키지]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.17 ~ 2023.07.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/17/yJ4aCFSTXo2ZVjSiK1cWUVUZFpBns2Lb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<몬스터 패밀리2> 포토존 SNS 인증 이벤트]]></title>
