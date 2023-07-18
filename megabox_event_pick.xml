@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 23:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 01:57:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,14 +142,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.26 ~ 2023.09.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/26/2nuCXCJFiIYYUe73t0g4m4nqTt8hlNZM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 오리지널 티켓 No.82 <엘리멘탈>]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.19 ~ 2023.07.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/19/65uvPN9T13sNva9DRBs5kYpvbrU1MpUQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[FRIENDS 회원 스탬프 이벤트]]></title>
