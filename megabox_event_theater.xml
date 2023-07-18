@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 14:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 15:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -334,14 +334,6 @@
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.01 ~ 2023.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/10/ZlhmX13RNp3TYrcyvsdqE9Uzr4cYKGqb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[천안] 선호지점하면? 할인쿠폰 증정!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.20 ~ 2023.06.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/23/hVXwEGft5dPSyZe5E2jKtrH2NwPK3PKN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[사상] 렛츠런파크 부산경남 할인 이벤트]]></title>
