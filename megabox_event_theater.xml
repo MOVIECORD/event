@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 03:30:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 04:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -464,7 +464,7 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/23/FPMQd112CF6JzsQVO1YRyCsZFCG6E4B3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[광명AK플라자, 광명소하] 달달팝콘권!]]></title>
+            <title><![CDATA[[광명AK플라자] 달달팝콘권!]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
