@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 14:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 15:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,14 +134,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.28 ~ 2023.07.21]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/26/pT1eseVka576GCNkCv0rsMdiqZYUNHm4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 매니아 티켓 <스파이더맨: 어크로스 더 유니버스> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.28 ~ 2023.07.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/26/EKvjv88RfHLFxx0Emz9Bv3In6TCyOQPR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[굿즈는 이제 모바일 티켓으로 받아보세요! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -317,7 +309,7 @@
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.20 ~ 2023.07.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/19/nh3nb6oLMpQaVj11nwKvOBliBIU6uvqH.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/19/A430micVATzVy6qQs5CbHF943UeUdJF2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[비공식작전] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -526,78 +518,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.05 ~ 2023.07.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/03/5k3TzQGzUvS3tafeNBtbfXxbv4IVPHni.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<어디로 가고 싶으신가요> 1주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.05 ~ 2023.07.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/04/Z70PMicGYtgn8sCpqkhApYyDiMxYjDP6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<보 이즈 어프레이드> 개봉주 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.05 ~ 2023.07.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/04/Mw7v87p8jDOaIGxclHUIlG1OAXtt727i.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<여름날 우리> 2주차 주중 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.05 ~ 2023.07.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/04/snmyYa5ToXykVFVPcLGb2EcONymY0K5O.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<너의 눈을 들여다 보면> 4주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.05 ~ 2023.07.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/04/CyYsx6CGR03QOU5wwXWCoWVeBmI5j5D1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<엔니오: 더 마에스트로> 1주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.05 ~ 2023.07.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/03/GAJbuPJA0YMFxli2lQsslDfPBZTtzsGa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<풍재기시> 개봉 기념 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.05 ~ 2023.07.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/03/HViBT6MZnEuFndwBrgFL9FPWFJAWLsPT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<스파이더맨: 어크로스 더 유니버스> 한국화 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.05 ~ 2023.07.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/30/sfM7OXUg7PUlIRDw4JfxzDzL18S4gwOc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<플래닛> SNS 관람 인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.05 ~ 2023.07.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/27/yq8gItSaI9Wos42bnoRQDmwjpaTVxnUM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<슈퍼 키드 헤일리> SNS 기대평 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.05 ~ 2023.07.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/27/a4ASAInlMMe6MDY8tJv6TdhMePC3B1vD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[로열 발레 - 잠자는 숲속의 미녀] 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1566,14 +1486,6 @@
             <pubDate>Tue, 09 May 2023 05:16:38 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.19 ~ 2023.07.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/19/3DukuaPjYWJMzCaBzCBFENCk79UN5E77.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<슈퍼 키드 헤일리> 메가박스 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Tue, 09 May 2023 05:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.28 ~ 2023.07.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/28/o84GWnJAzNjwkAMWItjGEydsXkXvhztV.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
