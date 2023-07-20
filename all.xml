@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 06:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 08:22:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -398,6 +398,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.19 ~ 2023.07.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/19/D1StJYjPePeWmY0OH6a8hOZXNksKAlLQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<몬스터 패밀리2> SNS 기대평 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.18 ~ 2023.07.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/17/Yr1v0AYJqimvFWuVNpeWp8YSRv99BUeL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아트나인과 함께 하는 <에고이스트> 굿즈 패키지 (메가박스 ─ 이벤트 ─ 영화)]]></title>
