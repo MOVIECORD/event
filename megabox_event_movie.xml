@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 01:30:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 02:49:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.20 ~ 2023.08.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/18/X5fYj81iocuFaNXFh4vOEmFJGBMxzA9f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<밀수> 메가토크]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.08 ~ 2023.08.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/25/qSAzqjwS95bzF3OL3iKqFrl2uEowqEYi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[클래식 라이브] 2023 썸머 클래식 페스티벌 중계]]></title>
@@ -62,6 +70,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.27 ~ 2023.08.19]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/27/BMbeiQGzlWVsgHJCqmzvnUAXVS1dKhl5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<극장판 슈퍼윙스: 맥시멈 스피드> 2주차 현장 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.27 ~ 2023.08.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/25/Tf617aYI75LcDQfPMRAv4mffOKX69eWL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<슈퍼 키드 헤일리> 2주차 현장 증정 이벤트]]></title>
@@ -126,6 +142,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.26 ~ 2023.08.01]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/24/Z1FZHBP0wnwRrjCUCqVpDHsSL93LL6je.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[비공식작전] 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.26 ~ 2023.07.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/24/Y09HZsDkfp1YMe1qw8iGG9Pv7nwuvGI9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아트나인과 함께 하는 <비밀의 언덕> 시네마구구]]></title>
