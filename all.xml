@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 09:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 11:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -334,6 +334,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.26 ~ 2023.08.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/19/LGxI4gDyayBlPOePTEHZouSflIh4MjbJ.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<몬스터 패밀리2> 사전 예매 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.26 ~ 2023.08.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/26/KNmejaDL4hAmbYDQPVGA0p3dcCba1Soc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<더 썬> 개봉 2주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
