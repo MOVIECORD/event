@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Aug 2023 01:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 02:32:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,12 +40,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/03/ylYTIaczHIdSzI5k2Nn1xZmhAM67fpHf.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[<스파이 코드명 포춘> SNS 기대평 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.09 ~ 2023.08.22]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/03/fcB7kf4I8EEjWuGQMnPnJj2t2OS6QnbM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<밀수> 메가토크]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.08 ~ 2023.08.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/25/qSAzqjwS95bzF3OL3iKqFrl2uEowqEYi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[보호자] 선착순 빵원티켓 ➕]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.07 ~ 2023.08.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/04/UWlrqP2ATpNJ4SIIGTQrOhF2BHYEa7Br.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<엘리멘탈> 600만 돌파 감사 기념 미니카드 증정 이벤트]]></title>
