@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Aug 2023 09:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 10:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1518,6 +1518,14 @@
             <pubDate>Tue, 09 May 2023 05:16:38 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.13 ~ 2023.08.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/01/ZfyryXTKf2EssUo2AK7Rr2hunAHO7ibe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<더 문> 개봉 2주차 경기 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Tue, 09 May 2023 05:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.12 ~ 2023.08.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/04/BoIVpUklUnaX3XKKWRv2Fhvv7XeIWRsw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<콘크리트 유토피아> 개봉주 서울 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
