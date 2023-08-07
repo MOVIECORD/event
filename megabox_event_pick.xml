@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 06:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 07:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,7 +64,7 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/24/8kLSdvQNS088J1XownX9X1z65s0XlFuU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[수원AK플라자] 그랜드 오픈 페스타]]></title>
+            <title><![CDATA[[수원AK플라자] 그랜드 오프닝 페스타]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
