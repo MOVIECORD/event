@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 10:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 11:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -278,6 +278,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.12 ~ 2023.08.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/07/Ycsrlf0OCK7nYYPd8RT7Q1M4lI6xe4no.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<극장판 슈퍼윙스: 맥시멈 스피드> 흥행감사 경품증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.12 ~ 2023.08.19]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/10/M2QyBBfKMh9Z9A1V3gXjwMDcPioUmXKZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<몬스터 패밀리2> 썸머 특가 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
