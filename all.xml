@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 03:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 04:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.18 ~ 2023.08.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/10/Jd4NWENWK44Ly0LwDSTmuw76NgM2u2P1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<캐치!티니핑>콤보 론칭🎉 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.11 ~ 2023.09.15]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/11/UHVpIw8zB4nzHt0CxCOPNs5sYaIEKxyL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[수원AK플라자] 특가 상영회&돌비 시네마 기획전 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -254,6 +262,22 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.17 ~ 2023.08.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/08/WBrwVya7tmJYP4DCS0PziznWwK9ODhDS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<지옥만세> 개봉 기념 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.16 ~ 2023.08.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/11/XIU1PsvOLD390YrPPERFDgDY9BCEBkje.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<마에스트로> 2주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.16 ~ 2023.08.22]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/11/GuHVC1YiRWg7JrSMfidq9JOP8XGtxAf8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<오펜하이머> 돌비포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
