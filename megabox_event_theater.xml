@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Aug 2023 14:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Aug 2023 15:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,14 +78,6 @@
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.26 ~ 2023.08.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/27/QIig99cIps6kAkVRpP8h4JpMEk5mUEdt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[광명AK플라자] HOT 썸머 미션!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.24 ~ 2023.08.15]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/27/FAkZDrwM8u0Yft8YBR6SLzTJQMkH7A52.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[춘천석사] 멤버십가입하고 매일할인받자!]]></title>

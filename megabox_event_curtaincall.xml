@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Aug 2023 14:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Aug 2023 15:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,22 +22,6 @@
             <pubDate>Tue, 09 May 2023 05:16:38 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.15 ~ 2023.08.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/07/1sWK4S9Edx4RlJglHid4RP9nljZD4VbN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<콘크리트 유토피아> 광복절 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Tue, 09 May 2023 05:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.15 ~ 2023.08.15]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/11/7qHurHzPsiFTRmD2TFeM4icmBr8QsTTR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<보호자> 개봉일 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Tue, 09 May 2023 05:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.15 ~ 2023.08.15]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/08/k2kuyjdSneIGkkiIYRIsU1ry0nFUTYzX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<타겟> 메가박스 회원 시사회]]></title>
