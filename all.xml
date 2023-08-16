@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 07:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 08:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -326,6 +326,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.16 ~ 2023.08.22]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/11/GuHVC1YiRWg7JrSMfidq9JOP8XGtxAf8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<콘크리트 유토피아> 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.16 ~ 2023.08.16]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/16/Lb6f9zQ2NxpWNB2SnAreLyetufzdfgrD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<메가로돈2> 관람 굿즈 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -652,7 +660,7 @@
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.17 ~ 2023.09.21]]></content:encoded>
+            <content:encoded><![CDATA[2023.08.24 ~ 2023.09.21]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/04/vKcxdVFvM2a1jgSYkwindaSOUx1oTAj6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -936,20 +944,20 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/11/FGsI1vrO3MQkb8s4ke7cSW6M8XZb9Vyp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[대구경북지역] 선호지점 선택하고 쿠폰 받자! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.01 ~ 2023.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/09/fSFplvf4LQzGFMF166MPHY1JyquSUQzk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[구미강동, 남포항, 포항] 신규 가입하고 구미강동, 남포항, 포항점 선호지점 선택하면 1+1 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.01 ~ 2023.08.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/11/CGNLo4v6s2BmShcbXf41PutgJOVbYUt6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대구경북지역] 선호지점 선택하고 쿠폰 받자! (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.01 ~ 2023.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/09/fSFplvf4LQzGFMF166MPHY1JyquSUQzk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[일산] 평일 조조 영화 관람시 팝콘이 무료! (메가박스 ─ 이벤트 ─ 극장)]]></title>
