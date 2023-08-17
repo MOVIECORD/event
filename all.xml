@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 07:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 09:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.18 ~ 2023.08.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/10/Jd4NWENWK44Ly0LwDSTmuw76NgM2u2P1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[냥사원 생일 맞이 '만춘필름' 엽서 증정 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.17 ~ 2023.09.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/17/U9ELcds6j8DCdBASoEhS1h754Kjgnibn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리스토퍼 놀란 <오펜하이머> 1PICK 이벤트🔥 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -206,6 +214,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2022.10.07 ~ 2023.09.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/07/aVPaBWnnV3du3eA0WwccH3xMWqCszU8k.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[워너 필름 소사이어티 시즌2] 마스터 챌린지 이벤트 (Feat. 테마2) (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.06 ~ 2023.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/14/dvKc8ZGxz2tkUSLIBXXDNGWfGrkep6IV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[고대 이집트의 발견] 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -550,14 +566,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.27 ~ 2023.08.19]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/27/BMbeiQGzlWVsgHJCqmzvnUAXVS1dKhl5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[워너 필름 소사이어티 시즌2] 마스터 챌린지 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.28 ~ 2023.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/14/dvKc8ZGxz2tkUSLIBXXDNGWfGrkep6IV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[존 크랑코's 발레 3부작 기획전] 스탬프 챌린지 (메가박스 ─ 이벤트 ─ 영화)]]></title>
