@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 23:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 02:20:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,30 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.18 ~ 2023.09.01]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/16/rHNkqbvfp8OKJ5nNbOEVkWEflwaHQGWW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<밀수> 흥행 감사 스페셜 경품 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.18 ~ 2023.08.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/17/0zn9Bmr4TtORAWYZh4UAKlnKolCil9Wg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더 문] 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.18 ~ 2023.08.19]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/04/NeAiJFmmHDoOvjmxPgt3uJOd35aCvdHj.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[타겟] 선착순 빵원티켓 ➕]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.18 ~ 2023.08.19]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/16/0GHzT5P7bQp5YtY7JFfHu7dpcEfIQdPJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<아만다> 스페셜 GV]]></title>
