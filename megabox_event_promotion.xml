@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 제휴 할인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 06:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 07:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,12 +16,36 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/21/6NWxMm5BwMInvjq0BedpUiy5sNmqkeIw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[메가박스X발로소득] 메가박스 챌린지 참여하고 영화 할인쿠폰 받기]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.19 ~ 2023.09.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/18/ZotmPa4oELGkSV566Qqj7yKburphXTEc.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[메가박스XKT멤버십] 지금이 바로 달달한 찬스의 기회!]]></title>
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
             <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.16 ~ 2023.08.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/16/MkrScmTVKcWQadBkHHACLJbatV4GzLMF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[아쿠아플라넷] 여름방학은 아쿠아플라넷에서!]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.07 ~ 2023.08.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/04/JjuKzCKUx41qLDNu0R6btD0IOSfh3EZ0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내 차 보험료 확인하고 영화 1만원 할인쿠폰 받으세요!]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.18 ~ 2023.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/12/NjlzFeebIxjO6mvRDatUdrNJ9qpGxqeC.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[토스페이] 메가박스 최대 1.3만원 혜택받기]]></title>
@@ -38,38 +62,6 @@
             <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.01 ~ 2023.08.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/31/fYrsKeg2OGNDxYBgiuEcScUqg3AoaiFe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아쿠아플라넷] 여름방학은 아쿠아플라넷에서!]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.07 ~ 2023.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/04/JjuKzCKUx41qLDNu0R6btD0IOSfh3EZ0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[메가박스X더쎈카드] 할인카드 조회하고 혜택받자!]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.10 ~ 2023.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/14/p4hU1SbKDHKHJ6MntGSYdtOhbifBfryD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 차 보험료 확인하고 영화 1만원 할인쿠폰 받으세요!]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.18 ~ 2023.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/05/12/NjlzFeebIxjO6mvRDatUdrNJ9qpGxqeC.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[메가박스X발로소득] 메가박스 챌린지 참여하고 영화 할인쿠폰 받기]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.19 ~ 2023.09.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/18/ZotmPa4oELGkSV566Qqj7yKburphXTEc.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[강원지역 삼성카드 영화할인 프로모션]]></title>
@@ -118,6 +110,14 @@
             <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.15 ~ 2023.08.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/13/LDawTHZzGM12RkSyomSBDebl8YVCSuzf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[메가박스X더쎈카드] 할인카드 조회하고 혜택받자!]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.10 ~ 2023.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/14/p4hU1SbKDHKHJ6MntGSYdtOhbifBfryD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대한항공X메가박스] SKYPASS 회원 할인 프로모션]]></title>
