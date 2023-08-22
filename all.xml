@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 08:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 09:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1430,6 +1430,14 @@
             <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.19 ~ 2023.09.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/18/ZotmPa4oELGkSV566Qqj7yKburphXTEc.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[메가박스XH.Point] H.Point에서 팝콘 쏜다! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.18 ~ 2023.09.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/22/QJ20Tytfg2TXDoCY8VyS49ClPGW0NboK.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[메가박스XKT멤버십] 지금이 바로 달달한 찬스의 기회! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
