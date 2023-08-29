@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 09:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 10:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -254,6 +254,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.02 ~ 2023.09.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/21/HN719I7FwX5bG69ePpszdeWf26b7TCGv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[메가박스X시네마캐슬] 시네마캐슬 9월 상영작 안내 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.01 ~ 2023.09.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/29/XPYa9RwMbFK7Gc78mQ5WwElgXsmE25Io.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<아이돌 마스터 신데렐라 걸즈 U149> TVA 극장상영 3주차 특전 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -558,6 +566,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2022.10.14 ~ 2023.08.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/14/WmofGtKpSqCeBuwwG1CYCDV2RMmkIL3H.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[홍대] 홍메박 구멍가게 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.02 ~ 2023.09.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/29/5v41EdAs98iWa6OR1cjkNqZvoVprbpfh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[별내] 팝콘 유료 리필 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
