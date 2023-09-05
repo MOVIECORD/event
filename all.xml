@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 14:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 15:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -264,36 +264,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/01/lroz7tjtlNoPRFGGd8l22wldCBxyUDGp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<어파이어> 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.05 ~ 2023.09.05]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/28/6bu8R2fssMPDR36NPV30xMoQuL0CTF1f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<타겟> 늦여름밤 특가 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.04 ~ 2023.09.10]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/31/aDYZ8TjGLZCOpxwpV5ZwoCiodqWLvweb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[잠] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.04 ~ 2023.09.05]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/01/C84RkWuyqFbG4JQtBq7UwdjUPfhI0xU2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타겟] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.04 ~ 2023.09.05]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/28/neU1lvqVrOE94x5L887h3UIN4i5ndw8q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<콘크리트 유토피아> 4주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
