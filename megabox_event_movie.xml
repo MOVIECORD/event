@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Sep 2023 14:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 15:15:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,22 +246,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.30 ~ 2023.09.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/22/JElorgV7zbqXjZ6XsdhrwK1miR88nkSv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<콘크리트 유토피아> 3주차 현장 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.26 ~ 2023.09.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/22/RQMLmMv0UyYupMDIr0CzzT3r3YjXprxL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<오펜하이머> 2주차 현장 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.26 ~ 2023.09.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/22/rY1PFwMGrktax2KJsmyJzzFfaFMlHc3k.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<몬스터 패밀리2> 썸머 특가 이벤트]]></title>
