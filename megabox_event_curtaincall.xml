@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 14:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 15:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,30 +14,6 @@
             <pubDate>Tue, 09 May 2023 05:16:38 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.24 ~ 2023.09.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/05/UMNGAW8PGyhIdx2hPccVKhPAgpc5MYtr.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<달짝지근해: 7510> 감사해진 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Tue, 09 May 2023 05:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.10 ~ 2023.09.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/05/pFnh4CkIeyOcNZi6prcbRlnOsn6ixxoF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<타겟> 2주차 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Tue, 09 May 2023 05:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.10 ~ 2023.09.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/31/xNMvKqBgMAHeXDRsx9q5YOTbqclMZYJC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<잠> 개봉주 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Tue, 09 May 2023 05:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.09 ~ 2023.09.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/06/nTJkef19mYjnhxGL94H2UY0hFKfsspSz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<1947 보스톤> 메가박스 회원 시사회]]></title>
@@ -86,14 +62,6 @@
             <pubDate>Tue, 09 May 2023 05:16:38 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.29 ~ 2023.09.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/29/KcRCgZsecGQtU9Qf0wjao3IGx9KS56zZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<여덟 개의 산> 메가박스 필름 소사이어티 회원시사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Tue, 09 May 2023 05:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.28 ~ 2023.09.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/28/Iv8UOAGHzkgasZoU5sw5ZWznRHi13Gtg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
