@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 23:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 01:07:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.15 ~ 2023.09.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/08/KPi0bNHpUExeiX5xuXk5HnYD2Mhpa142.png" length="0" type="image/png"/>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/11/kfGzpVSkXlpPGwM0w3QfEJf7rfqxYBHv.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<여덟 개의 산> 이동진 평론가 X 김중혁 작가 메가토크]]></title>
@@ -86,6 +86,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.13 ~ 2023.09.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/06/ORt0SZNJMVRYEpGBio0Kfmsrv59LOsK5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<차박 - 살인과 낭만의 밤> SNS 관람 인증 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.13 ~ 2023.09.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/09/PtFKM2KSmxHYPStK1RlKfw82rX32jfmR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<콘크리트 유토피아> 가을 입주 특가 이벤트]]></title>
