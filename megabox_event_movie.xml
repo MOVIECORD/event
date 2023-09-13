@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 06:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 07:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,12 +40,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/07/F3og3EdFu7yhsk8GVjX3kVrcLbkWXiz0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<그란 투리스모> 돌비포스터 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.20 ~ 2023.10.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/13/GU836eDjAmF97VIcdhvQNoHBqmbA6waF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[2023 사건 읽는 영화관] 9월의 사건 : ep08. 그 남자, 좋은 간호사]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.17 ~ 2023.09.17]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/25/LEkAEJWx3wGR3C6kjwk7OWx1Lq0g5eQE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<잠> 2주차 현장 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.16 ~ 2023.09.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/13/2u7AQkp0zcLA2Uo7Vj3G0GDCyStEOFkR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<펍지 네이션스 컵 2023> 극장 상영 기념 현장 증정 이벤트]]></title>
