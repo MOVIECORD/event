@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 14:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 15:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/11/JpZ9RDHpJkplR0lWnD1QUHpKQ4giRqqs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<1947 보스톤> 메가박스 회원 시사회]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Tue, 09 May 2023 05:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.07 ~ 2023.09.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/07/oSGYtav3kjW1iSvzLpGrorQKKf6hRSpr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<30일> 메가박스 회원 시사회]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
             <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
@@ -102,14 +94,6 @@
             <pubDate>Tue, 09 May 2023 05:16:38 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.05 ~ 2023.09.19]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/05/XAxAuHUCLsKuCTcyUUE7b0GyldKvmh2H.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<이터널 메모리> 메가박스 회원 시사회]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Tue, 09 May 2023 05:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.04 ~ 2023.09.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/04/shuEgX3r0TVvaiosj2v6uPOjkRiKB7cz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<아르고 원정대: 꼬마 영웅 패티의 대모험> 메가박스 회원 시사회]]></title>
