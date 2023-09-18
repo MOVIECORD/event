@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 22:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 23:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,6 +152,22 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/07/aVPaBWnnV3du3eA0WwccH3xMWqCszU8k.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[음반 증정 이벤트] 21세기 피아노의 거장 : 다닐 트리포노프 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.30 ~ 2023.11.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/19/OuF8MwUmJhBV5sCkz6RIDXu5CUXrjCeK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[음반 증정 이벤트] 21세기 피아노의 거장 : 이고르 레빗 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.16 ~ 2023.10.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/19/r3dVGIq3y73GNoIBHTUr59iaky4FaizJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[특별기획 시네 도슨트] 파리로 떠나는 미술관 나들이 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -174,6 +190,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.02 ~ 2023.11.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/07/jb4yIRcwDZSUzZLV0fhUdznAXmhrhywy.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[음반 증정 이벤트] 21세기 피아노의 거장 : 예프게니 키신 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.02 ~ 2023.10.16]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/18/VhGNTLhtdyxNbSkknGiT8QF8jlesjvX3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<만강홍: 사라진 밀서> 기대평 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
