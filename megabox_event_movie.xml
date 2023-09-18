@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 14:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 15:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,14 +288,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/11/le7jks0K05C6UVQfug6XUwxnaBlhyOb7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아트나인과 함께 하는 <비밀의 언덕> 시네마구구]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.12 ~ 2023.09.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/12/tVuOagD99ISS6QF06zNJlWW0VbTHxSHe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<콘크리트 유토피아> 가을 입주 특가 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -310,14 +302,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.11 ~ 2023.09.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/07/avx5C1F646DLLt5BVTF6o5t4SQpn4oLS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<씰벤져스 : 용감한 바다특공대> 기대평 SNS 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.11 ~ 2023.09.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/11/zi5rBMoNewjWdjMUQy0435VOeRU5Ankx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<엔니오: 더 마에스트로> 현장 증정 이벤트]]></title>
