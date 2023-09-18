@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 제휴 할인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 01:07:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 02:24:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.18 ~ 2023.10.15]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/17/J3BC9s7UCPgkbQEKTO85oymCeHXVoi5w.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[포인트페스타] 제휴포인트 쓰고 콤보 할인쿠폰 받아가세요!]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.18 ~ 2023.10.15]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/15/D1YzDw39oDeSIbE1Q92RTRVV9fJ7WiDX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[KT x 메가박스] 9월 어썸한 달달혜택]]></title>
