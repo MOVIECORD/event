@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 23:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 01:07:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/15/tv4cmmct0pTLgVX1aO8rZO586c3RZFIb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<잠> 해외 초청 기념 특가 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.20 ~ 2023.10.11]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/18/MvUOB2mhZk0bqq7yODtgryYlJRI9EByi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<그란 투리스모> 돌비포스터 증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -110,6 +118,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.20 ~ 2023.09.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/18/yWbylJOzkuwwlZyVvhXgTIpxSe8TCtrp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[가문의 영광: 리턴즈] 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.20 ~ 2023.09.21]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/18/JrsimzeOCT590XjhcWyaEr3zhEQMdU2T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[베니스 유령 살인사건] 선착순 빵원티켓]]></title>
