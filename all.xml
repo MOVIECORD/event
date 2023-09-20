@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 02:23:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 03:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.27 ~ 2023.10.17]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/20/IA2KjfKRPLS3OdCUtRAk4vRPG6Bw3rea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<거미집> 굿즈패키지 출시 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.20 ~ 2023.10.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/20/E6ZscQ3aJprj3xwwDpewQGpayASChKJ1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[게이머에서 레이서로! <그란 투리스모> 1 PICK 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -206,6 +214,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.02 ~ 2023.10.16]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/18/VhGNTLhtdyxNbSkknGiT8QF8jlesjvX3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<거미집> 이동진 평론가 X TEAM 거미집 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.27 ~ 2023.09.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/20/22qA54sznGidZRy9NuZMJohS1RXXkgyu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<만강홍: 사라진 밀서> 기대평 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
