@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 03:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 04:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.27 ~ 2023.10.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/22/dA378e4cWlBkxOayEqn654vNPLUFKue8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[냥사원이 먹고 싶어서 만든 만춘쿠키박스!]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.22 ~ 2023.10.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/22/7zDPnMumzITj9PqANVOOEbjlS3IhcgOd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<거미집> 굿즈패키지 출시]]></title>
