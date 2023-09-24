@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Sep 2023 14:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Sep 2023 15:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.20 ~ 2023.10.10]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/18/t2UdXobP6aTOf9ynn4Uzkvq8LLfOqjEH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[미니 시네마 무비칩 NO.3] 닌자터틀: 뮤턴트 대소동]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.14 ~ 2023.09.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/12/hyKyCmxy3808049r9iT5C6qb7NZRvCNA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 No.88 <베니스 유령 살인사건>]]></title>
