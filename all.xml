@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 02:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 03:17:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[미니 시네마 무비칩 NO.4] 거미집 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.27 ~ 2023.10.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/25/qBvplprRP9LBljXVlfpW2Ytpl8BwWD3i.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[냥사원 추석선물세트] MEGA-DRAW🍀 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
@@ -254,6 +262,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.02 ~ 2023.10.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/22/GuUINxay7PVjJbbMQZEjsRRSIV9GJ70t.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<씰벤져스 : 용감한 바다특공대> 개봉 기념 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.28 ~ 2023.10.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/25/udWDmbUFJ57DKUKHrO9JvZOb0ysWH24E.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<극장판 엉덩이 탐정: 미스터리 가면 ~최강의 대결> SNS 인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -664,6 +680,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/15/31f8AFvVElpdDgerHg9MhvB3SVy58OWr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[영통] 추석 감사제 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.21 ~ 2023.10.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/25/7KrAFENgZr00jjVOCyWCO11hSqZNPgmX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[해운대(장산)] 프리미엄 영화관과 시그니처 워터파크의 역대급 시원한 만남 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -686,6 +710,14 @@
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.18 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/15/ad8lI254JtBzog7veTCQDmht46iPg9cb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영통] 해피아워! 매일 12시까지 9천원! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.18 ~ 2023.12.15]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/25/S87vfWhX118BOUzWNLOLrx8glWHGSIaa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대전중앙로] 전용 관람권 46% 할인! (메가박스 ─ 이벤트 ─ 극장)]]></title>
