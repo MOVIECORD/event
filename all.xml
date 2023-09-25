@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 06:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 07:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -278,6 +278,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.28 ~ 2023.10.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/21/DgciHuvdUVIbcofzR8FR9Y9mSded1Ss5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<아이돌 마스터 밀리언 라이브! 1막> 2주차 특전 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.28 ~ 2023.10.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/25/DeAoCrp3wuPJkimXIKIr5oCLWWTp5udA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[볼수록 더 걸작이다! <거미집> N차 관람 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -894,14 +902,6 @@
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.01 ~ 2023.11.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/21/UzKFMhSkhtD34Z1YUDecwOni7LIchGkh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[분당] 더 부티크 굿모닝 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.01 ~ 2023.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/15/HMETM0Cu03UPUVR0p82bckrTtv3GXfMb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[하남스타필드] THE BOUTIQUE SUITE 특별가 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
