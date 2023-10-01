@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Oct 2023 14:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Oct 2023 16:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -582,14 +582,6 @@
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.28 ~ 2023.10.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/15/31f8AFvVElpdDgerHg9MhvB3SVy58OWr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[창원] 추석맞이 영수증 행운 대잔치 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.28 ~ 2023.10.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/27/f9iDaCP3hFYteJHFnfsusRLD207Zk9yF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[파주금촌] 우리, 다시 만나요! (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -1782,38 +1774,6 @@
             <pubDate>Tue, 09 May 2023 05:16:38 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.30 ~ 2023.10.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/13/gOA1vA8BOtRFFn7gsj7fQXfeJNILcH16.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<가문의 영광: 리턴즈> 개봉 2주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Tue, 09 May 2023 05:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.30 ~ 2023.10.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/21/DY735uyJSaGkPDpSWjXQDbpwkT4NYHyR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<천박사 퇴마 연구소: 설경의 비밀> 개봉주 추석연휴 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Tue, 09 May 2023 05:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.30 ~ 2023.10.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/14/ooHnpNoozmxdmu0oDrjbmRXuMGsHaE67.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<1947 보스톤> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Tue, 09 May 2023 05:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.30 ~ 2023.10.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/13/AM6LP1ZaHvCM4FMBvqLw3Ncy36fnE8rz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<거미집> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Tue, 09 May 2023 05:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.29 ~ 2023.10.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/11/e51YkIyMvf7L4Ll01TwqmMTE660UfIBP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<익스펜더블4> 메가박스 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
