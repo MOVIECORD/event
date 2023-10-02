@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Oct 2023 14:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 15:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,14 +94,6 @@
             <pubDate>Tue, 09 May 2023 05:16:38 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.22 ~ 2023.10.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/20/gy6ndM1B64BabuebRv9NFl44nW0p35ZB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<30일> 개봉 전 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Tue, 09 May 2023 05:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.22 ~ 2023.10.02]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/18/4AItFlaWZfCeVg8Cyfm1dic8RUlWRJYB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<블루 자이언트> 메가박스 회원 시사회]]></title>
