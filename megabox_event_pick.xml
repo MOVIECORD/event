@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 14:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Oct 2023 15:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,22 +54,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.27 ~ 2023.10.10]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/25/qBvplprRP9LBljXVlfpW2Ytpl8BwWD3i.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[냥사원 추석선물세트] MEGA-DRAW🍀]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.27 ~ 2023.10.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/25/Rc68zSpipRxRcmJD92NV2oNOUGZhferp.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[냥사원이 먹고 싶어서 만든 만춘쿠키🍪]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.22 ~ 2023.10.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/25/exewEGhKg35lsTwavoeUhuUP01e3BwFo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<거미집> 굿즈패키지 출시]]></title>
