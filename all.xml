@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 02:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 03:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -166,6 +166,22 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.12 ~ 2023.10.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/10/e6dCiMpF18utAx879BjTspk9DjoIdU6k.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<1947 보스톤> 러닝메이트 특가 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.11 ~ 2023.11.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/10/dDpjrIG0ZJ2kAEi07zdq1E3GXAvo6wvW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<만강홍: 사라진 밀서> 개봉주 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.11 ~ 2023.10.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/10/QwJhI6A6Xgw8SaceJCZNjlviot9yXnQk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<서칭 포 슈가맨> 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
