@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 08:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 09:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,6 +160,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/10/1RtVErXonaBRm78okxL7Vg89cpn3NyIE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<극장판 아이돌리쉬 세븐> 프리미어 선행상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.14 ~ 2023.10.15]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/10/Y70tN51A3lPhHry8rq9NLXhLNJ1IxFII.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<아이돌 마스터 밀리언 라이브! 2막> 4주차 특전 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -214,6 +222,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.11 ~ 2023.10.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/07/m7Lo3JERfWECJ8L5OephyIG9KLxRuVjw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<화란> N차 관람 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.11 ~ 2023.10.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/10/DSyjFJfiWRmTeKHtvzV8V7hUeqTse5vn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<나의 행복한 결혼> SNS 관람 인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
