@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 08:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 09:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,6 +342,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.14 ~ 2023.10.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/07/aItO9tvuBL6jR8cIaZK4oTZbvQMdMo0S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[거미집] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.13 ~ 2023.10.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/19/fXUkJIGklMnNnlV8dSZGHr8SYVu7uVrb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[괴담만찬] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1718,14 +1726,6 @@
             <pubDate>Tue, 09 May 2023 05:16:38 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.07 ~ 2023.10.15]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/04/yegomYF0LoTGFjRbI4pZLfGcGm969osC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<천박사 퇴마 연구소: 설경의 비밀> 2주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Tue, 09 May 2023 05:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.03 ~ 2023.11.08]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/20/HptvXNgfD0RHjesS31r5uLQfuLts25Rf.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<익스펜더블4> 메가박스 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
