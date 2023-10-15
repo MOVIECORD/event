@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Oct 2023 03:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Oct 2023 04:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -536,6 +536,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/06/Z1V3KfGAEJzGEFkv6MUsCguECXJQ7OgP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[백석벨라시타] 주중 만원 관람 어텀 Autumn ? (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.10 ~ 2023.12.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/15/RaDdDNlvnMLDUpO6cjai4u8R5BDyzdDL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[수도권서부지역] 뿌링잇 어니언 맛?! 시즈닝 콤보 런칭! (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -592,6 +600,22 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/27/o918BdCefNqjFxrh9gSxvpZzZYvV7SWr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[북대구(칠곡)] 외부주차장 이용시 영화 할인 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.02 ~ 2024.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/15/i7ZcTF7gHYY7Ux2rsBQNSEwWzo3ZtV38.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[마산, 창원, 창원내서] 메가박스 X 스파 더 스페이스 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.01 ~ 2023.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/15/ZzdHemoHjY6IpfY3u4alxlIl465Hr0hu.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[코엑스] 더 부티크 파크하얏트 숙박권 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -614,6 +638,14 @@
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.27 ~ 2023.11.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/27/fO40eEbx5264JrYswR1roknTDyW9VgsA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대전유성] 꽝 없는 추억의 뽑기 도전 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.25 ~ 2023.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/15/zsopWLEDVB84lCa75sdlRmq7j6QTTTrc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[세종나성] 매주 월/화는 문화의 날 (메가박스 ─ 이벤트 ─ 극장)]]></title>
