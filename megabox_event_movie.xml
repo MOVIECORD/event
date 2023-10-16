@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 07:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 08:22:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.21 ~ 2023.10.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/13/UAAqU82Ef8Iv0gWyOU0GmCU0uoj728yG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<플라워 킬링 문> 현장 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.19 ~ 2023.11.02]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/16/UUDO7n491phZBSBF5GgnJJzycxy0r3MR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<우리의 하루> 개봉기념 현장 증정 이벤트]]></title>
@@ -62,6 +70,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.19 ~ 2023.10.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/16/Wtath2ZSWSChAz9EfgztlA2r8qyQYSAK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<익스펜더블4> 개봉 기념 현장 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.18 ~ 2023.11.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/16/bnrQmMjNdWkv3GgIuXBohiqyPW4IhBgo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<괴담만찬> 1주차 현장 증정이벤트]]></title>
