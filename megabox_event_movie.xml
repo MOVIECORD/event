@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 04:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 05:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<원피스 필름 레드> 4K 업컨버트 버전 개봉 기념 현장 증정이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.21 ~ 2023.10.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/13/UAAqU82Ef8Iv0gWyOU0GmCU0uoj728yG.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<우리의 하루> 개봉기념 현장 증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
@@ -14,6 +22,30 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.19 ~ 2023.11.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/13/THxkU8PN6vSJblYayILDfQDY5PnksT5k.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<극장판 아이돌리쉬 세븐> 1주차 특전 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.19 ~ 2023.10.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/16/yz43WMenfAyjBroTmUtTrpynKWH6eHfT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<5등분의 신부 스페셜> 2주차 특전 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.19 ~ 2023.10.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/16/bDzjiwH5HZPiZXy7RdEJuowY55DW3qbS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<아이돌 마스터 밀리언 라이브! 3막> 5주차 특전 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.19 ~ 2023.10.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/16/Wtath2ZSWSChAz9EfgztlA2r8qyQYSAK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<괴담만찬> 1주차 현장 증정이벤트]]></title>
