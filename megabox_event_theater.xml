@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 08:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 10:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -158,6 +158,14 @@
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.20 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/21/7jSw7wUQywNMMkF8hk43YLvH0hW6V7QX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[광명소하] 메가박스 광명소하점 리뉴얼 오프닝]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.20 ~ 2023.10.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/16/v75qNLSrOQPbZvGlrHFlxDJeDb27hM6j.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[백석벨라시타] 선호지점 & 카카오톡 채널 추가하고 쿠폰받자!]]></title>
