@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 09:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 10:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -824,7 +824,7 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/31/6KM2ZN7v7A1ByN740f7qCFGXZ2MghK7n.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[대전유성] 추석에는 메가박스에서 추억을 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <title><![CDATA[[대전유성] 가을에는 메가박스에서 추억을 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
