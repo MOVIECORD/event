@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 14:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 15:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.27 ~ 2023.11.21]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/25/Mp0u8nS23Motx9eToFvbHZLUg4e9c7iv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<거미집> 굿즈패키지 출시]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.20 ~ 2023.10.20]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/20/E6ZscQ3aJprj3xwwDpewQGpayASChKJ1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스x스타벅스 숄더백 세트]]></title>
