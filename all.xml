@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Oct 2023 23:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 01:08:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,14 +78,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.13 ~ 2023.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/13/gmfeRq3WBNAAqc2G69vQwMHmxS2mvaBH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[디즈니 100주년 기념] NO.1 스티치콤보 런칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.07 ~ 2023.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/07/85wU6nYIXAm60AyC05kd5kRjSpyAWOXo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[PHYDITAL POPUP <메타그라운드 성수> GRAND OPEN (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -422,6 +414,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.30 ~ 2023.11.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/19/OuF8MwUmJhBV5sCkz6RIDXu5CUXrjCeK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[플라워 킬링 문] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.23 ~ 2023.10.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/20/8iYbsNkejLwqM4clmU12KQYOEhi1Porn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[용감한 시민] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
