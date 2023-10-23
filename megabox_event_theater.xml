@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 01:08:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 02:25:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -28,7 +28,7 @@
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.19 ~ 2023.11.30]]></content:encoded>
+            <content:encoded><![CDATA[2023.10.19 ~ 2023.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/19/pqMS11yr31qv6H9nKmVxj2T2yzUHdrYs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.19 ~ 2023.11.30]]></content:encoded>
+            <content:encoded><![CDATA[2023.10.19 ~ 2023.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/19/c0uF1yxaZ1hHgci4mzelF6bXF6cIxlOA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
