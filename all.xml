@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 02:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 03:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,6 +142,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.28 ~ 2023.11.19]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/18/4j8vSrgTD5M2gDcR8XkbAIPb0op0zdY9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<너와 나> 2차 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.28 ~ 2023.10.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/16/MQQ09nwfRB5m8c9HQNFLCZ0X7pokfQrr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<블루 자이언트> 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -414,6 +422,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.30 ~ 2023.11.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/19/OuF8MwUmJhBV5sCkz6RIDXu5CUXrjCeK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[나의 행복한 결혼] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.24 ~ 2023.10.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/23/U0SObcHYvfeimdPwPBKNTnpsB6C5fMSb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[플라워 킬링 문] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
