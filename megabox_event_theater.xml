@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 01:06:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 02:23:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.04 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/15/H5Gp79G35D7EGI79myLrHbvhMyvCXVfG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EIDF2030 고양가을 시네마 무료 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.25 ~ 2023.11.03]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/24/5mZxe6CM9U5SY1PSnJj0CCrv4pJvqse2.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[부산경남지역] 마지막 N차 부스터! 3! 4!]]></title>
