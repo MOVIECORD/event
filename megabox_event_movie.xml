@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 04:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 05:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,30 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.28 ~ 2023.10.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/16/MQQ09nwfRB5m8c9HQNFLCZ0X7pokfQrr.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[톡 투 미] 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.27 ~ 2023.11.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/26/IdjuK6o2ESEHsq4Y1IrzYTJmGBokXkiq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[키리에의 노래] 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.27 ~ 2023.11.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/26/mPkocYkm5f0llKjwpFbLUQ814QE2Ue5Y.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[플라워 킬링 문] 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.27 ~ 2023.11.03]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/26/Z2wDO69hE9Up6wf0Db5VGWJv7mqUDAhN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<나의 행복한 결혼> 행복한 특가 이벤트]]></title>
