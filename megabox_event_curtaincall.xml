@@ -4,17 +4,9 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Oct 2023 14:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Oct 2023 15:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[<용감한 시민> 개봉주 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.28 ~ 2023.10.29]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/16/sb42nsb7hOYpG3eDGt3LA2Y2baOrCbuA.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[<다이브: 100 피트 추락> 메가박스 회원 시사회]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
@@ -22,14 +14,6 @@
             <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.20 ~ 2023.10.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/20/DQOvpmaxIchhcA4oIO0WIsCW9jF1KnRU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<뉴 노멀> 메가박스 회원 시사회]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.18 ~ 2023.10.29]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/18/OqRJNCfqASuDHmU6gGSlxDrEJKIWaYe4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<괴인> 메가박스 필름 소사이어티 회원시사]]></title>
