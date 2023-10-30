@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 14:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 15:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -376,28 +376,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/24/AgkQ66SKSuyxjIVBRVxYBE3ZWgIhAIQM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[마이 샤이니 월드] 부제 짓기 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.25 ~ 2023.10.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/25/08D4kMvccdwtnADXJA00yawzwnqDkWf4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<나의 행복한 결혼> 두 번째 스페셜 특전 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.21 ~ 2023.11.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/17/dzlZSG5VPaxl3bHVGEdnRLClFYi0MHxN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<원피스 필름 레드> 4K 업컨버트 버전 개봉 기념 현장 증정이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.21 ~ 2023.10.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/13/UAAqU82Ef8Iv0gWyOU0GmCU0uoj728yG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<약속> SNS 기대평 이벤트]]></title>
@@ -510,14 +494,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.30 ~ 2023.11.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/19/OuF8MwUmJhBV5sCkz6RIDXu5CUXrjCeK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[음반 증정 이벤트] 21세기 피아노의 거장 : 이고르 레빗]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.16 ~ 2023.10.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/19/r3dVGIq3y73GNoIBHTUr59iaky4FaizJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2023 시네 도슨트] 위대한 예술가들을 만나다]]></title>
