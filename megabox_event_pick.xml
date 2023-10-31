@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 14:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 15:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,14 +72,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/16/P3km2OYhjVvMz2Hsssu4Smd7PA1p5R7X.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[10월 메가포인트위크🍂]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.18 ~ 2023.10.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/17/Wlw6LK1PXoA7uukuSya3fJHhkak7fy6a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[메가박스 오리지널 티켓 No.90 <화란>]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
@@ -96,28 +88,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/26/KKLW6MLyi6pjKyHJUJWPCMhk8YIPBHdQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<화란> 굿즈패키지 출시]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.04 ~ 2023.10.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/04/0pSygy6s7kpEIOZkOmPRzNCNMT3aoSRZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[LYNK-POP : THE 1st VR CONCERT aespa]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.27 ~ 2023.11.21]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/25/Mp0u8nS23Motx9eToFvbHZLUg4e9c7iv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스x스타벅스 숄더백 세트]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.11 ~ 2023.10.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/10/Rr9BVvLRP3WBnhaAoDJab5ab3KX38446.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓북 시즌3 런칭]]></title>
