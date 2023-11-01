@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 05:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 06:23:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -166,6 +166,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.01 ~ 2023.11.15]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/30/2KdWbRrPn1C26AbtXXanbk367yiR46Bk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<앵그리 애니> SNS 관람 인증 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.01 ~ 2023.11.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/01/mLPvzJW9bxfTkJxkbRL9X1Hv1nnOnK7d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<약속> SNS 관람 인증 이벤트]]></title>
