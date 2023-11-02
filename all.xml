@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 01:07:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 02:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1910,6 +1910,14 @@
             <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.03 ~ 2023.11.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/31/bWEA9ryptHOfh47aEnonQUBsz3aK8A8n.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<빅슬립> 메가박스 회원시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.02 ~ 2023.11.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/02/qhqsiVwzhTeB47mlCUmMZvxBeOZOZMjE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<서울의 봄> 메가박스 회원 시사회 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
