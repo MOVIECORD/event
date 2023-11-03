@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 22:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 01:08:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.03 ~ 2023.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/02/MZX9McdgQALotTKMvyPaOct7zXshxloD.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/03/7DJdpDZBIV5DcXbaF2auYnrcbKOO2cT8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<마이 샤이니 월드> 프로모션 런칭]]></title>
@@ -102,14 +102,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.11 ~ 2023.11.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/09/Rg2w3g6GTYc0sWDbk9geUXHTwDXcFVIk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 오리지널 티켓 No.89 <크리에이터>]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.04 ~ 2023.11.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/26/KKLW6MLyi6pjKyHJUJWPCMhk8YIPBHdQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LYNK-POP : THE 1st VR CONCERT aespa]]></title>
