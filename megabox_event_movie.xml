@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Nov 2023 14:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Nov 2023 16:20:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[The Best of Met] 메트로폴리탄 오페라 명작 리플레이 기획전]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.05 ~ 2024.01.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/02/ZJ33GAvcpGRSkULQrutCtiXeZAE3j5FV.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<괴인> 이정홍X변영주 감독 대담 GV]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
