@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 04:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 05:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,6 +182,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.08 ~ 2023.11.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/01/ZRx8Nbi6zOHDVMoSN80TzOg8VaNpX5pG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<버텨내고 존재하기> 시네콘서트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.07 ~ 2023.11.19]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/07/nlhXwuI6QFDqu1zcgP2RpEtSIA72WX5i.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[소년들] 선착순 빵원티켓]]></title>
