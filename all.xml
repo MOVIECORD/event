@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 04:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 05:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2078,6 +2078,22 @@
             <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
             <content:encoded><![CDATA[2016.03.04 ~ 2023.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2020/02/04/y8iDbdor9E21ccFsJMyhyoE9YODKiKOy.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<서울의 봄> 개봉주말 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.25 ~ 2023.11.26]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/08/I0VnOjkheYy29Y1zfNMlgsQqvLhFJJqc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<서울의 봄> 개봉일 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.22 ~ 2023.11.22]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/08/8WKlrX7iHFvI1kWs9EPp7pEvARNCVeXy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<뉴 노멀> 개봉주말 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
