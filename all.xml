@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 05:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 06:21:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,7 +112,7 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/25/lHpGqrmh4j8Lw4o95wZee4wclvENY6dF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[프로모션] <라따뚜이 콤보> 론칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <title><![CDATA[[프로모션] 디즈니100주년 <라따뚜이 콤보> 론칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
