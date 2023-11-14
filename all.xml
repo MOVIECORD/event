@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 14:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 15:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,22 +112,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/24/UoHakmegiIe8oesdoaqxV60oz8CjrJSb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[돌비 애트모스관 런칭 기념!! MEGA-DRAW (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.01 ~ 2023.11.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/31/bfxwQ4w94iPkUOeh00N0W5Q3VnPMPkLv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MX의 새 이름!! 돌비 애트모스관 런칭 기념 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.01 ~ 2023.11.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/31/rArCPeXo20z91OCObb2tA78gzBZJQwfn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<마이 샤이니 월드> 굿즈패키지 출시 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
@@ -150,14 +134,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.25 ~ 2023.11.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/23/75HksIsFyNfbHAGZoOLWwqQGsV159yg0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<그대들은 어떻게 살 것인가> 릴레이 N차 관람 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.25 ~ 2023.11.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/23/dYVCBUVr0sqz9bTsDu2XhNFIoA5hdhey.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 No.91 <블루 자이언트> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -600,44 +576,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/03/qM4hRnoAQm9rHpVxN64bPCFY33qSLVkJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<5시부터 7시까지의 주희> 개봉 기념 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.08 ~ 2023.11.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/06/Fj4BWjecAgNOAbsUHqdSz8xbuk3Rz1lf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<블루 자이언트> JASS 오리지널 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.08 ~ 2023.11.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/06/t9QOYQH7K603kUerJyM08C1V7SySG7zQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<너를 줍다> 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.08 ~ 2023.11.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/06/SLBMcZi4MAV76BI3eCmsvJadRHh4kuGV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<버텨내고 존재하기> 시네콘서트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.07 ~ 2023.11.19]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/07/nlhXwuI6QFDqu1zcgP2RpEtSIA72WX5i.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소년들] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.07 ~ 2023.11.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/06/CLlTNMK57ETiOucMwtNsflITR2AacSEh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[서울의 봄] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -768,30 +712,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/30/2KdWbRrPn1C26AbtXXanbk367yiR46Bk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<앵그리 애니> SNS 관람 인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.01 ~ 2023.11.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/01/mLPvzJW9bxfTkJxkbRL9X1Hv1nnOnK7d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<약속> SNS 관람 인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.01 ~ 2023.11.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/25/jAhan8uRuvkerqlf8H9WEyg6lQJX2vrQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<조커> 재개봉 기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.01 ~ 2023.11.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/20/vdxCv2Fcl4ffR2CbXAjpTBhb39khaaWO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<그대들은 어떻게 살 것인가> 돌비 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -830,22 +750,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.25 ~ 2023.11.15]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/23/NdFwYQiKRzP5PlGDQO2E4yMeeNdLBtLT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트나인과 함께 하는 <괴인> 시네마구구 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.25 ~ 2023.11.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/25/ZlGkMTd9lWGzkFRzEfnLWNylgc30jZPd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<용감한 시민> SNS 관람 인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.25 ~ 2023.11.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/24/z2dh9m1oLPzSBxke6iduQqTVQanpjVHF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[시네도슨트 in 대전] 대전신세계 프로그램 안내 (메가박스 ─ 이벤트 ─ 영화)]]></title>
