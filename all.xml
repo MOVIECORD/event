@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 10:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 11:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1750,6 +1750,14 @@
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.01 ~ 2023.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/01/wLuaoRwCwO8CZImjsLjIoc0CivqBjVOF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대구경북지역] 2023 대구경북 관람권 패키지 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.30 ~ 2023.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/09/ZciflcIuKb6qXLiOH5xKYRKH8PoHfXqk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[세종] 팝콘 유료 리필 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
