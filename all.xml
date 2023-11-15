@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 11:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 12:33:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -382,6 +382,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.16 ~ 2023.11.22]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/13/tKfZWYZIQQAKoREp8jZccTtzVCnn4SeX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<여귀교 - 저주를 부르는 게임> 콤보 할인 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.16 ~ 2023.11.21]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/15/rpQiAQtyFu4w29GwqA1XlZoucLilVC5H.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<괴인> 2주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
