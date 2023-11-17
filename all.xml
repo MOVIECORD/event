@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 23:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 01:11:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.17 ~ 2023.12.19]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/16/fdWnI5fukOAoX9NE1hZS3l4QVJFVbKWu.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<서울의 봄> 굿즈패키지 출시 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.17 ~ 2023.12.15]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/17/8lL5yvmxZTXRxGQlIkrMDtKroNZtkg9u.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[미니 시네마 무비칩 NO.5] 마이 샤이니 월드 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -822,6 +830,54 @@
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.31 ~ 2023.11.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/31/GpG6PxUU7yjkJoivQLvX13QqEPUcCpy3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[원주혁신] DB프로미 즐기기 대잔치 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.17 ~ 2024.03.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/17/iKuBE94TrD9J8yRg0Zr1dXtc4gERV7Hh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더 부티크 목동현대백화점] 목현백 가자고~구마! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.17 ~ 2024.02.29]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/17/xYYGDg37QpQpIsjXBy2isAI6FbOM3WHL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[세종(조치원)] 공무원증, 특가 할인! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.17 ~ 2023.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/17/XguNXGkawCuMqbsswJTS7iKF4Tmf4T0g.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[경산하양] 아침형 인간을 찾습니다! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.17 ~ 2023.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/17/7yo7Gmf8sz25OLHlTThjVZ8a8EilLKh2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[김포한강신도시] 부릉부릉! 팝콘이 떴다! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.13 ~ 2024.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/17/vzxfxu9hnwzTRf0EAKCzzz7Qpw4xLRsZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[킨텍스] 아낌없이 주는 할인혜택 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.08 ~ 2023.12.15]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/17/Duay22E1OxOAcLfaztLOzTX0oNRTsqDo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대전유성] 상큼한 에이드 할인중 (메가박스 ─ 이벤트 ─ 극장)]]></title>
