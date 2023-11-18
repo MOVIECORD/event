@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Nov 2023 14:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Nov 2023 15:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -470,22 +470,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.06 ~ 2023.11.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/31/xHl8ztjzvyjscDteLYcwPZfPOF9oeDbL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<앵그리 애니> 현장 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.04 ~ 2023.11.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/31/okMvqXs0xtChOH8JTZape0w1Aa4QGPXg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<마브카: 숲의 노래> 3주차 현장 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.04 ~ 2023.11.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/30/2ZYFDlUZSR0h6FEniwv4NI4HDdl5M6Jq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[마이 샤이니 월드] N차 관람 이벤트]]></title>
