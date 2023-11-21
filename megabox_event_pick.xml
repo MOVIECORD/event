@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 14:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 15:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -166,14 +166,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.26 ~ 2023.11.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/18/HqYODbxye50byAROyopa82eI6BOdSwJC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LYNK-POP : THE 1st VR CONCERT aespa]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.27 ~ 2023.11.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/25/Mp0u8nS23Motx9eToFvbHZLUg4e9c7iv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓북 시즌3 런칭]]></title>
