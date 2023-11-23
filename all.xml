@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 14:16:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 15:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -416,14 +416,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/20/FT55c9bLnsGevbU1tWUkmK0cxdo85pXe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<서울의 봄> 류승완, 김성수 감독 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.23 ~ 2023.11.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/15/KRhuMAaPGzTQu316MiSz1Z0TVassddoo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<여귀교 - 저주를 부르는 게임> 공포체험특가 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -592,14 +584,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/14/RYtU3tpbpU7RnnyXlB9hBpkMghbKq1r5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[마이 샤이니 월드] 샤팅 싱어롱! 응원 슬로건 증정 No.2 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.17 ~ 2023.11.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/14/swHPLrrWsZWJn6twTqyzMhR5OTBdjTDk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<톡 투 미> 3주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -622,14 +606,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.16 ~ 2023.11.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/15/HRAsqpxF3ZMb4lxnoZzfqb1jAa0mewVj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴 노멀] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.16 ~ 2023.11.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/13/kiCkM3YcozAyyQIWLlSIPlrV4dMgjwPz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<괴인> 2주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -750,22 +726,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.10 ~ 2023.11.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/07/NSNdhXbDQMXljE4ZFzE3QSsm1UKezWqe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<톡 투 미> 2주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.09 ~ 2023.11.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/07/8YZilo7GKrhyHxLdEFV9xPW1gPZ82bLz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<괴인> 1주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.09 ~ 2023.11.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/07/VPBbrw9QkajRl5Nhl9eFVbheTtZ7eyda.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<더 마블스> N차 관람으로 환상의 팀에 합류하자! (메가박스 ─ 이벤트 ─ 영화)]]></title>
