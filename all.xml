@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 07:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 08:22:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.30 ~ 2023.12.10]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/23/Uu33YN2C9R2onAph6K4YtCdMTTiS3x7V.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 오리지널 티켓 Re.21 <겨울왕국> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.27 ~ 2023.12.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/27/9Rhc4KfGkViKrHxMPWmGRuLInEoS7bzP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 No.94 <서울의 봄> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -312,6 +320,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/27/Unplfk1UeRqNlTbd8m9CROMD8jtvmquE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<블루 자이언트> 해외 오리지널 달 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.29 ~ 2023.12.05]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/27/7ncgDxyQSfJwPIJapzwXqV73jZY3CwvI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<서울의 봄> 한준희, 김성수 감독 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -334,6 +350,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.28 ~ 2023.12.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/27/C6ER8DjG8kj71IewWyCz2ABJITnIOsrx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<신 울트라맨> SNS 기대평 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.28 ~ 2023.12.05]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/27/GR6wfpWmigKijd1ZAM4Na0dc2PZr69hL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<서울의 봄> 스태프 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
