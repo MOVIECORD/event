@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 23:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 01:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[라이브 중계] 2024 빈 필하모닉 신년 음악회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.01 ~ 2024.01.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/29/gnqDRmJe8q9v1Q2qEJLZLlmjWrKgHTj9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SEVENTEEN TOUR 'FOLLOW' TO JAPAN 라이브뷰잉 진행안내]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
@@ -46,6 +54,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.04 ~ 2024.01.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/02/ZJ33GAvcpGRSkULQrutCtiXeZAE3j5FV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[메가박스X시네마캐슬] 시네마캐슬 12월 상영작 안내]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.01 ~ 2023.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/29/CvR45JewqRNgx0KUvQNf7nCICtXmRmZs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<스노우 폭스: 썰매개가 될 거야!> 2주차 현장 증정 이벤트]]></title>
