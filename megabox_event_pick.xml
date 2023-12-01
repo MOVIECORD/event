@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 08:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 09:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,7 +168,7 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/06/30/mQwDnNU57aaoXDcgvTQFztPm72kqNIJK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[프렌즈 회원 스탬프 이벤트 (12~2월)]]></title>
+            <title><![CDATA[프렌즈 회원 스탬프 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
