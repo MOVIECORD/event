@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 14:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 15:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -958,14 +958,6 @@
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.01 ~ 2023.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/05/7WaPVaeJaSqwhMA4xOxJpfHmz4V3kW7d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사상] 동서대 재학생, 임직원은 사상지점으로!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.05 ~ 2023.12.04]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/14/A9Ixy807Idhrx4yhbv6cAImFaeOaSPPM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대구신세계] 대구신세계에서 즐기는 풀코스!]]></title>
