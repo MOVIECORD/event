@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 23:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 01:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,12 +32,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/21/yjuF9W0wd8yBPk0KOGBG1d9rqi6H3bQf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<쏘우 X> Dolby Atmos 포스터 증정 이벤트]]></title>
+            <title><![CDATA[<쏘우 X> 1주차 돌비애트모스 포스터 증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.13 ~ 2024.02.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/04/plp5opRUJdPBVcEg2AIqQLU25pvAaBVE.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2023.12.13 ~ 2023.12.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/05/kJsbYYJBWxb9IvRI6SdNJ2ao0J8nMPhR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<홈그라운드> 스페셜 GV]]></title>
@@ -64,12 +64,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/15/NlOn1BneCXvRZUcoAWhpqB4TejrgH7KQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<스노우 폭스: 썰매개가 될 거야!> 스노우펑펑 특가 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.07 ~ 2023.12.21]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/05/75wosC3RvLAJbM1Gp6uhvup7zJappIFU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<나폴레옹> 돌비 포스터 증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.06 ~ 2024.01.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/23/dSiUa1TaetI9o4opSXBF2c82UL101miF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<그대들은 어떻게 살 것인가> 7주차 현장 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.06 ~ 2023.12.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/05/NuwN0ist8AUckgc28coF4l4PL7zJjZTd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<마크로스 플러스 - 무비 에디션> 2주차 현장증정 이벤트]]></title>
@@ -80,12 +96,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/04/4PMx4dl5g4SO2THcennRNISbVH7N1Kgl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<홈그라운드> 1주차 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.06 ~ 2023.12.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/05/eBoDfZbyF0UgU0qYqqaDV8b8LRuBVvRA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<교토에서 온 편지> 메가토크]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.06 ~ 2023.12.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/23/YOC2hL9rjlNDgljeMb4hgL8exzVQplvt.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[그대들은 어떻게 살 것인가] 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.05 ~ 2023.12.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/05/SDCwWIx9mfe1X5Hjf6e48gEnzXPGYihe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[괴물] 선착순 빵원티켓]]></title>
