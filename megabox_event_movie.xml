@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 07:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 08:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/07/a3blkGhmpk231zfZeCnh5ZldLKV9rkda.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<신차원! 짱구는 못말려 더 무비 초능력 대결전 ~날아라 수제김밥~> 프리미어 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.16 ~ 2023.12.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/07/l0N52hAazlMVrioNLbsCY5Z24Oah8ETQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SEVENTEEN TOUR 'FOLLOW' TO JAPAN 라이브뷰잉 진행안내]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -88,6 +96,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/01/uvT1aJqdMnXx2JqHZBZwqfVo0JWY0Bek.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<그대들은 어떻게 살 것인가> 7주차 주말 특전 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.09 ~ 2023.12.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/07/hqwOW1k4Q0kxH8vJejYyzWYetHt4X6BM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<뽀로로 극장판 슈퍼스타 대모험> 프리미어 상영회]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -102,6 +118,22 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.09 ~ 2023.12.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/01/BtkQ3a5GQ8zecJVyH3eLQKFRjjWJ8gAD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[아쿠아맨과 로스트 킹덤] 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.08 ~ 2023.12.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/07/tkU2XUhbxBsPS4J8mrV4KkQrkKdyeo0T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[노량: 죽음의 바다] 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.08 ~ 2023.12.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/07/pcaZvYTgW0o9ZY3RUEKSI6FdfyGfm3BK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[특별 강연 안내] 투탕카멘의 진실 : 소년왕과 파라오의 저주]]></title>
