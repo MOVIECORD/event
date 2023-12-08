@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 10:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 11:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.08 ~ 2023.12.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/07/pcaZvYTgW0o9ZY3RUEKSI6FdfyGfm3BK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[로열 발레] <호두까기 인형> 크리스마스 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.08 ~ 2023.12.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/07/aZ5iWswN1e6s7dhdXUalCEiOMWIBaLMF.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[그대들은 어떻게 살 것인가] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
