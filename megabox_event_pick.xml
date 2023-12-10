@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Dec 2023 14:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Dec 2023 15:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,14 +72,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/28/3nCQw0Mh5qDQvvZbRqaefXdisTgPzu4M.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[11월 이달의 기획전 <돌비 시네마 스페셜 재개봉>]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.30 ~ 2023.12.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/23/Uu33YN2C9R2onAph6K4YtCdMTTiS3x7V.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[메가박스 오리지널 티켓 Re.21 <겨울왕국>]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
@@ -112,36 +104,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/17/8lL5yvmxZTXRxGQlIkrMDtKroNZtkg9u.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[청소년/수험생] 수능 끝! 소원성취 이벤트🍀]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.16 ~ 2023.12.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/08/WGaqsE7R2xJgAoRVsarRgQYAY0wwb0ES.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[프로모션] 디즈니100주년 <코코콤보> 론칭]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.14 ~ 2023.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/10/3LcIqr5BFjvR59jNoGkSBmzd5DaEbmTd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 오리지널 티켓 Re.20 <다크 나이트>]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.13 ~ 2023.12.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/13/UHlvxdDqg3BWoZMLrHqKJD0VPagbNylG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 오리지널 티켓 스페셜 <마이 샤이니 월드>]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.10 ~ 2023.12.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/08/p5Fp2QTCcbA0D1AZlzuCe4kdcD4n0KKk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 메가박스 다이어리]]></title>
