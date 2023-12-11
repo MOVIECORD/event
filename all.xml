@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Dec 2023 23:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 01:12:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.17 ~ 2023.12.15]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/17/8lL5yvmxZTXRxGQlIkrMDtKroNZtkg9u.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<서울의 봄> 개봉 기념 피치에일 맛 서울의 봄 맥주 런칭! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.16 ~ 2023.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/16/eyRA00yiKDtXzXNgV3Hsd8gxaXWWNVmL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[프로모션] 디즈니100주년 <코코콤보> 론칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -246,6 +254,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.16 ~ 2023.12.16]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/21/yjuF9W0wd8yBPk0KOGBG1d9rqi6H3bQf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<서울의 봄> 4주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.13 ~ 2023.12.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/11/t2o5lNE75vmMe7TuyJceLhLK8tqDfW36.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<쏘우 X> 1주차 돌비애트모스 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -648,14 +664,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/28/oBaAh2RdeijjCrMi3CR3jEitSqxwpfk7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[세종(조치원)] 신/송년회 대관 패키지 특가 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.23 ~ 2024.01.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/23/GZvlkW7MMpVhbqJ7ls3rmcxkwOFKfXhu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[대구이시아] 커피메뉴 런칭! (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -846,14 +854,6 @@
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.01 ~ 2023.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/15/ZzdHemoHjY6IpfY3u4alxlIl465Hr0hu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대전유성] 꽝 없는 추억의 뽑기 도전 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.25 ~ 2023.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/15/zsopWLEDVB84lCa75sdlRmq7j6QTTTrc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해운대(장산)] 프리미엄 영화관과 시그니처 워터파크의 역대급 시원한 만남 (메가박스 ─ 이벤트 ─ 극장)]]></title>
