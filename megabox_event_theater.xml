@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 14:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 15:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -838,14 +838,6 @@
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.11 ~ 2023.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/11/2go25JTdPscbKCBfLqaUhhPMWCNYXq19.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[양산] 매주 월, 화요일 무비 for 맘!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.11 ~ 2023.12.12]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/07/pqqV5aRbtT3Sb9AIhJHe2rXXNARE73rx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[마산] 경남대학교 학생 할인 이벤트]]></title>
