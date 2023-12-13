@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 04:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 05:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -614,6 +614,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.24 ~ 2023.12.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/21/g0EgDYVpYVuY2nHAmFv0KDlF67DivaDg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[서울의 봄]  700만 흥행돌풍! N차 이벤트 발생🚨 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.22 ~ 2023.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/13/WSwEBpjTp4KVaV8HqLuqhH7dGEI2LZWt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<여귀교 - 저주를 부르는 게임> 공포체험특가 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
