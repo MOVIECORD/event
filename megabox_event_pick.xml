@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 14:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 15:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,28 +96,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/27/9Rhc4KfGkViKrHxMPWmGRuLInEoS7bzP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[메가박스 오리지널 티켓 No.94 <서울의 봄>]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.20 ~ 2023.12.15]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/20/psdrpxLuOAZHOX0y7QD2GcaEn9jsITix.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[1979.12.12 <서울의 봄> 1PICK 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.17 ~ 2023.12.19]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/16/fdWnI5fukOAoX9NE1hZS3l4QVJFVbKWu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<서울의 봄> 굿즈패키지 출시]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.17 ~ 2023.12.15]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/17/8lL5yvmxZTXRxGQlIkrMDtKroNZtkg9u.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<서울의 봄> 개봉 기념 피치에일 맛 서울의 봄 맥주 런칭!]]></title>
