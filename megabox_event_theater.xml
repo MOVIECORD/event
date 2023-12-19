@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 05:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 06:24:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.04 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/15/H5Gp79G35D7EGI79myLrHbvhMyvCXVfG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대구신세계] 대구신세계에서 즐기는 풀코스!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.01 ~ 2024.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/19/nGcflQVkp2wR7xqxvkJONeqlwPY4FEHu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[수원호매실] 산타 또 왔다!]]></title>
@@ -902,14 +910,6 @@
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.01 ~ 2023.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/01/05/7WaPVaeJaSqwhMA4xOxJpfHmz4V3kW7d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대구신세계] 대구신세계에서 즐기는 풀코스!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.01 ~ 2023.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/11/HTnqQ2VkvZbIeT44jvbNYP2FXDrDG9xl.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
