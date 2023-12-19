@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 14:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 15:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,14 +200,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/19/xXusySkGvIXIPzTCb1XDCKvOE5jSNJai.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[전주혁신] 월, 화 무비데이]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.16 ~ 2023.12.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/10/06/Z1V3KfGAEJzGEFkv6MUsCguECXJQ7OgP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[창원] 창원 전용 관람 패키지]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -382,14 +374,6 @@
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.24 ~ 2023.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/24/RHEXqpbL4TAdF5FayXVk5ex1PLSkfzHO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[동대문, 상봉] 월요일, 화요일 ALL TIME 가격 할인!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.21 ~ 2023.12.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/17/MPfCSqrV0oxTN4ghYfAHp6JgzB9XsJJZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[동대문, 상봉] 수요일은 반값데이]]></title>
