@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 05:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 06:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.20 ~ 2024.01.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/08/UYEwwXNAyeNLCH4SsJsQVXqK9kTV1Ggk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[메가드로우 X 서울의 봄] 천만 파티 천만 선물🎉 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.20 ~ 2024.01.07]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/20/gfwS1JWL5Eay6F9L6dbvKQiXZwrPsLTn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 과거시험 <노량: 죽음의 바다> 영역 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -206,6 +214,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.01 ~ 2023.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/12/27/Ykqi480SGT8ZwXY9QEZJr3vLenlaaZIf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[CLASSIC SOCIETY] <2024 씨네클래식 라인업> (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.04 ~ 2024.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/20/TvZE7wxoT0lvtx7f5A1CCuTbwevDzy9Z.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[CLASSIC SOCIETY] <씨네클래식 오페라 갈라콘서트> (메가박스 ─ 이벤트 ─ 영화)]]></title>
