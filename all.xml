@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 23:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 01:09:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -278,6 +278,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.22 ~ 2024.01.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/19/nawdgsoOSEllj7k4QSQ2ZgZmdugO1h9j.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[도티와 영원의 탑] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.22 ~ 2024.01.03]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/20/KTVSXTCcISKbQGHVgmz3IY9fLx8ed0TL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<빅슬립> 라스트 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
