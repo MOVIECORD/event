@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 09:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 10:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.27 ~ 2023.12.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/14/xY7TWNtzszxyr5NTxbbXG1BBDRlUIfVa.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<길위에 김대중> 메가박스 회원시사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.26 ~ 2024.01.03]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/22/YnHmUrMELPy35Td7rYEEvpKdy37R7WmR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<도티와 영원의 탑> 개봉 전 무대인사]]></title>
@@ -54,6 +62,14 @@
             <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.23 ~ 2023.12.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/13/cRpAxl1swlVhB0Wt9suJxqGtLr6I2PWN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<인투 더 월드> 앵콜! 메가박스 회원시사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.22 ~ 2024.01.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/22/KiDM6MMFSPK8EXbfun0wT22Ysc9DHYdL.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
