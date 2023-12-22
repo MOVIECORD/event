@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 07:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 08:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메가박스 오리지널 티켓 No.97 <류이치 사카모토: 오퍼스>]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.27 ~ 2024.01.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/22/XSYuULUtxKTL61iymiTvFQ1ox0vbLkKE.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 THANKS TO <서울의 봄>]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.15 ~ 2024.01.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/11/T7SMGRcCy5xgXmJOHEo0U88tpQ40AgWU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스트레스 FREE! 씹고, 뜯고, 맛보고, 즐기는 <서울의 봄> 오징어 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.08 ~ 2023.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/06/UBT9keP3dQbK50slWtPzB8mb3RJiWS0G.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[밀크x메가박스] LUCKY POINT 12 🎁]]></title>
