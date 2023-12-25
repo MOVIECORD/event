@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Dec 2023 14:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Dec 2023 15:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.01 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/19/nGcflQVkp2wR7xqxvkJONeqlwPY4FEHu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[수원호매실] 산타 또 왔다!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.24 ~ 2023.12.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/23/IVGrAHTJ7YaZ9CYOLMSXSlADcp0tHsxp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[수원AK플라자] AK멤버스 신규 가입 이벤트]]></title>
