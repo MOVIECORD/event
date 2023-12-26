@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 14:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 15:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,14 +78,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.20 ~ 2024.01.07]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/18/d0AEqnfOjlpDd1gwsVcCYw6lxvrMPSZf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[메가드로우 X 서울의 봄] 천만 파티 천만 선물🎉]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.20 ~ 2023.12.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/20/gfwS1JWL5Eay6F9L6dbvKQiXZwrPsLTn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[프로모션][굿즈] <코카콜라폴라베어> 콤보 론칭]]></title>
