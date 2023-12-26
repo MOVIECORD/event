@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 09:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 10:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.27 ~ 2024.01.16]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/22/Hd0z0sVKoe0EwyzB8mkGxCY7tTQpocBK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<나폴레옹> 스페셜 특가 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.27 ~ 2024.01.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/26/BVaUyNAWxrryX4gguk7XdEer7eg3Sszh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[류이치 사카모토: 오퍼스] 선착순 빵원티켓]]></title>
