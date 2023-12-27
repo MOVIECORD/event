@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Dec 2023 14:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 15:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,14 +350,6 @@
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.24 ~ 2023.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/24/RHEXqpbL4TAdF5FayXVk5ex1PLSkfzHO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[동대문, 상봉] 수요일은 반값데이]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.16 ~ 2023.12.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/08/17/EJEYiyRkLe1RUJ8w9xVrvfakr6Rb0c9r.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[킨텍스] 청소년 신규가입하면 쿠폰이 와르르!]]></title>
