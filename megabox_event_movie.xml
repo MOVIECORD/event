@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jan 2024 14:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jan 2024 15:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,14 +94,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.01 ~ 2024.01.21]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/28/9chDFWnUnrqAa3nLD1ccsFYOv92xS7ro.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[라이브 중계] 2024 빈 필하모닉 신년 음악회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.01 ~ 2024.01.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/29/gnqDRmJe8q9v1Q2qEJLZLlmjWrKgHTj9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<인투 더 월드> 코스튬 이벤트]]></title>
