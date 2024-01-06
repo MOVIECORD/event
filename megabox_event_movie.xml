@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Jan 2024 14:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jan 2024 15:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.06 ~ 2024.01.07]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/27/JGKyPy0jplodtYeDGl2aQKcVFP0jfOIv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<류이치 사카모토: 오퍼스> 작곡가 정재일 메가토크]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.06 ~ 2024.01.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/02/wRhXT87CbmHv51cbg3IxgTX8q3BVjhEP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[괴물] 선착순 빵원티켓]]></title>
