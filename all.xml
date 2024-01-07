@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Jan 2024 14:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jan 2024 15:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,14 +86,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.20 ~ 2024.01.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/08/UYEwwXNAyeNLCH4SsJsQVXqK9kTV1Ggk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 과거시험 <노량: 죽음의 바다> 영역 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.20 ~ 2024.01.07]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/18/d0AEqnfOjlpDd1gwsVcCYw6lxvrMPSZf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[프로모션][굿즈] <코카콜라폴라베어> 콤보 론칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -182,14 +174,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.10 ~ 2024.01.10]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/03/447ycCOtgVVV4EEM63fsi0ZZzHhQSW0w.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<클레오의 세계> 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.06 ~ 2024.01.07]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/27/JGKyPy0jplodtYeDGl2aQKcVFP0jfOIv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[괴물] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -504,14 +488,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/28/oBaAh2RdeijjCrMi3CR3jEitSqxwpfk7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[대구이시아] 멜크 포토존 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.01 ~ 2024.01.07]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/14/08ZikTg8hiNxIvtyTwAcCCkYigXajS1z.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[백석벨라시타] 지점전용관람권 판매 렛츠고벨라! (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -766,14 +742,6 @@
             <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.10 ~ 2024.01.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/02/f7KSHauTx0oSwezaf0EyK7dRWBgff04q.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<노량 : 죽음의 바다> 3주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.06 ~ 2024.01.07]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/04/qIDHpnpFCBSxhJjgwggENyGPvpPEORU3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
