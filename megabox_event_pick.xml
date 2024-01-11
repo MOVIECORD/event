@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 14:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 15:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<링팝: 더 브이알콘서트 카이> 상영 안내]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.14 ~ 2024.03.05]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/09/wl1kHLJBXPwr1rhCNP2TWBRE2eQvZmdi.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[싱어게인3] 파이널 극장 단독 생중계🎤]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
