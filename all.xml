@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 01:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 02:32:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[<링팝: 더 브이알콘서트 카이> 상영 안내 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.14 ~ 2024.03.05]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/09/wl1kHLJBXPwr1rhCNP2TWBRE2eQvZmdi.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[[싱어게인3] 파이널 극장 단독 생중계🎤 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
@@ -30,6 +22,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.17 ~ 2024.01.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/11/kTiGzBESOY6t3LFVnK5DvqH4GB1YZoPf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<링팝: 더 브이알콘서트 카이> 상영 안내 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.12 ~ 2024.03.05]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/09/wl1kHLJBXPwr1rhCNP2TWBRE2eQvZmdi.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<위시> 데코팩 엽서 세트 증정 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -230,6 +230,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.12 ~ 2024.01.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/09/q141Sa5L47WE3TCIfyAFSIt6RpXFMvNC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[로열 발레] <호두까기 인형> 청소년 이벤트 및 스티커 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.12 ~ 2024.01.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/12/yooczpfEuuNB4ttl0tbKtgTT1D8BOIpu.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<더 퍼스트 슬램덩크: COURT SIDE in Theater> 특별상영 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
