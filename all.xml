@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jan 2024 14:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 15:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -174,6 +174,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.20 ~ 2024.01.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/11/Bq7pSRzIpaCSeytmAoIWVdg1VqllLEMT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<덤 머니> 개봉주 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.17 ~ 2024.01.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/15/4f2Y5BVSnEPxtzWxBLSVljdxpY0QDh11.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<스즈메의 문단속> 스페셜 상영 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -806,14 +814,6 @@
             <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.20 ~ 2024.01.21]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/08/lHpOQGAHZZ48cY0mrZNcWcHqI4qa0DQB.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<서울의 봄> 흥행감사 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.15 ~ 2024.01.15]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/08/uywGRKOO6aeOGks5khcLTRyomOIGBaGX.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
