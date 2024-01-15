@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Jan 2024 23:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 01:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.20 ~ 2024.01.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/11/Bq7pSRzIpaCSeytmAoIWVdg1VqllLEMT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<스즈메의 문단속> 스페셜 상영 2주차 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.17 ~ 2024.01.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/15/Ou09PCtdWs1frGghRaA0SeiKi7txiFEg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<인투 더 월드> 2주차 현장증정 이벤트]]></title>
@@ -46,6 +54,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.17 ~ 2024.01.17]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/12/sL9Lo6pPaT24ULe1K3qYt30mkirSQwnB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<소녀는 졸업하지 않는다> SNS 기대평 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.15 ~ 2024.01.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/15/KdySy09mJ2iWF8ZNOS0nMke8xMNUgusb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[덤 머니] 선착순 빵원티켓]]></title>
