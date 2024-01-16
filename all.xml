@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jan 2024 05:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 06:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.24 ~ 2024.02.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/16/UNLWjep18wwBmEOJvE3tdq7Wll01nFSj.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[프로모션][굿즈] <코카콜라텀블러> 콤보 론칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.19 ~ 2024.02.29]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/10/sKcxMt7XZZa6srWnyTTS5dnC5cqmdH6p.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[싱어게인3] 파이널 극장 단독 생중계🎤 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -182,6 +190,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.20 ~ 2024.01.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/11/Bq7pSRzIpaCSeytmAoIWVdg1VqllLEMT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<괴물> 8주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.17 ~ 2024.01.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/16/J5aj3VIcN2bTm9Thzev4onV1ZKh0MX9m.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<덤 머니> 개봉주 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
