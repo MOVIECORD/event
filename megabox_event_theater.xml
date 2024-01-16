@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jan 2024 23:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 01:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/09/15/H5Gp79G35D7EGI79myLrHbvhMyvCXVfG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[고양스타필드] 키즈 버블 야광패키지 런칭!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.15 ~ 2024.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/16/sSFXu5rM9OArODzROmqVXIJM3S7jc2Tx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[대전현대아울렛] 티웨이항공과 함께 댓글달고 항공권 GET!!]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -38,6 +46,14 @@
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.04 ~ 2024.01.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/04/lcvTF0VXqXHbGXhIqcTQkxMvNa9IpLKi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[청라지젤] 앵콜! 영화는 누워봐야 제맛!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.01 ~ 2024.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/16/odWipSv7JTu2s8L92mDk8vtaDVNOxjv1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대구신세계] 대구신세계에서 즐기는 풀코스!]]></title>
