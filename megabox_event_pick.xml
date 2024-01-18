@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 14:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 15:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.19 ~ 2024.02.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/10/sKcxMt7XZZa6srWnyTTS5dnC5cqmdH6p.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[싱어게인3] 파이널 극장 단독 생중계🎤]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.18 ~ 2024.01.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/10/72lxITBw01kdvPSJg2PuMEg48cEzeNNN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[돌비 시네마 일본 애니메이션 기획전]]></title>
