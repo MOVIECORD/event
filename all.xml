@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 05:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 06:23:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,12 +16,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/18/b1MI2iRrl4BUQrvwiZanm4iXuiE8Kkwf.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[수원스타필드] 그랜드 오프닝 페스타 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <title><![CDATA[[수원스타필드] 오픈 기념 SPECIAL 상영회 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.24 ~ 2024.02.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/16/UNLWjep18wwBmEOJvE3tdq7Wll01nFSj.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2024.01.24 ~ 2024.01.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/19/iwXkFGhzJQyilUiR0vrJti20DasaaXcp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[프로모션][굿즈] <코카콜라텀블러> 콤보 론칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -470,6 +470,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.19 ~ 2024.07.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/17/a04RswWNemsW6jt8oQm2IIWGJwWhCKXY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[수원스타필드] 그랜드 오프닝 페스타 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.24 ~ 2024.02.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/16/UNLWjep18wwBmEOJvE3tdq7Wll01nFSj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[수원인계] 2023.12.15 GRAND OPENING (메가박스 ─ 이벤트 ─ 극장)]]></title>
