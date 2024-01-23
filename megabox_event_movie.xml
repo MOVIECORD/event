@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jan 2024 01:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 02:32:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.03 ~ 2024.02.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/22/KbTWD632cKe7izH3cHdvlOWr0qfivKwL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<괴물> 고레에다 히로카즈 감독 내한 기념 GV]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.03 ~ 2024.02.03]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/19/f6OV81svFqPAVauZLL7adc0mEqqR4UYc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<세기말의 사랑> SNS 관람인증 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.24 ~ 2024.02.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/18/DzgxSoRklS1kEaxJhC4RCVzGTJC9WIrz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<스즈메의 문단속> 스페셜 상영 3주차 현장증정 이벤트]]></title>
