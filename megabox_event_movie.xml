@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jan 2024 02:32:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 03:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.03 ~ 2024.02.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/19/f6OV81svFqPAVauZLL7adc0mEqqR4UYc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<웡카> 돌비 포스터 증정🍫]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.31 ~ 2024.02.18]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/23/aeHePwBlPk4cIflFGi2AGUeMP80FMorn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<세기말의 사랑> SNS 관람인증 이벤트]]></title>
