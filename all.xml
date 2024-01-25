@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 07:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 08:22:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -254,6 +254,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.27 ~ 2024.01.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/22/WopfxzXd7l1p8bmSsMnUSYv4YbgLtQs9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[데드맨] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.26 ~ 2024.02.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/24/opA7CvMbVQ27BlucNctYIGhi35yKCh6B.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<신차원! 짱구는 못말려 더 무비 초능력 대결전 ~날아라 수제김밥~> 6주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
