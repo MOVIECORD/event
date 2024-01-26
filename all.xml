@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 07:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 08:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.03 ~ 2024.02.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/19/f6OV81svFqPAVauZLL7adc0mEqqR4UYc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<청춘 돼지는 책가방 소녀의 꿈을 꾸지 않는다> 1주차 특전증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.01 ~ 2024.02.07]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/26/h8FJNzm0PTKYXCH2bhX10apUUacB3EJQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<웡카> 돌비 포스터 증정🍫 (메가박스 ─ 이벤트 ─ 영화)]]></title>
