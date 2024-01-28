@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Jan 2024 14:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jan 2024 15:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,14 +78,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.14 ~ 2024.02.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/16/du9OA3kssQL42W4ZUwatwxZ1T1oz2ljC.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<위시> 데코팩 엽서 세트 증정 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.10 ~ 2024.01.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/08/UFpZIGTDrSE86nIhGfG8LZgIaihaDYl4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[프로모션][굿즈] <위시> 아크릴스탠드, OST 콤보 론칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -896,14 +888,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/26/SMu4LOCKI6E9bGTW7pswzWjfeciOB2lw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<시민덕희> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.28 ~ 2024.01.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/18/dJphR0KJkHMtTiwuVGllhgwqXxUGGkOp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[송돌비] 메가박스 송도 돌비 시네마 오픈 전야 시사회 - 웡카🍫 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
             <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
@@ -918,14 +902,6 @@
             <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.23 ~ 2024.01.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/23/YGc0l6rApvo6YQWiAdfPifME68uGHmux.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<도그데이즈> 메가박스 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.23 ~ 2024.01.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/23/sNRQA2sZefkPtin0RPS7vN8W2zIdm5t4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

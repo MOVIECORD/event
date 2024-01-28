@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Jan 2024 14:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jan 2024 15:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.10 ~ 2024.02.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/26/SMu4LOCKI6E9bGTW7pswzWjfeciOB2lw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<시민덕희> 개봉주 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.28 ~ 2024.01.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/18/dJphR0KJkHMtTiwuVGllhgwqXxUGGkOp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[송돌비] 메가박스 송도 돌비 시네마 오픈 전야 시사회 - 웡카🍫]]></title>
@@ -38,14 +30,6 @@
             <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.23 ~ 2024.01.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/23/YGc0l6rApvo6YQWiAdfPifME68uGHmux.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<도그데이즈> 메가박스 회원시사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.23 ~ 2024.01.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/23/sNRQA2sZefkPtin0RPS7vN8W2zIdm5t4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

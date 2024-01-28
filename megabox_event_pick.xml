@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Jan 2024 14:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jan 2024 15:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,14 +78,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.14 ~ 2024.02.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/16/du9OA3kssQL42W4ZUwatwxZ1T1oz2ljC.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<위시> 데코팩 엽서 세트 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.10 ~ 2024.01.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/08/UFpZIGTDrSE86nIhGfG8LZgIaihaDYl4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[프로모션][굿즈] <위시> 아크릴스탠드, OST 콤보 론칭]]></title>
