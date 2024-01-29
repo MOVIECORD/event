@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 08:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 09:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.05 ~ 2024.02.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/26/MSAoUBexgw1dQ9ASgang6SFV3ivIy1Ra.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 오리지널티켓 100은 핑계고 고마워서 그래 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.29 ~ 2024.02.29]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/29/UE6wdBNfF0gY2PQUQVPJoNAUtoILxngl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엡손x메가박스 <곰돌이 푸 패키지> 출시 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -224,6 +232,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/29/qgj1fffEiIAYHcPfXejN1JmLrDntHXIV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<극장판 아이돌리쉬 세븐> 앵콜 2주차 특전 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.01 ~ 2024.02.07]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/29/jdjMYNy5MBkOhzwSvPy129vh4697itIw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<청춘 돼지는 책가방 소녀의 꿈을 꾸지 않는다> 1주차 특전증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -262,6 +278,30 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.31 ~ 2024.02.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/29/INtDLHMPE17a8pDKO2mmxMdSynFK8voN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<신 에반게리온 극장판> 3주차 특전 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.31 ~ 2024.02.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/29/YV9wcbMJeDrK20qhbHEMIjNEN9HJ5liF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<에반게리온 신극장판: 서, 파, Q> 2주차 특전 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.31 ~ 2024.02.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/29/41W0JUSeCMPfyH9urwqRVG0oUJublkMs.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<엔드 오브 에반게리온> 3주차 특전 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.31 ~ 2024.02.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/29/zQaAwlN3zXmzwJKQQyZ71RmpsPHcWQmD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<소녀는 졸업하지 않는다> 굿즈 증정 특별상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
