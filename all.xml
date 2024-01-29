@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 04:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 05:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -222,6 +222,22 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.31 ~ 2024.02.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/23/aeHePwBlPk4cIflFGi2AGUeMP80FMorn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<괴물> 10주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.31 ~ 2024.02.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/29/JeGkvUe3wtFG2LMbZ0PhuoWkRA0GNuIm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<류이치 사카모토: 오퍼스> 6주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.31 ~ 2024.02.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/29/INtDLHMPE17a8pDKO2mmxMdSynFK8voN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<소녀는 졸업하지 않는다> 굿즈 증정 특별상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
