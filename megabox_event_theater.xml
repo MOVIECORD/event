@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 14:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 15:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.24 ~ 2024.02.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/16/UNLWjep18wwBmEOJvE3tdq7Wll01nFSj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[수원인계] 2023.12.15 GRAND OPENING]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.15 ~ 2024.01.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/12/xunXKHGP8vbxFULOvvntcUCSlKbpNnwG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[목동] 달콤 고소 믹스팝콘 출시!]]></title>
@@ -136,14 +128,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/15/YuZDffTPhFedbHfuwrGvneCjKUFJkUJz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[동탄] 새해 팝콘 많이 받으세요!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.04 ~ 2024.01.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/04/lcvTF0VXqXHbGXhIqcTQkxMvNa9IpLKi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[사상] 이마트 사상점 제휴이벤트]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -200,28 +184,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/07/X0LdsJ2Pjp4fy0m0zqCIieCiYWlSoKON.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[울산] 리클라이너 리뉴얼 오픈 기념!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.07 ~ 2024.01.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/07/wW6YqBQc3V0gWGGE6Vjw8WvxX8LwOBcM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[청라지젤] 2024 빙고 스템프 챌린지!]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.01 ~ 2024.04.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/28/oBaAh2RdeijjCrMi3CR3jEitSqxwpfk7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[백석벨라시타] 지점전용관람권 판매 렛츠고벨라!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.27 ~ 2024.01.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/02/N9SzBidlJ2aNX41KazlPYxDNgF9Wbrcx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[메가박스 X 이롬] BARO 키즈 프로틴워터 런칭]]></title>
@@ -398,14 +366,6 @@
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.25 ~ 2024.02.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/23/GxzVmS4I7JDhdph639OUMlDu7bSsqt5g.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[부산경남지역] 인제대학교 재학생, 교직원 할인]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.01 ~ 2024.01.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/01/YYiRRxjbvxhbfqxA7fdJ2IA3W4UK9qEE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[세종] 팝콘 유료 리필 이벤트]]></title>

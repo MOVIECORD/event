@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 14:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 15:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,14 +232,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/24/opA7CvMbVQ27BlucNctYIGhi35yKCh6B.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<신차원! 짱구는 못말려 더 무비 초능력 대결전 ~날아라 수제김밥~> 6주차 현장 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.26 ~ 2024.01.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/24/GiD0AzThKuSczD2kbeaWPo2V08cNrJ75.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<세기말의 사랑> SNS 관람인증 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -312,38 +304,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/22/8fQjQQrfPLQumvLxS3FKbWqnXSkqDNV5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[세기말의 사랑] 선착순 빵원티켓]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.22 ~ 2024.01.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/17/omOLJGu12LFoNfg6GYklcuBjlxYvFW7o.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[레트리뷰션] 선착순 빵원티켓]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.19 ~ 2024.01.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/17/kzVX4Os0kTmhHA9sL7HEH7hz8J3tcZ4l.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[도그맨] 선착순 빵원티켓]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.19 ~ 2024.01.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/09/qh4zeYR9qccEVhE22YhXVep3D9e4V6bK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<더 퍼스트 슬램덩크: COURT SIDE in Theater> 특별상영 2주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.11 ~ 2024.01.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/08/09lWh79cJwXWT9bGmyts2XfPmF9WZDKc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[CLASSIC SOCIETY] <2024 씨네클래식 라인업>]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -358,14 +318,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.04 ~ 2024.03.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/19/Wa9pPjMiHFPCkAYjP60Xkz2AEqFtQ3Ov.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[메가박스X시네마캐슬] 시네마캐슬 1월 상영작 안내]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.01 ~ 2024.01.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/28/Z7XV22mhYAulSWabTODkqtyDQApHWEVX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로열 오페라 하우스 라이브 인 시네마 23-24 시즌 안내]]></title>
