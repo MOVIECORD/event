@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 23:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 01:07:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.07 ~ 2024.02.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/29/i8WOsp4ADcl3xmC5xLYzjZ7JouxyMOGD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<시민덕희> 2주차 무대인사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.03 ~ 2024.02.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/31/lygE64u0G6WMtWrvSidbBC7lv9s4BxFL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[송돌비] 메가박스 송도 돌비 시네마 오픈 전야 시사회 - 웡카🍫]]></title>
