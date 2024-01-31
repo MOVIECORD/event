@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 01:07:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 02:23:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,12 +48,44 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/26/W8EeU8UtT8DPnvX9LB5FS0XPz9EC0q0F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[파주운정] 2월에 영화보면 초대권 당첨?!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.01 ~ 2024.02.29]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/31/Hjmt34x5UEz9FRZx87EtTV7hrsaxH5F6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[분당] 단골 모집공고]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.01 ~ 2024.02.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/25/XrFkn3VEyKj5EIgyRCd9JvK06mUHRWTv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[남포항, 포항] 포항지역 관함권 패키지]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.31 ~ 2024.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/31/5YXWQDj7CP2U59H6r2EGG8o8CoIm0vjE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[수원인계] LG베스트샵 수원본점 제휴 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.31 ~ 2024.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/31/iZwqh4CPSScxGfTw6LBOK55EL6UXhvOd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[양산증산] 볼매팡팡!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.19 ~ 2024.03.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/31/PP8VQEIbTXa9Gm7ZDBWbrGwpVqbjFf7e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대전현대아울렛] 티웨이항공과 함께 댓글달고 항공권 GET!!]]></title>
