@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 23:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 01:10:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.05 ~ 2024.02.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/26/MSAoUBexgw1dQ9ASgang6SFV3ivIy1Ra.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[온라인스토어] 설 명절 스페셜 관람권패키지 출시 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.01 ~ 2024.02.11]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/30/BnJ8OblaUY6uZ4rXztCCX4MEP2FcKph4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 No.100 <웡카> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
