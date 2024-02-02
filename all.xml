@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Feb 2024 09:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 10:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -158,6 +158,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.09 ~ 2024.02.15]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/01/kS8SmqP7H82RnF1NMJCURDIGeBKQwvlZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<숀더쉽 더 무비: 꼬마 외계인 룰라!> 인형증정 특별상영 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.09 ~ 2024.02.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/02/wdQee8Meh6uvGQqU1QJuVF0MFcw7xXv7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<우견니> 설 연휴 프리미어 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
