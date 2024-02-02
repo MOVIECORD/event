@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Feb 2024 05:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 06:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.03 ~ 2024.02.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/31/lygE64u0G6WMtWrvSidbBC7lv9s4BxFL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<극장판 츠루네: 시작의 한 발> 메가박스 회원시사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.01 ~ 2024.02.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/02/P0aatM1kXl8HMR1wwwdcZDYupJ6acIm9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
