@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Feb 2024 14:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 15:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,14 +70,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.22 ~ 2024.02.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/22/HfmM03ielCWQxcU9SY5xEmY8j9D2YfyA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<웡카> 굿즈패키지 출시 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.22 ~ 2024.02.02]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/19/VKB3rbkZ0HYMgKLCt9D6PJjw2eRdAJhE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[프로모션][굿즈] <코카콜라텀블러> 콤보 론칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
