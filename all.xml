@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Feb 2024 23:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 01:08:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -486,6 +486,14 @@
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.05 ~ 2024.03.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/26/BQ4PwxOXt2zxMW7nyIsuDu2cPPOWJWg4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대전현대아울렛X티웨이항공] 2월에도 복 받아가세용! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.05 ~ 2024.02.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/05/l3nyubbEbK51Af3fxJzIHGvsJblxS2RE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[수원스타필드] 그랜드 오프닝 페스타 (메가박스 ─ 이벤트 ─ 극장)]]></title>
