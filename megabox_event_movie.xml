@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 01:08:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 02:29:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/23/DtFTU3AtdJDTR1UumA4VJGbe7vQEQiAb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<웡카> 2주차 플레잉카드 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.07 ~ 2024.02.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/05/pZDrT76GrzjA7BYALMmClsE1f0HYODuy.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<아가일> 돌비포스터 증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -62,6 +70,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.07 ~ 2024.02.07]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/29/QmmYATVal4eV9lD3dsNunzJ6uw2du8AH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[아기상어 극장판: 사이렌 스톤의 비밀] 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.06 ~ 2024.02.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/05/kyPk3QnWKTSa3zAp6qNrxvbuIjMj5tfM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[아네모네] 선착순 빵원티켓]]></title>
