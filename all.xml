@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 09:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 10:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -158,6 +158,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.09 ~ 2024.02.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/02/wdQee8Meh6uvGQqU1QJuVF0MFcw7xXv7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<길 위에 김대중> 특가 관람 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.09 ~ 2024.02.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/05/bihMb1TpRD6VWpXt06Yjp5n87eo587k1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<우견니> 설 연휴 프리미어 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
