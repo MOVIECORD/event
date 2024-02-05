@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 14:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 15:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,14 +94,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.03 ~ 2024.02.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/28/mqSRtfx62z8fjrsBM7WJElbnuhZajSPf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 오리지널 티켓 No.98 <위시> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.03 ~ 2024.02.05]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/01/sgSRuGOliPhpIdd9l9z40DU7C9RH2LDQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스에서 <위시> 보고 디즈니+ 혜택 받자!! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
