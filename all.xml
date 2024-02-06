@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Feb 2024 10:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 11:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,6 +142,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.02 ~ 2024.02.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/07/zX9ge6IdUnjLR8PGfdNH78cYbPYzY5ls.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<플랜 75> 굿즈 증정 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.09 ~ 2024.02.18]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/06/62Jz9vVZJecwrxStdUy4q2LzSJyNByhQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<신차원! 짱구는 못말려 더 무비 초능력 대결전 ~날아라 수제김밥~> 8주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
