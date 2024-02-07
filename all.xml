@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 14:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 15:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -320,14 +320,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/05/DbgU2UzcUqYeU45GsMzrQSgrGQ8iD6vd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<도그데이즈> 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.07 ~ 2024.02.07]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/29/QmmYATVal4eV9lD3dsNunzJ6uw2du8AH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[아기상어 극장판: 사이렌 스톤의 비밀] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -384,22 +376,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/31/cWnlQXp9Jms4yXNzgy5US04pfEtSN37q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<극장판 아이돌리쉬 세븐> 앵콜 2주차 특전 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.01 ~ 2024.02.07]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/29/jdjMYNy5MBkOhzwSvPy129vh4697itIw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<청춘 돼지는 책가방 소녀의 꿈을 꾸지 않는다> 1주차 특전증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.01 ~ 2024.02.07]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/26/h8FJNzm0PTKYXCH2bhX10apUUacB3EJQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<서울의 봄> 라스트 특가 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -446,14 +422,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.31 ~ 2024.02.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/29/INtDLHMPE17a8pDKO2mmxMdSynFK8voN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[시민덕희] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.31 ~ 2024.02.07]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/10/hQM80qgye2umOdDPgvGb7UInTM7ltd8A.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[도그데이즈] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
