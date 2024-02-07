@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 05:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 06:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,6 +208,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/31/G8xfRvhpdUyRNt9IiSkC7MZz00BchJqA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[파묘] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.08 ~ 2024.02.29]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/06/DY1BT5b6uGEQmYNtoWpN87RghVz43WHj.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[우견니] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -222,6 +230,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.08 ~ 2024.02.21]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/05/Vz1177yUL3aSqWkrPud1URfLYsxwGVDs.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[데드맨] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.08 ~ 2024.02.15]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/07/5Qk718hMGDjQmcwNUfmn8Hu257ctS6ZZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<청춘 돼지는 책가방 소녀의 꿈을 꾸지 않는다> 2주차 특전 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
