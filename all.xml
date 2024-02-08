@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 10:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 11:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.14 ~ 2024.03.05]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/08/Riau8Xhx20eeEzTN4FkaiouXHiSjCKxs.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<우왕- 왕가위다!> 왕가위 감독 걸작선 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.14 ~ 2024.03.05]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/08/GCNuIhM02drVuuBUKLMH9evHM92sjmvr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MEGA l MX4D MANIA 스탬프 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
