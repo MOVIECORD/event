@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 05:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 06:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메가박스 드로잉카드 <해피 투게더 리마스터링> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.14 ~ 2024.03.05]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/08/dxN4go0tNGQrBVSdgWCkDEBAiNpEMqyg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 드로잉카드 <화양연화 리마스터링> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.14 ~ 2024.03.05]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/08/nuWfVU5K6OslSaLb3PE8hqMlnRnj5rHN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 드로잉카드 <중경삼림 리마스터링> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.14 ~ 2024.03.05]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/08/Riau8Xhx20eeEzTN4FkaiouXHiSjCKxs.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<업> & <토이스토리> 콤보 런칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
@@ -182,6 +206,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.14 ~ 2024.02.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/07/0KN4eYfxvwAfFpLdHsLVHG6nqC4Nt2eG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<오늘 밤, 세계에서 이 사랑이 사라진다 해도> 로맨틱 굿즈 증정 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.14 ~ 2024.02.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/08/UYBNj6bukBP9H3Phf4j412V9KtQOaxHX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<생츄어리 2 : 쿼카가 너무해> 디지털 띠부띠부씰 SNS 인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
