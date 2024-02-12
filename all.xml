@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Feb 2024 23:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Feb 2024 01:07:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -214,6 +214,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.01 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/08/DUc8n2wnrwZ6NuljQgXWp6woGSL6W8UW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<극장판 아이돌리쉬 세븐> 라스트 상영 특전 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.15 ~ 2024.02.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/08/xP2QcIV0wz2hTQ7LK8banG3gR3xEvQoi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<스노우 퍼핀즈> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
