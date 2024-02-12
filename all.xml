@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Feb 2024 14:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Feb 2024 15:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,14 +304,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/05/bihMb1TpRD6VWpXt06Yjp5n87eo587k1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<우견니> 설 연휴 프리미어 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.09 ~ 2024.02.12]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/31/G8xfRvhpdUyRNt9IiSkC7MZz00BchJqA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[파묘] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -600,14 +592,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/08/V80BC4KcYGyq2bfoRdkDuaUx5UBmDkBX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[세종(조치원)] 메가박스 방문하고, 세뱃돈 받아가세요~ (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.09 ~ 2024.02.12]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/31/0fm3HVaeA7HorCUG3c7FRjSERScYl9C9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[대구신세계] 지점 전용 관람권 패키지 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -726,14 +710,6 @@
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.19 ~ 2024.02.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/31/RGtyWaHMWvAHVltpHNnyfkovwRIOhmvu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대전현대아울렛] 티웨이항공과 함께 댓글달고 항공권 GET!! (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.15 ~ 2024.02.12]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/15/YuZDffTPhFedbHfuwrGvneCjKUFJkUJz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[사상] 이마트 사상점 제휴이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -1064,28 +1040,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/02/Gd9p85ocMTXylM1LoedwAe2IqxaDsWdU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<아기상어 극장판: 사이렌 스톤의 비밀> 개봉기념 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.09 ~ 2024.02.12]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/29/kfIer1VTFwkn3DbnWZxFsIB5rhkAaHhZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<막걸리가 알려줄거야> 메가박스 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
             <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
             <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.06 ~ 2024.02.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/06/Gn4wZUJRC6VVulU1Dk4hBaZYCykhUWrz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 츠루네: 시작의 한 발> 메가박스 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.01 ~ 2024.02.12]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/02/P0aatM1kXl8HMR1wwwdcZDYupJ6acIm9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Feb 2024 14:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Feb 2024 15:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.10 ~ 2024.02.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/08/V80BC4KcYGyq2bfoRdkDuaUx5UBmDkBX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[세종(조치원)] 메가박스 방문하고, 세뱃돈 받아가세요~]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.09 ~ 2024.02.12]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/31/0fm3HVaeA7HorCUG3c7FRjSERScYl9C9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대구신세계] 지점 전용 관람권 패키지]]></title>
@@ -166,14 +158,6 @@
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.19 ~ 2024.02.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/31/RGtyWaHMWvAHVltpHNnyfkovwRIOhmvu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대전현대아울렛] 티웨이항공과 함께 댓글달고 항공권 GET!!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.15 ~ 2024.02.12]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/15/YuZDffTPhFedbHfuwrGvneCjKUFJkUJz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[사상] 이마트 사상점 제휴이벤트]]></title>
