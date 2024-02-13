@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 01:07:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 02:22:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,6 +238,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.14 ~ 2024.02.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/08/lS82F3KchFK7HLfyw3QKODNkdx5a3y6J.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<웡카> 3주차 티저 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.14 ~ 2024.02.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/08/E8wrLF6cARVkDaBaVCwYn9LQuwb6c5Kv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<오늘 밤, 세계에서 이 사랑이 사라진다 해도> 발렌타인 특전 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
