@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 07:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 08:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메가박스 매니아 티켓 <웡카> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.17 ~ 2024.03.16]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/15/kXMjEIp6VYbpNAWvmjvfhhEa6AstUQRs.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[프로모션][굿즈] 발렌타인데이 기념, <웡카>콤보 구매시, 추가굿즈 증정이벤트! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
@@ -240,6 +248,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/07/qwybZvjghHcMzXMuSYiQOFVimA4pSuwt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<우견니> 1주차 주말 특전 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.17 ~ 2024.03.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/14/8D07SLyLeNMJB3E3rj9k3kFKrUqhu5E7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<아기상어 극장판: 사이렌 스톤의 비밀> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -264,12 +280,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/14/quK3qSGV6KxYQ5M7IHyrrWXFeiLN3UhF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<우견니> 1주차 주말 특전 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <title><![CDATA[<우견니> SNS 관람인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.17 ~ 2024.02.20]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/14/8D07SLyLeNMJB3E3rj9k3kFKrUqhu5E7.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2024.02.15 ~ 2024.02.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/15/lpJLpnN8UeGyQz608HyADG4G7vFF7wMA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<극장판 아이돌리쉬 세븐> 라스트 상영 특전 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
