@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Feb 2024 14:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Feb 2024 15:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,14 +118,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.07 ~ 2024.03.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/07/Q4OM7eQjvVlqyqllUdf4drt2VZC3v9DV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[메가박스 영화상] 영화의 주인공은 관객, 바로 당신! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.07 ~ 2024.02.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/06/zF3iUZUTC9bIf0s1HLpe5yMtQrUdnm6O.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[송돌비] 메가박스 송도 돌비 시네마 GRAND OPEN EVENT (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -352,28 +344,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/08/E8wrLF6cARVkDaBaVCwYn9LQuwb6c5Kv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<오늘 밤, 세계에서 이 사랑이 사라진다 해도> 발렌타인 특전 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.14 ~ 2024.02.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/07/0KN4eYfxvwAfFpLdHsLVHG6nqC4Nt2eG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<생츄어리 2 : 쿼카가 너무해> 디지털 띠부띠부씰 SNS 인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.13 ~ 2024.02.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/07/EgA33S2r7hyo0aS6x5YFMdCmvdFkapjm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<플랜 75> 굿즈 증정 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.09 ~ 2024.02.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/06/62Jz9vVZJecwrxStdUy4q2LzSJyNByhQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[파묘] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -446,14 +422,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.31 ~ 2024.02.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/29/UVWJq1PirTeuAFPHJfzneeUldXiweoSB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<웡카> 돌비 포스터 증정🍫 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.31 ~ 2024.02.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/23/aeHePwBlPk4cIflFGi2AGUeMP80FMorn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[CLASSIC SOCIETY] <2024 씨네클래식 라인업> (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -702,14 +670,6 @@
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.19 ~ 2024.03.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/31/PP8VQEIbTXa9Gm7ZDBWbrGwpVqbjFf7e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[상봉] 갑진 패키지! (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.19 ~ 2024.02.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/31/RGtyWaHMWvAHVltpHNnyfkovwRIOhmvu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[사상] 이마트 사상점 제휴이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -1062,14 +1022,6 @@
             <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.24 ~ 2024.02.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/13/RWJKQytfHsVjji0ECg8YGCISWfkE7cG5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<아기상어 극장판: 사이렌 스톤의 비밀> 2주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.17 ~ 2024.02.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/13/IGWtBMxDucvzGZ1ecLPb19IosK3B45jc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

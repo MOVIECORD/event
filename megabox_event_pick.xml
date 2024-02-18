@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Feb 2024 14:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Feb 2024 15:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,14 +118,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.07 ~ 2024.03.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/07/Q4OM7eQjvVlqyqllUdf4drt2VZC3v9DV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[메가박스 영화상] 영화의 주인공은 관객, 바로 당신!]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.07 ~ 2024.02.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/06/zF3iUZUTC9bIf0s1HLpe5yMtQrUdnm6O.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[송돌비] 메가박스 송도 돌비 시네마 GRAND OPEN EVENT]]></title>

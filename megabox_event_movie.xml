@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Feb 2024 14:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Feb 2024 15:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,28 +120,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/08/E8wrLF6cARVkDaBaVCwYn9LQuwb6c5Kv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<오늘 밤, 세계에서 이 사랑이 사라진다 해도> 발렌타인 특전 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.14 ~ 2024.02.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/07/0KN4eYfxvwAfFpLdHsLVHG6nqC4Nt2eG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<생츄어리 2 : 쿼카가 너무해> 디지털 띠부띠부씰 SNS 인증 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.13 ~ 2024.02.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/07/EgA33S2r7hyo0aS6x5YFMdCmvdFkapjm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<플랜 75> 굿즈 증정 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.09 ~ 2024.02.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/06/62Jz9vVZJecwrxStdUy4q2LzSJyNByhQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[파묘] 선착순 빵원티켓]]></title>
@@ -214,14 +198,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.31 ~ 2024.02.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/29/UVWJq1PirTeuAFPHJfzneeUldXiweoSB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<웡카> 돌비 포스터 증정🍫]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.31 ~ 2024.02.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/23/aeHePwBlPk4cIflFGi2AGUeMP80FMorn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[CLASSIC SOCIETY] <2024 씨네클래식 라인업>]]></title>
