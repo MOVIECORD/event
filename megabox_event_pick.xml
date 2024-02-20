@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 23:16:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 01:06:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -190,14 +190,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.19 ~ 2024.02.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/10/sKcxMt7XZZa6srWnyTTS5dnC5cqmdH6p.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<링팝: 더 브이알콘서트 카이> 1주차 특전 안내]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.14 ~ 2024.02.20]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/16/du9OA3kssQL42W4ZUwatwxZ1T1oz2ljC.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[프로모션][굿즈] <위시> 아크릴스탠드, OST 콤보 론칭]]></title>
