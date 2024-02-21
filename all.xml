@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Feb 2024 10:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 11:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.21 ~ 2024.03.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/21/Sd5xkxqXxGKcp50wewVuoz7tC4qgia94.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 아카데미를 위한 메가박스 아카데미🖋 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.21 ~ 2024.03.19]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/21/DAspszk5BuMjjoZcJVpClgyyOCJqRzrk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[돌비 시네마 스페셜 재개봉 <블레이드 러너 2049> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -248,7 +256,7 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/08/DUc8n2wnrwZ6NuljQgXWp6woGSL6W8UW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<듄: 파트2> 돌비 포스터 증정 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <title><![CDATA[<듄: 파트2> 돌비 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
@@ -294,14 +302,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.22 ~ 2024.02.22]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/13/YYDP6AyuNOdE3DgNCqPIWZzQl2XRx7MA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 아카데미를 위한 메가박스 아카데미 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.21 ~ 2024.03.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/21/DAspszk5BuMjjoZcJVpClgyyOCJqRzrk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아트나인과 함께 하는 <막걸리가 알려줄거야> 시네마구구 (메가박스 ─ 이벤트 ─ 영화)]]></title>
