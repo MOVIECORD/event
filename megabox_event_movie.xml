@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Feb 2024 08:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 09:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.27 ~ 2024.02.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/20/XEcqoCZAoaZyTyKAx5Q5bCoWVvDIW2gC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<파묘> 팝묘 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.24 ~ 2024.02.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/21/Uo41h4Fh6R0r2NgK3X5FnwvyepJ6OhmF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<스노우 퍼핀즈> 2주차 현장증정 이벤트]]></title>
