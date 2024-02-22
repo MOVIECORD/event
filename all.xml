@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Feb 2024 06:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 07:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -254,6 +254,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.01 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/08/DUc8n2wnrwZ6NuljQgXWp6woGSL6W8UW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[메가박스X시네마캐슬] 시네마캐슬 3월 상영작 안내 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.01 ~ 2024.03.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/22/iR0EWG9OiBcAkHEfaRS2yTn90cG2FiAd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<듄: 파트2> 돌비 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
