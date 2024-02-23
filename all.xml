@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 04:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 05:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,6 +286,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.27 ~ 2024.02.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/20/XEcqoCZAoaZyTyKAx5Q5bCoWVvDIW2gC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[우견니] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.26 ~ 2024.03.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/23/Ck3OfaSWeWs3qZPSN3FheW5hic5hWQWc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<랜드 오브 배드> SNS 기대평 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
