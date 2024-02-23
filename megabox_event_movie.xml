@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 05:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 06:26:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<오키쿠와 세계> 정성일 평론가 메가토크]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.06 ~ 2024.03.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/23/iuXUgIE0hvNObr8e4VZiMRGi7YjM8qSj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[메가박스X시네마캐슬] 시네마캐슬 3월 상영작 안내]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
@@ -48,12 +56,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/23/Ck3OfaSWeWs3qZPSN3FheW5hic5hWQWc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<랜드 오브 배드> SNS 기대평 이벤트]]></title>
+            <title><![CDATA[<생츄어리 2 : 쿼카가 너무해> 코스튬 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.24 ~ 2024.03.03]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/22/LnTuWQBTCI8QiyaSzaA7o9JuMwX4CL3U.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2024.02.25 ~ 2024.02.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/23/soGyDtDk9JC6zScOtACzJWmERCZy5OfR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<파묘> 팝묘 이벤트]]></title>
@@ -70,6 +78,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.23 ~ 2024.03.07]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/21/BDB4r3iSNt5dsBHw9ThlHF4SjOex6Jl9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<랜드 오브 배드> SNS 기대평 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.23 ~ 2024.03.03]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/22/LnTuWQBTCI8QiyaSzaA7o9JuMwX4CL3U.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<우견니> 2주차 특전 증정 이벤트]]></title>
