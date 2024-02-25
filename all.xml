@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Feb 2024 14:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Feb 2024 15:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,14 +160,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/26/MSAoUBexgw1dQ9ASgang6SFV3ivIy1Ra.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[메가박스 오리지널 티켓 No.100 <웡카> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.31 ~ 2024.02.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/29/ia4GVrL6dswvxKry4wSkAGX35n9Fg3bi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[메가박스 오리지널티켓 100은 핑계고 고마워서 그래 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
@@ -190,14 +182,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.26 ~ 2024.02.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/24/T9u2w10Q9RRJwRsXZSOIYa44iFQcP908.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 오리지널 티켓 No.99 <도그맨> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.22 ~ 2024.02.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/22/HfmM03ielCWQxcU9SY5xEmY8j9D2YfyA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[프로모션][굿즈] <코카콜라텀블러> 콤보 론칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -318,14 +302,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.26 ~ 2024.03.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/23/Ck3OfaSWeWs3qZPSN3FheW5hic5hWQWc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<생츄어리 2 : 쿼카가 너무해> 코스튬 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.25 ~ 2024.02.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/23/soGyDtDk9JC6zScOtACzJWmERCZy5OfR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<스노우 퍼핀즈> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -550,14 +526,6 @@
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.05 ~ 2024.03.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/26/BQ4PwxOXt2zxMW7nyIsuDu2cPPOWJWg4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대전현대아울렛X티웨이항공] 2월에도 복 받아가세용! (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.05 ~ 2024.02.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/05/l3nyubbEbK51Af3fxJzIHGvsJblxS2RE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[제주아라] 지점 오픈 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -1024,14 +992,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/08/25/dqNxzGSdzGA7YFC7p6Rb3PCmVL7KeDYQ.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[수도권동부지역] 빠삭한 새우칩스 출시! (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.25 ~ 2024.02.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/02/23/GxzVmS4I7JDhdph639OUMlDu7bSsqt5g.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[세종] 팝콘 유료 리필 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -1062,14 +1022,6 @@
             <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.15 ~ 2024.02.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/15/qiLHqcHFDXw7rF3udgtj7cTSgyTRDcCx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[메가박스X신세계포인트] 영화 같은 설날 이벤트 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.30 ~ 2024.02.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/29/bYhlVFBsHnOJ3c9RPumIqqgSTeKwZZTX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[토스페이] 메가박스 영화 1천원 즉시할인! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>

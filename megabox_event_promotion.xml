@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 제휴 할인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Feb 2024 14:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Feb 2024 15:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.15 ~ 2024.02.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/15/qiLHqcHFDXw7rF3udgtj7cTSgyTRDcCx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[메가박스X신세계포인트] 영화 같은 설날 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.30 ~ 2024.02.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/29/bYhlVFBsHnOJ3c9RPumIqqgSTeKwZZTX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[토스페이] 메가박스 영화 1천원 즉시할인!]]></title>
