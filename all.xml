@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 04:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 05:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -270,6 +270,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.01 ~ 2024.03.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/22/iR0EWG9OiBcAkHEfaRS2yTn90cG2FiAd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<청춘 돼지는 책가방 소녀의 꿈을 꾸지 않는다> 5주차 특전 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.29 ~ 2024.03.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/26/FAqVNUuKoFZwXhpeUnwsdKN52ctAtLsg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<더 퍼스트 슬램덩크: COURT SIDE in Theater> 특가관람 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
