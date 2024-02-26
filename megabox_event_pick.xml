@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 14:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 15:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<링팝: 더 브이알콘서트 카이> 3주차 특전 안내]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.28 ~ 2024.03.05]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/16/sL74eQvSRrwldW5eablOU4JPxP2E1oby.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[<듄: 파트2> 리미티드 무비 패키지 출시!]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
