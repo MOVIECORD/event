@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 05:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 06:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -320,19 +320,11 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/21/bP822TYkeUiNOoiGD0luZffMPQRNdFUV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<중경삼림 리마스터링> 재개봉 기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.28 ~ 2024.03.12]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/23/GZqvq7e2uU1fjVfFeGraGdQQPt1SnHsV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<우견니> 3주차 특전 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.28 ~ 2024.03.05]]></content:encoded>
+            <content:encoded><![CDATA[2024.02.28 ~ 2024.03.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/26/WMMchCEURoKokeKHTXyrSgw5KJCpC4gu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -340,8 +332,16 @@
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.28 ~ 2024.03.05]]></content:encoded>
+            <content:encoded><![CDATA[2024.02.28 ~ 2024.03.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/26/bJaeIbg1iRLZnS4iypogGRVgdxwPWWHd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<중경삼림 리마스터링> 재개봉 기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.28 ~ 2024.03.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/23/GZqvq7e2uU1fjVfFeGraGdQQPt1SnHsV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<듄: 파트2> 돌비시네마 전야 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
