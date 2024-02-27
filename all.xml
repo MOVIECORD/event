@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 01:05:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 02:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.28 ~ 2024.03.05]]></content:encoded>
+            <content:encoded><![CDATA[2024.02.27 ~ 2024.03.05]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/16/sL74eQvSRrwldW5eablOU4JPxP2E1oby.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.21 ~ 2024.02.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/15/SrMZJT9abTBJClzwWLtSgbvIenr4Bko6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<링팝: 더 브이알콘서트 카이> 2주차 특전 안내 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.20 ~ 2024.02.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/16/HsDBeuBrsNyik32JuqpgfKJfasoQi2EX.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 No.102 <파묘> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -1158,6 +1150,14 @@
             <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.02 ~ 2024.03.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/16/DMnuGJleoojErVwwWbpmn7NFzfdxh7LH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<아기상어 극장판: 사이렌 스톤의 비밀> 4주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.01 ~ 2024.03.03]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/27/oW8ci8cqAqTosxI1cMcee6T4a6um9IJn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
