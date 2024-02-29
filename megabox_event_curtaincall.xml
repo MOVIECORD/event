@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Feb 2024 02:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 03:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.01 ~ 2024.03.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/27/oW8ci8cqAqTosxI1cMcee6T4a6um9IJn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<랜드 오브 배드> 메가박스 회원시사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.29 ~ 2024.03.07]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/29/tIbTGdDNVxzgDPXUovO78v40wHEXN4ZO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<레이징 그레이스> 메가박스 회원시사]]></title>
