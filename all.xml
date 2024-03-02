@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Mar 2024 14:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Mar 2024 15:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -358,14 +358,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.04 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/20/TvZE7wxoT0lvtx7f5A1CCuTbwevDzy9Z.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[CLASSIC SOCIETY] <씨네클래식 오페라 갈라콘서트> (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.04 ~ 2024.03.02]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/19/Wa9pPjMiHFPCkAYjP60Xkz2AEqFtQ3Ov.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로열 오페라 하우스 라이브 인 시네마 23-24 시즌 안내 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -902,14 +894,6 @@
             <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.01 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/02/Gd9p85ocMTXylM1LoedwAe2IqxaDsWdU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<파묘> 2주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.02 ~ 2024.03.02]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/16/DMnuGJleoojErVwwWbpmn7NFzfdxh7LH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<아기상어 극장판: 사이렌 스톤의 비밀> 4주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>

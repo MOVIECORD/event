@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Mar 2024 14:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Mar 2024 15:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -166,14 +166,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.04 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/20/TvZE7wxoT0lvtx7f5A1CCuTbwevDzy9Z.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[CLASSIC SOCIETY] <씨네클래식 오페라 갈라콘서트>]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.04 ~ 2024.03.02]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/19/Wa9pPjMiHFPCkAYjP60Xkz2AEqFtQ3Ov.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로열 오페라 하우스 라이브 인 시네마 23-24 시즌 안내]]></title>
