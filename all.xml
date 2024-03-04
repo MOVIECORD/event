@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 03:51:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 04:49:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,14 +208,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/26/PBL3vZGcruv0ykVKDapM7dm9CPlOvcrq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<듄: 파트2> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.06 ~ 2024.03.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/04/HZVsWQejhFj0LiLn6lhkSLLjzkrsDHJi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<대결! 애니메이션> 1주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -416,7 +408,7 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/29/tkAl9LwcU3wz7MF728evl527BIMG5d3l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[청라지젤] 한국환경공간 제휴할인 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <title><![CDATA[[청라지젤] 한국환경공단 제휴할인 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
