@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Mar 2024 09:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Mar 2024 10:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.17 ~ 2024.03.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/08/KloFiIdM7Ehy0YlV5O6GP43DEdQPzPR5.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/08/FdCHxnTc4jLLJsXnQeBWkdVNRM45njBO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<hololive 5th fes. Capture the Moment> 특전증정 이벤트]]></title>
@@ -40,12 +40,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/05/HY4BteNcq4ttkh0FUO8KOGPeKZnkfc1x.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<마담 웹> 돌비 포스터 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.13 ~ 2024.03.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/08/4jfnnLdo40PQHjxIo6p7O2NxdnCJVjmz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<마담 웹> MEGA | MX4D 포스터 증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.13 ~ 2024.03.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/08/OqzbLu9YidfsAqoPvCxj8elnnAGSihou.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2024 시네도슨트 in 코엑스] 극장에서 처음 만나는 미술사]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.11 ~ 2024.04.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/08/zYYIrDoE7ZzhGeXSFX9ckSQdt1RUEoFr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<파묘> 3주차 현장증정 이벤트]]></title>

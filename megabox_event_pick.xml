@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Mar 2024 09:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Mar 2024 10:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<레미제라블> 돌비 포스터 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.13 ~ 2024.03.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/08/UfcLmyxZey8asP38Xh6cizwkRzbADb1B.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메가굿즈샵 <스파이더맨 & 베놈> 굿즈 런칭]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
