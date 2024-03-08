@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Mar 2024 14:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Mar 2024 15:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,14 +142,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.09 ~ 2024.03.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/08/tnpEHTbl3hyOBen3Eee6tEkAsRYyOVDS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<업> & <토이스토리> 콤보 런칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.08 ~ 2024.03.08]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/07/xbzAMGmshctkKuw2PEhRNFDRBeY31epD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[디즈니 100주년 버켓] 할인 특가 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
