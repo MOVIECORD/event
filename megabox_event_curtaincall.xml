@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Mar 2024 08:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Mar 2024 09:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<극장판 스파이 패밀리 코드 : 화이트> 무대인사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.16 ~ 2024.03.16]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/08/6GBqBuKWHU5hniGZ8HUi9IgMjTMC7d8V.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<막걸리가 알려줄거야> 무대인사]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
