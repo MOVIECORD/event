@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 05:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 06:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/05/HY4BteNcq4ttkh0FUO8KOGPeKZnkfc1x.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<랜드 오브 배드> 밀덕 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.14 ~ 2024.03.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/11/g35Md4pHEulu1JC0FJRERHAwz1GFHRwN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<마담 웹> 돌비 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -230,6 +238,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.13 ~ 2024.03.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/08/OqzbLu9YidfsAqoPvCxj8elnnAGSihou.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<밥 말리: 원 러브> 스페셜 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.13 ~ 2024.03.26]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/11/MXSIR02O6jxfhRDCQYFoaponhUKJGg17.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<밥 말리: 원 러브> 돌비시네마 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1030,6 +1046,14 @@
             <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.01 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/02/Gd9p85ocMTXylM1LoedwAe2IqxaDsWdU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<메이 디셈버> 찰스 멜튼 내한 기념 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.17 ~ 2024.03.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/11/R56ZCCfqKZxYOUffz97WXlN3sCme6uX8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<극장판 스파이 패밀리 코드 : 화이트> 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
