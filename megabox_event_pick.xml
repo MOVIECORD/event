@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 07:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 08:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.13 ~ 2024.03.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/08/UfcLmyxZey8asP38Xh6cizwkRzbADb1B.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 오리지널 티켓 No.105 <메이 디셈버>]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.11 ~ 2024.04.11]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/11/PcZAIF9Pzz9Fd50mGDlyM30kI2qWyvtT.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[천만기원! <파묘> 메가드로우]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.11 ~ 2024.03.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/11/uxAFooSeXeJJVJFxa5sL8TpGMCDAhycr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가굿즈샵 <스파이더맨 & 베놈> 굿즈 런칭]]></title>
