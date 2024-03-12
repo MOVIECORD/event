@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 01:06:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 02:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1110,6 +1110,14 @@
             <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.17 ~ 2024.03.17]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/11/R56ZCCfqKZxYOUffz97WXlN3sCme6uX8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<돌핀> 개봉 기념 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.16 ~ 2024.03.16]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/12/ipzJDVfc8e9mT0fo1pyQhluIJSsU4oTD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<극장판 스파이 패밀리 코드 : 화이트> 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
