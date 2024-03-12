@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 10:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 11:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -312,6 +312,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/08/U0Qz3TmbH6qLdF05Sghxebzn0sASyJsh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<패스트 라이브즈> 관람쿠폰 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.13 ~ 2024.03.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/04/GvFtrEQ70bDIWz8Vup2CCsQIYgWwPygj.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<극장판 츠루네: 시작의 한 발> 4주차 특전 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -446,14 +454,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.06 ~ 2024.03.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/29/wJqLJl9MWgfB7BmM0O08stKSocSbYdfB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<패스트 라이브즈> 관람쿠폰 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.04 ~ 2024.03.20]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/04/GvFtrEQ70bDIWz8Vup2CCsQIYgWwPygj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[메가박스X시네마캐슬] 시네마캐슬 3월 상영작 안내 (메가박스 ─ 이벤트 ─ 영화)]]></title>
