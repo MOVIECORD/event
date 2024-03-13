@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 14:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 15:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -360,14 +360,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/11/uyUd0HV1nbshsMBKEfMPxjMgG8vGEPBy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<파묘> 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.13 ~ 2024.03.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/11/VPxLVEkIJo9kygffdL1C9yLAe6xRl7SH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[2024 시네도슨트 in 코엑스] 극장에서 처음 만나는 미술사 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -440,14 +432,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/04/HZVsWQejhFj0LiLn6lhkSLLjzkrsDHJi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[듄: 파트2] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.06 ~ 2024.03.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/29/DljE3FOFSk1W1cpwivTtiNvk5jSagx33.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[메가박스X시네마캐슬] 시네마캐슬 3월 상영작 안내 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -462,14 +446,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.01 ~ 2024.03.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/29/EOIuJB7a8lMDFAlOMFvNxAhXatqd8X0A.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대결! 애니메이션] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.29 ~ 2024.03.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/23/6vrHo2p8vpOUzfZChrGlCGWRcP6e05Yt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<듄: 파트2> 돌비 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
