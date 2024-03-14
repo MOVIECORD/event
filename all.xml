@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Mar 2024 06:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 07:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[프로모션][굿즈] <극장판스파이패밀리 CODE : White> 콤보 론칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.19 ~ 2024.04.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/12/a896qzEJ6INskbuLBahTUo9cmiadwPnQ.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[메가박스 드로잉 카드 No.1 <밥 말리: 원 러브> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
@@ -1086,14 +1078,6 @@
             <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.01 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/02/01/QnqACuKoPlMtYGM262yAyvmV0TGAt4Ui.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[U+멤버십 고객 영화 2,000원 할인 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[2021.02.01 ~ 2024.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2021/01/28/KFa8pQA1xZ0Ah1p8oHUNQVeDNStXkS4L.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024년 군인, 경찰 특별 혜택 안내 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
