@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Mar 2024 04:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 05:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,6 +206,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.01 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/08/DUc8n2wnrwZ6NuljQgXWp6woGSL6W8UW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<메이 디셈버> 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.21 ~ 2024.03.21]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/13/GDD5IYoIoeU7JS2UnDDYAGHjgTJnBidC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<왓츠 러브> SNS 관람인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
