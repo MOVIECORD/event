@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Mar 2024 23:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 01:07:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,6 +238,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.20 ~ 2024.04.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/13/YXQYtSFsbrOfnFv2hT1I4Usf7VFahFnT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[밥 말리: 원 러브] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.18 ~ 2024.03.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/15/3EyZ3GAimqr9qpJDCXaQ3GYp6hJyKpmN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<극장판 스파이 패밀리 코드: 화이트> 프리미어 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
