@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Mar 2024 14:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Mar 2024 15:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,14 +120,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/19/xVZNOKNzNlij53xme13QnStYEMIoonKr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[메가박스 매니아 티켓 <웡카> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.17 ~ 2024.03.16]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/15/kXMjEIp6VYbpNAWvmjvfhhEa6AstUQRs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[프로모션][굿즈] <듄:파트2> 스페셜콤보 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
@@ -150,14 +142,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.14 ~ 2024.04.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/08/ivwPsDR9iOxNvLUNCWVIgChMO2Xi02h2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 오리지널 티켓 No.101 <우견니> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.14 ~ 2024.03.16]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/13/NRsdL4zUteEjkeAf1LC4aaxFGXIGNk9V.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MEGA l MX4D MANIA 스탬프 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -294,14 +278,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.16 ~ 2024.03.17]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/06/bztAMc9hHwGW5j1y5CG1bpVVXDpVTCNv.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 스파이 패밀리 코드 : 화이트> 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.16 ~ 2024.03.16]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/08/wD46ARND4X5EH25uofMpgVSMLj66vcNb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2024 시네도슨트 in 목동] 미술관 투어 in 유럽 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1110,22 +1086,6 @@
             <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.17 ~ 2024.03.17]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/11/R56ZCCfqKZxYOUffz97WXlN3sCme6uX8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<돌핀> 개봉 기념 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.16 ~ 2024.03.16]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/12/ipzJDVfc8e9mT0fo1pyQhluIJSsU4oTD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 스파이 패밀리 코드 : 화이트> 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.16 ~ 2024.03.16]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/08/6GBqBuKWHU5hniGZ8HUi9IgMjTMC7d8V.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<키메라> 메가박스 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>

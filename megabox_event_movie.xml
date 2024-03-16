@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Mar 2024 14:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Mar 2024 15:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,14 +94,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.16 ~ 2024.03.17]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/06/bztAMc9hHwGW5j1y5CG1bpVVXDpVTCNv.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 스파이 패밀리 코드 : 화이트> 메가토크]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.16 ~ 2024.03.16]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/08/wD46ARND4X5EH25uofMpgVSMLj66vcNb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2024 시네도슨트 in 목동] 미술관 투어 in 유럽]]></title>
