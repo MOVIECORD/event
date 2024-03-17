@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Mar 2024 14:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Mar 2024 15:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,28 +256,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/15/3EyZ3GAimqr9qpJDCXaQ3GYp6hJyKpmN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<극장판 스파이 패밀리 코드: 화이트> 프리미어 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.17 ~ 2024.03.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/08/FdCHxnTc4jLLJsXnQeBWkdVNRM45njBO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<파묘> 스페셜 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.16 ~ 2024.04.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/11/lOjyLjkJjrN79PH4RbwhQ360MFHhj7j3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<hololive 5th fes. Capture the Moment> 특전증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.16 ~ 2024.03.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/06/bztAMc9hHwGW5j1y5CG1bpVVXDpVTCNv.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[2024 시네도슨트 in 목동] 미술관 투어 in 유럽 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1078,14 +1062,6 @@
             <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.01 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/02/Gd9p85ocMTXylM1LoedwAe2IqxaDsWdU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<메이 디셈버> 찰스 멜튼 내한 기념 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.17 ~ 2024.03.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/11/R56ZCCfqKZxYOUffz97WXlN3sCme6uX8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<키메라> 메가박스 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
