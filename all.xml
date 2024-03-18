@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Mar 2024 23:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 01:08:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -621,7 +621,7 @@
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.22 ~ 2024.03.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/07/21/4tyISgcKiQH4YxeDhb3MnNJWR7adq4bW.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/18/VaGk0GWvXrlx3OOa5KDg7C38fRgEBQKP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안성스타필드] 쿨쿨 겨울잠에서 깨어나세요! (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -901,7 +901,7 @@
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.13 ~ 2024.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/17/vzxfxu9hnwzTRf0EAKCzzz7Qpw4xLRsZ.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/18/jCZZUp3hOfLNnzOGRkuS01sXjMHKYWtZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[마산] 성인 관람 요금 인하! (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -998,6 +998,14 @@
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.01 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/04/mwmj2M28TLnF6sF3HD4tRjhLwxuixQ7Q.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KB Pay x 메가박스] KB pay 회원 전용 쿠폰 프로모션 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.18 ~ 2024.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/15/UYhFiewnuKMk0umbFHpM2yblNaCGReGG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[KT x 메가박스] 달달한 영화관람권 증정 이벤트 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
