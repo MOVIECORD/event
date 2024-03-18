@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 01:08:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 02:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<류이치 사카모토: 오퍼스> 1주기 특별 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.28 ~ 2024.04.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/18/KJJKDpcfRByRtrudIeWsglCNNsLq2woU.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<로봇 드림> 여둘톡 스페셜 GV]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
@@ -46,6 +54,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.19 ~ 2024.04.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/14/zFQmHXIjvGdO2cGFkEzmSAG8gjZnBgMp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트나인과 함께 하는 <류이치 사카모토 : 오퍼스> 1주기 특별 GV]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.18 ~ 2024.03.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/14/38JnqfydLg7cc7rtV3tLkjukbbEP4XYi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[극장판 스파이 패밀리 코드 : 화이트] 선착순 빵원티켓]]></title>
