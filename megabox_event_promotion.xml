@@ -4,25 +4,9 @@
         <title>메가박스 ─ 이벤트 ─ 제휴 할인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Mar 2024 14:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Mar 2024 20:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[LG유플러스 x 메가박스] 3월 해피유쓰데이]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.20 ~ 2024.03.20]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/20/4bBWZNHH28y8IYYdxnYxVrHRFlImZK19.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[T day x 메가박스] 3월 T day 프로모션]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.20 ~ 2024.03.20]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/19/7lJY2dmOqSx7eqqABQrkyS4XfLE9BDsr.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[KB Pay x 메가박스] KB pay 회원 전용 쿠폰 프로모션]]></title>
             <link>https://www.megabox.co.kr/event/promotion#</link>
@@ -38,14 +22,6 @@
             <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.15 ~ 2024.03.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/14/x2GympQshieC5RGAXGExVTkGlsl9ZohH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[네이버페이 x 메가박스] 네이버페이 회원 전용 쿠폰 프로모션]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.21 ~ 2024.03.20]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/19/MAYsSz9jEijNSBLPe04lr5pA7Arefm88.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[토스페이] 메가박스 영화 1천원 즉시할인!]]></title>
