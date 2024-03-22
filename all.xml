@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 07:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 08:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -678,6 +678,14 @@
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.11 ~ 2024.06.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/22/GH00TlOVHSonIU3aoVn1JJ7xBpTv8rsW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파주운정] 좋은 좌석은 선 예매가 정답! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.11 ~ 2024.04.21]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/22/x9DDcOcSxmlEyHIBQaUI7UkoYBTlarG5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[분당] 분당의 봄 (메가박스 ─ 이벤트 ─ 극장)]]></title>
