@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 02:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 03:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.27 ~ 2024.04.21]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/20/od0f08Tk5ZvbyPdwV9KsITlCpN1fVCVV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<잠행> 관람인증 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.27 ~ 2024.04.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/22/qAbjjMu8rEs44S1p0ytvx58Qxqq810YI.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[1980] 선착순 빵원티켓 ➕]]></title>
