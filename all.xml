@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 05:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 06:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.22 ~ 2024.04.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/22/mUiOsVPV52yawv2dEpeRyE8xiCf53hD8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2024 시네도슨트 in 코엑스] 극장에서 처음 만나는 미술사 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.21 ~ 2024.04.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/08/zYYIrDoE7ZzhGeXSFX9ckSQdt1RUEoFr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 No.106 <극장판 스파이 패밀리 코드: 화이트> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -264,6 +272,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/18/KJJKDpcfRByRtrudIeWsglCNNsLq2woU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<고질라X콩: 뉴 엠파이어> 돌비 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.27 ~ 2024.04.21]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/22/Vf62k152uIInxEplTMOXLJbteHmATHnT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[R.I.P. 장국영 온라인 사진전: 아비정전 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -374,14 +390,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.22 ~ 2024.04.01]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/22/HkDiFaCTYTjkV5QMuP85HZtEuNcbotKO.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[2024 시네도슨트 in 코엑스] 극장에서 처음 만나는 미술사 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.21 ~ 2024.04.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/08/zYYIrDoE7ZzhGeXSFX9ckSQdt1RUEoFr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<극장판 스파이 패밀리 코드 : 화이트> 돌비 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1214,6 +1222,14 @@
             <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.01 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/02/Gd9p85ocMTXylM1LoedwAe2IqxaDsWdU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<1980> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.31 ~ 2024.03.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/22/9Jw3bZclXcEXAizwjutiA06MW3qwIdWC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<파묘> 천만고고씽 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
