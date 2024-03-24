@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Mar 2024 14:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Mar 2024 15:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,14 +96,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/13/S4PVBZqDjPPlT0ItXwY09HJuTJTO9iUa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<레미제라블> 돌비 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.13 ~ 2024.03.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/08/UfcLmyxZey8asP38Xh6cizwkRzbADb1B.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[메가박스 오리지널 티켓 No.105 <메이 디셈버> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
@@ -112,28 +104,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/11/PcZAIF9Pzz9Fd50mGDlyM30kI2qWyvtT.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[천만기원! <파묘> 메가드로우 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.11 ~ 2024.03.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/11/uxAFooSeXeJJVJFxa5sL8TpGMCDAhycr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[메가굿즈샵 <스파이더맨 & 베놈> 굿즈 런칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.08 ~ 2024.03.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/08/qr8hw9kHhYiBBAOTZdYbjcM491jYTx4D.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<마담 웹> 굿즈패키지 런칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.08 ~ 2024.03.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/08/ef4zSgiIauZFbweOF52sGip3BTahzmdf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 No.104 <가여운 것들> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -568,14 +544,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/22/iR0EWG9OiBcAkHEfaRS2yTn90cG2FiAd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<듄: 파트2> MEGA l MX4D 포스터 증정 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.01 ~ 2024.03.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/29/EOIuJB7a8lMDFAlOMFvNxAhXatqd8X0A.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[CLASSIC SOCIETY] <2024 씨네클래식 라인업> (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -614,14 +582,6 @@
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.28 ~ 2024.03.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/04/DyfQCzhmnOQaCkhtVjaoq3L7rnvNg8vV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[송돌비] 메가박스 송도 돌비 시네마 - 프리퀀시 스탬프🎟 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.05 ~ 2024.03.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/26/BQ4PwxOXt2zxMW7nyIsuDu2cPPOWJWg4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[파주출판도시] 모든 날, 모든 순간 영화 할인 (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -896,14 +856,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/16/Av4zf8aFZgZhmgSd6AtpGfQxsvjI3NQN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[양산증산] 3(쓰리) 콤보 미션 스타트! (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.07 ~ 2024.03.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/22/YnFJn0zhZQGAFc8P8qPfCogVdRS1A6DS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[대전유성] 부담 제로 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -998,14 +950,6 @@
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.20 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/31/UNHUgrY0uCylFQqzM1e4KsD35bv0Hyih.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[양산증산] 볼매팡팡! (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.19 ~ 2024.03.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/31/PP8VQEIbTXa9Gm7ZDBWbrGwpVqbjFf7e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[고양스타필드] 키즈 버블 야광패키지 런칭! (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -1262,14 +1206,6 @@
             <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.29 ~ 2024.03.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/22/61LFxHeDDX6MEENXsagyowWGk9qvxyqo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<잠행> 메가박스 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.19 ~ 2024.03.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/19/7YEhQWiMEO4OEpiVUMac93XhU1GvkuFy.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<키메라> 메가박스 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>

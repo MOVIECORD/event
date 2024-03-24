@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Mar 2024 14:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Mar 2024 15:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.28 ~ 2024.03.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/04/DyfQCzhmnOQaCkhtVjaoq3L7rnvNg8vV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[송돌비] 메가박스 송도 돌비 시네마 - 프리퀀시 스탬프🎟]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.05 ~ 2024.03.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/26/BQ4PwxOXt2zxMW7nyIsuDu2cPPOWJWg4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[파주출판도시] 모든 날, 모든 순간 영화 할인]]></title>
@@ -296,14 +288,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/16/Av4zf8aFZgZhmgSd6AtpGfQxsvjI3NQN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[양산증산] 3(쓰리) 콤보 미션 스타트!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.07 ~ 2024.03.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/22/YnFJn0zhZQGAFc8P8qPfCogVdRS1A6DS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[대전유성] 부담 제로]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -398,14 +382,6 @@
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.20 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/31/UNHUgrY0uCylFQqzM1e4KsD35bv0Hyih.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[양산증산] 볼매팡팡!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.19 ~ 2024.03.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/31/PP8VQEIbTXa9Gm7ZDBWbrGwpVqbjFf7e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[고양스타필드] 키즈 버블 야광패키지 런칭!]]></title>
