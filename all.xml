@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Mar 2024 14:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Mar 2024 15:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,14 +150,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.26 ~ 2024.03.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/26/TdRQRvFvraCjOaSIWG8BuEcZNZr21qqb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 오리지널 티켓 No.103 <듄: 파트2> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.26 ~ 2024.03.26]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/26/yaeVzxZABpYsNHULJbZJcHolUvTMBOrv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<메이 디셈버> 얼리버드 굿즈패키지 출시 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -560,38 +552,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/08/OqzbLu9YidfsAqoPvCxj8elnnAGSihou.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<패스트 라이브즈> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.13 ~ 2024.03.26]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/11/HQNw4MtzuHD7aipVFeesLliAT2EdBDd3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<듄: 파트2> 3주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.13 ~ 2024.03.26]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/11/2CK56IPuXGR2H8sUECBr0TFYhzVfE13s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<밥 말리: 원 러브> 스페셜 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.13 ~ 2024.03.26]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/11/MXSIR02O6jxfhRDCQYFoaponhUKJGg17.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<밥 말리: 원 러브> 돌비시네마 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.13 ~ 2024.03.26]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/08/U0Qz3TmbH6qLdF05Sghxebzn0sASyJsh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[CLASSIC SOCIETY] <유럽 클래식 투어> 기획전 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -622,14 +582,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.19 ~ 2024.07.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/11/17/a04RswWNemsW6jt8oQm2IIWGJwWhCKXY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<레이징 그레이스> 관람인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.13 ~ 2024.03.26]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/23/R7es7u7gOo4Ha0GUJdSwvNSixUhoiSzK.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[2024 메트오페라] 시즌 상영 안내 Live on Screen in Cinemas @ The Met (메가박스 ─ 이벤트 ─ 영화)]]></title>
