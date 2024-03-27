@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 08:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 09:17:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.16 ~ 2024.03.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/13/S4PVBZqDjPPlT0ItXwY09HJuTJTO9iUa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2024 시네도슨트 in 대전신세] 한 시대를 바꾼 작가의 세계 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.15 ~ 2024.05.11]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/20/vPXDsuV8gmUdIzYMXaJ76aBUZObE9rPB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2024 시네도슨트 in 목동] 미술관 투어 in 유럽 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -238,6 +246,22 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.08 ~ 2024.04.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/27/fnK5AhUQhVUiz6M4typt4qFwQGrixdvh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<기동전사 건담 SEED FREEDOM> 돌비 시네마 포스터 증정 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.03 ~ 2024.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/27/pkTpja7q4jVqCGJHwKdXIr6pWKq8cSJo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<기동전사 건담 SEED FREEDOM> MEGA I MX4D 포스터 증정 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.03 ~ 2024.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/27/rVYgX5zM86QcpAjRHe6TnyeCkaio2v9i.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<악은 존재하지 않는다> 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -550,14 +574,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.16 ~ 2024.04.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/11/lOjyLjkJjrN79PH4RbwhQ360MFHhj7j3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2024 시네도슨트 in 대전신세] 한 시대를 바꾼 작가의 세계 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.15 ~ 2024.05.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/20/vPXDsuV8gmUdIzYMXaJ76aBUZObE9rPB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<메이 디셈버> 1주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
