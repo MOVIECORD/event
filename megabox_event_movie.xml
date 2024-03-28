@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 01:07:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 02:26:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<쿵푸팬더4> 선착순 팝콘 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.10 ~ 2024.04.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/25/88IotiBZiVmcfouNaNBIK4tHkIVeSENt.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[<남은 인생 10년> 도서 굿즈패키지 상영회]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
@@ -86,6 +94,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.29 ~ 2024.04.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/25/h82vZoLkTLPvAvZMVPzd70qvFwM7NMir.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[씬] 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.29 ~ 2024.04.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/25/LvD8gMRKq2b322cAuGgqFDbWRaVsXAM5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<로봇 드림> 원작 도서 증정 상영회]]></title>
