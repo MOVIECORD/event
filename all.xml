@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Mar 2024 05:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 06:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -376,6 +376,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/25/LvD8gMRKq2b322cAuGgqFDbWRaVsXAM5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아트나인과 함께 하는 <로봇 드림> 굿즈 패키지 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.29 ~ 2024.04.07]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/29/klwrJht4OOPLeQ31OQk9LjgvU6TvZuWS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<로봇 드림> 원작 도서 증정 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -712,12 +720,36 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/22/OAUoat6ai6M6G56DYrf9yurEIY7XLUdi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[삼천포] 단골 VIP 모집! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.18 ~ 2024.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/29/xeOspzKaEKXXX31SDw8AjeMAc5TIefct.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[대구이시아] 발코니 무비패스 2회권 런칭! (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.18 ~ 2024.06.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/07/rVL3BwsxMqYvPmQrOQqRCLFKJFSKIf36.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[제주지역] 제주지역 메가박스 회원 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.16 ~ 2024.04.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/29/qzorsF8tTLLGyJXB6RLipIKAKXZ8o7Fa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[양산증산] 꼬리에 꼬리를 무는 쿠폰 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.15 ~ 2024.04.16]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/29/VR5ShNtxPAL3aktVz6N5bjsZycvlgnJk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[제주삼화] 11시까지 조조해! (메가박스 ─ 이벤트 ─ 극장)]]></title>
