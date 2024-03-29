@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Mar 2024 06:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 07:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.03 ~ 2024.04.16]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/29/3v8nnJpEwHVrturkA3iF3SPwbCy46Hj3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 황태 스낵]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.29 ~ 2024.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/29/Ak8YsHK4FzlzhaqsogDGr4D5fFyAXyJR.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 Re.23 <패왕별희>]]></title>
