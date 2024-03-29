@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Mar 2024 01:08:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 02:22:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,14 +246,6 @@
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.13 ~ 2024.04.21]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/22/K5ZHy8YRvoIY0GVafN0xWxNgGS8zdh9V.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[의정부민락] 초특급 최저가 영화 관람]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.09 ~ 2024.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/22/1A3kwYoa65xbDKTLryZ8lW5gNQSFab9O.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대구신세계] 지점 전용 관람권 패키지]]></title>
