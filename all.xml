@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Mar 2024 07:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 08:20:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,6 +296,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/27/rVYgX5zM86QcpAjRHe6TnyeCkaio2v9i.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<로봇 드림> 4주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.03 ~ 2024.04.16]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/29/2vJ3iqgMqoDGqzGqURb8AmSTElPF17Kt.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<기동전사 건담 SEED FREEDOM> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -326,6 +334,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.01 ~ 2024.04.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/27/ZB9QiB8Qgz6k4p5JORLrQ5LRfOVUHGN0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<드림 시나리오> 4/1 만우절 SNS 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.01 ~ 2024.04.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/29/mKv9ajpkODjVKR1QYlk70yKjxqaYLXrY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[마더스] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
