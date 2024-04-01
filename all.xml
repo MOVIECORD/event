@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 03:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 04:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.08 ~ 2024.04.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/27/fnK5AhUQhVUiz6M4typt4qFwQGrixdvh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<극장판 스파이 패밀리 코드 : 화이트> 더빙판 개봉기념 굿즈패키지 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.06 ~ 2024.04.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/01/m5B15w8iTtRMJ5EoofeRAdZyd9b6vwP6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<비키퍼> 돌비 포스터 증정 (메가박스 ─ 이벤트 ─ 영화)]]></title>
