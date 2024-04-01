@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 07:16:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 08:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<기동전사 건담 SEED FREEDOM> 팬페스타 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.03 ~ 2024.04.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/01/XPouPaCKYpkAyIALH6CTu8ev3G93IhHI.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<비키퍼> 1PICK 이벤트🐝 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
@@ -262,6 +270,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.03 ~ 2024.04.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/27/rVYgX5zM86QcpAjRHe6TnyeCkaio2v9i.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<기동전사 건담 SEED FREEDOM> ALL 포맷 클리어 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.03 ~ 2024.04.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/01/ZB25LILtpJ7ZhDrHqrJQ4rw1jAlGnSEp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<극장판 스파이 패밀리 코드 : 화이트> 3주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1248,12 +1264,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/25/l9DhqDoplY56ANFAQb0NnWi2paPOAHx0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[<스턴트맨> 메가박스 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.01 ~ 2024.04.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/01/PC8czBqMyS4CrNWbnW8dzrg4bqIqS9ZO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<범죄도시4> 메가박스 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
             <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
             <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.01 ~ 2024.04.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/01/2W2n8kkfZwAUMlDSAQOe3XuB4sdQZ7i5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<올 더 네임즈 오브 갓> 메가박스 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.01 ~ 2024.04.11]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/01/6Ptvn2wIosDcy43FikSbZGGryUWbdfC6.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<댓글부대> 만우절 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
