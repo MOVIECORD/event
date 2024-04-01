@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Mar 2024 23:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 01:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<비키퍼> 1PICK 이벤트🐝 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.03 ~ 2024.04.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/01/laj9CKqSZhcB2PNa6g6uhCOUWUg5k12n.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[R.I.P. 장국영ㅣ<영웅본색> 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
@@ -622,6 +630,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.05 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/19/tMwoGy0Kr29v7YsAPjvDVmnpfZJZ6X7I.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[세종나성x티웨이항공] 포대팝콘 콤보 구매하고 여행가자! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.30 ~ 2024.04.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/29/ZeFOokW3hI9M7v9Z0I0lQua47v9hI8iA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[파주출판도시] 모든 날, 모든 순간 영화 할인 (메가박스 ─ 이벤트 ─ 극장)]]></title>
