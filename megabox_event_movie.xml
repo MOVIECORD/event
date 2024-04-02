@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Apr 2024 14:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Apr 2024 15:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -176,14 +176,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/02/PUC5TDicjHzAo48OM2ggeo1OOEUbduRH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<메이 디셈버> 굿즈패키지 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.02 ~ 2024.04.02]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/27/4LV7QBpZCqYE5mVhrohfScyhugx94qUw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[메가박스X시네마캐슬] 시네마캐슬 4월 상영작 안내]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -352,14 +344,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/22/qAbjjMu8rEs44S1p0ytvx58Qxqq810YI.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[<댓글부대> SNS 관람인증 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.27 ~ 2024.04.02]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/25/tc1H6hhz8qQiVUonTMTxTLLIYntuC39Q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[뒤주] 선착순 빵원티켓]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -374,14 +358,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.25 ~ 2024.04.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/20/QdYdewexJSeNAsMtTBItQdc62xGP6xt5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<잔 뒤 바리> 예고편 기대평 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.25 ~ 2024.04.02]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/22/XDuKHWlgGHJTznEilsAPylyuMW5Fy6d2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[팝콘지수 96%  <랜드 오브 배드> 만원의 행복 관람 이벤트]]></title>
@@ -430,22 +406,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.20 ~ 2024.04.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/18/0MQkVGKONiPq1cvujr6lkFEEhqN2YTP6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<듄: 파트2> 4주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.20 ~ 2024.04.02]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/19/RepPx5uREjEjNtyCCt36z15bv1oFmylh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<왓츠 러브> SNS 관람인증 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.20 ~ 2024.04.02]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/13/YXQYtSFsbrOfnFv2hT1I4Usf7VFahFnT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[댓글부대] 선착순 빵원티켓]]></title>
