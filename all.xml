@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Apr 2024 03:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Apr 2024 04:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,6 +286,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.03 ~ 2024.04.17]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/01/LeBJGgJ8MeNAlbdunKdIX50gctXnGXXi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<악은 존재하지 않는다> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.03 ~ 2024.04.16]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/02/1lZupPbjE2O7jj55d2saW3KlDo80jbnx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<극장판 스파이 패밀리 코드 : 화이트> 3주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
