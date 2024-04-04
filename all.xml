@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Apr 2024 11:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Apr 2024 12:29:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.05 ~ 2024.04.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/02/QlkO5DZi61lc9BTW354Gd9KglOSpTQly.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<쿵푸팬더4> 포랑둥이 극E포티콘 예매자 증정 앵콜!! 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.04 ~ 2024.04.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/04/DxoiOgjQajDpiFGbme1oUKLzB78VvH5G.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<씬> 주술 인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
