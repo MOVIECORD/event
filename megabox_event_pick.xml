@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Apr 2024 23:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Apr 2024 01:09:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.15 ~ 2024.05.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/15/zRRH2ULoMVmqmnH6Ms2hsmBXmQjINdUK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2024 시네도슨트 in 성수] 안현배 도슨트 X 박신양 작가 합동 강연]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.15 ~ 2024.04.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/04/Royj6XX3poILtlCxG85R8bkzo0Q6qa50.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 No.105 <메이 디셈버>]]></title>

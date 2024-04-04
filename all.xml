@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Apr 2024 23:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Apr 2024 01:09:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/15/zRRH2ULoMVmqmnH6Ms2hsmBXmQjINdUK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[2024 시네도슨트 in 성수] 안현배 도슨트 X 박신양 작가 합동 강연 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.15 ~ 2024.04.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/04/Royj6XX3poILtlCxG85R8bkzo0Q6qa50.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[메가박스 오리지널 티켓 No.105 <메이 디셈버> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
@@ -262,6 +270,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.04 ~ 2024.04.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/02/RxxmPfqaenZpGfBlnnIUx13Rkyt6jGv3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[씬] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.04 ~ 2024.04.11]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/25/LvD8gMRKq2b322cAuGgqFDbWRaVsXAM5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<극장판 여성향 게임의 파멸 플래그밖에 없는 악역 영애로 환생해버렸다> 1주차 특전 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
