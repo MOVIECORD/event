@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Apr 2024 14:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 15:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1230,22 +1230,6 @@
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.31 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/03/31/Z5p9p1FFs5h3eUsnT5pzyP85H1bkgxar.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[송도] 송돌비 To-Go 팝콘 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.26 ~ 2023.04.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/05/eqGO5VWdOIhtq1Ns6LS04MlfqCJncsab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[송도] 송돌비 예매하고 매점 할인 받자! (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.23 ~ 2023.04.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/05/xZjQkBffU7o40hv3RGDMUEv3bi9ov3kO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[세종] 팝콘 유료 리필 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
