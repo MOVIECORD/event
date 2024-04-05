@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Apr 2024 04:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 05:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.05 ~ 2024.05.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/02/93uBE0xasmqw3V9Exfp1ey7HId16cYC2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<쿵푸팬더4> 굿즈패키지 런칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.05 ~ 2024.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/05/Oyk9nvbLxoFhgwZjyVGUDTlNKR7qNWe0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<기동전사 건담 SEED FREEDOM> 팬페스타 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -704,6 +712,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/05/ygeZCXafx8IY6WyQW1rNCpfw0FyNTqS0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[상암월드컵경기장] 디얼스헤어 빵원매점 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.01 ~ 2024.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/05/0G5fO9aK8lFCaeRDTrPe8erWWbJBMMRu.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[남양주] 남양주 선호지점 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -1326,6 +1342,14 @@
             <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.10 ~ 2024.04.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/25/l9DhqDoplY56ANFAQb0NnWi2paPOAHx0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<댓글부대> 선거일 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.10 ~ 2024.04.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/05/6NJVEEyde93k8yocNPWK4OPkJoK7Hy4B.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<댓글부대> 2주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
