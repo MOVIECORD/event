@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Apr 2024 14:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Apr 2024 15:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,28 +144,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/15/zRRH2ULoMVmqmnH6Ms2hsmBXmQjINdUK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[2024 시네도슨트 in 성수] 안현배 도슨트 X 박신양 작가 합동 강연 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.15 ~ 2024.04.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/04/Royj6XX3poILtlCxG85R8bkzo0Q6qa50.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[메가박스 오리지널 티켓 No.105 <메이 디셈버> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.11 ~ 2024.04.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/11/PcZAIF9Pzz9Fd50mGDlyM30kI2qWyvtT.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 오리지널 티켓 No.104 <가여운 것들> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.06 ~ 2024.04.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/04/drRAlxvARHvi3lZLOvUN5WfuW0w8m8pa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<듄:파트2> 스페셜콤보 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -286,14 +270,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.06 ~ 2024.04.19]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/02/wyrGszbd0WgcVWSkpe5dxEQpMPqdzwYD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 스파이 패밀리 코드 : 화이트> 더빙판 개봉기념 굿즈패키지 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.06 ~ 2024.04.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/01/m5B15w8iTtRMJ5EoofeRAdZyd9b6vwP6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<남은 인생 10년> 개봉주 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
