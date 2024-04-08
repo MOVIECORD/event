@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Apr 2024 06:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Apr 2024 07:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,7 +104,7 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/14/ROeRtuA8CFFE92naynd7ARsM7HQpidDN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[제주삼화] 제주도 전용 관람권 출시!]]></title>
+            <title><![CDATA[[제주지역] 제주도 전용 관람권 출시!]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
