@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Apr 2024 04:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Apr 2024 05:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1310,6 +1310,22 @@
             <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.01 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/02/Gd9p85ocMTXylM1LoedwAe2IqxaDsWdU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<범죄도시4> 2주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.04 ~ 2024.05.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/08/3XKEueQDMDFGKBfaLAcfojnbj1Ivp8a6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<범죄도시4> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.28 ~ 2024.04.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/08/Vlv6J2gv2FWivyflagEZwPjDst2etZJt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<쿵푸팬더4> 코스튬 이벤트 & 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
