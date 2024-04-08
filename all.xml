@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Apr 2024 14:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Apr 2024 15:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -336,14 +336,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/03/d2sqzrNNPEmprOAVrSrmMU36nY0EuVJ3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<남은 인생 10년> 도서 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.08 ~ 2024.04.08]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/27/fnK5AhUQhVUiz6M4typt4qFwQGrixdvh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<오멘: 저주의 시작> 스페셜 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -566,14 +558,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.01 ~ 2024.04.10]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/27/bucgs5Vgrbqy35mxvuUenAlIkchreMDu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[댓글부대] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.01 ~ 2024.04.08]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/14/zFQmHXIjvGdO2cGFkEzmSAG8gjZnBgMp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<메이 디셈버> 3주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
