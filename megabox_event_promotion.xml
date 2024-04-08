@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 제휴 할인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Apr 2024 01:09:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Apr 2024 02:26:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[컬쳐랜드x메가박스] 컬쳐캐쉬로 예매 시 최대 3,500원 혜택!]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.08 ~ 2024.05.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/08/y9OzCpnIPufxTG18lEcavrokIZPHm5E6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[LG유플러스] 멤버십 전용 메가박스 할인!]]></title>
             <link>https://www.megabox.co.kr/event/promotion#</link>
