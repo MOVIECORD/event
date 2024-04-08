@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Apr 2024 09:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Apr 2024 10:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.13 ~ 2024.04.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/08/CD8RYRCZ4vN4A579e8877nUduXwoaaOP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<팬(더)심 가득 상영회> 쿵푸팬더4 굿즈패키지]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.12 ~ 2024.04.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/08/WIQEny3b2SDE7orYuuDh7JuZiq9ocwc4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<로봇 드림> 메가박스 명작 드림 특별상영회]]></title>
@@ -94,6 +102,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.10 ~ 2024.04.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/08/Fi2UR4OVJy5BR50JcGvY3jiGw66ZGWz1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<골드핑거> SNS 관람인증 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.10 ~ 2024.04.21]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/08/QX43PHhfpvxVplB4KLAEYky1J9P7fyRI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<쿵푸팬더4> 선착순 팝콘 증정 이벤트]]></title>
