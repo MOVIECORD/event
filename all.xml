@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Apr 2024 05:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Apr 2024 06:22:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,6 +224,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/04/7cvCJXTnhIs1kzUjFkff2huTKGpH0EYH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<기동전사 건담 SEED FREEDOM> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.13 ~ 2024.04.26]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/08/CD8RYRCZ4vN4A579e8877nUduXwoaaOP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<로봇 드림> 메가박스 명작 드림 특별상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -238,6 +246,30 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.10 ~ 2024.04.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/08/zN47PrJTQtKIWebcgfRJuVd4vtWJC39u.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<기생수 파트1> 재개봉 기념 현장 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.10 ~ 2024.04.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/08/TGzrD7Ow2Pc4xPkdyAZqZZPSuuiV5XQo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<극장판 스파이 패밀리 코드 : 화이트> 4주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.10 ~ 2024.04.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/08/lO5GxOhElTBXYsiHMypGW5CaTIZR6GD7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<악은 존재하지 않는다> 3주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.10 ~ 2024.04.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/08/Fi2UR4OVJy5BR50JcGvY3jiGw66ZGWz1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<쿵푸팬더4> 선착순 팝콘 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -776,7 +808,7 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/14/ROeRtuA8CFFE92naynd7ARsM7HQpidDN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[제주삼화] 제주삼화 전용 관람권 출시! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <title><![CDATA[[제주삼화] 제주도 전용 관람권 출시! (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
