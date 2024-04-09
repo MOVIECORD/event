@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Apr 2024 10:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 11:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,12 +24,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/08/zbhLF4oeIqXcHsRArmDTr4glzeiWCOVV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[4월에는 시리즈4 영화 필관하자! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.10 ~ 2024.05.19]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/09/e1hcfAWeGMFp1AnBIy0kdcdQjFaI42G0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[메가박스 오리지널 티켓 No.107 <쿵푸팬더4> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.10 ~ 2024.05.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/08/uhWka8yRLDTCND1D70mt6qdwzgPmp5zI.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<골드핑거> 1PICK 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.10 ~ 2024.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/09/zHYE5U8KmJ0tzrUIaCMAPQlWsshpumyh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가 당원영ㅣ첫번째 상영회, 특별 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
