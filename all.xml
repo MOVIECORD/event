@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Apr 2024 01:10:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 02:24:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -222,6 +222,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.18 ~ 2024.06.15]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/04/cHKJHs1nRZP2DabWP63UxEmywFDj5EOZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<남은 인생 10년> 앵콜 도서 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.17 ~ 2024.04.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/08/cuO7eDfFKwJVOyBKZTlZU6VlklkH9Svg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<마더스> 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1390,6 +1398,14 @@
             <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.28 ~ 2024.04.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/08/Vlv6J2gv2FWivyflagEZwPjDst2etZJt.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<어게인 1997> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.12 ~ 2024.04.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/09/A0iA5A6DJrNYkU91yoYaCWwa6WlLnSFB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<쿵푸팬더4> 코스튬 이벤트 & 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
