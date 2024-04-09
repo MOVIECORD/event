@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Apr 2024 05:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 06:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[CLASSIC SOCIETY] [Live] 2024 베를린 필하모닉 유로파콘서트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.01 ~ 2024.05.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/09/tEUuxkC9esMwv46a2sR1gvMJ4OqwR0I4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[CLASSIC SOCIETY] <씨네 클래식 세계 3대 오페라 축제> 기획전]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
@@ -54,6 +62,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.11 ~ 2024.04.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/09/80tBxgS1iNBeh8drbubACJPlvY2Mo8Ij.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<극장판 여성향 게임의 파멸 플래그밖에 없는 악역 영애로 환생해버렸다> 2주차 특전 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.11 ~ 2024.04.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/08/fX5WxIH4hwzgl3mMGfZreN9gQxW9R62s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<로봇 드림> 메가박스 명작 드림 특별상영회]]></title>
@@ -134,6 +150,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.10 ~ 2024.04.10]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/25/88IotiBZiVmcfouNaNBIK4tHkIVeSENt.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[아트나인과 함께 하는 <돌들이 말할 때까지> 시네마구구]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.09 ~ 2024.04.21]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/09/OOiY5Zt2Mw3vd90jOSyqUNYWdzXmhvh6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[비키퍼] 선착순 빵원티켓]]></title>
