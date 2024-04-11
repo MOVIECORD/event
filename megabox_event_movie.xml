@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 14:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 15:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,14 +224,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/02/RxxmPfqaenZpGfBlnnIUx13Rkyt6jGv3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[씬] 선착순 빵원티켓]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.04 ~ 2024.04.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/25/LvD8gMRKq2b322cAuGgqFDbWRaVsXAM5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<비키퍼> 돌비 포스터 증정]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -352,14 +344,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/27/ZB9QiB8Qgz6k4p5JORLrQ5LRfOVUHGN0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<메이 디셈버> 3주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.29 ~ 2024.04.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/25/h82vZoLkTLPvAvZMVPzd70qvFwM7NMir.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<고질라X콩: 뉴 엠파이어> 돌비 포스터 증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -398,14 +382,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.27 ~ 2024.04.21]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/20/od0f08Tk5ZvbyPdwV9KsITlCpN1fVCVV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<메이 디셈버> 봄맞이 특가 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.22 ~ 2024.04.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/21/HRwoycsz1S9s9Lqf2KMbBp8VDwDzNsbS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<파묘> 스페셜 포스터 증정 이벤트]]></title>
