@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Apr 2024 14:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Apr 2024 15:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,14 +78,6 @@
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.01 ~ 2024.04.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/05/OKDHarWeILJxCZG0xKiW7rSwIftgL3sn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마곡,화곡] 일러스트 강연 전시회]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.01 ~ 2024.04.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/01/y0n0ffCzpBLK8VUCNnSLdw00HTiroofL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[파주출판도시] 모든 날, 모든 순간 영화 할인]]></title>
