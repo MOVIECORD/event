@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Apr 2024 01:40:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Apr 2024 03:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.17 ~ 2024.04.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/12/GqRTLuWeRhSQ7Zmx8DZGoqs4Q0TFkD6c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가 당원영ㅣ8월의 크리스마스 특전 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.17 ~ 2024.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/11/OD6MMUl21YViTGWV5ncHB9Pqc7FwzRfY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[메가-당원영 런칭] VIP 직행! 승급 포인트 2,000P 추가 지급 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
