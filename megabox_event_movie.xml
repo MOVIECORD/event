@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Apr 2024 05:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Apr 2024 06:22:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/04/cHKJHs1nRZP2DabWP63UxEmywFDj5EOZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<악은 존재하지 않는다> 4주차 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.17 ~ 2024.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/15/66eSJW1Z1HWi0vqT6gu1f8GreHARe5hD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<듄> MEGA | MX4D 포스터 증정]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -38,6 +46,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.17 ~ 2024.04.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/12/kGS8DWLWFrf1Tozep65CfNXyMb5rtgVz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<땅에 쓰는 시> SNS 관람인증 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.17 ~ 2024.04.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/15/qaoyjZLiNbulf6daWeGuk3wOp6teouVc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<남은 인생 10년> 앵콜 도서 굿즈패키지 상영회]]></title>
