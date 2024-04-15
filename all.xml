@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Apr 2024 07:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Apr 2024 08:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,12 +296,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/09/tEUuxkC9esMwv46a2sR1gvMJ4OqwR0I4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<기동전사 건담 SEED FREEDOM> 3주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.20 ~ 2024.05.03]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/15/0oVdsRSyx3e2fHtLuBaTvouf2Cmeejok.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[CLASSIC SOCIETY] <씨네 클래식 세계 3대 오페라 축제> 기획전 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.18 ~ 2024.06.15]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/04/cHKJHs1nRZP2DabWP63UxEmywFDj5EOZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<로봇 드림> 6주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.17 ~ 2024.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/15/i1p1hydNG0L1AccqxOASOTVqk66F8kRe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<악은 존재하지 않는다> 4주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
