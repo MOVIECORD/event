@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Apr 2024 14:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Apr 2024 15:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -400,14 +400,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/15/vZ0R2yKQxXqDEt92ENDfIOA7EDtkrC4A.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<남은 인생 10년> 앵콜 도서 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.17 ~ 2024.04.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/08/cuO7eDfFKwJVOyBKZTlZU6VlklkH9Svg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<남은 인생 10년> 2주차 주말 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -438,22 +430,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.11 ~ 2024.04.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/09/80tBxgS1iNBeh8drbubACJPlvY2Mo8Ij.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 여성향 게임의 파멸 플래그밖에 없는 악역 영애로 환생해버렸다> 2주차 특전 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.11 ~ 2024.04.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/08/fX5WxIH4hwzgl3mMGfZreN9gQxW9R62s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<로봇 드림> 메가박스 명작 드림 특별상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.11 ~ 2024.04.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/04/Yqv8DLcHzUCLsgjyKkEKQOuFWfMLerB5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<쿵푸팬더4> 돌비 시네마 포스터 증정 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -590,14 +566,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.03 ~ 2024.04.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/01/ZB25LILtpJ7ZhDrHqrJQ4rw1jAlGnSEp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[골드핑거] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.03 ~ 2024.04.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/01/LeBJGgJ8MeNAlbdunKdIX50gctXnGXXi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[메가박스X시네마캐슬] 시네마캐슬 4월 상영작 안내 (메가박스 ─ 이벤트 ─ 영화)]]></title>
