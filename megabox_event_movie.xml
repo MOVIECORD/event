@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Apr 2024 23:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Apr 2024 01:09:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.20 ~ 2024.05.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/15/0oVdsRSyx3e2fHtLuBaTvouf2Cmeejok.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<팬(더)심 가득 상영회> 쿵푸팬더4 마그넷 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.20 ~ 2024.04.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/19/ITBC9bFMyARJvvJqBJB2Q5HvcjF81BH1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[CLASSIC SOCIETY] <씨네 클래식 세계 3대 오페라 축제> 기획전]]></title>
