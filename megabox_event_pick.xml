@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Apr 2024 14:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Apr 2024 15:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -222,14 +222,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.21 ~ 2024.04.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/08/zYYIrDoE7ZzhGeXSFX9ckSQdt1RUEoFr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 오리지널 티켓 No.106 <극장판 스파이 패밀리 코드: 화이트>]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.20 ~ 2024.04.20]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/18/9wI5aPEbA2lAzSg7o2DRDArhKd63axRv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<극장판스파이패밀리 CODE : White> 콤보 론칭]]></title>
