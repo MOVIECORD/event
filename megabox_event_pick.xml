@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Apr 2024 14:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Apr 2024 15:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,14 +168,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/01/gYkIGClkvmov73PVSitvHM99t4uKcldp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[R.I.P. 장국영ㅣ<영웅본색> 포스터 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.03 ~ 2024.04.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/27/DxTDBKTA1fTh6IhRYmk3Hchtv4yNAp3w.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[메가박스 황태 스낵]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
@@ -190,22 +182,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.27 ~ 2024.04.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/25/z6cgA5Wb1jXQEvhb0OinvOjiJ0e0sP77.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[영웅본색] 장국영 포토카드 증정]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.27 ~ 2024.04.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/22/NDR4DYSof2RGFJ63XCPqC9KshKoVCJVK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[R.I.P. 장국영] 영원이 된 홍콩의 전설! 메가단독 9,900원]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.27 ~ 2024.04.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/15/zq4V59c3xR5eY0mvS0M4vZizGlqgKeyt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[R.I.P. 장국영 무비패키지 런칭(No.0 메가박스오리지널비디오북)]]></title>

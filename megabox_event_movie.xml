@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Apr 2024 14:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Apr 2024 15:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,30 +224,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/08/Fi2UR4OVJy5BR50JcGvY3jiGw66ZGWz1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<골드핑거> SNS 관람인증 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.10 ~ 2024.04.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/08/QX43PHhfpvxVplB4KLAEYky1J9P7fyRI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트나인과 함께 하는 <돌들이 말할 때까지> 시네마구구]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.09 ~ 2024.04.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/09/OOiY5Zt2Mw3vd90jOSyqUNYWdzXmhvh6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<오멘: 저주의 시작> 스페셜 포스터 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.06 ~ 2024.04.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/03/8uPuIMZRrvcq9944Ys5BpowgCMic1QJO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<비키퍼> 돌비 포스터 증정]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -286,46 +262,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.01 ~ 2024.04.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/27/ZB9QiB8Qgz6k4p5JORLrQ5LRfOVUHGN0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<고질라X콩: 뉴 엠파이어> 돌비 포스터 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.27 ~ 2024.04.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/22/Vf62k152uIInxEplTMOXLJbteHmATHnT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[R.I.P. 장국영 온라인 사진전: 아비정전]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.27 ~ 2024.04.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/20/1ZRIkW4vaACysWGS6740kiU0WBHhkz4B.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[R.I.P. 장국영 온라인 사진전: 패왕별희]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.27 ~ 2024.04.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/20/uFXBqrWysD6RqgcYjfMYqsbCt7dG68vu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[R.I.P. 장국영 온라인 사진전: 영웅본색]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.27 ~ 2024.04.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/20/eqDTLhK34dlVV7ZMNCI5kExk1W7mU1iA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[R.I.P. 장국영ㅣ온라인 사진전: 천녀유혼]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.27 ~ 2024.04.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/20/od0f08Tk5ZvbyPdwV9KsITlCpN1fVCVV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[CLASSIC SOCIETY] <2024 씨네클래식 라인업>]]></title>
