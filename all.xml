@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Apr 2024 23:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Apr 2024 01:10:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,22 +22,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.19 ~ 2024.05.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/17/zc4HDESzmqIbfqjn3z5Nef1faRDAfmcZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가 당원영ㅣ레옹 SNS 관람인증 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.19 ~ 2024.04.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/19/AXHvP0MR3M9RrYsOLVqMUyASKutxs4cU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가 당원영ㅣ레옹 특전 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.17 ~ 2024.04.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/15/SeHprih0bxKtnRKEFr5RZlTfx8jHeKIr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 드로잉 카드 No.5 <고스트버스터즈: 오싹한 뉴욕> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -304,6 +288,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/15/0oVdsRSyx3e2fHtLuBaTvouf2Cmeejok.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[메가 당원영ㅣ레옹 SNS 관람인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.19 ~ 2024.04.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/19/AXHvP0MR3M9RrYsOLVqMUyASKutxs4cU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[CLASSIC SOCIETY] <씨네 클래식 세계 3대 오페라 축제> 기획전 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -366,6 +358,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.17 ~ 2024.04.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/15/wi3fZaZJ6Qxz5lGpWAM4N7Yc5FlQfIHw.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[메가 당원영ㅣ레옹 특전 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.17 ~ 2024.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/15/SeHprih0bxKtnRKEFr5RZlTfx8jHeKIr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<듄> MEGA | MX4D 포스터 증정 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -560,6 +560,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/11/IQcKx2ge2DVGO0xSznIqmj88fIejZBiW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[덕천] 무인발권기 이용하고 미니 팝콘 먹자! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.01 ~ 2024.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/18/92PNUhcySc458cihBYVj2ZR1x62x6WLM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[대전유성] 팝콘 할인 해줘? (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -582,14 +590,6 @@
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.18 ~ 2024.06.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/18/AYSAcwnLOvk5QkYjnmJFm8t834NQ2YyI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[덕천] 무인발권기 이용하고 미니 팝콘 먹자! (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.15 ~ 2024.06.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/18/92PNUhcySc458cihBYVj2ZR1x62x6WLM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[덕천] 스낵 자판기에서 경품이 와르르! (메가박스 ─ 이벤트 ─ 극장)]]></title>
