@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Apr 2024 06:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Apr 2024 07:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,12 +16,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/09/tEUuxkC9esMwv46a2sR1gvMJ4OqwR0I4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<악은 존재하지 않는다> 5주차 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.24 ~ 2024.05.07]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/22/7MV6pOKMrBa7M48eHLg9cbdaWQhFTfFw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<챌린저스> 개봉주 현장증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.24 ~ 2024.05.07]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/19/rsBeqsQgkFbV41aSOzZycHDBHirdSJEY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<극장판 울려라 유포니엄: 앙상블 콘테스트> 2주차 특전 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.24 ~ 2024.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/22/1q65tUiVOaIVhvy4gtesZLAiaXaTfJYi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<남은 인생 10년> 3주차 주말 현장증정 이벤트]]></title>
