@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Apr 2024 14:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Apr 2024 15:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,14 +72,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/12/VuMlOqgh1yA2MSTsM6pgk6qGZkTpydZo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[상봉] 미리 준비하는 가정의 달]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.04 ~ 2024.04.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/18/uvU5qErABAXrZ5TiZyIw2MFazCp0O8gb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[창원내서] 창원내서의 VIP를 찾아라!]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -112,14 +104,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/05/6Tp7y36o8x2Zhc0egZZXSmBRI95GrEwF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[이수] 4월엔 용기내 봄!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.01 ~ 2024.04.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/05/OKDHarWeILJxCZG0xKiW7rSwIftgL3sn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[파주출판도시] 모든 날, 모든 순간 영화 할인]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -142,14 +126,6 @@
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.18 ~ 2024.06.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/07/rVL3BwsxMqYvPmQrOQqRCLFKJFSKIf36.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[제주지역] 제주지역 메가박스 회원 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.16 ~ 2024.04.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/29/qzorsF8tTLLGyJXB6RLipIKAKXZ8o7Fa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[제주삼화] 11시까지 조조해!]]></title>
@@ -278,14 +254,6 @@
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.22 ~ 2024.06.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/18/VaGk0GWvXrlx3OOa5KDg7C38fRgEBQKP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[안성스타필드] 쿨쿨 겨울잠에서 깨어나세요!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.21 ~ 2024.04.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/29/c140p1iED5wbg9Mlf7vBjxiblSx6HJD3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[센트럴] 맛있는 영화 할인!]]></title>
