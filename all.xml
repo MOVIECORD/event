@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Apr 2024 06:24:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Apr 2024 07:16:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -270,6 +270,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.01 ~ 2024.05.01]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/09/tEUuxkC9esMwv46a2sR1gvMJ4OqwR0I4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<모르는 이야기> 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.26 ~ 2024.04.26]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/23/txtiBhsCsVm1T2i4I5CvgMn1DhPaxyJq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<극장판 여성향 게임의 파멸 플래그밖에 없는 악역 영애로 환생해버렸다> 4주차 특전 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
