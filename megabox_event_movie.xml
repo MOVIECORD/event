@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Apr 2024 02:29:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Apr 2024 03:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.01 ~ 2024.05.01]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/09/tEUuxkC9esMwv46a2sR1gvMJ4OqwR0I4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<극장판 여성향 게임의 파멸 플래그밖에 없는 악역 영애로 환생해버렸다> 4주차 특전 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.25 ~ 2024.05.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/23/tahBQpNC7BRZrWE6btUfxyRr1nMoLKOk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<악은 존재하지 않는다> 5주차 현장증정 이벤트]]></title>
