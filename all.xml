@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Apr 2024 01:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Apr 2024 02:26:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.08 ~ 2024.05.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/25/xCyWZIili83oCyCrfbQsqsmQNEt61LhS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어린이, 어른 모두 행복할 5월! 행운 가득 어른이 혜택 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.01 ~ 2024.05.26]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/25/Oin7eRgf12bFiG0dQ3gHgl896Evy7rVW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 No.109 <범죄도시4> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -232,6 +240,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/08/DUc8n2wnrwZ6NuljQgXWp6woGSL6W8UW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<악은 존재하지 않는다> 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.04 ~ 2024.05.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/25/f9A2bKfTXFpx7NVQuUZn3273LNxtsUVc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[메가박스X시네마캐슬] 시네마캐슬 5월 상영작 안내 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -286,6 +302,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.26 ~ 2024.05.10]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/24/GY0NSwjlu5iNuC27R1LDpahxDVKKKC7q.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<쇼생크 탈출> 개봉 전 프리미어 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.26 ~ 2024.05.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/26/bTrOC2UnRiKPbQ7joKfsc418YJMcdfQ5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가 당원영ㅣ레옹 2주차 특전 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
