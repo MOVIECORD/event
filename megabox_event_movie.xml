@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Apr 2024 14:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Apr 2024 15:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.27 ~ 2024.05.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/23/1XH8kU1B27g3b16u21ZtmPundJpQEwoz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<기동전사 건담 SEED FREEDOM> 4주차 굿즈증정 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.27 ~ 2024.04.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/24/F0icoHwSQUUge60nsPRhr1IIrYi1eu3n.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<극장판 울려라 유포니엄: 앙상블 콘테스트> 2주차 주말 특전 이벤트]]></title>
@@ -144,14 +136,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/15/0oVdsRSyx3e2fHtLuBaTvouf2Cmeejok.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[메가 당원영ㅣ레옹 SNS 관람인증 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.19 ~ 2024.04.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/19/AXHvP0MR3M9RrYsOLVqMUyASKutxs4cU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[CLASSIC SOCIETY] <씨네 클래식 세계 3대 오페라 축제> 기획전]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -230,22 +214,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.17 ~ 2024.04.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/12/kGS8DWLWFrf1Tozep65CfNXyMb5rtgVz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<땅에 쓰는 시> SNS 관람인증 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.17 ~ 2024.04.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/15/qaoyjZLiNbulf6daWeGuk3wOp6teouVc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<쿵푸팬더4> 돌비 시네마 포스터 증정]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.10 ~ 2024.04.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/08/zN47PrJTQtKIWebcgfRJuVd4vtWJC39u.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<비키퍼> 돌비 포스터 증정]]></title>

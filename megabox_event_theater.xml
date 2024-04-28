@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Apr 2024 14:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Apr 2024 15:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,14 +302,6 @@
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.07 ~ 2024.06.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/08/D9PjzZ2UwLX7uq6h6ytAnbldXrz3nf0m.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[양산증산] 프리미엄 에이드 초특가 할인!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.07 ~ 2024.04.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/16/Av4zf8aFZgZhmgSd6AtpGfQxsvjI3NQN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대전유성] 부담 제로]]></title>
