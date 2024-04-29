@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Apr 2024 08:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Apr 2024 09:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.08 ~ 2024.05.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/25/xCyWZIili83oCyCrfbQsqsmQNEt61LhS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[프로모션][굿즈] <미키마우스 스트랩백&키링> 콤보 론칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.04 ~ 2024.05.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/26/K4yMbm77yBye8LthUNiK7uskTwnLMGSo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어린이, 어른 모두 행복할 5월! 행운 가득 어른이 혜택 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
