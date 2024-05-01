@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 May 2024 14:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 May 2024 15:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,14 +208,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/25/BlyK87mseNquW1QVf4SRJjL3ERIKqMDr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[CLASSIC SOCIETY] [Live] 2024 베를린 필하모닉 유로파콘서트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.01 ~ 2024.05.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/09/tEUuxkC9esMwv46a2sR1gvMJ4OqwR0I4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[고스트버스터즈: 오싹한 뉴욕] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -254,22 +246,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.26 ~ 2024.05.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/24/pWDC7Tbr3dh5DnrePcwYHZiKTooLas31.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<남은 인생 10년> 4주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.25 ~ 2024.05.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/24/zE3oc7UToqnjr4WtagkCjbUhHgCoLfOu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 여성향 게임의 파멸 플래그밖에 없는 악역 영애로 환생해버렸다> 4주차 특전 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.25 ~ 2024.05.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/23/tahBQpNC7BRZrWE6btUfxyRr1nMoLKOk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<악은 존재하지 않는다> 5주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
