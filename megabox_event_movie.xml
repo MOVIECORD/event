@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 May 2024 04:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 May 2024 05:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.08 ~ 2024.05.21]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/30/VicVI5PLObMWqd9rXbKkjw1B0pyqqtSw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<극장판 울려라 유포니엄: 앙상블 콘테스트> 3주차 주말 특전 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.04 ~ 2024.05.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/30/NdMhAktV72L9KBKUfp9NUFmqro1pzs3p.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<극장판 스파이 패밀리 코드: 화이트> 어린이날 기념 특가 상영]]></title>
