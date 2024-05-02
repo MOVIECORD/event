@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 May 2024 04:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 05:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.04 ~ 2024.05.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/26/K4yMbm77yBye8LthUNiK7uskTwnLMGSo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<혹성탈출: 새로운 시대> 굿즈패키지 런칭]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.02 ~ 2024.05.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/02/BLHxpbHy2VPyzwUnhpKM0P7IDiFAiXVc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어린이, 어른 모두 행복할 5월! 행운 가득 어른이 혜택]]></title>
