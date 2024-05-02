@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 May 2024 02:27:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 03:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,12 +16,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/25/nVzRg3bpHDTggSijNFYZvejhYkuBkZRj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[메가-당원영 EP.2] 쇼생크 탈출, 도서 증정 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.08 ~ 2024.05.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/30/vAU6hXeTqmxQp3aGgI4nVTvdrAHupXV6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[메가 당원영 EP.2 l 쇼생크 탈출 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.08 ~ 2024.05.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/25/xCyWZIili83oCyCrfbQsqsmQNEt61LhS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[프로모션][굿즈] <미피인형키링> 콤보 론칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.04 ~ 2024.05.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/30/YfjvPoQ5y1jI3QfOKDypeMMS4dh0RMdf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[프로모션][굿즈] <미키마우스 스트랩백&키링> 콤보 론칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
