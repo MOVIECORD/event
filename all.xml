@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 May 2024 06:22:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 07:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,6 +182,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.11 ~ 2024.05.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/02/3DiqZaDcZSsmlvuQY63cT2YWMc43P9nI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<포켓몬스터: 성도지방 이야기, 최종장> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.08 ~ 2024.05.21]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/03/nDVxfcFgLmSEpQtftvDeoUmm7wEnJ7dG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<혹성탈출: 새로운 시대> 돌비시네마 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
