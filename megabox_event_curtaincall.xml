@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 May 2024 04:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 05:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<범죄도시4> 3주차 무대인사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.11 ~ 2024.05.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/02/A7sKWxETtGJjRpXdBLLEOIQKkG8uy7T3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<범죄도시4> 2주차 무대인사]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
