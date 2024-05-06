@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 May 2024 14:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 May 2024 15:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/03/m674vD0gKJLyHoKnVGt7LVaSYbOKDHPk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<가필드 더 무비> 이장우X냥사원 '일심동체 OX' 인터뷰]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.03 ~ 2024.05.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/03/fRU6BhpKjDVe3xX5yM70KkpHa9BjYsv0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<혹성탈출: 새로운 시대> 굿즈패키지 런칭]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
@@ -102,14 +94,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.13 ~ 2024.05.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/09/DFKT005GOpBMwMXhM51VHYZDUy9xwBcH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이디라오x메가박스 마라팝콘 론칭]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.12 ~ 2024.05.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/12/hIEAJPQ5gnR2RwWOCmzdhF6AunBPnDC0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[4월에는 시리즈4 영화 필관하자!]]></title>
