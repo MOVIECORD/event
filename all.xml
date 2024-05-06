@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 May 2024 01:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 May 2024 02:31:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -198,6 +198,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.08 ~ 2024.05.21]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/30/VicVI5PLObMWqd9rXbKkjw1B0pyqqtSw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[그녀가 죽었다] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.07 ~ 2024.05.21]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/30/KXCZ5Y9O0qGzBH3YEIonqNnm2gvOwilm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<극장판 울려라 유포니엄: 앙상블 콘테스트> 3주차 주말 특전 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
