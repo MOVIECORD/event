@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 May 2024 14:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 May 2024 15:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,22 +142,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.26 ~ 2024.05.10]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/24/GY0NSwjlu5iNuC27R1LDpahxDVKKKC7q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<악은 존재하지 않는다> 5주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.24 ~ 2024.05.07]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/22/7MV6pOKMrBa7M48eHLg9cbdaWQhFTfFw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<챌린저스> 개봉주 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.24 ~ 2024.05.07]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/19/rsBeqsQgkFbV41aSOzZycHDBHirdSJEY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[CLASSIC SOCIETY] <씨네 클래식 세계 3대 오페라 축제> 기획전]]></title>
