@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 May 2024 23:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 01:11:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.15 ~ 2024.05.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/09/xbGbD6QQCSq62RXXPigwVOC1U3QIcIq9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이프: 상상의 친구] 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.13 ~ 2024.05.21]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/09/Vj6fx2SQjG0f60KG3o18ihNLjc6bEalA.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[그녀가 죽었다] 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.13 ~ 2024.05.21]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/09/eRus2l9i0QSumyiW6F6vtsLdG6Bq8k83.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[혹성탈출: 새로운 시대] 선착순 빵원티켓 ➕]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.13 ~ 2024.05.19]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/08/zgETy4uTtNxdxLJ6AXoPVWA1xzWyIMfm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<차이코프스키의 아내> 클소토크]]></title>

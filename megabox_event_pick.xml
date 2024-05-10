@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 May 2024 23:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 01:11:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.15 ~ 2024.05.15]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/08/i0EoAi13lVjR3jnxWRSyqdIubZ9bH0EC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[프로모션][굿즈] <가필드 더 무비> 콤보 론칭]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.13 ~ 2024.05.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/09/aJTo3Us5hofGgKIxXhEEgAV1pMfzzy6E.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[메가-당원영 EP.2] 쇼생크 탈출, 도서 증정 이벤트]]></title>
