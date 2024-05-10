@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 May 2024 04:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 05:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -198,6 +198,22 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.15 ~ 2024.05.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/09/xbGbD6QQCSq62RXXPigwVOC1U3QIcIq9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<극장판 하이큐!! 쓰레기장의 결전> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.15 ~ 2024.05.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/10/JLLlfvQ8ebcqwcLmjGb0U3tvXqFlp2c9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<낸 골딘, 모든 아름다움과 유혈사태> SNS 관람 인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.15 ~ 2024.05.21]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/10/OSQ0FGsDhWAe2KY7kKC4A2QyjcI6F037.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이프: 상상의 친구] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1030,6 +1046,14 @@
             <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.18 ~ 2024.05.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/07/ouZNRGLqfmY3g5xvZnEHRfXuXzzBKQr6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<그녀가 죽었다> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.15 ~ 2024.05.19]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/10/ueENYLDzcEoUy04yAOLO0MyzXbrhMsp6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<이프: 상상의 친구> 더빙 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
