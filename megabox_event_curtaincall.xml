@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 May 2024 07:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 08:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.18 ~ 2024.05.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/07/ouZNRGLqfmY3g5xvZnEHRfXuXzzBKQr6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<범죄도시4> 흥행감사 무대인사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.16 ~ 2024.05.16]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/10/LQ3sywgLAwrh8sNN3pKZyyDiEAf7OlJE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<그녀가 죽었다> 개봉주 무대인사]]></title>
