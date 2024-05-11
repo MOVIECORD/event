@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 May 2024 14:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 May 2024 15:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -158,22 +158,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.05 ~ 2024.05.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/02/93uBE0xasmqw3V9Exfp1ey7HId16cYC2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2024 시네도슨트 in 대전신세] 한 시대를 바꾼 작가의 세계]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.15 ~ 2024.05.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/20/vPXDsuV8gmUdIzYMXaJ76aBUZObE9rPB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2024 시네도슨트 in 목동] 미술관 투어 in 유럽]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.15 ~ 2024.05.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/15/zRRH2ULoMVmqmnH6Ms2hsmBXmQjINdUK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[PHYDITAL POPUP <메타그라운드 성수> GRAND OPEN]]></title>
