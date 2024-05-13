@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 May 2024 07:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 May 2024 08:23:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[야~너 같이 좀 가야돼!! <범죄도시4> 스페셜 포스터 받으러!!]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.15 ~ 2024.05.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/13/8ev4W7n1qhEJ8ffO3BXA9cPSAaFlsKdC.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<극장판 하이큐!! 쓰레기장의 결전> 돌비 시네마 포스터 증정]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
@@ -62,6 +70,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.15 ~ 2024.05.21]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/10/OSQ0FGsDhWAe2KY7kKC4A2QyjcI6F037.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<낸 골딘, 모든 아름다움과 유혈사태> 굿즈 증정 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.15 ~ 2024.05.18]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/13/WP9eT7ouUgRaKEz05QcXblWb6pWQMwbu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이프: 상상의 친구] 선착순 빵원티켓]]></title>
