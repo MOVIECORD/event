@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 May 2024 22:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 May 2024 23:20:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -190,6 +190,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.16 ~ 2024.06.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/13/dfbOovqtSVteUqOxg3Db4XFoTvs5DcI5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트나인과 함께 하는 <땅에 쓰는 시> 무빙가든 패키지 상영 및 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.16 ~ 2024.05.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/16/3PDmijzg7IesDv4br2HrD4RLHyRHcxwQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[야~너 같이 좀 가야돼!! <범죄도시4> 스페셜 포스터 받으러!! (메가박스 ─ 이벤트 ─ 영화)]]></title>
