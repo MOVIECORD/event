@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 May 2024 09:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 May 2024 10:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.16 ~ 2024.05.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/16/fZCUfMq9KipPzigu70pqdXsG0o4bqPh3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[청춘에게 무제한맥] <청춘 18x2 너에게로 이어지는 길> X 한맥 상영회 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.16 ~ 2024.05.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/16/toklEq39orvFT18s8KO4jTB9udChBVpz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[프로모션][굿즈] <극장판하이큐!! 쓰레기장의 결전> 콤보 론칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
