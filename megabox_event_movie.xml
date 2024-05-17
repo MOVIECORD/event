@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 May 2024 07:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 May 2024 08:22:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,12 +40,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/17/p7zi52lMgvIf4NP1rHDcY6kBiOWbmu5k.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[가필드 더 무비] 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.20 ~ 2024.05.26]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/17/D2tXrEeiUkTvc0Ww2CpvgFchTrRNzCYk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<극장판 하이큐!! 쓰레기장의 결전> 개봉 주말 현장증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.18 ~ 2024.05.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/16/QYyCHna77bFPbYl322TxcEfDrX53FsZ8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트나인과 함께 하는 <찬란한 내일로> GV]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.17 ~ 2024.05.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/17/LK1cLuDZT0d1SXQqwoW90xJG33KzRj9H.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[설계자] 선착순 빵원티켓]]></title>
