@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 May 2024 08:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 May 2024 09:20:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.17 ~ 2024.05.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/17/3GLb13fvUFDDKXoD37OH7000adlxMF7f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[메가-당원영 EP.03] 이열키열! OTT에서만 보기 아까운 여름 영화]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.17 ~ 2024.05.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/17/LCeiUJs6KnLUgtJf9vgh1HYNj6ppdqCE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<가필드 더 무비> 영화 5천원 할인 이벤트]]></title>
