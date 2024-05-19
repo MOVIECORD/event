@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 May 2024 14:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 May 2024 15:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.17 ~ 2024.05.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/17/LCeiUJs6KnLUgtJf9vgh1HYNj6ppdqCE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<가필드 더 무비> 영화 5천원 할인 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.17 ~ 2024.05.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/17/c2EuIx7RLzEmAR6yKI8agV6veMRRPrM0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2024 시네도슨트 시즌 2 in 코엑스] 미술사의 위대한 라이벌들]]></title>
@@ -190,22 +182,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.24 ~ 2024.05.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/22/BGKkc8Zyqrv070KphWwiGAX4SRmX4jdA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경품 싹 쓸어버린다! <범죄도시4> 1PICK 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.24 ~ 2024.05.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/23/cx0gWKnTeCwBnwbuDdQHjcbiea839250.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4월에는 시리즈4 영화 필관하자!]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.10 ~ 2024.05.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/09/e1hcfAWeGMFp1AnBIy0kdcdQjFaI42G0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[프로모션][굿즈] <쿵푸팬더4> 콤보 론칭]]></title>
