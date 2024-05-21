@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 May 2024 02:31:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 May 2024 03:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.22 ~ 2024.05.22]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/20/u0X4XjW70ouldi069uprCN0Tz2gkBX7A.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트나인과 함께 하는 <목화솜 피는 날> GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.21 ~ 2024.05.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/21/TmkHMqxh54XdoJc0jRpeYqkhaqWMlz3G.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[가필드 더 무비] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
