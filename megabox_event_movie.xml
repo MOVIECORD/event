@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 May 2024 01:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 May 2024 02:31:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/09/FAFX1cd8pOHMfLL9vs2d03Et9dxbkTTs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<극장판 하이큐!! 쓰레기장의 결전> 응원 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.26 ~ 2024.05.26]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/20/hLgyLmhjzOr0ioxMRstWcNnjqhjcGOVO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<창가의 토토> 프리미어 상영회]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -56,6 +64,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/14/ugcMtLH6YpCxOxwZBBpTwLm9HjR3EsXn.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[<존 오브 인터레스트> 스페셜 GV]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.23 ~ 2024.05.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/21/LWnqXqUw33ImOOOk2wuG8GELjF5oC6lg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<퓨리오사: 매드맥스 사가> MEGA I MX4D 포스터 증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -70,6 +86,22 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.22 ~ 2024.06.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/20/QHyotTVx65oZXe8tnb0ZnWLFGbln6OKA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<가필드 더 무비> 2주차 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.22 ~ 2024.06.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/21/W4H5gxTK9kcNHw8AwStEV1PT7z3VHjTM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<이프: 상상의 친구> 2주차 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.22 ~ 2024.06.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/21/kXPQX5tkJHlQ8IaDtmSpWnWIen8qsoLW.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<극장판 하이큐!! 쓰레기장의 결전> 2주차 현장증정 이벤트]]></title>
