@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 May 2024 10:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 May 2024 11:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.22 ~ 2024.06.22]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/20/l1hUW9U2Lk0de3EwgOEtK8ZVyKK71W1Z.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Re+ Play] 리뷰로 다시 만나는 <퓨리오사: 매드맥스 사가>]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.22 ~ 2024.05.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/22/DPlKEwWWQpXln8bpM9WpSy0yR9PmJcpn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<쇼생크 탈출>보고 <엄마, 단둘이 여행갈래?> 굿즈받자!]]></title>
