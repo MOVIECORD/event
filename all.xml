@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 06:24:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 07:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -262,6 +262,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.08 ~ 2024.06.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/16/Rw7qbLVI5rtdGgJGD6T3OPeTWcoYMuNh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[GV] [로열 발레] 백조의 호수_백조이야기 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.02 ~ 2024.06.02]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/23/QyqF7xdfiAA7qjCep9DPg8iagGnxxJVk.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<드림 시나리오> 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
