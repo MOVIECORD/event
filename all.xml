@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 May 2024 14:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 May 2024 15:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -360,14 +360,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/23/qeOBw1157YIdxglktmbYDaKAmC9YDDZS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<창가의 토토> 프리미어 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.25 ~ 2024.05.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/17/YHGl0OC7gt3F9Gyhg5rOXRScGpiRGDAO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<남은 인생 10년>  키스&허그 포스터 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -510,14 +502,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.16 ~ 2024.05.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/16/71EA0L7flFbgK09xj7NBWFsWuJWY6uXT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트나인과 함께 하는 <땅에 쓰는 시> 무빙가든 패키지 상영 및 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.16 ~ 2024.05.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/16/3PDmijzg7IesDv4br2HrD4RLHyRHcxwQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[야~너 같이 좀 가야돼!! <범죄도시4> 스페셜 포스터 받으러!! (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1286,14 +1270,6 @@
             <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.01 ~ 2024.06.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/09/6xNC0akJw1WFRL61crJOCvAf9Z1HPkby.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<그녀가 죽었다> 2주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.25 ~ 2024.05.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/21/g3HFoXmeVIbyY9FvtJhGXaMAqZzi6B6W.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<청춘 18X2 너에게로 이어지는 길> 내한 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
