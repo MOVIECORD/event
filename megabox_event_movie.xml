@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 May 2024 08:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 May 2024 09:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.02 ~ 2024.06.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/23/QyqF7xdfiAA7qjCep9DPg8iagGnxxJVk.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[메가박스X시네마캐슬] 시네마캐슬 6월 상영작 안내]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.01 ~ 2024.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/27/AILU9TxtNwQCkYcEU3WnllZYAxcD8s5R.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<드림 시나리오> 메가토크]]></title>
@@ -86,6 +94,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.29 ~ 2024.06.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/27/PeBK8OWhED2nbujpl8AdjXATIOxUNoxR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<정욕> SNS 관람인증 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.29 ~ 2024.06.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/27/9V4WJ0shePhcZPqAdsGnKA76M7LDAzkQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<드림 시나리오> 메가박스 SNS 관람인증 이벤트]]></title>
