@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 May 2024 14:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 May 2024 15:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,14 +150,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.27 ~ 2024.06.05]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/24/DK9A6tQa7kkjii8PjBKvon8CEOh6XOQO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<범죄도시4> FDA 뱃지 굿즈패키지 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.27 ~ 2024.05.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/22/cSfRGTyKaSs7ILSVeYf0NU4dorjcnnpL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<극장판 하이큐!! 쓰레기장의 결전> 2주차 주말 현장증정 이벤트]]></title>
