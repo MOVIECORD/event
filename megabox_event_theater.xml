@@ -4,9 +4,25 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 May 2024 05:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 May 2024 06:24:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[제주지역] 골드바 매일매일 1g 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.01 ~ 2025.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/29/NnQTkuFIYr8tqFu2X2Lr2yUQvHKkSxTC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[동탄] 여름 휴가 포대팝콘과 함께!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.01 ~ 2024.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/29/71SYivMugp4CuRx5Rna0xCNOXZb5x8zM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[수원호매실] 호국 보훈의 달 감사 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
@@ -14,6 +30,14 @@
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.01 ~ 2024.06.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/16/UEXby7mGnTOvaWzGNvkQxkh9ETSWCqGq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대전유성] 콤보 할인해줘?]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.29 ~ 2024.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/29/ZXWN47UQoycZRD11swjfSaXmVExlKncq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[정관] 카카오채널 친구추가 이벤트]]></title>
@@ -30,6 +54,30 @@
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.23 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/23/Ybr07Hx8frd5njOVGDOSMI3zajhYc2wJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[하남스타필드] THE BOUTIQUE HAPPY HOUR]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.22 ~ 2024.08.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/29/NgEmQDFaBrEND2mJpRQlHYh5aQwjSkgX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[금정AK플라자] 만원의 행복]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.20 ~ 2024.06.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/29/1F0rkviadKjHY0mqBLY1nQZXxAApwwGk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대전유성] 매주 월요일, 화요일 문화의 날!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.15 ~ 2024.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/29/OzJn7mAR4jSjmZiBb055PfhRoAsf8Del.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대구이시아] 청소년 할인 이벤트]]></title>
