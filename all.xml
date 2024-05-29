@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 May 2024 07:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 May 2024 08:24:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.30 ~ 2024.06.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/24/NZgMc5OCYETzdosxh5SpRZlmAK1hYsZK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[꽝없는 행운이벤트] 알림받으면 100% 포인트 당첨! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.29 ~ 2025.05.29]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/29/dTwF1QiN1Oq74UTXDLeiW4V50vs5Vcqm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 No.111 <드림 시나리오> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -238,6 +246,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.08 ~ 2024.06.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/16/Rw7qbLVI5rtdGgJGD6T3OPeTWcoYMuNh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<기괴도> 경고장 인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.03 ~ 2024.06.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/29/JU3IxBkTMEfsaTvvdm22PIeahA9fb8hS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[GV] [로열 발레] 백조의 호수_백조이야기 (메가박스 ─ 이벤트 ─ 영화)]]></title>
