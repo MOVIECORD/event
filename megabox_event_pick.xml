@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 May 2024 01:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 02:33:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.30 ~ 2024.06.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/28/B8OUyBzofZa3EyNZaNyzFLyz5LKYfBVu.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코코 오리지널 비디오북no2_디즈니픽사에디션 런칭🎉]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.30 ~ 2024.06.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/30/NdmG33zKVzEQAi6vGUKbaeTuQfkz9IRO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디즈니 시네마 <업> 데코팩 엽서 세트 증정]]></title>
