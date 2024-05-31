@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 May 2024 14:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 15:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,22 +160,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/09/K4Zu2zOtb9jCZMqrncgCDTh2spXKJMbt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[프리미엄 만경] 신규 오픈 기념 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.22 ~ 2024.05.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/30/TKYiWGqhs7ZSKPQMVmwkDwb4b8UlgqjJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대전유성] 팝콘 할인 해줘?]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.22 ~ 2024.05.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/18/6WrRRQ33m1BGDCuSckqC3Niya86A5hsW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[광주상무] 포대 팝콘 출시!]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -222,22 +206,6 @@
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.15 ~ 2024.06.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/12/WmuSWPY9rvJm63HxHjp2v1iDIfrpfe5f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[용인테크노밸리] 신규 회원가입 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.15 ~ 2024.05.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/18/z3AeudtXKCxFepABDVdiishZmlm6Zu8u.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[수원] 수원점 단골이 되어주세요!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.12 ~ 2024.05.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/12/VuMlOqgh1yA2MSTsM6pgk6qGZkTpydZo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[창원내서] 창원내서의 VIP를 찾아라!]]></title>
@@ -534,14 +502,6 @@
             <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.01 ~ 2024.06.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/25/OOnZIPAvSJtC132LMnr3nVspUOI6UWc8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[부산경남지역] 관람권 패키지 한정판매!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 01 May 2023 14:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.01 ~ 2024.05.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/02/70c8K2nXPheCdIYqeFS9awfzPkd9H5N7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[김포한강신도시] 부릉부릉! 팝콘이 떴다!]]></title>

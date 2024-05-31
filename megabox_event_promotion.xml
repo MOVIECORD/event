@@ -4,24 +4,24 @@
         <title>메가박스 ─ 이벤트 ─ 제휴 할인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 May 2024 14:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 15:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[KT x 메가박스] 5월의 달달한 찬스!]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.16 ~ 2024.05.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/27/qZQP8l8FMT00Ku8oDHfyPkHN8A4BEVDd.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[신한카드] 신한 Deep Dream 이용하고 혜택받자!]]></title>
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
             <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.15 ~ 2024.05.31]]></content:encoded>
+            <content:encoded><![CDATA[2024.06.01 ~ 2024.06.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/12/voiSDQWDAKkQYWToL3xVi6lHfoa9xa5H.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[토스페이] 6월 생애 첫 결제 시 2천원 즉시적립!]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.01 ~ 2024.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/30/3qjZCmtfWgIdsLbY9ttRlZCCukusU2vW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[LG유플러스] 멤버십 전용 메가박스 할인!]]></title>
