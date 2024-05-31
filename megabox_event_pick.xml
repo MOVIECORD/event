@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 May 2024 11:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 12:32:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.01 ~ 2024.06.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/24/wQj3a7SxjyhjOQzwH96NBH4hdzlayQw0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[매니아 이벤트] 2024 시네도슨트 시즌2 in 코엑스 다보면 다음 시즌 무료!]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.31 ~ 2024.06.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/31/0xZYNafUXBHDeFb9REq0FCrschovmc9Z.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<원더랜드> 굿즈패키지 런칭]]></title>
