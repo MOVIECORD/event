@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 May 2024 02:33:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 03:20:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메가박스 드로잉 카드 No.8 <금지된 장난> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.05 ~ 2024.06.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/30/1BA9k5QkEX2ocRy1AobC3kVZNPVYfOCX.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[프로모션][굿즈] <미피인형키링> 콤보 3차 라스트판매! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
@@ -1326,6 +1334,14 @@
             <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.01 ~ 2024.06.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/09/6xNC0akJw1WFRL61crJOCvAf9Z1HPkby.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<핸섬가이즈> 메가박스 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.31 ~ 2024.06.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/31/jjDTxGy1w7DcNE3KOsmbPWfbweBXuLM3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<몽키맨> 메가박스 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
