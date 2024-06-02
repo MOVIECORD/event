@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jun 2024 14:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jun 2024 15:17:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,14 +32,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/21/I3gqxkOVzIt2YrBwLxobOOqUS2f9PxqF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[메가박스 아트그라피 <극장판 하이큐!! 쓰레기장의 결전>]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.01 ~ 2024.06.02]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/24/wQj3a7SxjyhjOQzwH96NBH4hdzlayQw0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[매니아 이벤트] 2024 시네도슨트 시즌2 in 코엑스 다보면 다음 시즌 무료!]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
@@ -54,14 +46,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.31 ~ 2024.06.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/31/WTFkazHjR3CYcwCdYzwjyrE01RvhMj9k.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라스트! <가필드 더 무비> 5천원 할인 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.31 ~ 2024.06.02]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/30/wvkls5s6yQVEMCk2TcDB95ppqEOkd32e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 Re.25 <코코>]]></title>
