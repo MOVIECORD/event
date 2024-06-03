@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jun 2024 10:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jun 2024 11:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -190,6 +190,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.22 ~ 2024.06.22]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/20/l1hUW9U2Lk0de3EwgOEtK8ZVyKK71W1Z.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<쇼생크 탈출>보고 <엄마, 단둘이 여행갈래?> 굿즈받자!]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.22 ~ 2024.06.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/17/2iV5tWMyxwHR77k0XmUPc7TVxp2cVbqp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2024 시네도슨트 시즌 2 in 코엑스] 미술사의 위대한 라이벌들]]></title>
