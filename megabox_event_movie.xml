@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 08:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 09:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/31/HjP5mCtbMmvHLJriWGIMgYFaKApz3sss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<가필드 더 무비> 스페셜 특가 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.06 ~ 2024.06.19]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/04/1saGZGjXp4c3IpmgAlZIBCwkG4RcH0WZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<극장판 하이큐!! 쓰레기장의 결전> 4주차 현장증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -102,6 +110,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.05 ~ 2024.06.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/03/72bX99ejH4ApMb9eVO25CoLefKRRtqtm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<그녀가 죽었다> SNS 관람인증 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.05 ~ 2024.06.11]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/04/lHqRX4lncYQ2oZvUGnRkV7REXbz56h73.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<창가의 토토> 2주차 현장증정 이벤트]]></title>

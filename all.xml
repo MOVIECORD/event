@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 08:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 09:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[메가박스 아트그라피 <퓨리오사: 매드맥스 사가> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.08 ~ 2024.06.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/31/YB4Nhu15AoyRdywLEwlr0wuSDChxv3JT.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[메가박스 드로잉 카드 No.9 <나쁜 녀석들: 라이드 오어 다이> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
@@ -38,6 +30,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.05 ~ 2024.06.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/30/1BA9k5QkEX2ocRy1AobC3kVZNPVYfOCX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인사이드 아웃2ㅣ얼리버드를 위한 특별 이벤트! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.04 ~ 2024.06.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/04/R1UcoZNNan788XpOcxxvnfyNcle17IKi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 초콜릿 콤보(더블초코 팝콘& 오리지널 티켓 틴 케이스 초콜릿) 론칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -232,6 +232,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/07/BDQRne0vTUqJrs6S9gaH5ogczlnt3ASu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[메가박스 아트그라피 <퓨리오사: 매드맥스 사가> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.08 ~ 2024.06.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/31/YB4Nhu15AoyRdywLEwlr0wuSDChxv3JT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예지미인X메가박스] 그날에 당황하지 말고 PINK BOX (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
@@ -304,6 +312,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/31/HjP5mCtbMmvHLJriWGIMgYFaKApz3sss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<가필드 더 무비> 스페셜 특가 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.06 ~ 2024.06.19]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/04/1saGZGjXp4c3IpmgAlZIBCwkG4RcH0WZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<극장판 하이큐!! 쓰레기장의 결전> 4주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -342,6 +358,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.05 ~ 2024.06.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/03/72bX99ejH4ApMb9eVO25CoLefKRRtqtm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<그녀가 죽었다> SNS 관람인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.05 ~ 2024.06.11]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/04/lHqRX4lncYQ2oZvUGnRkV7REXbz56h73.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<창가의 토토> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
