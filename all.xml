@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 04:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 05:21:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -326,6 +326,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.05 ~ 2024.06.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/03/OU6tAwAwKwPd6M9DSxrjmdA5uxCqKDg3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<금지된 장난>&<기괴도> J-호러 도장깨기 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.05 ~ 2024.06.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/04/Swstu1ekH650sCRe00qeJ5ap7dqijxp4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<드림 시나리오> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
