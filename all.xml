@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jun 2024 14:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jun 2024 15:20:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -536,22 +536,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/03/ZKlDEXgz1cQVp6Ln1KX8RNQ7Ml0bX26l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[설계자] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.31 ~ 2024.06.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/13/dfbOovqtSVteUqOxg3Db4XFoTvs5DcI5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[가필드 더 무비] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.31 ~ 2024.06.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/24/E8COgqntwl881NlhkPLiKI2FWw6OYxbu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<설계자> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -638,14 +622,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.25 ~ 2024.06.07]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/23/qeOBw1157YIdxglktmbYDaKAmC9YDDZS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<남은 인생 10년>  키스&허그 포스터 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.24 ~ 2024.06.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/21/3p1qeyyUStj41VQTBaFDBtlquaz8jwJa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<퓨리오사: 매드맥스 사가> MEGA I MX4D 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1382,22 +1358,6 @@
             <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.01 ~ 2024.06.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/09/6xNC0akJw1WFRL61crJOCvAf9Z1HPkby.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<드라이브> 메가박스 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.31 ~ 2024.06.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/31/GB5xOaHRkceCd4GmasjyzdIazWntW0j6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<핸섬가이즈> 메가박스 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.31 ~ 2024.06.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/31/jjDTxGy1w7DcNE3KOsmbPWfbweBXuLM3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<몽키맨> 메가박스 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
