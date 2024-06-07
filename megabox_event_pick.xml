@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jun 2024 14:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jun 2024 15:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -278,14 +278,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.15 ~ 2024.06.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/10/CqT6pSKlfJuZYNZ5XJYcAnuQu6mCkI9Q.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 오리지널 티켓 Re.24 <쇼생크 탈출>]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.07 ~ 2024.06.07]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/07/BDQRne0vTUqJrs6S9gaH5ogczlnt3ASu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예지미인X메가박스] 그날에 당황하지 말고 PINK BOX]]></title>

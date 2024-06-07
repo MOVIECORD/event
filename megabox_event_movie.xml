@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jun 2024 14:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jun 2024 15:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,14 +304,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/31/PF91xmxQKHvoKhPIoJD0lr689ZJIUrdQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아트나인과 함께 하는 <드림 시나리오> GV]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.31 ~ 2024.06.07]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/03/ZKlDEXgz1cQVp6Ln1KX8RNQ7Ml0bX26l.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<설계자> 개봉기념 현장증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -390,14 +382,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.27 ~ 2024.06.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/24/InALtbjKYjiQPhznthulWLcuGHoJvLbw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 하이큐!! 쓰레기장의 결전> 2주차 주말 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.25 ~ 2024.06.07]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/23/qeOBw1157YIdxglktmbYDaKAmC9YDDZS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<퓨리오사: 매드맥스 사가> MEGA I MX4D 포스터 증정 이벤트]]></title>
