@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jun 2024 14:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jun 2024 15:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.08 ~ 2024.06.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/05/VjilTZnlyaWcPAKo43k703cX7UE92QZL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 아트그라피 <퓨리오사: 매드맥스 사가>]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.08 ~ 2024.06.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/31/YB4Nhu15AoyRdywLEwlr0wuSDChxv3JT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[원더랜드 무제한맥] <원더랜드> X 한맥 상영회]]></title>
@@ -270,14 +262,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.15 ~ 2024.06.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/09/x4Q2ytFOusJ8Ux3uHoMh610IBVyGdRPc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<이프: 상상의 친구> 데코팩 엽서 세트 증정]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.15 ~ 2024.06.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/10/CqT6pSKlfJuZYNZ5XJYcAnuQu6mCkI9Q.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[예지미인X메가박스] 그날에 당황하지 말고 PINK BOX]]></title>

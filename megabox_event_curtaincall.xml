@@ -4,17 +4,9 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jun 2024 14:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jun 2024 15:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[<원더랜드> 개봉주 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.06 ~ 2024.06.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/24/IJmdqbDm4XESuPRvCJK5UW5IHJ6hU36o.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[<탈주> 메가박스 회원시사]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
@@ -30,22 +22,6 @@
             <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.03 ~ 2024.06.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/03/LI6ZQDtfkxf9eOJQxeAT3RYv7jxcvW8j.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<설계자> 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.01 ~ 2024.06.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/09/6xNC0akJw1WFRL61crJOCvAf9Z1HPkby.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<몽키맨> 메가박스 회원시사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.30 ~ 2024.06.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/30/2XG14n1kKepeqOzi7p3ArEuh0xKlYg9D.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
