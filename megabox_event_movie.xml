@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jun 2024 07:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jun 2024 08:24:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<카브리올레> 메가토크]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.21 ~ 2024.06.21]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/05/BAIjjDedtXlHSTV5rNtPOJDd0kCICfvJ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<파묘> 전시 기념 특별 상영회]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
@@ -32,12 +40,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/10/ds34PbUeNWxmydJNsccWJ7avzojHpp1V.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<범죄도시4> 앵콜 FDA 뱃지 굿즈패키지 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.13 ~ 2024.06.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/07/KjZtkEKdxEizVTMG60aVOQUUIn3TlbI3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<존 오브 인터레스트> 최태영 음향감독 메가토크]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.13 ~ 2024.06.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/21/LWnqXqUw33ImOOOk2wuG8GELjF5oC6lg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<인사이드 아웃 2> MEGA | MX4D 포스터 증정]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.12 ~ 2024.07.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/10/7XDsYDMJcK6rEc1zy4VUI58U96Lj0UK5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<극장판 하이큐!! 쓰레기장의 결전> 5주차 현장증정 이벤트]]></title>
