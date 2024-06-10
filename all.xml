@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jun 2024 02:36:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jun 2024 03:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1270,6 +1270,14 @@
             <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.10 ~ 2024.07.07]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/10/fOuiLYT7jnCmCBoNI66dLJPYXXY7zrA7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[네이버페이 x 메가박스] 네이버페이로 결제하면 영화&나쵸 할인 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.10 ~ 2024.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/10/bKyfYpoFxuowgzJRofwUs23gmhuURbNs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[신한카드] 체크카드 발급받고 1인패키지 받는 꿀팁! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
