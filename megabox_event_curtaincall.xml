@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jun 2024 05:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 06:25:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.03 ~ 2024.07.07]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/10/55KCPJuR346lhCjceIso1ZRljOEgx30p.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<하이재킹> 무대인사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.21 ~ 2024.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/12/0DJQWOY2V6qVRVBZS1elZZIkwHokKDsz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<카브리올레> 무대인사]]></title>
