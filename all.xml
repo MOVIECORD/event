@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jun 2024 02:35:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 03:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메가박스 드로잉 카드 No.11 <프리실라> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.19 ~ 2024.07.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/13/Mnoxgee7mGPtqeAqM8lHhlQl6POxBRHx.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독] 몽키맨 포스터 특별 증정 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
@@ -262,6 +270,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.19 ~ 2024.07.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/07/CsDfmOOXdMlhZ3HiXWHsGWX9dLaCq0If.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소중한 반쪽과 함께! <프렌치 수프> 1+1 관람 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.19 ~ 2024.06.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/14/9eEbYopfMAV9NVi2i9QWXmywRefHUKKR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<양치기> 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
