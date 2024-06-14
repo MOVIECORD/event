@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jun 2024 07:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 08:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메가박스 아트그라피 <프렌치 수프>]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.22 ~ 2024.06.22]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/13/VsU8AiODpGde5Z6FSOfzD5hsxTNIMgUx.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메가박스 드로잉 카드 No.11 <프리실라>]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
@@ -230,6 +238,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.15 ~ 2024.06.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/09/x4Q2ytFOusJ8Ux3uHoMh610IBVyGdRPc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어린이/청소년 영화교육 프로그램 <너랑봄> 안내]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.14 ~ 2024.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/14/FZOJ6yhBzr0y6SYV0V5QvMUnXbkh7Ck1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[예지미인X메가박스] 그날에 당황하지 말고 PINK BOX]]></title>
