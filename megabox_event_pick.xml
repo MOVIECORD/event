@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jun 2024 02:38:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jun 2024 03:21:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.17 ~ 2024.07.05]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/17/lkbYs981LNPaspZ6GOk11Gm7L7vzKS6Q.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가굿즈샵 <인사이드 아웃> 굿즈 오픈]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.12 ~ 2024.08.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/17/I58erJgE7rF8RflvZa8IXpvZNGbrxfEO.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[프로모션][굿즈] <인사이드아웃2> 굿즈 콤보런칭!]]></title>
