@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jun 2024 01:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jun 2024 02:38:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,7 +24,7 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/13/Mnoxgee7mGPtqeAqM8lHhlQl6POxBRHx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인사이드 아웃2ㅣ돌비 포스터 증정 이벤트! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <title><![CDATA[<인사이드 아웃 2> 돌비 포스터 증정 이벤트! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
@@ -38,6 +38,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.19 ~ 2024.06.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/13/fuRUNT56mYrCCG5Xo9YNAPoFupjrV4ys.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<프렌치 수프> 굿즈패키지 런칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.17 ~ 2024.07.05]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/17/lkbYs981LNPaspZ6GOk11Gm7L7vzKS6Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[프로모션][굿즈] <인사이드아웃2> 굿즈 콤보런칭! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -1214,6 +1222,14 @@
             <pubDate>Wed, 29 Mar 2023 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.01 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/04/mwmj2M28TLnF6sF3HD4tRjhLwxuixQ7Q.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KT x 메가박스] 6월엔 6천원 영화관람! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.17 ~ 2024.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/17/6rRBsIlfGRmFDzJDp5WZ978boe3qnTA3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[컬쳐랜드] 컬쳐캐쉬 쓰고 굿즈 받자! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
