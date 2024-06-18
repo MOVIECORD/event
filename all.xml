@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jun 2024 07:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jun 2024 08:24:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.04 ~ 2024.08.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/18/Levw9mYqfNpVnopNNe1bg5UFcDk4TbyH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 아트그라피 <피아니스트> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.25 ~ 2024.06.26]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/18/rc8glkzLUDFhch3u4ACXuRMKJdXv7gwc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 아트그라피 <프렌치 수프> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -1438,6 +1446,14 @@
             <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.03 ~ 2024.07.07]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/10/55KCPJuR346lhCjceIso1ZRljOEgx30p.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<핸섬가이즈> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 16 Oct 2023 05:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.29 ~ 2024.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/18/j2st3mi4aLfwqv5alHzB3YTIqX4qFiwx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<하이재킹> 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
