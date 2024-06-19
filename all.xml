@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jun 2024 23:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 01:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,12 +56,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/13/ENtArhJa1eRK55NBfJrr8aHee1NO9GFf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[단독] 몽키맨 포스터 특별 증정 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <title><![CDATA[[Re+ Play] 리뷰로 다시 만나는 <몽키맨> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Wed, 29 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.19 ~ 2024.06.29]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/13/fuRUNT56mYrCCG5Xo9YNAPoFupjrV4ys.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2024.06.19 ~ 2024.06.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/19/nHQeEetbcgriZ3THphuL8PWsu5firPQ6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<프렌치 수프> 굿즈패키지 런칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -296,6 +296,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/17/uMDU3YFPdRx8MWPxKn6Ae3bgF0Pdv6oj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<콰이어트 플레이스: 첫째 날> MX4D 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.26 ~ 2024.07.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/13/5NDFeLl0OlQIpLwOo2kpogmPONfgRZ4G.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<판문점> 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -414,6 +422,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.19 ~ 2024.07.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/07/CsDfmOOXdMlhZ3HiXWHsGWX9dLaCq0If.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독] 몽키맨 포스터 특별 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.19 ~ 2024.06.29]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/13/fuRUNT56mYrCCG5Xo9YNAPoFupjrV4ys.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소중한 반쪽과 함께! <프렌치 수프> 1+1 관람 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
