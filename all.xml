@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jun 2024 08:23:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 09:23:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.29 ~ 2024.06.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/17/uMDU3YFPdRx8MWPxKn6Ae3bgF0Pdv6oj.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<프리실라> 엘비스와 나 굿즈상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.28 ~ 2024.06.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/19/wqLSWIpCBP80z0gor9M0WowA5OEAa2Hj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<콰이어트 플레이스: 첫째 날> MX4D 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
