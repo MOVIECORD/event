@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jun 2024 05:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jun 2024 06:25:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -334,6 +334,14 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.26 ~ 2024.07.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/13/Cco0m721w8dOVcVqlR46qFfejBY9nJff.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<마거리트의 정리> SNS 관람인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.26 ~ 2024.07.07]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/20/gNDAj2qEUA1qpAA991BTpTaI9PVYCNtg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<판문점> 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
