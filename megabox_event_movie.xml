@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jun 2024 14:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jun 2024 15:25:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -174,14 +174,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.21 ~ 2024.06.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/14/iTKMdbMzwWkvJqdrzPbjMXi2iutX5N8n.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<카브리올레> 메가토크]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.21 ~ 2024.06.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/05/BAIjjDedtXlHSTV5rNtPOJDd0kCICfvJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[콰이어트 플레이스: 첫째 날] 선착순 빵원티켓 ➕]]></title>
@@ -406,14 +398,6 @@
             <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.10 ~ 2024.06.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/07/vjg08g2XtX6RU2dfg1fjffO8Nx3Tv2qg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<가필드 더 무비> 4주차 주말 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 29 Mar 2023 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.08 ~ 2024.06.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/05/qfwVfF9AzXaIoMDQ1QdStxdJxAyl3enF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<나쁜 녀석들: 라이드 오어 다이> MEGA | MX4D 포스터 증정]]></title>
