@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jun 2024 07:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jun 2024 08:23:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.25 ~ 2024.06.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/18/rc8glkzLUDFhch3u4ACXuRMKJdXv7gwc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<인사이드 아웃 2> 덕지순례 포토존 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.24 ~ 2024.07.07]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/24/v65YV5yqyLE0f6NzVWZZmzsTjN1o10u3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<인사이드 아웃 2> 데코팩 엽서 세트 증정 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
