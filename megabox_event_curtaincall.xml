@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jun 2024 08:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jun 2024 09:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.29 ~ 2024.06.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/18/j2st3mi4aLfwqv5alHzB3YTIqX4qFiwx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<하이재킹> 06/26 게릴라 무대인사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.26 ~ 2024.06.26]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/24/Ruc6LuEyAK2YT8XEtT4whbc6RVkhYmrg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<하이재킹> 무대인사]]></title>
