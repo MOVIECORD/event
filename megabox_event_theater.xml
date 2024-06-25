@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jun 2024 05:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jun 2024 06:25:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -372,7 +372,7 @@
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.18 ~ 2024.06.30]]></content:encoded>
+            <content:encoded><![CDATA[2024.03.18 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/07/rVL3BwsxMqYvPmQrOQqRCLFKJFSKIf36.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
