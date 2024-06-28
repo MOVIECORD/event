@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 08:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 09:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.05 ~ 2024.08.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/28/EQaES6onoOItaCHduYPNvrTG9iVC5zTO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[탈주] 현생 탈주 상영회: 팝콘+맥주이 단돈 4,500원! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.05 ~ 2024.07.05]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/28/xdJNAUtxdQqMLAFq25ovx7zdyuAFVlR2.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[2024 시네도슨트 시즌 2 in 대전신세계] 서양미술로 보는 그리스 신화 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -38,6 +46,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.03 ~ 2024.07.17]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/27/VG6COYcmWrfd3PL1v69X6AaWse2laYe2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<우마무스메 PRETTY DERBY 새로운 시대의 문> 스페셜 굿즈패키지 런칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.01 ~ 2024.07.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/28/3TZ5CoUvp7yajMHSBdNctyML17fTQ79Y.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<탈주> 굿즈패키지 런칭 🎉 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
