@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jun 2024 23:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 01:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.06 ~ 2024.07.19]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/26/HY7g99GDlYgzSHJgydK1GaP5tOZ91GpW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<극장판 폴 프린세스!!> 1주차 특전 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.03 ~ 2024.07.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/28/WALuAJdFoP1cU2OEvLYyPRCQfR3o0aM7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<핸섬가이즈> 메가토크]]></title>

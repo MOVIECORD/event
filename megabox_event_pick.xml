@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jun 2024 23:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 01:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[하남스타필드] ALL IN MEGA! 돌비 시네마 & MEGA | MX4D 신규 오픈]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.05 ~ 2024.08.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/28/EQaES6onoOItaCHduYPNvrTG9iVC5zTO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[2024 시네도슨트 시즌 2 in 대전신세계] 서양미술로 보는 그리스 신화]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
