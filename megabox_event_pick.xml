@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 09:20:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 10:20:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.28 ~ 2024.07.19]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/28/mMzZOTHVF9waLB5i7laW6zmPm8xVKrxs.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<클래식> 사전 이벤트: '주희, 상민, 지혜, 준하'를 찾습니다!]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.28 ~ 2024.07.03]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/28/vtGQ2i1W5K2nKDgabnIdE9UAdB2CYJoD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 No.114 <콰이어트 플레이스: 첫째 날>]]></title>
