@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jun 2024 14:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jun 2024 15:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,14 +110,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.29 ~ 2024.06.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/17/kVV3x2JOYteNElBEiTo7CZxeyrs8XTrL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<프리실라> 굿즈패키지 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.29 ~ 2024.06.29]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/17/uMDU3YFPdRx8MWPxKn6Ae3bgF0Pdv6oj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[탈주] 선착순 빵원티켓]]></title>
@@ -272,14 +264,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/24/uMX3hRmGAf7xVtLS4oAJNt60ClFSM3eq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아트나인과 함께 하는 <보통의 우주는 찬란함을 꿈꾸는가?> GV]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.24 ~ 2024.06.29]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/24/czTFuvJVKh8Nued9X6ACvxnjhS8tvDH1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<존 오브 인터레스트> 3주차 주말 현장증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -294,14 +278,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.22 ~ 2024.07.05]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/20/swghuMFSIIlcRA9yM7YxP1S40t9gunjE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<판문점> 전국 릴레이 GV]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.22 ~ 2024.06.29]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/12/47JwrqFq60Bn5txHv5Lre7kwBlBxt59S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<하이재킹> 개봉주 현장증정 이벤트]]></title>
@@ -406,14 +382,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.19 ~ 2024.07.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/07/CsDfmOOXdMlhZ3HiXWHsGWX9dLaCq0If.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 몽키맨 포스터 특별 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.19 ~ 2024.06.29]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/13/fuRUNT56mYrCCG5Xo9YNAPoFupjrV4ys.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[탈주] 선착순 빵원티켓 ➕]]></title>
