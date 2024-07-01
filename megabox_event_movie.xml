@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jun 2024 23:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jul 2024 01:23:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,12 +48,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/28/yM3aC9GoajjsWY2yheukHHpEaZZ5cjbE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<쉰들러 리스트> 2주차 현장 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.03 ~ 2024.07.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/01/wRVHlOzpGAJC8xHR0YGMTpeOdZEvUqAT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<극장판 폴 프린세스!!> 1주차 특전 증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.03 ~ 2024.07.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/28/WALuAJdFoP1cU2OEvLYyPRCQfR3o0aM7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[그녀가 죽었다] 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.02 ~ 2024.07.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/28/5JYdPdZ8JRVlMG78WhHiFVOLKEbujbyZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<핸섬가이즈> 메가토크]]></title>
@@ -70,6 +86,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.01 ~ 2024.07.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/27/55JvdAmqI135PsIxeWlLLG40EyqROspv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[핸섬가이즈] 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.01 ~ 2024.07.07]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/28/o8HRqmxTRONPL3jpWtHdimVAon9DMhfR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[콰이어트 플레이스: 첫째 날] 선착순 빵원티켓 ➕]]></title>
