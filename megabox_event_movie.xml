@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jul 2024 23:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jul 2024 01:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,7 +64,7 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/01/9bxJsQXBZ3nofWOk0b0d0HVDJzas7Tcl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[메가 당원영 EP3] <기쿠지로의 여름> 개봉주 특전 이벤트]]></title>
+            <title><![CDATA[[메가 당원영 EP.3] <기쿠지로의 여름> 개봉주 특전 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
