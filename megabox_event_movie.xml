@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jul 2024 23:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jul 2024 01:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.06 ~ 2024.07.07]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/01/HZlhaRZ1oo9y6zHXo2x6kishc2JxiSmr.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[탈출: 프로젝트 사일런스] 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.04 ~ 2024.07.18]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/02/6h8VzLkSgnJeVjRjVNeDNvntukDgwOoh.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<피아니스트> 2주차 현장증정 이벤트]]></title>
