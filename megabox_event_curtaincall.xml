@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jul 2024 06:27:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jul 2024 07:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.05 ~ 2024.07.05]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/02/9MtFDNgu6Zn4EzlgR7b2AvLNXOP6DtbI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<블러디 이스케이프: 지옥의 도주극> 메가박스 회원시사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.03 ~ 2024.07.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/03/TDjMWMxR96gpeYxggAqEEi8YnXzloDtr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<탈주> 개봉주 무대인사]]></title>
