@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jul 2024 01:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jul 2024 02:34:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,14 +70,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.03 ~ 2024.07.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/27/mQzQJca11ZewG9nLDc4fTTwIpUJW8x4l.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인사이드 아웃 2ㅣ한국화 특전, 풍성한 혜택이 한가득! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.03 ~ 2024.07.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/01/Ox0j6rNzzA4Knu46JiSdweZRWNuqbHTu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[메가 당원영 EP.3] <클래식>, <기쿠지로의 여름> 관람 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -152,28 +144,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/21/iAhelIb7TVaA3IzrnnFx6Qw2dNc1JuNY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<인사이드 아웃 2> 덕지순례 포토존 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.24 ~ 2024.07.07]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/24/v65YV5yqyLE0f6NzVWZZmzsTjN1o10u3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[메가박스 드로잉 카드 No.11 <프리실라> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.19 ~ 2024.07.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/13/Mnoxgee7mGPtqeAqM8lHhlQl6POxBRHx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<프렌치 수프> 굿즈패키지 런칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.17 ~ 2024.07.05]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/17/lkbYs981LNPaspZ6GOk11Gm7L7vzKS6Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가굿즈샵 <인사이드 아웃> 굿즈 오픈 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -184,7 +160,7 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/17/I58erJgE7rF8RflvZa8IXpvZNGbrxfEO.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[프로모션][굿즈] <인사이드아웃2> 굿즈 콤보런칭! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <title><![CDATA[<인사이드 아웃 2> 굿즈 콤보런칭! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
@@ -350,6 +326,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.04 ~ 2024.07.17]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/01/q7cSZ0KeUmrhIVIiHNTUJp7ZejK8Cugb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<인사이드 아웃 2> 한국화 특전, 풍성한 혜택이 한가득! (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.03 ~ 2024.07.21]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/01/Ox0j6rNzzA4Knu46JiSdweZRWNuqbHTu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<존 오브 인터레스트> 5주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -654,6 +638,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.28 ~ 2024.07.07]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/28/S8DDD7Y9eY98ZP0CuUaAlMnmitHXCHec.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<인사이드 아웃 2> 덕지순례 포토존 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.24 ~ 2024.07.07]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/24/v65YV5yqyLE0f6NzVWZZmzsTjN1o10u3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[송도] 앵콜! 송돌비 프리퀀시 스탬프 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
