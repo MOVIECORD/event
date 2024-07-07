@@ -4,25 +4,9 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Jul 2024 14:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jul 2024 15:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[하남스타필드] ALL IN MEGA! 신규 특별관 시사]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.28 ~ 2024.07.07]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/28/S8DDD7Y9eY98ZP0CuUaAlMnmitHXCHec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<인사이드 아웃 2> 덕지순례 포토존 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.24 ~ 2024.07.07]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/24/v65YV5yqyLE0f6NzVWZZmzsTjN1o10u3.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[송도] 앵콜! 송돌비 프리퀀시 스탬프 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>

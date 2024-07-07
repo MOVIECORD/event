@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 제휴 할인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Jul 2024 14:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jul 2024 15:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:55 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.01 ~ 2024.07.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/28/VEo1SSqsT0oqHG8eSKzt7PtFGvWNlPds.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[컬쳐랜드] 컬쳐캐쉬 쓰고 굿즈 받자!]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.10 ~ 2024.07.07]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/10/fOuiLYT7jnCmCBoNI66dLJPYXXY7zrA7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[LG유플러스] 멤버십 전용 메가박스 할인!]]></title>
