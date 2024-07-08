@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jul 2024 12:36:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jul 2024 13:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.12 ~ 2024.07.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/17/0x4TtHuTb1LwmA9vNrFjriLObDujGp3E.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<인사이드 아웃2> 5주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.10 ~ 2024.07.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/08/aXeuut05Q1gXuFASpQOB9MkvSnZOS9iu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[메가 당원영 EP.3] <기쿠지로의 여름> 2주차 특전 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
