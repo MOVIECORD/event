@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jul 2024 14:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jul 2024 15:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,22 +192,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/01/wRVHlOzpGAJC8xHR0YGMTpeOdZEvUqAT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<극장판 폴 프린세스!!> 1주차 특전 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.03 ~ 2024.07.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/28/WALuAJdFoP1cU2OEvLYyPRCQfR3o0aM7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[그녀가 죽었다] 선착순 빵원티켓]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.02 ~ 2024.07.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/28/5JYdPdZ8JRVlMG78WhHiFVOLKEbujbyZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[메가박스X시네마캐슬] 시네마캐슬 7월 상영작 안내]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -230,14 +214,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.29 ~ 2024.07.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/24/wKqFa3uxJw1aWkCHRo2doqJ5df5o7Otf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[탈주] 선착순 빵원티켓]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.28 ~ 2024.07.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/26/bXdHHg5mjILPpPsnVcUqaGk5pl5dARTs.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<언더더씨: 마법 산호초를 찾아서> 개봉기념 부채증정 이벤트]]></title>
@@ -264,100 +240,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/25/Ogbkswie2EbProCQ4rwdRlN7bH2IDLDp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<프리실라> 2주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.26 ~ 2024.07.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/24/1lX2yipoRVZKArzfdP8KaDIeaq9fc8uV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<인사이드 아웃2> 3주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.26 ~ 2024.07.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/24/JGtLs5tWdK84tj0gyTFbLu0TyGE310PC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 하이큐!! 쓰레기장의 결전> 7주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.26 ~ 2024.07.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/24/Od4wwM2uVpJXrWTyM0SR9hbZ2BVYMn4k.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<프렌치 수프> 2주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.26 ~ 2024.07.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/24/czyuwe8sZFufOXYE6LQqNmDTnZ6snGM6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<존 오브 인터레스트> 4주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.26 ~ 2024.07.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/24/vFCtIO4mSDm3jjqfEZukoNrIU2BhtINy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<핸섬가이즈> 개봉주 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.26 ~ 2024.07.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/24/ZCCdVNI94L2MaTfylOstdknipxcSDjf0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<콰이어트 플레이스: 첫째 날> MX4D 포스터 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.26 ~ 2024.07.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/13/5NDFeLl0OlQIpLwOo2kpogmPONfgRZ4G.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<콰이어트 플레이스: 첫째 날> 돌비시네마 포스터 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.26 ~ 2024.07.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/13/Cco0m721w8dOVcVqlR46qFfejBY9nJff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<인사이드 아웃 2> 데코팩 엽서 세트 증정]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.19 ~ 2024.07.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/17/gCypOkJ8lKbAuLFwvTYUCdfVQdK5f98s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<드림 시나리오> 개봉 4주차 현장 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.19 ~ 2024.07.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/14/pcGLwg6462ednMQZnNY8HVu59cTqVLBE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[탈주] 선착순 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.17 ~ 2024.07.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/14/a1kmmnuX14AVFiXcmdteD91XudaLByIq.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<인사이드 아웃 2> MEGA | MX4D 포스터 증정]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.12 ~ 2024.07.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/10/7XDsYDMJcK6rEc1zy4VUI58U96Lj0UK5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[CLASSIC SOCIETY] <2024 씨네클래식 라인업>]]></title>
