@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jul 2024 04:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jul 2024 05:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.10 ~ 2024.07.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/04/K28od00FyHiusGx2RfO93Qby5wxIAPtb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 매니아 티켓 <LILPACON: Going Out> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.09 ~ 2024.07.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/09/4uLHjL8RA8ygaSa1eu9zpQzGeT98mtTW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 드로잉 카드 No.13 <핸섬가이즈> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -302,6 +310,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.12 ~ 2024.07.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/17/0x4TtHuTb1LwmA9vNrFjriLObDujGp3E.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<존 오브 인터레스트> 6주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.10 ~ 2024.07.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/09/THSqRRpVavZ9GYnXTaHqxuCChlpFL8FK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<인사이드 아웃2> 5주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
