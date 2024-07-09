@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jul 2024 07:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jul 2024 08:22:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.14 ~ 2024.07.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/09/jYXQsJJDt3ubb0nmfplpuKBQdPqObwid.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 오리지널 티켓 No.116 <우마무스메 PRETTY DERBY 새로운 시대의 문> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.11 ~ 2024.08.21]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/09/s5ClJiLRdATv3Xwr9h0Jtucs5BvMeeFp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<우마무스메 PRETTY DERBY 새로운 시대의 문> N차 관람 레이스 스타트! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
