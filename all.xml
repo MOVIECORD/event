@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jul 2024 08:25:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jul 2024 09:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -630,6 +630,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.12 ~ 2024.07.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/07/bnq0OEZsOYzf6exPzq722Sd89ssLZJYw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[수원스타필드] 단골모집합니다 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.15 ~ 2024.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/03/07/sn1b6fLabVmdiWOypTPaCCm0qV0NUvrN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[목동] 리뉴얼 1주년 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
