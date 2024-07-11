@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jul 2024 03:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jul 2024 04:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -600,6 +600,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/07/bnq0OEZsOYzf6exPzq722Sd89ssLZJYw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[평택비전] 가성비 관람권 패키지 판매! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.15 ~ 2025.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/11/pgdO4M01PyYQywVdJMpag8aXSr9lUL6Q.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[수원스타필드] 단골모집합니다 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -614,6 +622,22 @@
             <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.15 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/10/lX3eKocUb7N0pKmxtoXyTJfz3xEGNoMV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[동탄] 영화 한 편에 쿠폰 하나! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.15 ~ 2024.08.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/11/QwGELpo82BxsM7I3J8jhuKXmLoAWnDc8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[광주하남] 꼬리를 잡아라! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.07 ~ 2024.07.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/11/V50pIrC4JYwCzTFTgtGXuh6VmUrIQipd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[목동] 리뉴얼 1주년 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -638,6 +662,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.01 ~ 2024.09.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/03/RDuo2d5OfKccouOi2vx9SHl7jYvMW803.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[광주하남] 브런치 타임 할인 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.01 ~ 2024.08.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/11/XyVNm1BcJwBCopa6IGVsWrjeLU1B9UKq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[용인테크노밸리] 용메박 전용 할인쿠폰 증정! (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -1022,6 +1054,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.01 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/19/nGcflQVkp2wR7xqxvkJONeqlwPY4FEHu.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[양산증산] 카톡 친구 추가시 즉시 할인! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.01 ~ 2024.08.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/25/OOnZIPAvSJtC132LMnr3nVspUOI6UWc8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[김포한강신도시] 부릉부릉! 팝콘이 떴다! (메가박스 ─ 이벤트 ─ 극장)]]></title>
