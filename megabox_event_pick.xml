@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jul 2024 10:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jul 2024 11:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.14 ~ 2024.07.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/09/jYXQsJJDt3ubb0nmfplpuKBQdPqObwid.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 아트그라피 <가장 따뜻한 색, 블루>]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.13 ~ 2024.07.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/03/wfcK7Fs0RzBaL8dfD9U8bbOQwHQgqtPw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[프로모션][굿즈] <명탐정 코난 : 100만달러의 펜타그램> 콤보 런칭!]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.28 ~ 2024.07.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/25/4AYkl8OvkNEwudhfG5zU30ITnVyeGmKv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 아트그라피 <가장 따뜻한 색, 블루>]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.13 ~ 2024.07.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/03/wfcK7Fs0RzBaL8dfD9U8bbOQwHQgqtPw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어린이/청소년 영화교육 프로그램 <너랑봄> 안내]]></title>
