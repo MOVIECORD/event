@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Jul 2024 14:23:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jul 2024 15:27:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,22 +38,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.17 ~ 2024.07.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/08/ZfK3TTBScou1Ptt4rLrJfvt9GtgWW2nj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[탈주] 이제훈x구교환 덕질 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.14 ~ 2024.07.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/09/jYXQsJJDt3ubb0nmfplpuKBQdPqObwid.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 아트그라피 <가장 따뜻한 색, 블루>]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.13 ~ 2024.07.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/03/wfcK7Fs0RzBaL8dfD9U8bbOQwHQgqtPw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[프로모션][굿즈] <명탐정 코난 : 100만달러의 펜타그램> 콤보 런칭!]]></title>
@@ -206,14 +190,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.26 ~ 2024.07.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/24/HdbqaRTclgJaSyqAr7Z0GNkRk14YDQdV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[살벌하게 터지는 경품! <핸섬가이즈> 1PICK 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.26 ~ 2024.07.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/28/xD5e92Z7L0R72MtDIgxAPpfNEpysmVpW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가굿즈샵 <인사이드 아웃> 굿즈 오픈]]></title>
