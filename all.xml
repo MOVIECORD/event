@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jul 2024 08:24:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jul 2024 09:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/10/6kRG0D5FQHynKeOmXB2VD2vmQHG5QGye.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<우마무스메 PRETTY DERBY 새로운 시대의 문> 2주차 특전 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.18 ~ 2024.07.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/15/l3hFb2gXnB0yDYJopyepMn6WRqfQeac6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<더 납작 엎드릴게요> 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -286,6 +294,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.18 ~ 2024.07.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/10/0BofNINIypJP48RKZGIrSq6llVuIEq6s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[하이큐!!] 재개봉 기념 스페셜 특가 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.17 ~ 2024.07.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/15/yITeyQ4dgK3i2chlQnj3glTXjqHLRLSP.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<인사이드 아웃2> 픽사 역대 1위 관람객 기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1206,6 +1222,14 @@
             <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.24 ~ 2024.08.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/10/hTG5mYfwfQrmom4gTv5jPUfNd33IBPK6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<핸섬 가이즈> 4주차 흥행감사 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.20 ~ 2024.07.21]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/15/oTgHHCxDTp1WAd25certYoSV07ivriCm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<탈주> 3주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
