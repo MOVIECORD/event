@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jul 2024 14:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jul 2024 15:22:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,14 +230,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.09 ~ 2025.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/09/DbDIwdRpCZ5amSnqKgmXS4ovQs5ApCrU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[원주혁신] AK플라자 원주점 제휴 기념 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.26 ~ 2024.07.15]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/30/8fVLBfbOpJ9V8wM04R5OC4q7yqE9WTNj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[광주상무] 포대 팝콘 출시!]]></title>
