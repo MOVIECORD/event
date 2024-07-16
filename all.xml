@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jul 2024 01:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jul 2024 02:37:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -400,6 +400,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/10/2XYHIC1HhqysKFg03LDfOX5e0Gyp0nTV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<극장판 프리큐어 올스타즈 F> 얼리버드 관람권 판매 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.16 ~ 2024.07.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/12/k6QoO5I6g6kFCGz6sdN6EdYNT6zILiHE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[이매큘레이트] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -638,14 +646,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.12 ~ 2024.07.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/07/bnq0OEZsOYzf6exPzq722Sd89ssLZJYw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[경북지역] 경북지역 학생, 학부모 할인 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.16 ~ 2024.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/16/kID1FnwEDZ5r098S9gvrvv2AigoRZ2bY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[평택비전] 가성비 관람권 패키지 판매! (메가박스 ─ 이벤트 ─ 극장)]]></title>
