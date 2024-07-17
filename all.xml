@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jul 2024 04:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jul 2024 05:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,6 +286,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.24 ~ 2024.08.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/15/5ynJm0dqqgUpmYD8bwiERr35VNBVKPjQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<엄마의 왕국> SNS 관람인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.24 ~ 2024.08.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/17/d6Lx1VykmJEM6Wa1cdHXGHrrQJYd8T0W.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탈주ㅣ규남&현상 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1222,6 +1230,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:55 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.01 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/02/Gd9p85ocMTXylM1LoedwAe2IqxaDsWdU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<리볼버> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.07 ~ 2024.08.11]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/16/j3UDANrkThlG2EB6VlDD9jkZyEALAMIq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<사랑의 하츄핑> 대구 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
