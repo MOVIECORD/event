@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jul 2024 09:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jul 2024 10:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.20 ~ 2024.07.21]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/11/ic6TInAVInYEOO9QoWNo1lKEJhIu3bNQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<탈출: 프로젝트 사일런스> 선착순 5천원 할인쿠폰 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.18 ~ 2024.07.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/17/eOaWIMgmdiuml9tyZUIXnVODCBuK9RUZ.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<라임에이드> 론칭]]></title>
