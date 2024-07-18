@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jul 2024 07:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jul 2024 08:24:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.20 ~ 2024.07.21]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/11/ic6TInAVInYEOO9QoWNo1lKEJhIu3bNQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<탈출: 프로젝트 사일런스> 선착순 5천원 할인쿠폰 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.18 ~ 2024.07.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/17/eOaWIMgmdiuml9tyZUIXnVODCBuK9RUZ.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<라임에이드> 론칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -358,14 +366,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.19 ~ 2024.07.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/17/e4DLTano70XayGrfzPnblywkwqT2JQxt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<탈출: 프로젝트 사일런스> 선착순 5천원 할인쿠폰 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.18 ~ 2024.07.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/17/eOaWIMgmdiuml9tyZUIXnVODCBuK9RUZ.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<우마무스메 PRETTY DERBY 새로운 시대의 문> MX4D 특전 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
