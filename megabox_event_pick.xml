@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jul 2024 03:23:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jul 2024 04:23:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,6 +94,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.11 ~ 2024.07.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/03/AjZznXiyBTz3LsphkiwXgg3UA4tR5sYz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Re+ Play] 리뷰로 다시 만나는 <우마무스메 PRETTY DERBY 새로운 시대의 문>]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.11 ~ 2024.07.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/18/GRshgvetDkuRE9wFXsxOtXz8UxdDb8ED.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<상하목장 아이스크림> 런칭]]></title>
