@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jul 2024 03:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jul 2024 04:24:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.20 ~ 2024.07.21]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/11/ic6TInAVInYEOO9QoWNo1lKEJhIu3bNQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[콜롬비아 100주년 기획전 사전 설문 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.19 ~ 2024.07.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/19/aPAAPFnX4SU7wuQrxhXIcqJDfthMGDLy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<슈퍼배드4> 굿즈패키지 런칭🎉 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -358,6 +366,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.24 ~ 2024.08.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/17/d6Lx1VykmJEM6Wa1cdHXGHrrQJYd8T0W.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<마담 프루스트의 비밀정원> 기억소환 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.24 ~ 2024.07.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/19/Mtk4t3eMftD50G04EXpEcLedVbRlU85p.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[리볼버] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
