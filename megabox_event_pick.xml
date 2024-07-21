@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Jul 2024 14:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jul 2024 15:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,22 +38,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.24 ~ 2024.08.07]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/18/GKXUIRxKU6RRvN54Q428YmZLDLA6I68m.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 아트그라피 <이매큘레이트>]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.20 ~ 2024.07.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/12/gOShT3LaoNVKVn5rzsQNb2Yjl6dhognL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 아트그라피 <큐어>]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.20 ~ 2024.07.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/11/ic6TInAVInYEOO9QoWNo1lKEJhIu3bNQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[콜롬비아 100주년 기획전 사전 설문]]></title>

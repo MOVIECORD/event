@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Jul 2024 14:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jul 2024 15:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,22 +38,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.24 ~ 2024.08.07]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/18/GKXUIRxKU6RRvN54Q428YmZLDLA6I68m.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 아트그라피 <이매큘레이트> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.20 ~ 2024.07.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/12/gOShT3LaoNVKVn5rzsQNb2Yjl6dhognL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 아트그라피 <큐어> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.20 ~ 2024.07.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/11/ic6TInAVInYEOO9QoWNo1lKEJhIu3bNQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[콜롬비아 100주년 기획전 사전 설문 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -408,28 +392,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/19/gxLgF7Me2kLxXm6CU9VC9hlj5BnkVUOQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<하이재킹> 희망 굿즈증정 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.21 ~ 2024.07.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/19/AY4qH6rr4wlaZuZhO59ioRSBSU314e3o.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[탈주ㅣ규남&현상 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.20 ~ 2024.08.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/16/G7HMMlMz9NrdKQhRC38hN01jvjA50IX5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<슈퍼배드 4> 개봉 전 유료시사회 & 특별관 굿즈 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.20 ~ 2024.07.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/10/6kRG0D5FQHynKeOmXB2VD2vmQHG5QGye.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<핸섬가이즈> 4주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -568,14 +536,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/10/99nOzePa0YBXERUMZlRfMi09jyRqwEL6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[탈주] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.15 ~ 2024.07.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/10/Yb63JOIxdYGm2wpOInP9tYRFX8wiOrRi.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[<플라이 미 투 더 문> 개봉기념 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -614,30 +574,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.08 ~ 2024.08.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/05/Pg9TV3KR9t16zyFpDxakliDhFjnzOuLr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 프리큐어 올스타즈 F> 기대평 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.08 ~ 2024.07.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/08/n0L6g7CAqjHctEcknvv9sVX3JT1eFFXZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 단독ㅣ<탈주> Dolby Atmos 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.06 ~ 2024.07.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/03/XT9oT0X2OdVMbEqfJuViM9YUjI1fhOvT.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<인사이드 아웃 2> 한국화 특전, 풍성한 혜택이 한가득! (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.03 ~ 2024.07.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/01/Ox0j6rNzzA4Knu46JiSdweZRWNuqbHTu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[메가박스X시네마캐슬] 시네마캐슬 7월 상영작 안내 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1216,20 +1152,20 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/04/mwmj2M28TLnF6sF3HD4tRjhLwxuixQ7Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[카카오뱅크] 메가박스 저금통 쓰고 혜택받자! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.22 ~ 2024.08.18]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/11/UzKZN1jm8MJyvNI3uqD3pGclRL0zY1IU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[KT x 메가박스] 7월 행운의 주인공은? (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
             <pubDate>Sun, 23 Jun 2024 21:16:55 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.15 ~ 2024.07.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/12/By4ZrJnBHYvihg2VjIdpfvxlNwTtd54W.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[메가박스X해피포인트] 7월 해피위크! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.08 ~ 2024.07.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/08/5WGllEnDvFBCOdJIgZUjYoSgQQrFOZWR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[신한카드] 신한 Deep Dream 이용하고 혜택받자! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
@@ -1342,22 +1278,6 @@
             <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.24 ~ 2024.08.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/10/hTG5mYfwfQrmom4gTv5jPUfNd33IBPK6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<핸섬 가이즈> 4주차 흥행감사 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.20 ~ 2024.07.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/15/oTgHHCxDTp1WAd25certYoSV07ivriCm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<탈주> 3주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.20 ~ 2024.07.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/12/LlBiftSzWzBO4ipejc16xv0zIulUeEQh.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<수카바티: 극락축구단> 메가박스 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
