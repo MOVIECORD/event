@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Jul 2024 23:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jul 2024 01:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.24 ~ 2024.08.07]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/18/GKXUIRxKU6RRvN54Q428YmZLDLA6I68m.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[💝PRINCESS GOODS💝 EDITION 런칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.23 ~ 2024.08.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/19/OV9QjFEfwYGengvySzuhTIhg53tVz9Zg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[콜롬비아 100주년 기획전 사전 설문 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -304,6 +312,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/08/DUc8n2wnrwZ6NuljQgXWp6woGSL6W8UW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<마담 프루스트의 비밀정원> 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.27 ~ 2024.07.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/22/4shdah6IBkVB97nqSOr3SyvBYogrFcvP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<프렌치 수프> 한상차림 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -350,6 +366,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.24 ~ 2024.08.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/15/5ynJm0dqqgUpmYD8bwiERr35VNBVKPjQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<큐어> 재개봉 기념 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.24 ~ 2024.08.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/19/82FnQpuP2hOT0OvC6Ho4vWPfXF0XQ8cP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<명탐정 코난: 100만 달러의 펜타그램> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -640,6 +664,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/17/aDU2s3Yi2D6rWttkdQnnJxnqKTVf5JLp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[김포한강신도시] FAST! SALE! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.29 ~ 2024.09.22]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/05/9uWKF6JPLEqMTGh5S5jDCmYSCNrqQxOf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[사상] 올 여름! 휴가는 사상에서! (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -806,14 +838,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.04 ~ 2025.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/19/5bjTl49UAkF3bQJomZdeaz7ADLZ8ytfK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김포한강신도시] FAST! SALE! (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.03 ~ 2024.07.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/05/9uWKF6JPLEqMTGh5S5jDCmYSCNrqQxOf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[제주지역] 골드바 매일매일 1g 증정 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
