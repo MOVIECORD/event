@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jul 2024 07:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jul 2024 08:25:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.24 ~ 2024.09.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/19/WQncrR7dT3uujtzUSaYoci8M2hEyOHUi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 오리지널 티켓 No.117 <슈퍼배드 4>]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.24 ~ 2024.08.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/22/GepTO99fC4rz8tvnu9kZ0gcRNLahU8OJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데드풀과 울버린ㅣ쏟아지는 역대급 혜택♡]]></title>
