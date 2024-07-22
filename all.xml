@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jul 2024 09:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jul 2024 10:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -344,12 +344,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/22/WTgQML0ljK5gi7m4FsTrNznQ2JM7gaax.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<블러디 이스케이프: 지옥의 도주극> 개봉주말 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.27 ~ 2024.08.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/22/AkmLLQLaBzh5EW09erjEb7ytawPkYX6r.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<마담 프루스트의 비밀정원> 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.27 ~ 2024.07.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/22/4shdah6IBkVB97nqSOr3SyvBYogrFcvP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<우마무스메 PRETTY DERBY 새로운 시대의 문> 3주차 특전 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.25 ~ 2024.07.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/22/7AW4wTOIemoH4WMZcArIjBcseSSC8mCF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<프렌치 수프> 한상차림 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
