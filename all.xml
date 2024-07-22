@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jul 2024 01:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jul 2024 02:39:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,12 +16,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/18/EuXFwmkmVt1tBBnhPsR7O9GM5b9X5PTn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[프로모션][굿즈] <슈퍼배드4> 콤보 런칭! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.24 ~ 2024.09.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/16/uCRGenonEAs8Y6rCGCEhJeanb7K8I1h5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[메가박스에서 <데드풀과 울버린> 보고 디즈니+ 혜택 받자! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.24 ~ 2024.09.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/19/WQncrR7dT3uujtzUSaYoci8M2hEyOHUi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데드풀과 울버린ㅣ쏟아지는 역대급 혜택♡ (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.24 ~ 2024.08.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/22/6knzTsvRMqi6td5dAsNXpwRBIdZF5Qud.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데드풀과 울버린ㅣ케미폭발 투표 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -326,6 +342,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.25 ~ 2024.07.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/18/eln1E5ak1nKn1wK2FAGq7QftXeelIdmp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데드풀과 울버린ㅣ히어로 덕후 N차 퀘스트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.24 ~ 2024.08.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/22/J701suIhJCPtVrfMIHGz8zEuB7UlZcYx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데드풀과 울버린ㅣ일반관 포스터 증정 이벤트♡ (돌비시네마, MX4D 관람 제외) (메가박스 ─ 이벤트 ─ 영화)]]></title>
