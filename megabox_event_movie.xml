@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jul 2024 14:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jul 2024 15:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,14 +160,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/23/n66SmZC9M4jeJ7hnvzCm4ijLMhwDefnX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<마담 프루스트의 비밀정원> 기억소환 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.24 ~ 2024.07.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/19/Mtk4t3eMftD50G04EXpEcLedVbRlU85p.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[리볼버] 선착순 빵원티켓]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -206,22 +198,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.19 ~ 2024.07.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/17/e4DLTano70XayGrfzPnblywkwqT2JQxt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<우마무스메 PRETTY DERBY 새로운 시대의 문> MX4D 특전 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.18 ~ 2024.07.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/16/EMNzi9FHuIQW1njnELTeZa1Ukh96ANb8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<우마무스메 PRETTY DERBY 새로운 시대의 문> 2주차 특전 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.18 ~ 2024.07.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/15/l3hFb2gXnB0yDYJopyepMn6WRqfQeac6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[하이큐!!] 재개봉 기념 스페셜 특가]]></title>
@@ -270,14 +246,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.17 ~ 2024.07.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/10/JqkHGnV9n1jWuET9FTjHu0r8rIiA5in1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[하이큐!!] 1주차 현장 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.17 ~ 2024.07.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/12/27vdx0JJbBzvDpf4rYcYOe4P2GSyanfh.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<극장판 프리큐어 올스타즈 F> 얼리버드 관람권 판매 이벤트]]></title>
