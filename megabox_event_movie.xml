@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jul 2024 14:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jul 2024 15:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,14 +78,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.25 ~ 2024.07.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/22/7AW4wTOIemoH4WMZcArIjBcseSSC8mCF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<프렌치 수프> 한상차림 굿즈패키지 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.25 ~ 2024.07.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/18/eln1E5ak1nKn1wK2FAGq7QftXeelIdmp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데드풀과 울버린ㅣ히어로 덕후 N차 퀘스트]]></title>
@@ -208,14 +200,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/17/jgW47ND62GsQqFTKyRCsBYVH7uk9OJQ1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[플라이 미 투 더 문] 선착순 빵원티켓]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.19 ~ 2024.07.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/17/e4DLTano70XayGrfzPnblywkwqT2JQxt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[하이큐!!] 재개봉 기념 스페셜 특가]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -270,14 +254,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.16 ~ 2024.07.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/12/k6QoO5I6g6kFCGz6sdN6EdYNT6zILiHE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<플라이 미 투 더 문> 개봉기념 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.12 ~ 2024.07.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/10/Q9ikDQJE5BYDx7ksTLLBbJZVlw7fdskF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[파일럿] 선착순 빵원티켓]]></title>
