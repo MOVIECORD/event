@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jul 2024 14:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jul 2024 15:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,14 +184,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/04/K28od00FyHiusGx2RfO93Qby5wxIAPtb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[메가박스 드로잉 카드 No.13 <핸섬가이즈> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.06 ~ 2024.07.26]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/01/US83gf86piIx7vNlboacc0gACz5aSo14.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[하남스타필드] ALL IN MEGA! 돌비 시네마 & MEGA | MX4D 신규 오픈 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
@@ -342,22 +334,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.27 ~ 2024.07.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/22/4shdah6IBkVB97nqSOr3SyvBYogrFcvP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[응원상영] 우마무스메 PRETTY DERBY 트레이너 데이 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.26 ~ 2024.07.26]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/23/sw6S51U5w4WRwCsMedRwr8bjNw3JQB8j.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<탈주> 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.26 ~ 2024.07.26]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/23/cm0qqMVM9XybF6G2KuqlmJWqbrPdsHQC.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<우마무스메 PRETTY DERBY 새로운 시대의 문> 3주차 특전 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
