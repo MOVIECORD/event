@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Jul 2024 14:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jul 2024 15:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.02 ~ 2024.08.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/25/jkKDaaQL6LKUbwxWfR9f5hluXNpxb7T4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 아트그라피 <극장판 프리큐어 올스타즈 F> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.27 ~ 2024.07.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/18/EuXFwmkmVt1tBBnhPsR7O9GM5b9X5PTn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[프로모션][굿즈] <데드풀과 울버린> 콤보 런칭! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -326,14 +318,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.27 ~ 2024.08.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/22/AkmLLQLaBzh5EW09erjEb7ytawPkYX6r.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<마담 프루스트의 비밀정원> 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.27 ~ 2024.07.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/22/4shdah6IBkVB97nqSOr3SyvBYogrFcvP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<우마무스메 PRETTY DERBY 새로운 시대의 문> 3주차 특전 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1238,22 +1222,6 @@
             <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.27 ~ 2024.07.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/05/0VFMM1Xbw518C4TUdbF3vvOZKgtkhSQZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<핸섬가이즈> 아직 안 끝났군요 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.27 ~ 2024.07.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/24/DFA6hPym6XeUInCMfAHNa6qWBIejCVIX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 프리큐어 올스타즈 F> 최초상영&프로듀서 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.27 ~ 2024.07.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/18/whB6Ssfo6Z0X1jnlGgMn8FCbPlzWRg3H.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<슈퍼배드 4> 코스튬 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
