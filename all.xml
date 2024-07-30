@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jul 2024 23:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jul 2024 01:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.02 ~ 2024.08.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/25/jkKDaaQL6LKUbwxWfR9f5hluXNpxb7T4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[📌메가박스 오리지널 포스터북 런칭📌 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.31 ~ 2024.08.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/29/vL0Hjt36LJn7MB52ghk9vxz2e6lObXFT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[프로모션][굿즈] <데드풀과 울버린> 콤보 런칭! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -1206,6 +1214,14 @@
             <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.04 ~ 2024.08.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/16/CaP3u6I8P86THfc2kGcusH67gGem3YDf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<에이리언: 로물루스> 메가박스 Dolby 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.31 ~ 2024.08.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/29/TS9zkNS9yuf8wS4l78I6PxrVccWaRmmy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<파일럿> 개봉일 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
