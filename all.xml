@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jul 2024 04:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jul 2024 05:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,12 +280,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/29/jwShWDb4R377QUUscg74YaZHGXpLpeAg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<공드리의 솔루션북> 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.17 ~ 2024.08.19]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/31/WU92Bt3gnf5SVFDVNdivP10tq1C7X0zA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[CLASSIC SOCIETY] <2024 씨네 클래식 썸머 오페라 페스티벌> 기획전 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.10 ~ 2024.08.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/23/oUpxKugUbVDu9WJpzEJ15pTIlvOs3JNU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<우마무스메 PRETTY DERBY 새로운 시대의 문> 콘솔+응원상영회 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.03 ~ 2024.08.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/31/299qrkFy8DUbJk5aGAvgwGu0dQ2RCieY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<사랑의 하츄핑> 처음 본 순간 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1142,6 +1158,14 @@
             <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.15 ~ 2024.08.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/29/pnsIm8zX7icnHnyCyDbg13X5m5avejzU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<빅토리> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.14 ~ 2024.08.18]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/31/uwSUv39uJyhh4bMHexFkIEwYvSqH46Bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<파일럿> 2주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
