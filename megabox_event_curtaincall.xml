@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Aug 2024 14:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Aug 2024 15:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,14 +86,6 @@
             <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.24 ~ 2024.08.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/10/hTG5mYfwfQrmom4gTv5jPUfNd33IBPK6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<빅토리> 치얼 업! 메가박스 회원시사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.15 ~ 2024.08.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/12/qQChTbcNVJKX8zDxTDWX4IxszebO8SV3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
