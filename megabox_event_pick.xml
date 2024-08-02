@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Aug 2024 14:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Aug 2024 15:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.02 ~ 2024.08.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/02/lsfjrG94qfFNdVG7JXvL4iH39MVcNXfq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파일럿 무제한맥] <파일럿> X 한맥 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.02 ~ 2024.08.02]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/25/jkKDaaQL6LKUbwxWfR9f5hluXNpxb7T4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[📌메가박스 오리지널 포스터북 런칭📌]]></title>
