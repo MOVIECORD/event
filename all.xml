@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Aug 2024 06:28:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Aug 2024 07:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/01/jnwkFgKMR8pmJJ07tgaQMRCqMprbc69q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[프로모션][굿즈] <사랑의하츄핑> 콤보 런칭! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <title><![CDATA[[프로모션][굿즈] <사랑의 하츄핑> 콤보 런칭! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
