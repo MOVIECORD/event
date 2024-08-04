@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Aug 2024 14:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Aug 2024 15:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.07 ~ 2024.08.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/02/Xj4mHz2i1duOfYihaLP8KM1oagtDstd0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 앵콜 아트그라피 <극장판 프리큐어 올스타즈 F>]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.03 ~ 2024.08.04]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/25/iSCMI6o1wS9UkudFlfROREJuGdmvnSgr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<사랑의 하츄핑> 버켓패키지 런칭]]></title>
@@ -166,14 +158,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.11 ~ 2024.08.21]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/09/s5ClJiLRdATv3Xwr9h0Jtucs5BvMeeFp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[하남스타필드] ALL IN MEGA! 돌비 시네마 & MEGA | MX4D 신규 오픈]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.05 ~ 2024.08.04]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/28/EQaES6onoOItaCHduYPNvrTG9iVC5zTO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2024 시네도슨트 시즌 2 in 대전신세계] 서양미술로 보는 그리스 신화]]></title>

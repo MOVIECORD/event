@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Aug 2024 14:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Aug 2024 15:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,22 +56,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/16/j3UDANrkThlG2EB6VlDD9jkZyEALAMIq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<사랑의 하츄핑> 대구 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.04 ~ 2024.08.04]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/16/GQhQKo1dqiqjdfZ0MPeSI9JjFzZ1DdWg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<파일럿> 개봉주 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.04 ~ 2024.08.04]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/16/CaP3u6I8P86THfc2kGcusH67gGem3YDf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<에이리언: 로물루스> 메가박스 Dolby 회원시사]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
             <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
@@ -80,28 +64,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/29/TS9zkNS9yuf8wS4l78I6PxrVccWaRmmy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<트위스터스> GV 시사회 메가박스 회원 초대 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.31 ~ 2024.08.04]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/31/noM81eqiqLM5P1cwpiBkWxWRtAtVlUQk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<행복의 나라> 메가박스 회원시사]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
             <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
             <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.29 ~ 2024.08.05]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/29/homO8JtPpO4Es0xu7EzBjKGkjGedzBoy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<슈퍼배드 4> 코스튬 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.24 ~ 2024.08.04]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/10/hTG5mYfwfQrmom4gTv5jPUfNd33IBPK6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
