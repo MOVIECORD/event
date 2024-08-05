@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Aug 2024 04:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Aug 2024 05:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.08 ~ 2024.08.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/25/teChclIdPcA9QI2Lul9TrFN2rdCU0eD8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<극장판 프리큐어 올스타즈 F> 2주차 주중 특전 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.07 ~ 2024.08.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/05/GdjzgvEPX16jSILp1NifXgAzuZpBP7R3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<인사이드 아웃2> 한국 관객 감사 스페셜 현장증정 이벤트]]></title>
