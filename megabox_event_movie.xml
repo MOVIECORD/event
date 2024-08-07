@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Aug 2024 14:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Aug 2024 15:21:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -176,14 +176,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/07/YsHIH3YLEgD6Um6gtNSHN6Pea7lGcKIy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<이오 카피타노> 굿즈 증정 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.07 ~ 2024.08.07]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/05/Ynt66CON4ymW3udd9tIXMXuKSYB5zpxc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[에이리언: 로물루스] 선착순 빵원티켓]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -230,14 +222,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.01 ~ 2024.08.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/29/xHTFbJoxjJjYUWB1sepTIAy5MZccvfrp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<우마무스메 PRETTY DERBY 새로운 시대의 문> 4주차 특전 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.01 ~ 2024.08.07]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/30/8hrzRZQMtFi5x6tYNydxvySVxe7VMpeP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<인사이드 아웃2> '불안'이 셀피 네컷 포토 증정 이벤트]]></title>
