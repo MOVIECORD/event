@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Aug 2024 07:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Aug 2024 08:24:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.14 ~ 2024.09.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/07/7uOd0YNaxs50MC11NWqGhHRAMUnBC7yi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<공드리의 솔루션북> 굿즈 증정 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.14 ~ 2024.08.15]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/07/gk0qsYUOzE2mCeNPqokES9xzjSE5uRsv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[CLASSIC SOCIETY] <2024 씨네 클래식 썸머 오페라 페스티벌> 기획전]]></title>
@@ -78,6 +86,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.08 ~ 2024.08.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/07/CjghQVbem7O38yoKFBCdbqZVfpFp8h3J.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[행복의 나라] 선착순 빵원티켓 ➕]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.08 ~ 2024.08.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/31/eOwyirLmENFvGZQme8FU558NhLcEcN6v.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<우마무스메 PRETTY DERBY 새로운 시대의 문> 5주차 특전 증정 이벤트]]></title>
