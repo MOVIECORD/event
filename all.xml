@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Aug 2024 06:27:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Aug 2024 07:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -582,14 +582,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.19 ~ 2024.09.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/08/X0A1F4jCkk54GIWunM9nVFI7RPBCjh2q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[안성스타필드] 안성스타필드 돌비시네마 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.09 ~ 2024.09.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/08/d7vovILgIxjCn1PrQrH4vHtd86SZ6BKo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[세종(조치원)] 모바일 티켓 제시하면, 팝콘 맛 무료 변경! (메가박스 ─ 이벤트 ─ 극장)]]></title>
