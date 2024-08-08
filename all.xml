@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Aug 2024 14:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Aug 2024 15:21:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,14 +184,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/09/s5ClJiLRdATv3Xwr9h0Jtucs5BvMeeFp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[2024 시네도슨트 시즌 2 in 대전신세계] 서양미술로 보는 그리스 신화 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.04 ~ 2024.08.08]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/18/Levw9mYqfNpVnopNNe1bg5UFcDk4TbyH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[메가굿즈샵 <인사이드 아웃> 굿즈 오픈 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
@@ -366,14 +358,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.08 ~ 2024.08.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/05/0JZfPbvCaPL8KEpGg7zuEjkyh7vThgQN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<리볼버> 이정재 X 지창욱 배우 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.08 ~ 2024.08.08]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/25/teChclIdPcA9QI2Lul9TrFN2rdCU0eD8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트위스터스] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1358,14 +1342,6 @@
             <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.07 ~ 2024.08.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/16/j3UDANrkThlG2EB6VlDD9jkZyEALAMIq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<에이리언: 로물루스> 메가박스 Dolby 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.31 ~ 2024.08.08]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/29/TS9zkNS9yuf8wS4l78I6PxrVccWaRmmy.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
