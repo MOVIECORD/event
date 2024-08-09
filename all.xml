@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Aug 2024 02:40:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Aug 2024 03:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -262,6 +262,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.14 ~ 2024.09.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/07/7uOd0YNaxs50MC11NWqGhHRAMUnBC7yi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에이리언: 로물루스ㅣDolby 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.14 ~ 2024.08.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/09/qSx3TyiZXQar1JMd3KimcwjimVqew3IA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<공드리의 솔루션북> 굿즈 증정 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
