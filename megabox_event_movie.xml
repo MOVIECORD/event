@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Aug 2024 14:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Aug 2024 15:21:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,14 +350,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.31 ~ 2024.08.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/29/1aahncdbgxD0YtGelIVQTHipL4acYitq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<블러디 이스케이프: 지옥의 도주극> 개봉주말 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.27 ~ 2024.08.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/22/AkmLLQLaBzh5EW09erjEb7ytawPkYX6r.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데드풀과 울버린ㅣ히어로 덕후 N차 퀘스트]]></title>
