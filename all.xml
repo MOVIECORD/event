@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Aug 2024 14:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Aug 2024 15:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -352,22 +352,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/08/VGpFo9h6Ogo4xqRxfeqanhK0s7yTN80H.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<늘봄가든> 코스튬 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.10 ~ 2024.08.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/09/VitmLOr9Fnly1LrrmcwppEVHge5sjbYs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 프리큐어 올스타즈 F> 오리지널 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.10 ~ 2024.08.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/02/ezLiG7SWkT2kkUK6WPvmIIboQ1N1e3hr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[데드풀과 울버린ㅣ스페셜 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -478,14 +462,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.07 ~ 2024.08.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/05/QCrm7P7xc069UUfMYI2yb8fqq27hjZCx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 폴 프린세스!!> 라스트 상영회 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.07 ~ 2024.08.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/07/YsHIH3YLEgD6Um6gtNSHN6Pea7lGcKIy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[에이리언: 로물루스] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1414,14 +1390,6 @@
             <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.10 ~ 2024.08.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/23/grjfchb2ROPxUVNj4yhGFv9y3IrEpElS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<빅토리> 개봉 전 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.10 ~ 2024.08.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/05/Y1efdgsbQSiaqddk83C1sLJnGdPHZNnt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<리볼버> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
