@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Aug 2024 03:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Aug 2024 04:23:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -656,6 +656,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/08/eQkPyg0VCYHYd6lbLjznuGk434xD8Afy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[대전신세계 아트앤사이언스] 대돌비 돌비관람권 패키지 런칭 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.08 ~ 2024.08.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/08/kbiXVcnHHXPyJzZmZcnT5tNRAJZiiXZs.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[수원AK플라자] 오픈 1주년! HAPPY BIRTHDAY PARTY (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -1278,6 +1286,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:55 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.01 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/02/Gd9p85ocMTXylM1LoedwAe2IqxaDsWdU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<필사의 추격> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.24 ~ 2024.08.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/09/eHIMmmGmhX63VZkOqHUHFrqz5MCM2b83.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<행복의 나라> 2주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
