@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Aug 2024 01:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Aug 2024 02:42:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -405,6 +405,14 @@
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.13 ~ 2024.08.19]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/13/nhdZxKAuJgw9g0HBlH0Bw2kqxCBC6rSS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파일럿] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.13 ~ 2024.08.19]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/12/9fLt5tdo6PnQJWEv7DZjZ51P1IaNdbrE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -694,6 +702,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.14 ~ 2024.09.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/08/d7vovILgIxjCn1PrQrH4vHtd86SZ6BKo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[수원스타필드] 수팝 DAY! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.13 ~ 2024.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/13/PxcnHVdSRhKCPtzJKJyevwYXSEMnIXPi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[남양주현대아울렛] 지하철타고 남돌비 가자 (메가박스 ─ 이벤트 ─ 극장)]]></title>
