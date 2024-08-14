@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Aug 2024 14:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Aug 2024 15:21:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,22 +342,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.08 ~ 2024.08.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/31/eOwyirLmENFvGZQme8FU558NhLcEcN6v.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트나인과 함께 하는 <샤인> GV]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.08 ~ 2024.08.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/08/cDurgldEHpWwpHc14c8tCEAfnGGlIlOT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<우마무스메 PRETTY DERBY 새로운 시대의 문> 5주차 특전 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.08 ~ 2024.08.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/05/0JZfPbvCaPL8KEpGg7zuEjkyh7vThgQN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트위스터스] 선착순 빵원티켓 ➕]]></title>
