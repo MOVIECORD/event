@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Aug 2024 02:39:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Aug 2024 03:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메가박스 드로잉 카드 No.18 <비포 선셋> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.17 ~ 2024.08.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/13/OSubim1Nu42s1NSGbXRnpbQDdmyxLKa4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에이리언: 로물루스ㅣ메가박스 한파주의보: 시베리언 상영회 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
@@ -262,6 +270,22 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.18 ~ 2024.08.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/02/1rkj5ezZJyvwetKPzHXsJdQhg9FSdGgT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<극장판 프리큐어 올스타즈 F> 3주차 주말 특전 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.17 ~ 2024.08.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/13/G7fpW0U1gpW8XeRYnBNCfNIpDDiSQvuy.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<극장판 하이큐!! 쓰레기장의 결전> 하이큐의 날, 홍대 응원 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.17 ~ 2024.08.19]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/13/KX26uigxhPjUqXLbn4AZR0IsZlQVeF5p.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<공드리의 솔루션북> 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
