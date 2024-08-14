@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Aug 2024 01:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Aug 2024 02:39:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.14 ~ 2024.09.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/12/Mc3Ax1XcnFNlJ5HkSO47bl1srXK5662f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무더위 극복 경품 이벤트 🏖️떠나자! 메캉스🏖️]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.14 ~ 2024.08.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/14/7teAQsvDeBboKwhx8uE3dKvnJWZecTFg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 드로잉 카드 No.16 <트위스터스>]]></title>
