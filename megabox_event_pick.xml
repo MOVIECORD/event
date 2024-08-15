@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Aug 2024 04:33:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Aug 2024 05:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.17 ~ 2024.09.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/13/OSubim1Nu42s1NSGbXRnpbQDdmyxLKa4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[본 아이덴티티] WHO IS THE NO.1 SPY]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.16 ~ 2024.08.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/14/o0Hq82J3oY4LBFXkVMaoh33ygJss9NZl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에이리언: 로물루스ㅣ메가박스 한파주의보: 시베리언 상영회]]></title>
