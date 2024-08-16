@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Aug 2024 08:25:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Aug 2024 09:22:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.17 ~ 2024.08.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/02/6Es88IdZQlgzA3XHxwdBtpB9YJ2bpum6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<안녕, 할부지> 메가박스 회원시사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.16 ~ 2024.08.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/16/lkdZkSzrPbnMd6kafE30IQSB3MqgDVhT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<리볼버> 2주차 무대인사]]></title>
