@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Aug 2024 01:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Aug 2024 02:38:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.25 ~ 2024.08.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/29/jwShWDb4R377QUUscg74YaZHGXpLpeAg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<공드리의 솔루션북> 에코백 굿즈패키지 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.24 ~ 2024.08.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/13/I1lV4FmJeHeBaeGRGBMbH0uN4H5s6MIw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<프로이트의 라스트 세션> 메가토크]]></title>
