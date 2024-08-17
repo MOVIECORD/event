@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Aug 2024 14:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Aug 2024 15:18:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.16 ~ 2024.08.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/14/o0Hq82J3oY4LBFXkVMaoh33ygJss9NZl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이리언: 로물루스ㅣ메가박스 한파주의보: 시베리언 상영회 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.16 ~ 2024.08.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/13/fz0YzLG3W4d5BysUhipN9wZSP8o5CdVJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 No.119 <에이리언: 로물루스> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -552,14 +544,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/12/9fLt5tdo6PnQJWEv7DZjZ51P1IaNdbrE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<킹 오브 프리즘 -드라마틱 프리즘.1-> 8/17 무대인사 라이브뷰잉 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.13 ~ 2024.08.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/13/iMYDlsBVO1lVFzWOpx0IlLQkPMCdgs28.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<극장판 : 기븐_히이라기 믹스> 기대평 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -1006,14 +990,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.18 ~ 2025.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/19/AP6ZHAWZ6R7U81isuKz2VbNCIy5RwGJn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[수원] 장보고! 영화보고! (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.14 ~ 2024.08.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/13/wn965Fmsvmi9gLajKSiz7UBu9mSjELMK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[청라지젤] 매점 이용하면 관람권 증정! (메가박스 ─ 이벤트 ─ 극장)]]></title>
