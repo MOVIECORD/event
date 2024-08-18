@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Aug 2024 14:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Aug 2024 15:19:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,14 +152,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/29/vL0Hjt36LJn7MB52ghk9vxz2e6lObXFT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<파일럿> '파'밀리 따라잡기✈️]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.31 ~ 2024.08.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/30/146nbwsrRHZ9I6f8XgZzNhzLi34jZbWy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[프로모션][굿즈] <데드풀과 울버린> 콤보 런칭!]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
@@ -198,14 +190,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.23 ~ 2024.08.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/19/OV9QjFEfwYGengvySzuhTIhg53tVz9Zg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<라임에이드> 론칭]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.17 ~ 2024.08.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/15/QF91fU7kYDZvLJnpEJSntHkI5E6d1keq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[프로모션][굿즈] <명탐정 코난 : 100만달러의 펜타그램> 콤보 런칭!]]></title>
