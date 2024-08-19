@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Aug 2024 14:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Aug 2024 15:21:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,22 +392,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/13/G7fpW0U1gpW8XeRYnBNCfNIpDDiSQvuy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<극장판 하이큐!! 쓰레기장의 결전> 하이큐의 날, 홍대 응원 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.17 ~ 2024.08.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/13/KX26uigxhPjUqXLbn4AZR0IsZlQVeF5p.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<공드리의 솔루션북> 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.17 ~ 2024.08.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/31/WU92Bt3gnf5SVFDVNdivP10tq1C7X0zA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<빅토리> 싱어롱 상영회 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -566,30 +550,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.14 ~ 2024.08.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/08/Df71zg4vpp4ECu00FSrNm4kOjIk9qro1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<늘봄가든> SNS 기대평 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.13 ~ 2024.08.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/13/hnWqSAHmvOPrkaEHqhGzU7jkPb6Mv7F7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파일럿] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.13 ~ 2024.08.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/13/nhdZxKAuJgw9g0HBlH0Bw2kqxCBC6rSS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파일럿] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.13 ~ 2024.08.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/12/9fLt5tdo6PnQJWEv7DZjZ51P1IaNdbrE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<극장판 : 기븐_히이라기 믹스> 기대평 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
