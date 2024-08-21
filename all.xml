@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Aug 2024 04:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Aug 2024 05:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -310,6 +310,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.22 ~ 2024.09.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/20/WZkY760EAR7ToKTw09iDjxFYPyhXVEef.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<희생> 굿즈 증정 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.22 ~ 2024.08.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/21/XqqCO3VPjPu4MCx7cWBxavtgisXSDsYx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<우마무스메 PRETTY DERBY 새로운 시대의 문> 7주차 특전 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -662,6 +670,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.05 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/19/tMwoGy0Kr29v7YsAPjvDVmnpfZJZ6X7I.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[천안] 천안점 전용 관람권 패키지 특가판매 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.21 ~ 2024.09.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/21/z5bN1hV6DlZGi4DvwA2Zr0LZcxdyJqql.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[파주운정] 새 학기엔 새 영화로 재충전! (메가박스 ─ 이벤트 ─ 극장)]]></title>
