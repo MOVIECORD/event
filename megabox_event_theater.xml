@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Aug 2024 05:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Aug 2024 06:26:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[하남스타필드] 더 부티크 재즈 나잇]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.31 ~ 2024.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/21/YVbZpAja6QflHmqBbwEY6WXIRMLQ4eou.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[천안] 천안점 전용 관람권 패키지 특가판매]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
@@ -38,6 +46,22 @@
             <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.13 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/13/PxcnHVdSRhKCPtzJKJyevwYXSEMnIXPi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[창원내서] 모바일 오더로 할인받고 주문하자!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.13 ~ 2024.10.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/21/tpGwPyeQGjfJLcspvEGU9XYQFqYkniG3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[센트럴] 더 부티크 황금연휴 패키지 론칭]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.12 ~ 2024.11.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/21/RFHFBoGXpeRihs6lDLeX7ubhD0gDVYwI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[남양주현대아울렛] 지하철타고 남돌비 가자]]></title>
