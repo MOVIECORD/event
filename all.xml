@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Aug 2024 01:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Aug 2024 02:40:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,6 +246,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.31 ~ 2024.09.01]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/20/q0DZ96ybcsOsooJoiP0puX3y0PVM0hYe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[터커 & 데일 Vs 이블] 오리지널 포스터 증정 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.28 ~ 2024.09.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/22/D7RzLT8GSE82XMSeEDRKCjVpEm87ssw8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<문경> 메가토크 with. 차태현 배우 (메가박스 ─ 이벤트 ─ 영화)]]></title>
