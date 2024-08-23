@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Aug 2024 14:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Aug 2024 15:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.12 ~ 2024.11.10]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/21/RFHFBoGXpeRihs6lDLeX7ubhD0gDVYwI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[남양주현대아울렛] 지하철타고 남돌비 가자]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.10 ~ 2024.08.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/08/QVgOg4EdhihrSkvbadwAbJ99Xa0DmPkj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[세종(조치원)] 모바일 티켓 제시하면, 팝콘 맛 무료 변경!]]></title>
@@ -286,14 +278,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.24 ~ 2024.08.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/03/sT9Uvns5MNvLQg45DFW97ChEekTa6iG0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대전유성, 대전중앙로] ICE 말차라떼 너 좀 맛있네?!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.20 ~ 2024.08.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/03/dNb6vyywWrPaNxUwnog1AZ9965yAlzSq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[평택비전] 아이와 함께 요금 할인 이벤트]]></title>
