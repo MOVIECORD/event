@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Aug 2024 14:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Aug 2024 15:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,14 +102,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.25 ~ 2024.08.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/29/jwShWDb4R377QUUscg74YaZHGXpLpeAg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<공드리의 솔루션북> 에코백 굿즈패키지 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.24 ~ 2024.08.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/13/I1lV4FmJeHeBaeGRGBMbH0uN4H5s6MIw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BACK TO 1996! <트위스터스> 레트로 포스터 증정 이벤트]]></title>
@@ -422,14 +414,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.14 ~ 2024.08.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/09/6e3wZT4CDZwDZaJ8FyPyeMskYR1WcfXi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이리언: 로물루스ㅣDolby 포스터 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.14 ~ 2024.08.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/09/qSx3TyiZXQar1JMd3KimcwjimVqew3IA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<극장판 : 기븐_히이라기 믹스> 기대평 이벤트]]></title>
