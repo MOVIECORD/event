@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Aug 2024 02:43:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Aug 2024 03:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -278,6 +278,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.28 ~ 2024.09.10]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/23/tJUlQQgLziXjk3nclF4jlC8UGULi9udn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[본 아이덴티티] 오리지널 포스터 증정 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.28 ~ 2024.09.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/23/tbq6QFvDiUZjem69eb0khZZ9a0nY9dPE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[더 배트맨] 돌비 포스터 증정 (메가박스 ─ 이벤트 ─ 영화)]]></title>
