@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Aug 2024 08:26:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Aug 2024 09:21:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.28 ~ 2024.08.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/14/U4smPCOdCqS0MMQ0IC0cah4m2100U6kg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[비틀쥬스 비틀쥬스] 선착순 빵원티켓 ➕]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.27 ~ 2024.09.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/26/B2DdWq29AQz0JDG80BZErBal82AGKLn7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[그 여름날의 거짓말] 선착순 빵원티켓]]></title>
