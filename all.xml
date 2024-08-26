@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Aug 2024 14:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Aug 2024 15:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,14 +392,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/23/N1TQpXW9Z7sij5YEyQUdlXY8X97PEJu3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[라이브뷰잉] hololive English 2nd Concert -breaking dimensions (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.25 ~ 2024.08.26]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/29/jwShWDb4R377QUUscg74YaZHGXpLpeAg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[BACK TO 1996! <트위스터스> 레트로 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -550,14 +542,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.20 ~ 2024.08.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/19/uVXkFTvTEcjDlAwyCsBIqioN7fihBaEY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[빅토리] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.20 ~ 2024.08.26]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/08/Df71zg4vpp4ECu00FSrNm4kOjIk9qro1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 보석함, 구경할래? (메가박스 ─ 이벤트 ─ 영화)]]></title>
