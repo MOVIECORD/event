@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Aug 2024 03:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Aug 2024 04:25:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -310,6 +310,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.29 ~ 2024.08.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/23/volSnx8oU0u97MzyT3uznACHZLqDuNty.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<한국이 싫어서> 개봉주 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.28 ~ 2024.09.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/27/M8jKUYuq1hJeLp4xzysE0S3lsRpqGWoR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<비포 선셋> 3주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
