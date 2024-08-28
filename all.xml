@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Aug 2024 07:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Aug 2024 08:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.31 ~ 2024.09.01]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/20/q0DZ96ybcsOsooJoiP0puX3y0PVM0hYe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<파일럿> 흥행 감사 특가 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.30 ~ 2024.09.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/28/aEVoaKJqNVBpsCabcIrU9vmDTOsCzhhp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<소년시절의 너> 개봉주 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1382,6 +1390,14 @@
             <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.13 ~ 2024.09.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/23/LzZ5Q2XTZ3HESTiefZnclzgraQYoPVxD.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<빅토리> 3주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.01 ~ 2024.09.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/28/wYxiDrFoxrBDYfrdtlw0hkfjPYGhlGwP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<한국이 싫어서> 개봉 기념 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
