@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Aug 2024 14:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Aug 2024 15:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -456,14 +456,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/22/D7RzLT8GSE82XMSeEDRKCjVpEm87ssw8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<문경> 메가토크 with. 차태현 배우 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.28 ~ 2024.08.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/14/U4smPCOdCqS0MMQ0IC0cah4m2100U6kg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[비틀쥬스 비틀쥬스] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -560,14 +552,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/21/XqqCO3VPjPu4MCx7cWBxavtgisXSDsYx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<우마무스메 PRETTY DERBY 새로운 시대의 문> 7주차 특전 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.22 ~ 2024.08.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/21/EmZ4Polap1mhjDeAFD312Y48PxpS0333.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<빅토리> 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -640,14 +624,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/19/2y8zn4aw6dP20FOiHFuQcivVyitEaJkl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[늘봄가든] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.20 ~ 2024.08.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/19/uVXkFTvTEcjDlAwyCsBIqioN7fihBaEY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[메가박스 보석함, 구경할래? (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -670,14 +646,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.17 ~ 2024.08.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/13/G7fpW0U1gpW8XeRYnBNCfNIpDDiSQvuy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<쥬라기캅스 극장판: 전설의 고대생물을 찾아라> 개봉주 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.15 ~ 2024.08.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/12/GG2EKNNe1G95Yk2K9jNMuZKF11CVv9C8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<트위스터스> 돌비 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
