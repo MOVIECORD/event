@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Aug 2024 06:27:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Aug 2024 07:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -270,6 +270,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.05 ~ 2024.09.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/28/Q3ViB16HgPpfM20UHQ4SkvcwYJiJNeZG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<딸에 대하여> 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.05 ~ 2024.09.05]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/28/IpUoM43jiBYk0aeIsSQrIzjfOtB0cIjg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<희생> 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
