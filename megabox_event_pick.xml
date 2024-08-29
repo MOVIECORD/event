@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Aug 2024 08:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Aug 2024 09:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.28 ~ 2024.09.22]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/26/gldeKnCyOKSZSNWTvJSzrkX1XYTt1Cf6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 드로잉 카드 No.19 <소년시절의 너>]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.28 ~ 2024.09.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/29/bP3ELfE4b470fTdPnXDmO51LwW7gpd4y.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[프로모션][굿즈] <메가박스X위글위글> 콤보 런칭!]]></title>
