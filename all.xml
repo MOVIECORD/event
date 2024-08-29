@@ -4,11 +4,11 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Aug 2024 04:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Aug 2024 05:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[<룩백>엽서세트콤보 런칭! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <title><![CDATA[<룩백> 엽서세트콤보 런칭! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
@@ -22,6 +22,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.31 ~ 2024.09.01]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/26/ZhqsszerlHmRpmVQVResjQw6eXN1oeYL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<룩백> 굿즈패키지 런칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.29 ~ 2024.09.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/29/IuI9AmI7VlWNgryd3f0sVGlTHwrRadm2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스앱 첫 구매고객 대상 1+1 쿠폰 이벤트! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -1422,6 +1430,14 @@
             <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.31 ~ 2024.08.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/22/3E6jun4a5Jzy0N0uNTY9d6Ch637O4Qh8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<그녀에게> 메가박스 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.29 ~ 2024.09.05]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/29/Bd5PJJu9OcDzUHh27V9TDACoo5pEIWpE.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
