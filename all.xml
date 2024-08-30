@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Aug 2024 08:25:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Aug 2024 09:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,22 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.04 ~ 2024.09.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/30/NtkncthjRno6LTRknr5oVQYYOxoUiXEm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<애프터썬> 2주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.04 ~ 2024.09.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/30/GH0ha6zrg4uVhR3knpDr4POns1q8qFfy.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<사랑의 하츄핑> 5주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.04 ~ 2024.09.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/30/LSRbDcLlGVqxFyqwKuNpEE3Ikpj7gzJ0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<호비와 마법의 카네이션> SNS 기대평 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
