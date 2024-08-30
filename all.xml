@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Aug 2024 07:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Aug 2024 08:25:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메가박스 아트그라피 <룩백> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.07 ~ 2024.09.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/29/URfDjgJuuL1YDHLok4sC1BeTuPyf7r92.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[프로모션][굿즈] 9월 4일 <안녕, 할부지> 콤보 런칭! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
@@ -398,6 +406,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.30 ~ 2024.09.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/27/yukCZRgUr6PPaRXDGddKG5ZZj9YkrcOg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트나인과 함께 하는 <딸에 대하여> GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.30 ~ 2024.09.11]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/30/cfq9yTJsawaS95raTuH8E95hSCexJu1J.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안녕, 할부지] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
