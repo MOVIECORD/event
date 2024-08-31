@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Aug 2024 14:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Aug 2024 15:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -158,14 +158,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.30 ~ 2024.09.05]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/28/BY6U5cdgXQoGYR75cjCe09I3EXsOAErg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<공드리의 솔루션북> 굿즈 증정 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.30 ~ 2024.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/27/BOKAe77N6Mg7nVUxdr6x0c5CpdaKlprI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<스트레인저스: 챕터1> 1+1 관람 이벤트]]></title>
@@ -352,14 +344,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/20/WZkY760EAR7ToKTw09iDjxFYPyhXVEef.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<희생> 굿즈 증정 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.22 ~ 2024.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/21/XqqCO3VPjPu4MCx7cWBxavtgisXSDsYx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<빅토리> 현장 증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -416,36 +400,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/19/njhpgUpqtiukXgLJPAqus1N8leFxEk23.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<사랑의 하츄핑> 같이 왔츄 할인 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.21 ~ 2024.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/21/RlgbTEtXdJGPQoG7SzFeBUxaI4yua1X5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<트위스터스> 돌비 포스터 증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.14 ~ 2024.09.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/07/7uOd0YNaxs50MC11NWqGhHRAMUnBC7yi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[CLASSIC SOCIETY] <2024 씨네 클래식 썸머 오페라 페스티벌> 기획전]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.10 ~ 2024.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/23/oUpxKugUbVDu9WJpzEJ15pTIlvOs3JNU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[메가박스X시네마캐슬] 시네마캐슬 8월 상영작 안내]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.01 ~ 2024.08.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/29/xHTFbJoxjJjYUWB1sepTIAy5MZccvfrp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[CLASSIC SOCIETY] <2024 씨네클래식 라인업>]]></title>
