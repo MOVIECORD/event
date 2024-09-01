@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Sep 2024 14:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Sep 2024 15:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.31 ~ 2024.09.22]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/29/JHhWFuCyHC7GLJ7TsvIdTkXs0srxtoHO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 아트그라피 <극장판 : 기븐_히이라기 믹스> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.31 ~ 2024.09.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/26/ZhqsszerlHmRpmVQVResjQw6eXN1oeYL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<룩백> 굿즈패키지 런칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -94,14 +86,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.21 ~ 2024.10.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/19/3EkXQglq5NPdoFfjJ5MeIzMpKaxb8zXZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[메가썸머픽] 메가박스가 선택한 이달의 영화 '영웅: 라이브 인 시네마' (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.21 ~ 2024.09.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/14/RAMZIdH4cMWkunydtldts5v8KLuD4pgx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 슬라이드 No.1 <본 아이덴티티> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -312,36 +296,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/30/b9Py1oD5W0tlm9M4yctYFC5i93lDXBZo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<그 여름날의 거짓말> 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.01 ~ 2024.09.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/28/tgCZnzMwzGkcdWsTDSdppXXImUZ6jVvV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<희생> 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.01 ~ 2024.09.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/22/UcuqGvDOVmQCxs18WZaE3Xk4ag6X9BXb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<영웅: 라이브 인 시네마> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.31 ~ 2024.09.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/29/gOF2l2pffbzXMPmJrIcsy2ADJYIgOSZO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<룩백> 프리미어 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.31 ~ 2024.09.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/20/q0DZ96ybcsOsooJoiP0puX3y0PVM0hYe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<파일럿> 흥행 감사 특가 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -526,14 +486,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.26 ~ 2024.09.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/23/xDK6ZMBAucPggHBFM7yBqDnFwr6ZVXjL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[필사의 추격] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.26 ~ 2024.09.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/23/N1TQpXW9Z7sij5YEyQUdlXY8X97PEJu3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BACK TO 1996! <트위스터스> 레트로 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1246,14 +1198,6 @@
             <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.06 ~ 2024.09.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/30/lK2kmSpEzWmF1Ky2HfnNWW5J4IeCpNDd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<빅토리> 3주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.01 ~ 2024.09.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/28/wYxiDrFoxrBDYfrdtlw0hkfjPYGhlGwP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<그녀에게> 메가박스 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
