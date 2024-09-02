@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Sep 2024 07:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 08:26:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,6 +72,22 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/30/NtkncthjRno6LTRknr5oVQYYOxoUiXEm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<한국이 싫어서> 2주차 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.04 ~ 2024.09.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/02/Ws8hXnKJ3mdOddxfeX2apbOnBjN7jxgp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<안녕, 할부지> 개봉주 현장 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.04 ~ 2024.09.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/02/HTCpOh3afExc3fMiA1ai0PNQGZjqcXcV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<비포 미드나잇> 개봉주 현장증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -120,6 +136,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/16/3Xglv7S8l4udx43T78CWoMtbdv4A40qu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<빅토리> 목동지점 응원봉제어 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.03 ~ 2024.09.03]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/02/VS9cPSXh20s6zL4cpT6wwk2mKsboVl37.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<호비와 마법의 카네이션> SNS 기대평 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -142,6 +166,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.30 ~ 2024.09.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/28/aEVoaKJqNVBpsCabcIrU9vmDTOsCzhhp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<소년시절의 너> 2주차 주중 현장 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.30 ~ 2024.09.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/02/1nQyx2U9aZgx0nvz4EUfdBcaH1hZqdaF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<소년시절의 너> 개봉주 현장 증정 이벤트]]></title>

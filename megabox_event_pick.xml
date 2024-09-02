@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Sep 2024 07:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 08:26:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.07 ~ 2024.09.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/29/URfDjgJuuL1YDHLok4sC1BeTuPyf7r92.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<룩백> N차 과몰입 챌린지]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.05 ~ 2024.09.29]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/02/jWeaArsDYcxl45T1DP4NeYEtxfTmsRkX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[프로모션][굿즈] 9월 4일 <안녕, 할부지> 콤보 런칭!]]></title>
@@ -30,6 +38,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.04 ~ 2024.09.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/29/96UzqHip2aCRZRlwoY9mDTSXM4DxDpTn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 오리지널 티켓 No.120 <비틀쥬스 비틀쥬스>]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.02 ~ 2024.10.02]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/02/4smnrb4qwDWcWnIxciiilG3OTU2oTBk0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<룩백> 엽서세트콤보 런칭!]]></title>
