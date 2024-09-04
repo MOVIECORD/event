@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Sep 2024 23:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Sep 2024 01:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,6 +232,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/19/MjOjVPD3EGiVrIX9YH5YRYoupEziq8sX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<안녕, 할부지> 개봉 주말 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.07 ~ 2024.09.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/04/YHg75VigqPWMpgWlDW7OjrczZcikiYsH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<킹 오브 프리즘 -드라마틱 프리즘.1-> 4주차 특전 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -304,7 +312,7 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/02/Ws8hXnKJ3mdOddxfeX2apbOnBjN7jxgp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<안녕, 할부지> 개봉주 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <title><![CDATA[<안녕, 할부지> 개봉 주중 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
@@ -638,6 +646,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.01 ~ 2026.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/29/rpsQ5x2C9TdzNyHuMEewatdxYfukt9lh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이수] 추석 패키지 한정판매! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.01 ~ 2024.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/04/GwTZc1dBixpg9BgsMQoZNPQ0qLRFRFfu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[용인테크노밸리] 용메박 전용 할인쿠폰 증정! (메가박스 ─ 이벤트 ─ 극장)]]></title>
