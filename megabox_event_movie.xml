@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Sep 2024 14:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Sep 2024 15:22:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,22 +144,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/03/Iljftide9CI2TcwDIjgw48TwK4wUvD0d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<안녕, 할부지> 메가토크]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.06 ~ 2024.09.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/30/WMjCbTXMgESXxRR4I1zMG4dMnCZhiFIp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<그녀에게> 원작에세이 굿즈패키지 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.06 ~ 2024.09.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/02/d34hJV4XyhcXaSjGVpPDnEnk6LtkE12V.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<극장판 : 기븐_히이라기 믹스> 2주차 현장증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -286,14 +270,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.02 ~ 2024.09.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/30/b9Py1oD5W0tlm9M4yctYFC5i93lDXBZo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<영웅: 라이브 인 시네마> 2주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.31 ~ 2024.09.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/29/gOF2l2pffbzXMPmJrIcsy2ADJYIgOSZO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<파일럿> 흥행 감사 특가 이벤트]]></title>
