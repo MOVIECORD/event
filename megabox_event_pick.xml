@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Sep 2024 14:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Sep 2024 15:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.09 ~ 2024.09.10]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/04/mx0FT4jOmbk5QVyEVOjo00xznyNtv5tZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 아트그라피 <룩백>]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Sun, 23 Jun 2024 21:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.07 ~ 2024.09.08]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/29/URfDjgJuuL1YDHLok4sC1BeTuPyf7r92.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<룩백> N차 과몰입 챌린지]]></title>
