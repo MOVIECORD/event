@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Sep 2024 23:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Sep 2024 01:25:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,6 +32,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/04/SaDMMg6UCAXcP1CElvfQ0lrf0a92vfCU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<딸에 대하여> 굿즈패키지 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.13 ~ 2024.09.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/09/D4UODX786cFyBDdsgvwDFw6KSLp5LcuA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[라이브뷰잉] RIIZE FAN-CON TOUR 'RIIZING DAY' FINALE in CINEMAS 진행안내]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -54,6 +62,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.11 ~ 2024.09.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/05/vsvEteRfYb3aiynE1HE3ENvKuPuJzEmE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<비포 미드나잇> 2주차 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.11 ~ 2024.09.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/06/mSDpE2etvidHrpORN8Ml0ExKsCqVTopa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<여름이 끝날 무렵의 라트라비아타> SNS 관람인증 이벤트]]></title>
