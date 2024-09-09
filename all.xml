@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Sep 2024 11:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Sep 2024 12:38:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/09/mvJG9bJtnyG3mna7VT67OLORlAqZ6WVY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<극장판 : 기븐_히이라기 믹스> 3주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.14 ~ 2024.09.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/09/Y0f6INUGWLHePwgVOxQfO9wCrOZtyQXI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<베테랑 2> 돌비 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -342,6 +350,14 @@
             <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.11 ~ 2024.09.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/05/vsvEteRfYb3aiynE1HE3ENvKuPuJzEmE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<소년시절의 너> 3주차 주중 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Sun, 23 Jun 2024 21:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.11 ~ 2024.09.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/09/wbqoelDHe5mRRvGx2MSRKnEjyP96weeU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<비포 미드나잇> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
