@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Sep 2024 14:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Sep 2024 15:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -320,22 +320,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/02/TtMAWb6WmQBgEVlmvOgbfTTY6VAbbvoz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[한국이 싫어서] 선착순 빵원티켓]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.05 ~ 2024.09.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/04/HbyubAs7GwVdEDv7617CbTl3Du6pMSyQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가 단독! <룩백> 절친 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.05 ~ 2024.09.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/28/Q3ViB16HgPpfM20UHQ4SkvcwYJiJNeZG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<비틀쥬스 비틀쥬스> 돌비 포스터 증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -430,14 +414,6 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.30 ~ 2024.09.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/27/yukCZRgUr6PPaRXDGddKG5ZZj9YkrcOg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트나인과 함께 하는 <딸에 대하여> GV]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.30 ~ 2024.09.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/30/cfq9yTJsawaS95raTuH8E95hSCexJu1J.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<트위스터스> 코엑스 MEGA I MX4D 포스터 증정 이벤트]]></title>
