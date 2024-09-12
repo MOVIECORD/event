@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Sep 2024 14:22:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Sep 2024 15:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,14 +134,6 @@
             <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.21 ~ 2024.09.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/21/z5bN1hV6DlZGi4DvwA2Zr0LZcxdyJqql.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파주운정] 새 학기엔 새 영화로 재충전!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.19 ~ 2024.09.12]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/08/X0A1F4jCkk54GIWunM9nVFI7RPBCjh2q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안성스타필드] 안성스타필드 돌비시네마]]></title>
