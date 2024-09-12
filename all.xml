@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Sep 2024 10:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Sep 2024 11:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.14 ~ 2024.10.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/10/LMUcUUCN9MhkE9jcVVlcvaRaEf1zga48.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[프로모션][굿즈] <인사이드아웃> 감정무드등 2종 신규런칭! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.13 ~ 2024.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/12/CMtWVuVGE3JX6WjiOCto8fPjHLM1rb6t.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[WEEKLY RAFFLE] <베테랑 2>보고 쇼핑가자! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
