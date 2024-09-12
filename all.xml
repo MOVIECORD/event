@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Sep 2024 01:23:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Sep 2024 02:45:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -318,6 +318,22 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.19 ~ 2024.09.19]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/10/CtrSmgldGrL4HvlNZIe2IhdCLMQbz7i6.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[디즈니 시네마] <모아나> 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.18 ~ 2024.10.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/12/8t4fToUeY5b3p7lJJZmj3sGihhny8sih.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[디즈니 시네마] <주토피아> 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.18 ~ 2024.10.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/12/cUhMj9GHAht9oIcP40Va98m6NADio5Pg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<호비와 마법의 카네이션> 추석 프리미어 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
