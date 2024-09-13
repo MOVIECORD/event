@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Sep 2024 01:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Sep 2024 02:46:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -336,6 +336,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/09/zLVirMmbBQhBtjctLU72ciT85cwbotME.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<극장판 : 기븐_히이라기 믹스> 4주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.21 ~ 2024.10.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/12/im4Q1uolwDmd7MNIGtefoTWunxh11xFz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<조커> 재개봉 & A3포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -422,6 +430,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.14 ~ 2024.09.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/12/G0Xp5bcVbDjASLAU6rL4MojG92avcuzd.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<조커: 폴리 아 되> 다시 돌아온 얼리버드 메가 혜택! (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.13 ~ 2024.10.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/13/15nzD7XUWMDbfGpYYDX593yFtspqIaH5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<베테랑 2> 돌비 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1064,14 +1080,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/23/Ybr07Hx8frd5njOVGDOSMI3zajhYc2wJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[대구이시아] 청소년 할인 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.14 ~ 2024.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/23/uAKTWCsCRViQ5arEHLA1VFixmtCBUWCQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[광주상무] 카톡 친구 추가시 할인?! (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -1352,6 +1360,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/01/04/mwmj2M28TLnF6sF3HD4tRjhLwxuixQ7Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[KT x 메가박스] 9월 관람권 추첨 이벤트! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.13 ~ 2024.09.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/13/J1mbQ8pjhG3jsw0kkyLWdS9MLoQ68p1q.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[네이버페이 x 메가박스] 네이버페이로 결제하고 추석을 더 풍족하게! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
@@ -1406,6 +1422,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:50 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.01 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/02/Gd9p85ocMTXylM1LoedwAe2IqxaDsWdU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<대도시의 사랑법> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.01 ~ 2024.10.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/13/SfsEQeNP5O5zlMbautD170ZT9VLQuTO8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<베테랑2> 2주차 부산&대구 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
