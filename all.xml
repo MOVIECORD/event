@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Sep 2024 04:23:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Sep 2024 05:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,11 +24,11 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/10/LMUcUUCN9MhkE9jcVVlcvaRaEf1zga48.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[디즈니시네마] 애니메이션 COLLECTION 굿즈 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <title><![CDATA[[디즈니 시네마] 애니메이션 COLLECTION 굿즈 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.13 ~ 2024.12.31]]></content:encoded>
+            <content:encoded><![CDATA[2024.09.13 ~ 2024.11.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/13/HiDePIkNKblJiietCyI2UnCIlmuWCXxK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.13 ~ 2024.12.31]]></content:encoded>
+            <content:encoded><![CDATA[2024.09.13 ~ 2024.11.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/12/CMtWVuVGE3JX6WjiOCto8fPjHLM1rb6t.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -176,28 +176,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/29/JHhWFuCyHC7GLJ7TsvIdTkXs0srxtoHO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<룩백> 굿즈패키지 런칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.29 ~ 2024.09.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/29/IuI9AmI7VlWNgryd3f0sVGlTHwrRadm2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[메가박스앱 첫 구매고객 대상 1+1 쿠폰 이벤트! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.28 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/21/0ee2bxFRHJ0O1wpQ8wFHf7dOUrJr0kZ1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 오리지널 슬라이드 No.2 <애프터썬> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.28 ~ 2024.09.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/26/WOR0lPP1QdC7cA8COpy1cBnKSEQPEvXo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<룩백> 네컷만화 공모전 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -222,14 +206,6 @@
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.21 ~ 2024.10.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/19/3EkXQglq5NPdoFfjJ5MeIzMpKaxb8zXZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 오리지널 슬라이드 No.1 <본 아이덴티티> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.20 ~ 2024.09.20]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/21/wrZMhamYx2ETpCxc5c5XzE1KnSLkrJcU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 페이퍼 LP Label.04 <영웅: 라이브 인 시네마> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -286,6 +262,30 @@
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.29 ~ 2025.05.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/29/dTwF1QiN1Oq74UTXDLeiW4V50vs5Vcqm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<룩백> 굿즈패키지 런칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.29 ~ 2024.09.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/29/IuI9AmI7VlWNgryd3f0sVGlTHwrRadm2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 오리지널 슬라이드 No.2 <애프터썬> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.28 ~ 2024.09.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/26/WOR0lPP1QdC7cA8COpy1cBnKSEQPEvXo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 오리지널 슬라이드 No.1 <본 아이덴티티> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.20 ~ 2024.09.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/21/wrZMhamYx2ETpCxc5c5XzE1KnSLkrJcU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어린이/청소년 영화교육 프로그램 <너랑봄> 안내 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
