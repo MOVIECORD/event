@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Sep 2024 06:28:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Sep 2024 07:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.13 ~ 2024.10.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/13/n8lXpliP0tenHDS7JNj2pQggFSC5V2hq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<로봇 드림> 메가박스 마음센터 OPEN!]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.13 ~ 2024.10.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/13/AITNNVZpwz4tC6t4fU8ghJCPDqiVEkia.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[WEEKLY RAFFLE] <베테랑 2>보고 쇼핑가자!]]></title>

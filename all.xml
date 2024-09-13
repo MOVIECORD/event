@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Sep 2024 06:28:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Sep 2024 07:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.13 ~ 2024.10.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/13/n8lXpliP0tenHDS7JNj2pQggFSC5V2hq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<로봇 드림> 메가박스 마음센터 OPEN! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.13 ~ 2024.10.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/13/AITNNVZpwz4tC6t4fU8ghJCPDqiVEkia.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[WEEKLY RAFFLE] <베테랑 2>보고 쇼핑가자! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -1462,6 +1470,14 @@
             <pubDate>Wed, 11 Sep 2024 07:19:01 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.01 ~ 2024.10.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/13/SfsEQeNP5O5zlMbautD170ZT9VLQuTO8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<베테랑2> 3주차 대전 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.28 ~ 2024.09.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/13/0YWtXGNisCHX6rHtA94STlNBJleFw4ah.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<베테랑2> 2주차 부산&대구 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
