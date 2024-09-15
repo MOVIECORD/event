@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Sep 2024 14:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Sep 2024 15:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.21 ~ 2024.09.22]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/11/vfqGTuSy0SCEapVzKuOGIxrqPzDJFLVr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[디즈니 시네마] <라이온 킹> 미니 팝업 이벤트! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.15 ~ 2024.09.15]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/10/UiIHcrCpa0xCqNrPQN0kgdeSRQh57VFw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 드로잉 카드 No.21 <룩백> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -86,14 +78,6 @@
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.13 ~ 2024.10.01]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/13/xnOa4SfVHokavyf1Yl2Az4gLzhgB84iD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[프로모션] RIIZE COMBO 런칭🎉 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.13 ~ 2024.09.15]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/11/0idgGEddua2wV01RELNOsSCZVOAUvE8b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[굿즈] <메가박스X위글위글> 콜드컵 신규 런칭! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -512,14 +496,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/09/CNBylo5bdQkVAF0SfxE20wu3uqamaxB2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<룩백> 원작 도서 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.13 ~ 2024.09.15]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/04/SaDMMg6UCAXcP1CElvfQ0lrf0a92vfCU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<룩백> 2주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -622,14 +598,6 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.09 ~ 2024.09.17]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/06/2Key2kHsC9WQmbPc4Wc6gXq128h4iaNK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[룩백] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.09 ~ 2024.09.15]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/06/bvaggMCOawfyL7rDenZdyZ0nEjNpz9Df.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<애프터썬> 2주차 주말 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
