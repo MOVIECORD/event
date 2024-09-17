@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Sep 2024 14:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Sep 2024 15:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,14 +208,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/26/gldeKnCyOKSZSNWTvJSzrkX1XYTt1Cf6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[메가박스 드로잉 카드 No.19 <소년시절의 너> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.28 ~ 2024.09.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/29/bP3ELfE4b470fTdPnXDmO51LwW7gpd4y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[프로모션][굿즈] <메가박스X위글위글> 콜드컵 신규 런칭! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
@@ -406,6 +398,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.19 ~ 2024.10.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/11/RQB8FCCs347MX8OxaTI1Nw1lw6RgHWAo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[트랜스포머 ONE] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.19 ~ 2024.10.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/18/kwJ1Kl4mEgb9S7ngKlcrhjyS5g02BgBj.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<베테랑2> 음악 베테랑 장기하 음악감독 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -608,14 +608,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/09/xuy5XxlLB70IrYJgaMfuvBl7Uj9xzcHV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[그녀에게] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.09 ~ 2024.09.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/06/2Key2kHsC9WQmbPc4Wc6gXq128h4iaNK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<애프터썬> 2주차 주말 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -656,62 +648,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/30/NtkncthjRno6LTRknr5oVQYYOxoUiXEm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<비포 선셋> 4주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.04 ~ 2024.09.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/03/jmwEeoINx4nxsuhd4nW13OXpBHYCQuGl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<한국이 싫어서> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.04 ~ 2024.09.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/02/Ws8hXnKJ3mdOddxfeX2apbOnBjN7jxgp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<안녕, 할부지> 개봉 주중 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.04 ~ 2024.09.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/02/HTCpOh3afExc3fMiA1ai0PNQGZjqcXcV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<소년시절의 너> 2주차 주중 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.04 ~ 2024.09.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/02/1nQyx2U9aZgx0nvz4EUfdBcaH1hZqdaF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<비포 미드나잇> 개봉주 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.04 ~ 2024.09.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/02/VU1NcElTxP7VhAqYGqEGaGpEfuEHJjtz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<애프터썬> 2주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.04 ~ 2024.09.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/30/GH0ha6zrg4uVhR3knpDr4POns1q8qFfy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<사랑의 하츄핑> 5주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.04 ~ 2024.09.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/30/LSRbDcLlGVqxFyqwKuNpEE3Ikpj7gzJ0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<파일럿> 흥행 감사 특가 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -726,14 +662,6 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.28 ~ 2024.09.22]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/27/XRRACEum01HuHN1OdGvMmruGA4K8LVc3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<빅토리> 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.21 ~ 2024.09.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/20/iO6Exn4cNy6NXj9OfHAq2Fc6cNoC4q7o.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[CLASSIC SOCIETY] <2024 씨네클래식 라인업> (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1438,14 +1366,6 @@
             <pubDate>Wed, 11 Sep 2024 07:19:01 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.21 ~ 2024.09.22]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/30/BL8ziVhcGKnfx2C8OqW4JLzkKUHkSbcE.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<사랑의 하츄핑> 추석핑 앵콜 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.15 ~ 2024.09.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/03/X35jVheplkC1QGwAybbnl2ipCe66tBPk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<베테랑2> 개봉주&추석연휴 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
