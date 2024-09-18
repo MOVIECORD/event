@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Sep 2024 14:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Sep 2024 15:22:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,30 +30,6 @@
             <pubDate>Wed, 11 Sep 2024 07:19:01 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.21 ~ 2024.09.22]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/30/BL8ziVhcGKnfx2C8OqW4JLzkKUHkSbcE.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<베테랑2> 개봉주&추석연휴 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.13 ~ 2024.09.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/23/LzZ5Q2XTZ3HESTiefZnclzgraQYoPVxD.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<와일드 로봇> 메가박스 회원시사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.06 ~ 2024.09.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/06/VSPMMfRPql8S9Da41EItTRjuQQmJIIQt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<대도시의 사랑법> 메가박스 회원시사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.05 ~ 2024.09.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/05/gUtyywxt3uzRH20Bhit6plHObDiTmEAo.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
