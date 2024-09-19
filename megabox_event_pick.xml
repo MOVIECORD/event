@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Sep 2024 04:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Sep 2024 05:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.21 ~ 2024.09.22]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/11/vfqGTuSy0SCEapVzKuOGIxrqPzDJFLVr.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[굿즈] We Love you! LUTZ!! 굿즈 런칭]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.20 ~ 2024.09.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/19/ijpQxb1pPpaOmkSLkJt4BSEs2RSMYgZY.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<로봇 드림> N차는 반려 친구와 함께!]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.19 ~ 2024.10.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/19/xPb913odbukrkbxqDy6PL0W6RMzw3jIT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 드로잉 카드 No.21 <룩백>]]></title>
@@ -69,7 +85,7 @@
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.13 ~ 2024.10.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/13/AITNNVZpwz4tC6t4fU8ghJCPDqiVEkia.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/19/6o1jFP2kytvfcdmxz3c6bIeYkjhtYSio.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[WEEKLY RAFFLE] <베테랑 2>보고 쇼핑가자!]]></title>
