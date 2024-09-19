@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Sep 2024 01:25:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Sep 2024 02:49:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -632,6 +632,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/19/tMwoGy0Kr29v7YsAPjvDVmnpfZJZ6X7I.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[하남스타필드] 더 부티크 재즈 나잇 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.28 ~ 2024.09.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/19/rFlxrdu6l3IUPEJNGVT1qMaz7Ufe5AXk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[킨텍스] 제16회 DMZ 국제다큐멘터리 영화제 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -646,6 +654,38 @@
             <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.23 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/11/zEYmVBWtAbtQJFofrDn4euJXJ9hrVlUW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[남양주현대아울렛] 단 3일! 남돌비 패키지 한정판매! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.20 ~ 2024.09.22]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/19/Kmjjs9F1HbrZnBFMnTBK3aKSt4Ds8bMO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[하남스타필드] 미들 크루 모집 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.19 ~ 2025.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/19/fJRXyfhZjZNI7CynOFegtTdy5Mcm5wrz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[수원AK플라자] 문화의 날 예매하고 팝콘할인! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.19 ~ 2024.11.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/19/MVMUGXLCjNXOF7AqOxlLQJxLO4ljORZ9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대전유성] 딱 맞춘 콤보 할인! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.12 ~ 2024.10.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/19/fIIqMywxVStJaeARVim6CxoosjbwIzVe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[상봉]영화 4천원 할인권 2매!! (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -664,12 +704,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/04/hSxdGkj7sKfDmrBtX5FZa7t5Nm0KwSWN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[창원내서] 인스타그램 오픈 이벤트! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.03 ~ 2024.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/19/FOS4rflMf1dI3v0hWIt4W3VP72zH2Kn2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[세종(조치원)] 조조시간, 확대시행! (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.01 ~ 2026.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/29/rpsQ5x2C9TdzNyHuMEewatdxYfukt9lh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[광명AK플라자] 문화의 날 예매하고 팝콘 쿠폰받자! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.01 ~ 2024.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/19/92TwStIPS2UTaVK1voOvDGEIsoMCrVEX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대전유성] 프로모션 콤보 구매하고 코카콜라 굿즈받자! (메가박스 ─ 이벤트 ─ 극장)]]></title>
