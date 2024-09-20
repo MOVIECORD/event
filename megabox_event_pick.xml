@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Sep 2024 14:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 15:21:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,14 +248,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/19/3EkXQglq5NPdoFfjJ5MeIzMpKaxb8zXZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[메가박스 페이퍼 LP Label.04 <영웅: 라이브 인 시네마>]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.19 ~ 2024.09.20]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/19/NQugokTPdKXWBZReSDad2HDiVDKbM9o9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<메가박스 X 쿠키런: 모험의 탑> 콤보 런칭!]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
@@ -310,14 +302,6 @@
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.28 ~ 2024.09.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/26/WOR0lPP1QdC7cA8COpy1cBnKSEQPEvXo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 오리지널 슬라이드 No.1 <본 아이덴티티>]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.20 ~ 2024.09.20]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/21/wrZMhamYx2ETpCxc5c5XzE1KnSLkrJcU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어린이/청소년 영화교육 프로그램 <너랑봄> 안내]]></title>
