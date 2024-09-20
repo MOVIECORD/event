@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Sep 2024 23:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 01:26:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -358,6 +358,22 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.06 ~ 2024.10.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/04/0maWGer6iSDiIfCVRnlAnbyVslCybZcZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트랜스포머 ONE l DOLBY 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.25 ~ 2024.10.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/20/FQ813Tr84isZ9LR6SnKdjxFWQpLKcfpK.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[트랜스포머 ONE l MEGA MX4D 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.25 ~ 2024.10.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/20/xzy5e8UnOXTWVhcFKARwAbiDDYA104JM.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<마녀들의 카니발> 개봉 기념 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
