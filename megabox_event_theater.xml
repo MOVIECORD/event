@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Sep 2024 14:17:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Sep 2024 15:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.23 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/11/zEYmVBWtAbtQJFofrDn4euJXJ9hrVlUW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[남양주현대아울렛] 단 3일! 남돌비 패키지 한정판매!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.20 ~ 2024.09.22]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/19/Kmjjs9F1HbrZnBFMnTBK3aKSt4Ds8bMO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[하남스타필드] 미들 크루 모집]]></title>
@@ -262,14 +254,6 @@
             <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.29 ~ 2024.11.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/09/kUymfMg3T3b8JReEqdS07TQc9e38nUJV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김포한강신도시] FAST! SALE!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.29 ~ 2024.09.22]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/05/9uWKF6JPLEqMTGh5S5jDCmYSCNrqQxOf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[광명AK플라자] 신규 가입하고 쿠폰 받자!]]></title>

@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Sep 2024 14:17:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Sep 2024 15:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.24 ~ 2024.10.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/17/F14BP4xBKIQXB7X9rtaSQ9LkW5Qsxju6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 아트그라피 <원스>]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.21 ~ 2024.09.22]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/11/vfqGTuSy0SCEapVzKuOGIxrqPzDJFLVr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[굿즈] We Love you! LUTZ!! 굿즈 런칭]]></title>
@@ -160,14 +152,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/05/HD3k7UsDkBcfBUGmIlxY6vokZQeTtkds.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[메가박스 추석 관람권 패키지 특가 출시]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.09 ~ 2024.09.22]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/09/F3mNrWWRRJy0hx5gINZl7xPjYA8XRqdZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<룩백> N차 과몰입 챌린지]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
@@ -216,28 +200,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/02/4smnrb4qwDWcWnIxciiilG3OTU2oTBk0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<룩백> 엽서세트콤보 런칭!]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.31 ~ 2024.09.22]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/29/JHhWFuCyHC7GLJ7TsvIdTkXs0srxtoHO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[메가박스앱 첫 구매고객 대상 1+1 쿠폰 이벤트!]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.28 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/21/0ee2bxFRHJ0O1wpQ8wFHf7dOUrJr0kZ1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<룩백> 네컷만화 공모전]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.28 ~ 2024.09.22]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/26/gldeKnCyOKSZSNWTvJSzrkX1XYTt1Cf6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[프로모션][굿즈] <메가박스X위글위글> 콜드컵 신규 런칭!]]></title>
