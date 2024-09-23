@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Sep 2024 05:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 06:30:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -358,6 +358,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.25 ~ 2024.09.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/13/9TnoDiU9PmUmTcwtkztB0Garhr1vI6m8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[호비와 마법의 카네이션] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.24 ~ 2024.10.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/23/Vl9FoqSRrAAqyoSsxJYuCWfQUMhAyIEL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[마이 샤이니 월드] HBD KEY! 콘솔 응원 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
