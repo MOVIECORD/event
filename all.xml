@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Sep 2024 23:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 01:27:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,7 +328,7 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/20/EFVJt4dYtf4QlBPygrZFTxcGMddbWNBY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[트랜스포머 ONE l DOLBY 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <title><![CDATA[<트랜스포머 ONE> DOLBY 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
@@ -336,7 +336,7 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/20/FQ813Tr84isZ9LR6SnKdjxFWQpLKcfpK.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[트랜스포머 ONE l MEGA MX4D 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <title><![CDATA[<트랜스포머 ONE> MEGA MX4D 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
@@ -622,14 +622,6 @@
             <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.23 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/11/zEYmVBWtAbtQJFofrDn4euJXJ9hrVlUW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[하남스타필드] 미들 크루 모집 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.19 ~ 2025.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/19/fJRXyfhZjZNI7CynOFegtTdy5Mcm5wrz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[수원AK플라자] 문화의 날 예매하고 팝콘할인! (메가박스 ─ 이벤트 ─ 극장)]]></title>
