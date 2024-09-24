@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Sep 2024 06:30:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Sep 2024 07:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -390,6 +390,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.26 ~ 2024.10.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/20/6LgDU44xdq1kCc5QMnyoTNM6y8NApjgL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<비긴 어게인> 10주년 기념 특가 관람 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.25 ~ 2024.10.29]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/24/bUKLXCi5Y4FWRaxhmcQa8w0tP4MKqCXu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<트랜스포머 ONE> DOLBY 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
