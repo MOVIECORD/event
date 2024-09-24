@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Sep 2024 14:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Sep 2024 15:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,22 +168,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/10/swldozhF0pQeeTsIPRpUnSGUdoU5sQZu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[디즈니 시네마] 애니메이션 컬렉션 프리퀀시]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.11 ~ 2024.09.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/05/Yfvtj9xnSqkYEskueS6afzCARIz4bLlP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[디즈니 시네마] 애니메이션 COLLECTION]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.11 ~ 2024.09.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/05/HD3k7UsDkBcfBUGmIlxY6vokZQeTtkds.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<룩백> N차 과몰입 챌린지]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
@@ -206,14 +190,6 @@
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.04 ~ 2024.10.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/04/O8ox5U60jWjVgQRI8EPFZRxlIIXms358.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 드로잉 카드 No.20 <비포 미드나잇>]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.04 ~ 2024.09.24]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/29/96UzqHip2aCRZRlwoY9mDTSXM4DxDpTn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 No.121 <룩백>]]></title>
