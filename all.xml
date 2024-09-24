@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Sep 2024 23:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Sep 2024 01:27:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -382,6 +382,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.25 ~ 2024.10.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/23/iSWVBuh4hgM4JypTJtXaEyMWIQIEAIjw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<베테랑2> 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.25 ~ 2024.10.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/23/9pFBOcKmQCbZBuGbFyNmD8OQlqVeJaIM.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<마녀들의 카니발> 개봉 기념 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
