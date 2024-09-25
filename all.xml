@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Sep 2024 06:29:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Sep 2024 07:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -374,6 +374,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.27 ~ 2024.10.10]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/13/1ehYRCjnF3Q7qYmWtQCngTgejpyE2zzd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<킹 오브 프리즘 -드라마틱 프리즘.1-> 7주차 특전 이벤트 진행 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.27 ~ 2024.10.03]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/25/7omY4Vmy3zr4IPw1XQfdgCipZRVruHcn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<베테랑 2> 수갑 체포 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
