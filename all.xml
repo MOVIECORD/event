@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Sep 2024 07:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Sep 2024 08:29:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -374,6 +374,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.06 ~ 2024.10.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/04/0maWGer6iSDiIfCVRnlAnbyVslCybZcZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<비긴 어게인> 10주년 기념 스페셜 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.05 ~ 2024.10.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/30/XxlTTq2CYyTlMABVfyGRDZAdvnqm2mti.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<룩백> 사계절 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
