@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Sep 2024 08:29:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Sep 2024 09:24:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메가박스 오리지널 티켓 No.123 <조커: 폴리 아 되>]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.04 ~ 2024.10.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/30/ozebQGEhSrMMHufPsj7rkb1xXLH0TFq8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[프로모션][굿즈] 10월 <명탐정 코난 : 시한장치의 마천루> 콤보 런칭]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
