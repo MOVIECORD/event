@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Sep 2024 11:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Sep 2024 12:41:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.07 ~ 2024.10.07]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/26/RmnW8BammmTH2m1ZYheScPKnf0guho3W.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[라이브뷰잉] PLAVE FAN CONCERT [Hello, Asterum!] ENCORE: LIVE VIEWING 응원봉 제어 안내]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.06 ~ 2024.10.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/30/X7Z4MI8Gqqb8RXULBcdGvd0f32senzF4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[라이브뷰잉] PLAVE FAN CONCERT [Hello, Asterum!] ENCORE: LIVE VIEWING 2차 예매 오픈]]></title>
