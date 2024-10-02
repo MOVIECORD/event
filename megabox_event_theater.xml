@@ -4,9 +4,25 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Oct 2024 01:27:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 02:52:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[천안] 전용 관람권 패키지 특가 판매!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.02 ~ 2024.10.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/02/wxL8twgQyjRK8fnutSALxPkrml59ZdsI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[제주삼화] 오픈 1주년 기념 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.02 ~ 2024.10.22]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/02/NejM7PeEbvuQNODyyXQso2CbWyV58v95.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해운대장산] 심야영화 관람 EVENT]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
@@ -22,6 +38,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.26 ~ 2024.10.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/04/Lm4YJvyNFqCdwDW7aGTWzPu0JSmSCR7V.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대전중앙로] 꽝 없는 행운 뽑기]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.23 ~ 2024.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/02/1emI0mDwSTTrevgqfAX4150dqLkZB0vz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[제주서귀포] 1주년 고객 감사 이벤트]]></title>
