@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Oct 2024 04:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 05:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[디즈니 시네마] 나의 첫 히어로 <아이언맨 1~3> 재개봉 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.09 ~ 2024.10.22]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/02/d5Ck2ByXfcKBFmvmEPhBI0ZC81ANRKhp.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 No.123 <조커: 폴리 아 되> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
@@ -278,6 +286,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.26 ~ 2024.10.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/27/8HpoQIfZGUiV71LbSqCNRYncnWfxJonq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[디즈니 시네마] 아이언맨 기획전 프리퀀시 이벤트! (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.09 ~ 2024.10.22]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/02/x1LjpVjyYNe73bB3vDhg8IVfjwGfqi5K.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<룩백> 문하생 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
