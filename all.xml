@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Oct 2024 04:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 05:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -358,6 +358,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.05 ~ 2024.10.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/30/dkqa8WRRZL7zweOKHEHC4CAj6eaz3GyH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<킹 오브 프리즘 -드라마틱 프리즘.1-> 프리즘 쇼 의상 공모전 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.05 ~ 2024.10.15]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/03/bcSOME8wS1CU7QV0mbZu8UP42Ygu69Ih.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<호비와 마법의 카네이션> 댄스 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
