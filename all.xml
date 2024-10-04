@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Oct 2024 05:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 06:30:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -262,6 +262,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.13 ~ 2024.10.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/02/tms1CZiL3des7oSMaW9ktNGD1WdWl6F0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<대도시의 사랑법> 3차 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.13 ~ 2024.10.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/02/JB4vQi3LUuT2rJIKzqoAwfmyJeERseq8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대도시의 사랑법ㅣ스페셜 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -888,7 +896,7 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/24/ZhJiLRWgQpiipp3tndAQ99W3XslPnUg5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[코엑스] 더 부티크 프라이빗 관람권 SUMMER 메가 특가 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <title><![CDATA[[코엑스] 더 부티크 프라이빗 관람권 특가 한정판매 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
