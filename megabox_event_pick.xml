@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Oct 2024 14:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Oct 2024 15:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,14 +94,6 @@
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.24 ~ 2024.10.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/23/RRR1cXIOsOT88ZFA0RgufBkgGfoBWyS7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘리자벳: 더 뮤지컬 라이브] 뮤지컬 실황 매력 쳌!]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.24 ~ 2024.10.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/24/GAcwin5r7fhQ5SXMOSOdei32wFgfJmPd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<로봇 드림> N차는 반려 친구와 함께!]]></title>
