@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Oct 2024 05:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Oct 2024 06:29:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.13 ~ 2024.10.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/02/JB4vQi3LUuT2rJIKzqoAwfmyJeERseq8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<악이 도사리고 있을 때> 개봉 특가 8천원 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.09 ~ 2024.10.29]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/07/wmsYfrTap0r1bF3bUYTcDtIiXklmVNvs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대도시의 사랑법ㅣ스페셜 포스터 증정 이벤트]]></title>
@@ -86,6 +94,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.09 ~ 2024.10.22]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/02/x1LjpVjyYNe73bB3vDhg8IVfjwGfqi5K.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<킹 오브 프리즘> 3편 연속 패키지 앵콜 상영회 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.09 ~ 2024.10.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/07/4VC3CZQRzYUJHkY221SOm9lgPl40CYwm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<룩백> 문하생 상영회]]></title>
