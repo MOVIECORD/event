@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Oct 2024 07:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Oct 2024 08:26:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,12 +128,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/06/7ZgCQjIRIEUwIlhAwMwHB9rOvt6D3iMx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<악이 도사리도 있을 때> 개봉 기념 전야제 특별상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.08 ~ 2024.10.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/07/SGW0TKuSZF13ZPkCWG1hPskq30Vhu5HJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<대도시의 사랑법> 2차 메가토크]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.08 ~ 2024.10.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/02/iXW4ptEfv23OZCIcm1R0fYxS9QOlSb2h.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트나인과 함께 하는 <해야 할 일> GV]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.07 ~ 2024.10.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/07/N6Ij3eFOD1Kz16l16fU1M7PKSqE0MQAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<해야 할 일> 메가토크]]></title>
