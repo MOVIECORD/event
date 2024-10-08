@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Oct 2024 11:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Oct 2024 12:37:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.09 ~ 2024.10.22]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/02/VMVK5DLfYOK7ud5syVEzgyDrUpJ0RAWm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[언제 어디서든 바삭하게!! 메가박스 바삭팝콘 런칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.08 ~ 2024.10.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/08/prSMymCbdShBwlM9qzYaA4oO4GCzvNHb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[프로모션][굿즈] <조커 손거울 & OST CD> 론칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
