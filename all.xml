@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Oct 2024 14:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Oct 2024 15:22:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,14 +136,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/23/RRR1cXIOsOT88ZFA0RgufBkgGfoBWyS7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<로봇 드림> N차는 반려 친구와 함께! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.19 ~ 2024.10.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/19/xPb913odbukrkbxqDy6PL0W6RMzw3jIT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[디즈니 애니메이션 굿즈 할인 기획전 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
@@ -174,14 +166,6 @@
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.13 ~ 2024.10.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/13/QKMndcthprbA2PPLupBdZFoTis6sRxGr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<로봇 드림> 메가박스 마음센터 OPEN! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.13 ~ 2024.10.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/19/6o1jFP2kytvfcdmxz3c6bIeYkjhtYSio.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[굿즈] <메가박스X위글위글> 콜드컵 신규 런칭! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -456,22 +440,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/07/4VC3CZQRzYUJHkY221SOm9lgPl40CYwm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<룩백> 문하생 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.09 ~ 2024.10.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/02/fnsBF1NWPUyZVL1wxYb4oCbRFIWdsmH6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<보통의 가족> 이동진 평론가 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.09 ~ 2024.10.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/30/6pVvr7bCGg8VILXuWNeHPn34pdcPGSwf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[보통의 가족] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -598,22 +566,6 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.27 ~ 2024.10.10]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/13/1ehYRCjnF3Q7qYmWtQCngTgejpyE2zzd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<베테랑2> 흥행감사 할인 이벤트!! 영화 8천원 관람 췍!! (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.27 ~ 2024.10.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/27/aOoIJUbHFeIR8NS8hTLQbDxh9zC001HI.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<룩백> 4주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.26 ~ 2024.10.09]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/20/6LgDU44xdq1kCc5QMnyoTNM6y8NApjgL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<비긴 어게인> 10주년 기념 특가 관람 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
