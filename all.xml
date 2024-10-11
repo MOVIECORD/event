@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Oct 2024 01:27:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Oct 2024 02:52:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.12 ~ 2024.10.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/07/J2NHYdiL3BzO6HSqg8pYc3RzDU6Psdzv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10월에 다시 돌아온 메가데이! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.11 ~ 2024.10.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/11/nO5ONETIIGS7aNxu6gQZ8KLsj1u1lZJH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 Re.28 <아이언맨> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -320,6 +328,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/10/h1Ho4lMXWNoHmJjIoLXxJ8IKdkpS3Jfv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<베테랑2> 700만 기념 흥행감사 앵콜 이벤트!! 영화 8천원 관람 췍 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.11 ~ 2024.10.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/11/HDg1GZtLrcx01mWn0KqNTNexwueLnxrW.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[<킹 오브 프리즘 -드라마틱 프리즘.1-> 9주차 특전 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -616,6 +632,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/19/tMwoGy0Kr29v7YsAPjvDVmnpfZJZ6X7I.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[하남스타필드] 더 부티크 재즈 나잇 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.26 ~ 2024.10.26]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/11/BLptvyO4c86vrZ8gtpLaQr5ATnpPEvTR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[안성스타필드] 오픈4주년 MOVIE PARTY! (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -640,12 +664,60 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/02/NejM7PeEbvuQNODyyXQso2CbWyV58v95.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[사상] 애니메이션 영화랑 매점 콜라보! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.01 ~ 2024.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/11/hAhe3GRXdb738C5TTu5p9BMYS7Z2RkmF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[하남스타필드] 모바일 오더 주문 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.01 ~ 2024.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/11/S4e3ktwGqRlDXXhWVtgjsEItoVnJNov4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[삼천포] 딱! 한달만 관람권 초특가 할인! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.01 ~ 2024.10.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/11/9d3GS6anYSlISEbsPWD3QX91UBjneMc0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[광명AK플라자] 3+1 특가 한정 판매! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.01 ~ 2024.10.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/11/hZAOYXpHjFXCaSGogcqBDckJgu9MJA9M.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대전] 월요병 치유 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.30 ~ 2024.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/11/nzVFm3oAq0d7BtZrRIdukuVy6bEkIjRY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[해운대장산] 심야영화 관람 EVENT (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.27 ~ 2025.03.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/27/WbRxMeyCoQsYJUlUZK092HQnHdZIMf0W.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대구세븐밸리] 힘내라! 대구! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.27 ~ 2024.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/11/fVXP2iTu4iEF8hCqCeOqQWXa3q3rc75m.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대전중앙로] 꽝 없는 행운 뽑기 (메가박스 ─ 이벤트 ─ 극장)]]></title>
