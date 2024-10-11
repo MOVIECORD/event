@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Oct 2024 07:21:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Oct 2024 08:26:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메가박스 앵콜 아트그라피 <룩백> 2차 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.19 ~ 2024.10.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/11/IsZcrQPYkcFTaVd224Js3AiGPrlcTKD0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메가박스 드로잉 카드 No.23 <보통의 가족> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
@@ -334,6 +342,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.12 ~ 2024.10.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/08/ozoAaILChifEMThcEEmBSQj6Lzt6XkPl.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대도시의 사랑법ㅣ옷장털이! N차 관람 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.11 ~ 2024.10.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/11/xkn1zqrouago8TZDcjkHuQUzAiIXrxWU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[더러운 돈에 손대지 마라] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
