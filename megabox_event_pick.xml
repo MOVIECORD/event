@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Oct 2024 14:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Oct 2024 15:21:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.16 ~ 2024.11.05]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/08/YIkcUg7uuRirKmyD3GMMgtNd3txDLajG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 아트그라피 <룩백> 2차]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.12 ~ 2024.10.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/11/mSp5qvNjK6ttrzkzAzehoUFvmrF0l0gG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[10월에 다시 돌아온 메가데이!]]></title>
@@ -128,14 +120,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/27/lMJNUEPuSlNAp21ZeQGD91vuPuJwd9vE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[흥행 베테랑! <베테랑2> 메가드로우]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.27 ~ 2024.10.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/27/hwYwd3EMg2wVNLFD88g4wmiaYZ0ne8iy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[가을시즌! <고구마라떼/마롱라떼> 런칭]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
@@ -174,14 +158,6 @@
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.13 ~ 2024.11.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/12/CMtWVuVGE3JX6WjiOCto8fPjHLM1rb6t.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 오리지널 피규어 No.3 <원스>]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.13 ~ 2024.10.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/13/n8lXpliP0tenHDS7JNj2pQggFSC5V2hq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[굿즈] <메가박스X위글위글> 콜드컵 신규 런칭!]]></title>

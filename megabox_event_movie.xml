@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Oct 2024 14:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Oct 2024 15:21:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,38 +38,6 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.14 ~ 2024.10.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/11/WeGdZXK1JbHEuX9e1DUGyGBrYmbdqXBr.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<룩백> 오시야마 키요타카 감독 내한 메가토크]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.13 ~ 2024.10.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/07/j4MLzqYzAJ8Llre1Yq4UojUybHDQUc5I.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<위국일기> 굿즈패키지 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.13 ~ 2024.10.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/07/hXoGHrr57l6SDn1GDsAwK5gJoL10Rynd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대도시의 사랑법ㅣ리얼 라이프 상영회 (feat. 경품가득)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.13 ~ 2024.10.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/02/tms1CZiL3des7oSMaW9ktNGD1WdWl6F0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<대도시의 사랑법> 3차 메가토크]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.13 ~ 2024.10.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/02/JB4vQi3LUuT2rJIKzqoAwfmyJeERseq8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<호비와 마법의 카네이션> 3주차 주말 현장증정 이벤트]]></title>
@@ -320,14 +288,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/24/kybcQtIhQyi4xnsQHgmiazKqZwhKXIMd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<트랜스포머 ONE> 스페셜 할인쿠폰 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.30 ~ 2024.10.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/30/FW8tlKiDBPENuuhnYOOTOwIH6QcqzceW.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[<비긴 어게인> 10주년 기념 특가 관람 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -350,14 +310,6 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.25 ~ 2024.10.15]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/24/YAZVfjTaz38ILSkk69G0OksynZd2b29u.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<트랜스포머 ONE> MEGA MX4D 포스터 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.25 ~ 2024.10.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/20/xzy5e8UnOXTWVhcFKARwAbiDDYA104JM.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<룩백> 데코팩 엽서 세트 증정]]></title>
