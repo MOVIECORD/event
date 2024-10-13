@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Oct 2024 22:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Oct 2024 23:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -310,6 +310,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.11 ~ 2024.10.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/10/h1Ho4lMXWNoHmJjIoLXxJ8IKdkpS3Jfv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트나인과 함께 하는 <우리는 천국에 갈 순 없지만 사랑은 할 수 있겠지> GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.11 ~ 2024.10.22]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/14/n57eC6tp5P7UaeFs7HqGV4ifKNrXj2KE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<베테랑2> 700만 기념 흥행감사 앵콜 이벤트!! 영화 8천원 관람 췍 (메가박스 ─ 이벤트 ─ 영화)]]></title>
