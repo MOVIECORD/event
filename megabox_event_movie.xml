@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Oct 2024 04:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Oct 2024 05:22:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.16 ~ 2024.10.16]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/11/LmOkYVCTNyxtttBelbF3V5QGRFH8dGds.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트나인과 함께 하는 <위국일기> GV]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.15 ~ 2024.10.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/15/vub0iFDtkLvBOdb804UhQjhJ9FDw008Z.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[베테랑2] 선착순 빵원티켓 ➕]]></title>
