@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Oct 2024 01:29:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Oct 2024 02:55:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,12 +24,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/11/KxM1ivKCsU7keSxSnZ8MBqlSrQxwMNIA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<베놈: 라스트 댄스> 돌비 포스터 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.23 ~ 2024.11.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/16/sFT6x0tGI1Wj3Y4N8yGqW60Gns1nBdce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<룸 넥스트 도어> 이동진 평론가 메가토크]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.22 ~ 2024.10.22]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/11/YpFhYB5FJhLae6TU8xGhZnFPxEjdRQUI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<와일드 로봇> 3주차 주말 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.19 ~ 2024.11.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/16/GGZMpqfvSmio5IobvnqbK1oyxv38Z27v.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<블루 자이언트> 리바이벌 재개봉 GV]]></title>
