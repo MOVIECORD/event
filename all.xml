@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Oct 2024 09:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Oct 2024 10:24:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -726,14 +726,6 @@
             <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.17 ~ 2024.10.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/11/8wnqc20mjs9RXyj9pd9ElL373wAFwmmX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대구프리미엄만경관] 지점 전용 관람권 패키지! (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.16 ~ 2024.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/16/meK7PMRsjfDrB277ZIrqUTJBunqVUbVb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[신촌] 혼영 패키지 출시! (메가박스 ─ 이벤트 ─ 극장)]]></title>
