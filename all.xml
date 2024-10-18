@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Oct 2024 10:23:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Oct 2024 11:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -254,6 +254,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.01 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/08/DUc8n2wnrwZ6NuljQgXWp6woGSL6W8UW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<오후 네시> 주말 오후 네시 티타임 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.02 ~ 2024.11.02]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/18/gEqyKhRkv7QYkspw4yofrDVoEPJODOCA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[라이브뷰잉] 사쿠라 미코 1st Live  “flower fantasista” (메가박스 ─ 이벤트 ─ 영화)]]></title>
