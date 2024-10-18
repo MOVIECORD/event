@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Oct 2024 05:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Oct 2024 06:29:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,6 +288,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/16/sFT6x0tGI1Wj3Y4N8yGqW60Gns1nBdce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[대도시의 사랑법ㅣ찐친 탐구생활: 포토카드+피크닉 증정! (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.23 ~ 2024.11.03]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/18/mfk5fWfTrBSe2lr50oBz8kUTOBqmXTIE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<결혼,하겠나?> 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -302,6 +310,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.22 ~ 2024.10.22]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/11/YpFhYB5FJhLae6TU8xGhZnFPxEjdRQUI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[보통의 가족] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.21 ~ 2024.10.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/18/uyMu5bLPi5sswrJbi87tRNcKpbSj6wMt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대도시의 사랑법] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
