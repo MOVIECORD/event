@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Oct 2024 14:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Oct 2024 15:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -366,22 +366,6 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.19 ~ 2024.11.01]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/16/GGZMpqfvSmio5IobvnqbK1oyxv38Z27v.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<블루 자이언트> 리바이벌 재개봉 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.19 ~ 2024.10.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/14/Y174NiPiODsHYGK7ObzlVXtZgQsfQrQS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<룸 넥스트 도어> 천선란 작가 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.19 ~ 2024.10.19]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/11/mUNzDDjnHDD5RNoTMCsVnlO9Tc8pM22H.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[베놈: 라스트 댄스] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
