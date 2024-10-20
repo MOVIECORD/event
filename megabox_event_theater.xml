@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Oct 2024 14:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Oct 2024 15:21:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.26 ~ 2024.10.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/11/BLptvyO4c86vrZ8gtpLaQr5ATnpPEvTR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[홍대] 제7회 서울동물영화제]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.17 ~ 2024.10.20]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/11/8wnqc20mjs9RXyj9pd9ElL373wAFwmmX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[신촌] 혼영 패키지 출시!]]></title>
