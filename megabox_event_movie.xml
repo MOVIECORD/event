@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Oct 2024 09:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Oct 2024 10:25:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.23 ~ 2024.11.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/18/mfk5fWfTrBSe2lr50oBz8kUTOBqmXTIE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<대도시의 사랑법> 스페셜 할인쿠폰 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.23 ~ 2024.10.29]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/21/dkxMRzyG28O5eVAQsKDHX6fIelHggK1b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<결혼,하겠나?> 2차 메가토크]]></title>
