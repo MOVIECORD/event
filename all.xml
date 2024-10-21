@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Oct 2024 08:27:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Oct 2024 09:24:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.27 ~ 2024.10.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/18/UpHOeB4ZesHut17daR75id0DQZFn9A9r.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 오리지널 티켓 No.124 <베놈: 라스트 댄스> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.23 ~ 2024.11.26]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/21/ab5NvP1ErhnFChWghe7MivafW3yzyrS1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 페이퍼 LP Label.05 <블루 자이언트> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
