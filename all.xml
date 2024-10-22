@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Oct 2024 02:53:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Oct 2024 03:27:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,6 +286,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.26 ~ 2024.11.15]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/22/16NZhA5YgDdRyAq67vZKGVZoXhy7EHfT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<대도시의 사랑법> 명대사 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.26 ~ 2024.10.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/22/PiB9fhpFQCQXssYRTKtymuTM1st2qiYl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<대도시의 사랑법> 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
