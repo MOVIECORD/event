@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Oct 2024 14:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Oct 2024 15:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -424,22 +424,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/21/dkxMRzyG28O5eVAQsKDHX6fIelHggK1b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<결혼,하겠나?> 2차 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.23 ~ 2024.10.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/18/yiMScyV69e8liZ7uVffbnALOctA2CDdb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<결혼,하겠나?> 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.23 ~ 2024.10.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/15/RMwxo9MBxGd7R0uLk6zCQxCgMJp9qLgj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[보통의 가족] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -600,28 +584,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/11/xkn1zqrouago8TZDcjkHuQUzAiIXrxWU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[더러운 돈에 손대지 마라] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.11 ~ 2024.10.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/10/h1Ho4lMXWNoHmJjIoLXxJ8IKdkpS3Jfv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[엘리자벳: 더 뮤지컬 라이브] 관극 VS 실황 관람 투표 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.10 ~ 2024.11.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/10/4XIYXQoIaE04kQEtKMgNzO9fDcwTOo1O.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<룩백> 6주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.10 ~ 2024.10.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/07/Yrs1OhVkrZseVfTKpxylvq72qrXfio4Z.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<악이 도사리고 있을 때> 개봉 특가 8천원 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
