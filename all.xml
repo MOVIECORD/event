@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Oct 2024 05:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Oct 2024 06:30:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,6 +286,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.30 ~ 2024.11.07]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/21/915WbTqnd2RJPJ68byqIFK5aSQCklZFB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<룸 넥스트 도어> 김혜리 씨네21 편집위원 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.30 ~ 2024.10.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/23/crRjUqP1bXRuGVVO6iweeNfCmQXzsk0l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<블루 자이언트> 재개봉 2주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
