@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Oct 2024 08:27:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Oct 2024 09:22:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/24/pUPUvNA95EZX4wOIBW5pohKCVtSDl8pb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<룩백> 흥행 기념 Dolby Cinema & Dolby Atmos 특가 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.31 ~ 2024.11.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/25/6DnLRjBo6psPjUgEGJ4N2bqNZzfDpGZ2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<극장판 하이큐!! 쓰레기장의 결전> 확대 상영 1주차 현장증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -38,6 +46,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.30 ~ 2024.10.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/23/crRjUqP1bXRuGVVO6iweeNfCmQXzsk0l.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[극장판 고래와 나] 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.28 ~ 2024.11.05]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/25/B2BxPaQlVtViEecn9BaWTnmC0opG23yP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[베놈: 라스트 댄스] 선착순 빵원티켓]]></title>
