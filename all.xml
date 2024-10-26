@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Oct 2024 14:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Oct 2024 15:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -360,22 +360,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/22/PiB9fhpFQCQXssYRTKtymuTM1st2qiYl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<대도시의 사랑법> 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.26 ~ 2024.10.26]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/21/gHGIW2I5h9ghpECrZUK4LDs2pJeRja36.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[라이브뷰잉] 사쿠라 미코 1st Live  “flower fantasista” (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.26 ~ 2024.10.26]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/27/8HpoQIfZGUiV71LbSqCNRYncnWfxJonq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[청설] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -718,14 +702,6 @@
             <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.01 ~ 2024.11.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/17/waiYDQNGh54LOhca8d1dOH0EwGagzSJQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[하남스타필드] 더 부티크 재즈 나잇 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.26 ~ 2024.10.26]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/11/BLptvyO4c86vrZ8gtpLaQr5ATnpPEvTR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[마산] 지점 전용 관람권 패키지! (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -1494,22 +1470,6 @@
             <pubDate>Wed, 11 Sep 2024 07:19:01 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.26 ~ 2024.10.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/22/1Qvr9j2y0t2AiXIirtIXcxDtBNTuI9D4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<대도시의 사랑법> 4주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.26 ~ 2024.10.26]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/22/gcVJGisjckLyCpWL7D0dol1Z7M0jbs6A.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<엘리자벳: 더 뮤지컬 라이브> 2주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.26 ~ 2024.10.26]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/21/dU2MGGMDTiEYyQVuYXDzO4QoVczczWAT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<위대한 부재> 메가박스 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
