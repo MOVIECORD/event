@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Oct 2024 14:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Oct 2024 15:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,36 +16,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/17/gWCnxYnKD0Y09KrNhjUIJq2P2ufVcBv4.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[<베테랑2> 흥행 감사! 라스트 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.27 ~ 2024.10.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/17/ZI5AgBnuo4VItxW1FAURPEx091v8DVpe.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<보통의 가족> 2주차 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.26 ~ 2024.10.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/22/1Qvr9j2y0t2AiXIirtIXcxDtBNTuI9D4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<위대한 부재> 메가박스 회원시사]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
             <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
             <pubDate>Wed, 11 Sep 2024 07:19:01 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.21 ~ 2024.10.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/21/B54Y2SRpFlHdGHI0kyadGKhVruSOk3uD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<연소일기> 메가박스 회원시사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.17 ~ 2024.10.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/17/R9WKYDoBk8xCpgu1CCRws5w0ba4ocU1g.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
