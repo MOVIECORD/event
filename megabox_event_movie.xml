@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Oct 2024 08:28:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Oct 2024 09:24:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<날씨의 아이> MEGA l MX4D 포스터 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.02 ~ 2024.11.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/28/xAe6a7phSEbnmZLaOe1lH2qWYnFLQ7ea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<오후 네시> 주말 오후 네시 티타임 상영회]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
@@ -16,12 +24,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/18/gEqyKhRkv7QYkspw4yofrDVoEPJODOCA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[대망의 <룩백> 2D 5천원 할인 쿠폰 이벤트!]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.31 ~ 2024.11.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/28/6ipZEyorRgN7Iki78xQSqIYYRa2YsksY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<룩백> 돌비 포스터 증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.31 ~ 2024.11.17]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/24/pUPUvNA95EZX4wOIBW5pohKCVtSDl8pb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<룩백> 9주차 현장 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.31 ~ 2024.11.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/28/amlJUBtYZ2Jp5i6yQXYxC6WxLVXx8o1m.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<룩백> 흥행 기념 Dolby Cinema & Dolby Atmos 특가 이벤트]]></title>
@@ -78,6 +102,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.29 ~ 2024.11.05]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/28/4u54TaqWqT2ksLjZHnBhYW0ZzmCD4c8o.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[스마일 2] 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.29 ~ 2024.11.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/28/k3yvFL69WkWMWVlQhYe0YW9ByVxhcUHG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[보통의 가족] 선착순 빵원티켓 ➕]]></title>
