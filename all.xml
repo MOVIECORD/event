@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Oct 2024 01:29:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Oct 2024 02:56:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.02 ~ 2024.11.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/18/gEqyKhRkv7QYkspw4yofrDVoEPJODOCA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[메가박스X시네마캐슬] 시네마캐슬 11월 상영작 안내 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.01 ~ 2024.11.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/29/ivyuqalwzkq6JeNj2nGVqHiyWO0oJB1k.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대망의 <룩백> 2D 5천원 할인 쿠폰 이벤트! (메가박스 ─ 이벤트 ─ 영화)]]></title>
