@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Oct 2024 08:27:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Oct 2024 09:23:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,22 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.30 ~ 2024.11.17]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/28/PNrCrOHRdgMVnynVJwAoohWbJgv9rfQV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<대도시의 사랑법> 앵콜! 스페셜 할인쿠폰 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.30 ~ 2024.11.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/29/6YDCLdcDIMnKrgs965Q7xh9EEOEDuaf5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<베놈: 라스트 댄스> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.30 ~ 2024.11.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/29/VRWgGiO5Oip5zeoCR3TnnFyqwRZExsYN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<룸 넥스트 도어> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1478,6 +1494,14 @@
             <pubDate>Wed, 11 Sep 2024 07:19:01 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.06 ~ 2024.11.10]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/28/vp7M7KBkj9LVWNYzBZMdXKWDcEyIDs0F.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<보통의 가족> 3주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.02 ~ 2024.11.03]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/29/qyzasZwuPbgr24Emi85OJdvTJYIT2JTy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<청설> 개봉 전 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
