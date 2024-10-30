@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Oct 2024 04:26:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Oct 2024 05:22:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.01 ~ 2024.11.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/29/ivyuqalwzkq6JeNj2nGVqHiyWO0oJB1k.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<날씨의 아이> 1주차 주말 현장 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.01 ~ 2024.11.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/29/e5y9XPy4b5l1vDh2LL6EGcwpXmfrYIMq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<엘리자벳: 더 뮤지컬 라이브> 흥행감사 GIFTING DAY (메가박스 ─ 이벤트 ─ 영화)]]></title>
