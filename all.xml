@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Nov 2024 04:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Nov 2024 05:22:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -590,6 +590,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.04 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2023/12/20/TvZE7wxoT0lvtx7f5A1CCuTbwevDzy9Z.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2024 SEASON] 뉴욕 메트로폴리탄 오페라 앙코르 상영 안내 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.04 ~ 2024.12.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/01/s5IZf2rfrR6BmZZHzaXMDjGUT5QyzYFR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2024 메트오페라] 시즌 상영 안내 Live on Screen in Cinemas @ The Met (메가박스 ─ 이벤트 ─ 영화)]]></title>
