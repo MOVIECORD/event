@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Nov 2024 05:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Nov 2024 06:30:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.06 ~ 2024.11.19]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/30/EtQtDVRZ2OBVykCEJluEOsrogRK93uLQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[베놈: 라스트 댄스] 선착순 빵원티켓 ➕]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.04 ~ 2024.11.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/01/qNqY2h5BvKKzJbkMWbr0hg8Btf0U4iWm.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<날씨의 아이> MEGA l MX4D 포스터 증정 이벤트]]></title>
