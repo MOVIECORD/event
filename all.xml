@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Nov 2024 09:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Nov 2024 10:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -326,6 +326,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.06 ~ 2024.11.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/01/lEbh30a9V81xUL8906t1NEFNMdfuLfqp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<보통의 가족> 스페셜 할인쿠폰 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.06 ~ 2024.11.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/05/H0PONnwnuzFOzcrvO5EzjqkkpGlG2o1x.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<극장판 하이큐!! 쓰레기장의 결전> 확대 상영 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
