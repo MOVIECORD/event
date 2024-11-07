@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Nov 2024 14:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2024 15:24:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -472,22 +472,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/29/e5y9XPy4b5l1vDh2LL6EGcwpXmfrYIMq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<킹 오브 프리즘 -드라마틱 프리즘.1->12주차 특전 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.01 ~ 2024.11.07]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/01/5CewTSPychS3Laz1di1ZCrLt7Pg3Hann.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오후 네시] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.01 ~ 2024.11.07]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/15/Pb2GMlNmIImKZC6AEFKYDjfnGbFVyCJa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[대망의 <룩백> 2D 5천원 할인 쿠폰 이벤트! (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -574,14 +558,6 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.30 ~ 2024.11.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/28/0Ejtg1Vmw1rGAsZpgPtTOrW9PWhJy6yj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 하이큐!! 쓰레기장의 결전> 확대 상영 1주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.30 ~ 2024.11.07]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/21/915WbTqnd2RJPJ68byqIFK5aSQCklZFB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<블루 자이언트> 재개봉 2주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
