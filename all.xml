@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Nov 2024 04:24:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2024 05:20:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.13 ~ 2025.01.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/30/q6PpL068CBXpFbXlpe5o8cY15psTKHMO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<글래디에이터 Ⅱ> MEGA I MX4D 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.13 ~ 2024.11.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/06/LFzsUXpjMJTgYUy1lzYsdvIbb1tONg8z.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<글래디에이터 Ⅱ> 돌비 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.13 ~ 2024.11.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/06/GpQNSuDMwZCZfN340YQOyfUfcleswhUu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<베이비 드라이버> 돌비 포스터 증정 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -46,6 +62,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.09 ~ 2024.11.10]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/29/vm5r2fQPcRZvKwtvxbKzRILMDnmNbM7x.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[콜롬비아 100주년 기획전] <컨택트> 지구인 대표 테스트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.07 ~ 2024.11.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/06/GmOiamrI9bzYXCLBq0sQb2vFvljh1qph.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 드로잉 카드 No.26 <톰보이> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -256,22 +280,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/05/hHMkdAUxtuQMDzC5HMNs3CuhrDIgkcjf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<글래디에이터 Ⅱ> MEGA I MX4D 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.13 ~ 2024.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/06/LFzsUXpjMJTgYUy1lzYsdvIbb1tONg8z.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<글래디에이터 Ⅱ> 돌비 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.13 ~ 2024.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/06/GpQNSuDMwZCZfN340YQOyfUfcleswhUu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<아마존 활명수> 텐텐텐 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -280,7 +288,7 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/05/WImPBtqxZsFitxzaX77BROQIVTJbd9Hn.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[<청설> 홍경X노윤서 미니 팬미팅 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <title><![CDATA[<청설> 홍경X노윤서X김민주 미니 팬미팅 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
