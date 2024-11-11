@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Nov 2024 07:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Nov 2024 08:27:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.13 ~ 2024.12.17]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/11/9k5OPBzu4oPXUbKHEkQ9VKOR5Vwyyvnm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 오리지널 티켓 Re. 29 <컨택트>]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.13 ~ 2024.12.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/11/XaLk5tDYtRRNXJ89pjDgE9hgslQl1STd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<글래디에이터 Ⅱ> MEGA I MX4D 포스터 증정 이벤트]]></title>
