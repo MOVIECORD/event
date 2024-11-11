@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Nov 2024 02:52:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Nov 2024 03:26:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -254,6 +254,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.14 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/14/FZOJ6yhBzr0y6SYV0V5QvMUnXbkh7Ck1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예지미인X메가박스] 그날에 당황하지 말고 PINK BOX]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.07 ~ 2024.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2022/10/07/aVPaBWnnV3du3eA0WwccH3xMWqCszU8k.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나도 영화 평론가! 관람평 작성하면 50P 적립!]]></title>
