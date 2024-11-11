@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Nov 2024 06:30:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Nov 2024 07:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -93,7 +93,7 @@
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.09 ~ 2024.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/06/OiBL9hUT1Mf9OWNegxwM4DrKBuk0IU0P.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/11/K1SxBQ2qOq1MiEnZIUYtNiYYeQkg2sbV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<아츄세트> 런칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -288,6 +288,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/08/DUc8n2wnrwZ6NuljQgXWp6woGSL6W8UW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<히든페이스> 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.23 ~ 2024.11.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/11/4hyZEPgsgJOuxBsYYR7kyHSzW9g4zEZx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<위키드> Dolby 포스터 증정 이벤트! (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -334,6 +342,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.14 ~ 2024.11.16]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/05/hHMkdAUxtuQMDzC5HMNs3CuhrDIgkcjf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<하우치> 개봉 특가 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.13 ~ 2024.11.26]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/11/c7e86hut5WlNj3hNynkxPZ7uvqwlH8Dt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<톰보이> 2주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
