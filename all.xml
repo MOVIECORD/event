@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Nov 2024 04:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Nov 2024 05:21:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,12 +24,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/06/nR1T3jjpC1yctAEuV8f50897QVY57RX9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[하고 싶은 거 뭐든.zip 다 해!! 수능 해방 WEEK (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.14 ~ 2024.11.26]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/09/uJxhGrg1Sc1vO9HnSwKGgrGNszUZTdUq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[콜롬비아 100주년 기획전] 1차 라인업 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.13 ~ 2025.01.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/30/q6PpL068CBXpFbXlpe5o8cY15psTKHMO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MEGA PICK! 돌비 매니아 챌린지 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.13 ~ 2024.12.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/11/9k5OPBzu4oPXUbKHEkQ9VKOR5Vwyyvnm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<글래디에이터 Ⅱ> MEGA I MX4D 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
