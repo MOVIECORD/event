@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Nov 2024 23:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Nov 2024 01:27:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.15 ~ 2024.11.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/11/oejehBPrPiA0avrnvQkobCrFEVbkZuz2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<킹 오브 프리즘 -드라마틱 프리즘.1->14주차 특전 이벤트 진행 건]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.15 ~ 2024.11.21]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/13/cC68BJr3ARUj6XvA6vG4bhgMeKvGXwqx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<룩백> FINAL ONE 현장 증정 이벤트]]></title>
