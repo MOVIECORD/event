@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Nov 2024 14:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Nov 2024 15:22:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -560,14 +560,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/04/fOKv8fi59NnqkBcA2l5ABJWbbhpaIelp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<킹 오브 프리즘 -드라마틱 프리즘.1->13주차 특전 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.08 ~ 2024.11.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/08/56JkaLO3dsALCoqwcaxsXxyeRcyHyGmA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<룩백> 10주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -670,14 +662,6 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.01 ~ 2024.11.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/29/ivyuqalwzkq6JeNj2nGVqHiyWO0oJB1k.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<날씨의 아이> 1주차 주말 현장 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.01 ~ 2024.11.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/29/e5y9XPy4b5l1vDh2LL6EGcwpXmfrYIMq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대망의 <룩백> 2D 5천원 할인 쿠폰 이벤트! (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -814,14 +798,6 @@
             <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.06 ~ 2024.12.15]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/06/a9Gxh0VjTdlhjO1Blu2fEIPmYKAqosLn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마곡] 7주년 특별 할인 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.06 ~ 2024.11.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/06/tf8Qf7KwXedX6JQImDBn83vVfgQdTwrn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[덕천] 9층 9관에서 영화보면 콤보 무료라9 (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -1566,22 +1542,6 @@
             <pubDate>Wed, 11 Sep 2024 07:19:01 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.16 ~ 2024.11.17]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/28/sd9a4ZakLFybDwMoH24EjRmgLerrbw9W.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<아침바다 갈매기는> 메가박스 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.06 ~ 2024.11.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/06/a8A1FwoRMAEbctMaxKCQ2l1NmkcLhxte.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<아침바다 갈매기는> 메가박스 GV 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.06 ~ 2024.11.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/06/dxRyagHsDpU9goFzWgnGNVvzO9lGtL1M.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
