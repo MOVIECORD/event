@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Nov 2024 05:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Nov 2024 06:33:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,7 +56,7 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/12/oMfr8J65UWmKWB0gTwqS3afE6QyzWQGk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[콜롬비아 100주년 기획전] 1차 라인업 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <title><![CDATA[[콜롬비아 100주년 기획전] 2차 라인업 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
@@ -352,6 +352,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/11/4hyZEPgsgJOuxBsYYR7kyHSzW9g4zEZx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<킹덤4: 대장군의 귀환> SNS 관람인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.20 ~ 2024.12.03]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/15/Te0wgDgQKj1Vpts2vaEWP6E0LaVXDqIZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[킹덤4: 대장군의 귀환] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -364,7 +372,7 @@
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.18 ~ 2024.11.24]]></content:encoded>
+            <content:encoded><![CDATA[2024.11.18 ~ 2024.11.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/15/6IjRkxQuiHjMOmnJ6FGSrV2INcl6XziG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
