@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Nov 2024 01:40:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Nov 2024 03:00:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,6 +16,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/13/cOrfptBEJ2ukw7VqRrGykEWlNDQOtsa6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<아침바다 갈매기는> 프리미어 & 스토리보드북 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.24 ~ 2024.11.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/15/XWxH1S4qe4R4RIPT4MGsowj0qQdttF4u.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<에드워드 호퍼> 프리미어 상영회]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -24,12 +32,36 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/13/rWIoXl4GKHTD9niccntajdBDnUgirFLB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<아가미> 굿즈패키지 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.23 ~ 2024.11.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/15/v6CMb3XQrksnQNWtqS1r6yADHKeSbXjy.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<히든페이스> 메가토크]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.23 ~ 2024.11.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/11/4hyZEPgsgJOuxBsYYR7kyHSzW9g4zEZx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[킹덤4: 대장군의 귀환] 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.18 ~ 2024.11.26]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/15/iTQDDRBaqcCRU97sn5ny1AVfNUqeYLF6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[되살아나는 목소리] 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.18 ~ 2024.11.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/15/6IjRkxQuiHjMOmnJ6FGSrV2INcl6XziG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<엘리자벳: 더 뮤지컬 라이브> GV]]></title>
@@ -78,6 +110,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.15 ~ 2024.11.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/11/oejehBPrPiA0avrnvQkobCrFEVbkZuz2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<춘천대첩 72시간> SNS 관람인증 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.15 ~ 2024.11.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/15/LIcUO0rJ8ZTnpcFmyJe50MwJfOmw5Mzr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<킹 오브 프리즘 -드라마틱 프리즘.1->14주차 특전 이벤트 진행 건]]></title>
