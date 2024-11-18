@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Nov 2024 07:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Nov 2024 08:29:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.27 ~ 2024.12.10]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/15/SwoB0PnwByLvrhbZosebgq3A42DcMoSd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 오리지널 티켓 No. 126 <위키드> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.20 ~ 2024.12.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/18/KHdkvgDt7K5gGkPAsNJfsJJcaKtLZNRe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<위키드> Dolby 포스터 증정 이벤트! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -358,6 +366,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.20 ~ 2024.12.03]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/18/gsB6tR7cq8ShcfKp24W41qpX7dGv9pND.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<청설> 3주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.20 ~ 2024.12.03]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/15/CXB2hM6fnhJR9P6OJdmRfeFMAhUrqz69.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<킹덤4: 대장군의 귀환> SNS 관람인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
