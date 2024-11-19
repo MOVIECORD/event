@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Nov 2024 08:29:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Nov 2024 09:23:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -334,6 +334,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.24 ~ 2024.11.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/15/XWxH1S4qe4R4RIPT4MGsowj0qQdttF4u.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<청설> '글로 전하는 진심' 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.23 ~ 2024.11.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/19/pKw6jVUKD1uauRYqEfNoT0g7nZXJp4rW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<에드워드 호퍼> 프리미어 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1558,6 +1566,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:50 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.01 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/01/02/Gd9p85ocMTXylM1LoedwAe2IqxaDsWdU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<청설> 4주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.30 ~ 2024.12.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/19/t8uAUeCZm72K3DfQQEzJadnGB1llRley.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<히든페이스> 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
