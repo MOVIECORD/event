@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Nov 2024 14:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 15:23:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Wed, 11 Sep 2024 07:19:01 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.23 ~ 2024.11.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/04/cMuYVdHAgxMNddtJKLFsuXFroCVdDEaB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<위키드> 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Wed, 11 Sep 2024 07:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.21 ~ 2024.11.22]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/04/ebvqQtbOrX25Rxs48eEm7TogkDuXydX5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<대가족> 메가박스 회원시사]]></title>
