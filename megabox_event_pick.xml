@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Nov 2024 07:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 08:28:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/21/c7IZMudVARi9HD9qTWvai42EzFviXEGW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[메가박스 아트그라피 <에드워드 호퍼>]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.30 ~ 2024.12.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/19/HmV1w46Cg7VO1xwHl7vkXFWlBsrJ9LYz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[프로모션][굿즈] <모아나2> '조개 쥬얼리케이스 & 키링' 굿즈 론칭]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
@@ -38,6 +46,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.27 ~ 2024.12.10]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/15/SwoB0PnwByLvrhbZosebgq3A42DcMoSd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 오리지널 슬라이드 No.4 <에드워드 호퍼>]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.22 ~ 2024.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/22/ZcD4GemW1VXK3H2xMAbvM94en0tdFHDi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 No. 126 <위키드>]]></title>
