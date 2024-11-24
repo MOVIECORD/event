@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Nov 2024 01:45:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Nov 2024 03:04:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.30 ~ 2024.12.01]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/19/HmV1w46Cg7VO1xwHl7vkXFWlBsrJ9LYz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가굿즈샵 <모아나> 굿즈 오픈]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.27 ~ 2024.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/22/CgjP6yBJD7NxAASDEQK59XjrVJ6nryOS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[프로모션][굿즈] <모아나2> '조개 쥬얼리케이스 & 키링' 굿즈 론칭]]></title>
