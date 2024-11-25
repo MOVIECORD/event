@@ -4,11 +4,11 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Nov 2024 08:29:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Nov 2024 09:24:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[<모아나> 행운의 캐릭터 키링 증정 이벤트! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <title><![CDATA[<모아나 2> 행운의 캐릭터 키링 증정 이벤트! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
@@ -390,6 +390,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.29 ~ 2024.12.01]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/22/Wd0NpNmPDjRI3zCaF8i6CL2nPONH6Qul.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<모아나 2> N차 관람 이벤트! 메가박스 길잡이는 과연 누구? (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.27 ~ 2024.12.15]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/25/CNHn80hrhvNXAJ8RYDjaGvCzmb0KhGcS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<위키드> 데코팩 엽서 세트 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
