@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Nov 2024 07:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Nov 2024 08:29:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.27 ~ 2024.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/22/CgjP6yBJD7NxAASDEQK59XjrVJ6nryOS.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/25/x6XSRgSz8K7hJBcq3wHdmbsbg3km8rXB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[프로모션][굿즈] <모아나2> '조개 쥬얼리케이스 & 키링' 굿즈 론칭]]></title>
@@ -54,6 +54,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.27 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/21/yl9l73OWS8tS77uneSsU2HevknXIWbxz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 오리지널 티켓 No. 127 <모아나 2>]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.27 ~ 2024.12.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/25/NqNqQWI8YqRTd5QHzmRFJYKu5FdZDLsM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[콜롬비아 100주년 기획전] 2차 라인업]]></title>
@@ -101,7 +109,7 @@
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.20 ~ 2024.11.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/31/PemdhNUgQLnqLlKMjHteSMGGxiBavh49.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/25/yIeGK10R0htlz4bW6R3O2YR7ChndMCw3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[메가박스XAGF 2024] 애니피플을 위한 100P 럭키딜 이벤트]]></title>
