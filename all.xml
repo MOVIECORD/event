@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Nov 2024 05:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Nov 2024 06:32:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -213,7 +213,7 @@
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Wed, 11 Sep 2024 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.28 ~ 2025.02.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/23/ddTeatxZXacWM5xdkQJlVbfsX4HCjBWq.png" length="0" type="image/png"/>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/25/4E8uJ7wCcLvRIW9QHbeTAAhQTvuJxE10.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2024 시네도슨트 시즌 3 in 코엑스] 빛과 어둠, 그 안에서 창조된 예술 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -326,6 +326,14 @@
             <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.14 ~ 2024.12.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/20/Zr04pHpTznFdhdx6qHu9tnCqEzAml0vp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<나이브스 아웃> 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Wed, 11 Sep 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.04 ~ 2024.12.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/22/CVngV3Zt7hEONhHj5AiYbut08v83M58n.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<1승> 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
