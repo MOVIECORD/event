@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Nov 2024 01:42:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Nov 2024 03:01:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -336,6 +336,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/20/Zr04pHpTznFdhdx6qHu9tnCqEzAml0vp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<1승> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.04 ~ 2024.12.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/26/Y98AHnzsqiHIGduedYyPUXLqTwcheBcd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<나이브스 아웃> 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -398,6 +406,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.27 ~ 2024.12.15]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/25/SP77PHztANMlnrneGejqXNiYoBlWgy2o.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<에드워드 호퍼> 개봉주 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.27 ~ 2024.12.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/26/XYzX35TRZkDM3PZ40sL79Uz9ob6w1Jla.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[콜롬비아 100주년 기획전] <가을의 전설> 관람 경품 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -766,14 +782,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.13 ~ 2025.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/20/voi84CuhLdKVdOruAhsA8t6sGK0Up6Gy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이수] 미리 메리 크리스마스! (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.13 ~ 2025.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/20/tIvGChVZiQ7myxlUhUKvg4yf74t3heDo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[서면대한] 서면대한점 오픈 프로모션 (메가박스 ─ 이벤트 ─ 극장)]]></title>
