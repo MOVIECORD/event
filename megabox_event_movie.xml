@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Nov 2024 01:42:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Nov 2024 03:03:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.07 ~ 2024.12.07]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/26/9uLkhKvbXmuvqbOagHnhFfper7Krbv5x.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<1승> 개봉주 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.04 ~ 2024.12.08]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/26/Y98AHnzsqiHIGduedYyPUXLqTwcheBcd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<나이브스 아웃> 굿즈패키지 상영회]]></title>
@@ -62,14 +54,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.30 ~ 2024.12.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/13/cOrfptBEJ2ukw7VqRrGykEWlNDQOtsa6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<1승> 개봉 전 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.30 ~ 2024.12.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/22/NUKn4jHMstAV2OpEe65Slp8sCvcqqoZw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<전장의 크리스마스> 굿즈 증정 상영회]]></title>
@@ -120,7 +104,7 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/25/SP77PHztANMlnrneGejqXNiYoBlWgy2o.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[1승] 선착순 빵원티켓]]></title>
+            <title><![CDATA[[1승] 4차 선착순 빵원티켓]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
@@ -128,7 +112,7 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/26/uSQPpB8SW9DKgoGBdbwfiIlhvZJjg2ue.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[1승] 선착순 빵원티켓]]></title>
+            <title><![CDATA[[1승] 3차 선착순 빵원티켓]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
@@ -224,7 +208,7 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/20/y60SqFGMtyPHjjryIlEUp17J3OHTkbUi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[1승] 선착순 빵원티켓]]></title>
+            <title><![CDATA[[1승] 2차 선착순 빵원티켓]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
@@ -232,7 +216,7 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/20/pLnjnvo9MKBkQWnaD1vInloSZQ7fEsyT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[1승] 선착순 빵원티켓]]></title>
+            <title><![CDATA[[1승] 1차 선착순 빵원티켓]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
