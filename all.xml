@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Nov 2024 04:27:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Nov 2024 05:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.27 ~ 2025.01.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/27/GA65csFzs5670j3cwhlm987p4HhkEU2U.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/27/4gw2wJXUAIro3qctmfgAQseiF4XdjR5I.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가굿즈샵 <모아나> 굿즈 오픈 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -437,7 +437,7 @@
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.27 ~ 2024.12.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/26/noQSWgMgJFReAO4Wzr6dVrJtN6Zmpq9q.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/27/0wPA1ODBzChxJuapp0hy235FFsdUYnvJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<에드워드 호퍼> 개봉주 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -462,6 +462,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.27 ~ 2024.12.10]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/22/ayM8l4CPuQuCUm1CyLGSwWh3sknUjvph.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트나인과 함께 하는 <언니 유정> GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.27 ~ 2024.12.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/27/xJFCQvKvSlx5ejyrdqB7Uj0vANdWGjRl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<청설> 앵콜! 앵콜! 스페셜 할인쿠폰 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1438,6 +1446,14 @@
             <pubDate>Mon, 25 Nov 2024 22:20:00 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.01 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/26/7aERcfHlnMrnzTFTIANPHH3IBd9AeB2Q.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<소방관> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.07 ~ 2024.12.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/26/SB3FLSVBwexjjEmt0qFH21o9WSLyN2kn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<1승> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
