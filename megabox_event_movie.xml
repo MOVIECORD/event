@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Nov 2024 23:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Nov 2024 01:42:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -332,7 +332,7 @@
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.14 ~ 2024.11.27]]></content:encoded>
+            <content:encoded><![CDATA[2024.11.14 ~ 2024.12.01]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/14/p2oJuSr6csZW8oZVfewuldCD00oIIFUU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
