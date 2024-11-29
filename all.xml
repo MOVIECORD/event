@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Nov 2024 07:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Nov 2024 08:28:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.06 ~ 2024.12.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/29/tImSWhl7d3XxUBOjug2ZRl7fRpFymim4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 드로잉 카드 No.27 <소방관> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.04 ~ 2024.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/29/Jhjx9vnXkcEEElZ4Bux3BMXzKZMIDmL4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[📌메가박스 포스터북 속지 런칭 이벤트📌 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -344,6 +352,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/20/ZdZiEWsL1uNidjdP5m6Xu6R0dTGQPa0P.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<서브스턴스> 프리미어 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.08 ~ 2024.12.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/29/ZUpM4AKnav9Ecyht4vpyvWMOq0s4QIEA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<언니 유정> 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -358,6 +374,22 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.05 ~ 2024.12.05]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/27/uy88VxyflWvEZ2XqvcbHLyUdAg7ugoZ6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<본 얼티메이텀> 1주차 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.04 ~ 2024.12.22]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/29/nJKrhOQpfy7Y96VtNFiUkFEPFFHMTOyR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<본 슈프리머시> 1주차 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.04 ~ 2024.12.22]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/29/iG96LT7W2SuopFExWxHWw98iwJuWfXHZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<나이브스 아웃> 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1494,6 +1526,14 @@
             <pubDate>Mon, 25 Nov 2024 22:20:11 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.07 ~ 2024.12.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/29/ig7ltguTOzv2iJapRjMetJyoeMQ6GrM9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<히든페이스> 3주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.07 ~ 2024.12.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/28/FW4oNgRvFMYXYRMWCbvZzkXkSthzOIyM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<소방관> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>

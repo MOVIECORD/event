@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Nov 2024 07:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Nov 2024 08:28:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.06 ~ 2024.12.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/29/tImSWhl7d3XxUBOjug2ZRl7fRpFymim4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 드로잉 카드 No.27 <소방관>]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.04 ~ 2024.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/29/Jhjx9vnXkcEEElZ4Bux3BMXzKZMIDmL4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[📌메가박스 포스터북 속지 런칭 이벤트📌]]></title>
