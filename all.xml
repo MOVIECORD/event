@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Nov 2024 04:27:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Nov 2024 05:22:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -318,6 +318,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.14 ~ 2024.12.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/20/Zr04pHpTznFdhdx6qHu9tnCqEzAml0vp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<블루 자이언트> JASS 특별 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.13 ~ 2024.12.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/20/ZdZiEWsL1uNidjdP5m6Xu6R0dTGQPa0P.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<언니 유정> 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
