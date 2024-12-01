@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Dec 2024 14:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Dec 2024 15:22:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.30 ~ 2024.12.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/21/c7IZMudVARi9HD9qTWvai42EzFviXEGW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 아트그라피 <에드워드 호퍼>]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.30 ~ 2024.12.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/19/HmV1w46Cg7VO1xwHl7vkXFWlBsrJ9LYz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폴라베어콤보 런칭]]></title>
@@ -150,14 +142,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.20 ~ 2024.12.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/08/NqieaUGeKri2XbQoOS8EiRAz89CcsVJl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[메가박스XAGF 2024] 애니피플을 위한 100P 럭키딜 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.18 ~ 2024.12.01]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/18/HaKRfgE6qgaGRbhUjQitODpDMg5fF6rA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[프로모션][굿즈] <위키드> 콤보 런칭!]]></title>
