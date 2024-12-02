@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Dec 2024 05:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Dec 2024 06:32:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/26/9uLkhKvbXmuvqbOagHnhFfper7Krbv5x.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<에드워드 호퍼> 2주차 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.05 ~ 2024.12.18]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/02/h61xSqoOyLm54la0ByiIgUTLvja6rp5z.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<모아나 2> 돌비시네마 스페셜 굿즈패키지]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -62,6 +70,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.04 ~ 2024.12.22]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/29/iG96LT7W2SuopFExWxHWw98iwJuWfXHZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<나이브스 아웃> 개봉주 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.04 ~ 2024.12.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/02/tFMQ3r6hEBo1PkJiL1euCEs36hdLxFwK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<모아나 2> 2주차 현장증정 이벤트]]></title>
