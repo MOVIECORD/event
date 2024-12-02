@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Dec 2024 08:30:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Dec 2024 09:25:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.07 ~ 2024.12.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/02/DN0n5d3i8I7akGt99xzv26K1zPgm5wHS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<서브스턴스> 굿즈패키지 런칭]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.06 ~ 2024.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/02/ZYnptYLySQRKcNKlSMySzdMYeB9FGqVE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<모아나 2> 2주차 한국화 포스터 증정 이벤트]]></title>
