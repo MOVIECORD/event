@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Dec 2024 23:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Dec 2024 01:45:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/29/iG96LT7W2SuopFExWxHWw98iwJuWfXHZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<모아나2> 2주차 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.04 ~ 2024.12.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/29/O5FMbDK8Wec6amq48zPcvenWF6ilA3Ed.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<1승> 개봉주 현장증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -94,6 +102,22 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.04 ~ 2024.12.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/21/eiiwQtm4H9n5bIHPvEt4gwmmc6EUsPh4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[소방관] 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.03 ~ 2024.12.11]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/29/HA8fjV1CFIOOtnBZdQAQxTScj7SivmjO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[히든페이스] 선착순 빵원티켓 ➕]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.03 ~ 2024.12.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/29/pxutRCxu4UtoTK3CpvT6COUgm4FswQ8E.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[에드워드 호퍼] 선착순 빵원티켓]]></title>
