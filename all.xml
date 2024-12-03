@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Dec 2024 08:29:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 09:24:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -261,7 +261,7 @@
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.29 ~ 2025.05.29]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/05/29/dTwF1QiN1Oq74UTXDLeiW4V50vs5Vcqm.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/03/O7WkatyWdcpSmsJPDtkccnYGbmR0FOHD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어린이/청소년 영화교육 프로그램 <너랑봄> 안내 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -326,6 +326,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.05 ~ 2024.12.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/02/h61xSqoOyLm54la0ByiIgUTLvja6rp5z.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<리바이벌 69’> SNS 관람인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.05 ~ 2024.12.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/03/W7qJKfVKDqNyLOdJPsGBB2L4H6pWARC9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<모아나 2> 돌비시네마 스페셜 굿즈패키지 (메가박스 ─ 이벤트 ─ 영화)]]></title>
