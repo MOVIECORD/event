@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Dec 2024 09:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 10:25:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.04 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/29/Jhjx9vnXkcEEElZ4Bux3BMXzKZMIDmL4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[꽝없는 잭팟 이벤트] 알림받으면 100% 포인트 당첨!]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.02 ~ 2025.05.29]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/03/LZ0upzmXFKKJ7VXA2loP6gkGTpUBdzwt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[📌메가박스 포스터북 속지 런칭 이벤트📌]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.28 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/21/0ee2bxFRHJ0O1wpQ8wFHf7dOUrJr0kZ1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[꽝없는 행운이벤트] 알림받으면 100% 포인트 당첨!]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.29 ~ 2025.05.29]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/03/O7WkatyWdcpSmsJPDtkccnYGbmR0FOHD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어린이/청소년 영화교육 프로그램 <너랑봄> 안내]]></title>

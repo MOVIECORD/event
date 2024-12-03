@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Dec 2024 09:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 10:25:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.04 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/29/Jhjx9vnXkcEEElZ4Bux3BMXzKZMIDmL4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[꽝없는 잭팟 이벤트] 알림받으면 100% 포인트 당첨! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.02 ~ 2025.05.29]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/03/LZ0upzmXFKKJ7VXA2loP6gkGTpUBdzwt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[📌메가박스 포스터북 속지 런칭 이벤트📌 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -256,14 +264,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/21/0ee2bxFRHJ0O1wpQ8wFHf7dOUrJr0kZ1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[꽝없는 행운이벤트] 알림받으면 100% 포인트 당첨! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.29 ~ 2025.05.29]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/03/O7WkatyWdcpSmsJPDtkccnYGbmR0FOHD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[어린이/청소년 영화교육 프로그램 <너랑봄> 안내 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
@@ -320,6 +320,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/26/9uLkhKvbXmuvqbOagHnhFfper7Krbv5x.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<극장판 : 기븐_히이라기 믹스> 원화 증정 특별 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.06 ~ 2024.12.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/03/fvXPxnuCU1V3owkUbkB7r4y4MviG54Mo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<에드워드 호퍼> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -334,6 +342,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.05 ~ 2024.12.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/03/W7qJKfVKDqNyLOdJPsGBB2L4H6pWARC9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<극장판 오버로드 성왕국편> 4주차 특전 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.05 ~ 2024.12.11]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/03/s0vcRmWSb1OjipSdggpdc7lrlUwib1G4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<모아나 2> 돌비시네마 스페셜 굿즈패키지 (메가박스 ─ 이벤트 ─ 영화)]]></title>
