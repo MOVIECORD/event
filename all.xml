@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Dec 2024 08:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Dec 2024 09:25:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2024 시네도슨트 프리빌리지] 예술의 표현은 어디까지 자유로울 수 있는가? (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.19 ~ 2024.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/05/Qxlz5aPcYvkn2MTP5EmpjYu2Zs8wEPso.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<무파사: 라이온 킹> 역대 킹, 얼리버드 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.18 ~ 2024.12.29]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/05/OHIqJvk7heMG8JVhheZMrj7OiRA6VWJP.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메가박스 드로잉 카드 No.28 <대가족> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
