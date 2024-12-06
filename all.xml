@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Dec 2024 10:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Dec 2024 11:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -366,6 +366,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.13 ~ 2024.12.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/28/Vk2jFwF3aKsgBu6AteC1uq10ZXmJ99t5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<아가씨> 특별 상영! 티셔츠 굿즈 패키지 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.12 ~ 2024.12.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/06/gSxxvor67k9kjXpiXOc2Pz2xYUl3RWQ2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[시애틀의 잠 못 이루는 밤] 콜롬비아 100주년 기획전 A3 포스터 증정 (메가박스 ─ 이벤트 ─ 영화)]]></title>
