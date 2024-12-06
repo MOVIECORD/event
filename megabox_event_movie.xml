@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Dec 2024 01:42:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Dec 2024 03:04:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,22 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/28/Vk2jFwF3aKsgBu6AteC1uq10ZXmJ99t5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[시애틀의 잠 못 이루는 밤] 콜롬비아 100주년 기획전 A3 포스터 증정]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.11 ~ 2024.12.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/06/eC5xGDznZdGglOyd0ZOvpJ9Kr3MUFGVa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[퓨리] 콜롬비아 100주년 기획전 A3 포스터 증정]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.11 ~ 2024.12.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/06/sPM2grxbManW1SYV8s5IEoZcn5TlIPDX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<모아나 2> 하스필 MX4D 엽서 증정 이벤트!]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -48,12 +64,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/05/rGTVhZCgEsroizVenZfUL3XwgS88sH7Z.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[대가족] 선착순 빵원티켓 ➕]]></title>
+            <title><![CDATA[[하얼빈] 선착순 빵원티켓 ➕]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.09 ~ 2024.12.17]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/05/8om9mqog9xbh2pRmCDZN1JF2UbyoOhfs.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2024.12.09 ~ 2024.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/06/XbIeZD7jcHPdTDM9O7MELATSoIo1nhGX.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<서브스턴스> 프리미어 상영회]]></title>
@@ -78,6 +94,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.07 ~ 2024.12.07]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/26/9uLkhKvbXmuvqbOagHnhFfper7Krbv5x.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대가족] 선착순 빵원티켓 ➕]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.06 ~ 2024.12.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/05/8om9mqog9xbh2pRmCDZN1JF2UbyoOhfs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<극장판 : 기븐_히이라기 믹스> 원화 증정 특별 상영회]]></title>
