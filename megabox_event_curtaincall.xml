@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Dec 2024 14:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Dec 2024 15:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,44 +48,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/29/l6E9IK3RvgyvDInwTcvoYadICFLUlahj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<대가족> 개봉 전주 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Tue, 03 Dec 2024 10:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.07 ~ 2024.12.08]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/29/ig7ltguTOzv2iJapRjMetJyoeMQ6GrM9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<히든페이스> 3주차 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Tue, 03 Dec 2024 10:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.07 ~ 2024.12.08]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/28/FW4oNgRvFMYXYRMWCbvZzkXkSthzOIyM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<소방관> 개봉주 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Tue, 03 Dec 2024 10:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.07 ~ 2024.12.08]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/26/SB3FLSVBwexjjEmt0qFH21o9WSLyN2kn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<무파사: 라이온 킹> 메가박스 Dolby 사전시사 오픈!]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
             <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
             <pubDate>Tue, 03 Dec 2024 10:25:53 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.05 ~ 2024.12.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/05/t4V8xbRfbEeg5GV3JWjITCZYF79UtfUK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<1승> 개봉주 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Tue, 03 Dec 2024 10:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.04 ~ 2024.12.08]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/26/Y98AHnzsqiHIGduedYyPUXLqTwcheBcd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
