@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Dec 2024 06:32:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Dec 2024 07:24:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Tue, 03 Dec 2024 10:25:53 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.14 ~ 2024.12.15]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/28/gSYCw7boQ5w9cSpucanpetPfAnkBT4Ub.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<소방관> 출동 평일 게릴라 무대인사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Tue, 03 Dec 2024 10:25:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.12 ~ 2024.12.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/10/xbFFFJuREHEIYJI1TdUZx7TANxSqj7af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<대가족> 개봉일 무대인사]]></title>
