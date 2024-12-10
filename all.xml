@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Dec 2024 05:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Dec 2024 06:32:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,6 +296,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/09/o3zDs21NwTjbl710hnYbhPLNN7rIDRKJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<에드워드 호퍼> 3주차 주말 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.14 ~ 2024.12.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/10/3ajt9q9kfpTOfjmwT1DVzsLKMSYFdGt8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[앵콜! <위키드> 응원봉 리액션 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -326,6 +334,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.14 ~ 2024.12.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/20/Zr04pHpTznFdhdx6qHu9tnCqEzAml0vp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<위키드> 싱어롱 상영회 & 싱어롱 경품증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.13 ~ 2024.12.19]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/10/8ucMEokJG0mbCzvKeFmWoUhS4I8EFpbk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<이처럼 사소한 것들> 굿즈 증정 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -368,6 +384,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/06/gSxxvor67k9kjXpiXOc2Pz2xYUl3RWQ2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<서브스턴스> 개봉주 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.11 ~ 2024.12.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/09/eZTu6i7IpJSTl83LKbDFA5giJQ94mxop.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[시애틀의 잠 못 이루는 밤] 콜롬비아 100주년 기획전 A3 포스터 증정 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -390,6 +414,22 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.11 ~ 2024.12.22]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/05/rGTVhZCgEsroizVenZfUL3XwgS88sH7Z.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[서브스턴스] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.11 ~ 2024.12.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/10/OgY9RZjGQtmxJPFrLZ7n4LB7w8eVCYKf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[1승] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.11 ~ 2024.12.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/10/is6LbbFkrCCFMWPRtXRc2gRK3ReRykkl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아트나인과 함께하는 <아메바 소녀들과 학교괴담: 개교기념일> GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
