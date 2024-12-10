@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Dec 2024 03:07:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Dec 2024 04:27:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 03 Dec 2024 10:25:53 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.26 ~ 2024.12.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/06/i7fC4JFU0L9MPhtOMDY1fzltetEiFRlM.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<니코: 오로라 원정대의 모험> 개봉주 무대인사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Tue, 03 Dec 2024 10:25:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.25 ~ 2024.12.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/10/LHDanRbs9b56GyKwVnqIeljQN6q13tZQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<히든페이스> 흥행 감사 무대인사]]></title>
