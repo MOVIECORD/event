@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Dec 2024 07:24:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Dec 2024 08:30:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.14 ~ 2024.12.15]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/07/mj768W2E5IEl9kPRTEPqBVnc8s6EvHwz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<리바이벌 69’> 티셔츠 굿즈패키지 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.14 ~ 2024.12.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/10/CoVI0tIJ75NGSldGTI3XvvB7MA6lmmP7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[라이브뷰잉] SEVENTEEN [RIGHT HERE] WORLD TOUR IN JAPAN : LIVE VIEWING 진행안내]]></title>
