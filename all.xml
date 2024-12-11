@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Dec 2024 14:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Dec 2024 15:24:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -528,14 +528,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/03/W7qJKfVKDqNyLOdJPsGBB2L4H6pWARC9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<극장판 오버로드 성왕국편> 4주차 특전 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.05 ~ 2024.12.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/03/s0vcRmWSb1OjipSdggpdc7lrlUwib1G4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<본 얼티메이텀> 1주차 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -600,14 +592,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/28/HRDLAp3tz7rJ2js0xCMCjCSV5TlcnYuI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[소방관] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.03 ~ 2024.12.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/29/HA8fjV1CFIOOtnBZdQAQxTScj7SivmjO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[메가박스X시네마캐슬] 시네마캐슬 12월 상영작 안내 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -630,14 +614,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.30 ~ 2024.12.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/13/cOrfptBEJ2ukw7VqRrGykEWlNDQOtsa6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<청설> 4주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.28 ~ 2024.12.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/26/qnkUX6IcplEUMYvW3porCAeHfHhggRqm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<모아나 2> N차 관람 이벤트! 메가박스 길잡이는 과연 누구? (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1510,14 +1486,6 @@
             <pubDate>Mon, 25 Nov 2024 22:20:11 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.12 ~ 2024.12.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/10/xbFFFJuREHEIYJI1TdUZx7TANxSqj7af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<대가족> 개봉일 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.11 ~ 2024.12.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/29/l6E9IK3RvgyvDInwTcvoYadICFLUlahj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<무파사: 라이온 킹> 메가박스 Dolby 사전시사 오픈! (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
