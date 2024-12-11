@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Dec 2024 07:23:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Dec 2024 08:29:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,7 +56,7 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/28/yM84aO5VbW9YLGYRpmw8EKG4VQc28xbO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[니코: 오로라 원정대의 모험ㅣ캐릭터 투표 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <title><![CDATA[<니코: 오로라 원정대의 모험> 캐릭터 투표 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
