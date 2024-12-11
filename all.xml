@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Dec 2024 23:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Dec 2024 01:43:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.11 ~ 2024.12.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/28/yM84aO5VbW9YLGYRpmw8EKG4VQc28xbO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[니코: 오로라 원정대의 모험ㅣ캐릭터 투표 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.11 ~ 2024.12.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/10/UVPRXzaIp7gf2oRJOPeAjQoQIEC48249.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[매월 찾아오는 12월의 메가데이! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -648,6 +656,22 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/10/J44uguz2gLIQpINeun6p48K95b4nX1dO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[하남스타필드] 더 부티크 재즈 나잇 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.28 ~ 2024.12.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/11/JDqAYNX6iK3wGRyfAChGXDNBcymVNBK8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[남춘천] 1st 선호지점 설정하고 럭키 드로우 겟하자! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.20 ~ 2024.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/11/OxRpyejVpOkvefQedRhtAB0xM99P97p3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[수원인계] Happy 1st Anniversary! (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -670,6 +694,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.01 ~ 2025.05.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/05/q2wOGMCA7PwCmlrZFe9RWGXvOM1DZwVy.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[양산증산] 볼매팡팡 4탄! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.01 ~ 2025.02.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/11/kh7L7aOCvuqIJTfMHVKOJ3uiwZTHKI7g.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[용인테크노밸리] 포대 팝콘 1+1 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
