@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Dec 2024 01:43:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Dec 2024 03:05:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -310,6 +310,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.14 ~ 2024.12.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/10/3ajt9q9kfpTOfjmwT1DVzsLKMSYFdGt8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<대가족> 효도 할인쿠폰 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.14 ~ 2024.12.22]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/12/Jto6cplAvYwTQGoU5FGsxs2pLpGjSXE9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[앵콜! <위키드> 응원봉 리액션 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
