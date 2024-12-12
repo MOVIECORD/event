@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Dec 2024 14:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Dec 2024 15:25:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -176,14 +176,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/11/HOkryBnRM0YCanxdBfgRFds5OpypIMWP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<아가씨> 특별 상영! 티셔츠 굿즈 패키지]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.12 ~ 2024.12.12]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/06/gSxxvor67k9kjXpiXOc2Pz2xYUl3RWQ2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<서브스턴스> 개봉주 현장증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -278,14 +270,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.05 ~ 2024.12.17]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/29/EkxEbcDlNuLsRYCFqWizTRxb9r9e7nbC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<리바이벌 69’> SNS 관람인증 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.05 ~ 2024.12.12]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/03/W7qJKfVKDqNyLOdJPsGBB2L4H6pWARC9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<본 얼티메이텀> 1주차 포스터 증정 이벤트]]></title>
