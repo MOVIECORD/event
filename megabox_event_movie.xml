@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Dec 2024 07:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Dec 2024 08:31:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.14 ~ 2024.12.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/09/o3zDs21NwTjbl710hnYbhPLNN7rIDRKJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<서브스턴스> 개봉 주말 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.14 ~ 2024.12.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/12/ibgqpSMqOHP0NcXVDgkEnQ6ALq02T3Pp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<에드워드 호퍼> 3주차 주말 현장증정 이벤트]]></title>
@@ -86,6 +94,30 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.13 ~ 2024.12.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/10/7WdZUkfNlkVxF1urUrTshf0opmyyn20R.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[무파사: 라이온 킹] 선착순 빵원티켓 ➕]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.13 ~ 2024.12.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/12/8fxEeRBc4KrrMuzQrSB1fgk62xw3oebP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대가족] 선착순 빵원티켓 ➕]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.13 ~ 2024.12.19]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/12/AhupF9OMAppVceRUfRXx3z12aeKevyVK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[히든페이스] 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.13 ~ 2024.12.19]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/12/4HWukjBkfolrs2jcC89rRDn11PTt3VDm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<위키드> 싱어롱 상영회 & 싱어롱 경품증정 이벤트]]></title>
