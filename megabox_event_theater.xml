@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Dec 2024 23:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Dec 2024 01:46:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -174,14 +174,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.01 ~ 2024.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/20/CSxKSTYbWgMyjOJLCbVPttuNs0SgqEAM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[덕천] 돌아온 싱글콤보 패키지!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.01 ~ 2024.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/14/sb1LKL9q3JRz5ttGA1OZ6Qklja4XHJ5S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[양산증산] 팝콘 2천원 할인 쿠폰 받자!]]></title>
@@ -492,7 +484,7 @@
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.16 ~ 2024.12.31]]></content:encoded>
+            <content:encoded><![CDATA[2024.04.16 ~ 2025.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/04/30/B1wO7F6AQCz7pfGioFAwhCROVkOF48d1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
