@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Dec 2024 23:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Dec 2024 01:43:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.18 ~ 2025.01.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/13/XfTZlfTxQ7bz3H7gPf7yX669TVZSf17h.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[프로모션][굿즈] <라이온 킹> 콤보 런칭🎉]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.18 ~ 2025.01.11]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/17/Mzf75KFPOwLSWpJU8oGWsVfJUDzcDr0j.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 No. 128 <무파사: 라이온 킹>]]></title>

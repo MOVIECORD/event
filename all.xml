@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Dec 2024 23:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Dec 2024 01:43:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.18 ~ 2025.01.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/13/XfTZlfTxQ7bz3H7gPf7yX669TVZSf17h.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[프로모션][굿즈] <라이온 킹> 콤보 런칭🎉 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.18 ~ 2025.01.11]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/17/Mzf75KFPOwLSWpJU8oGWsVfJUDzcDr0j.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 No. 128 <무파사: 라이온 킹> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -328,6 +336,22 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/11/lIdqf7cY8oxkIqlyJfuwS7CcZRFgIyVI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[보고타: 마지막 기회의 땅] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.18 ~ 2025.01.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/17/Rxd2HVvdBZ2ae9ASxKU68JehVpvRgOWx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무파사와 함께하는 메박 여정 (feat. N차 관람 이벤트) (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.18 ~ 2025.01.05]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/17/JDqpiZNbZpJgcI6HrhNse4gR1YOQORdn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<아키라> 2주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -350,6 +374,22 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.18 ~ 2024.12.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/16/Cw4aqboSyiIsLndHvRMClgNPZCf6nZxo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대가족] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.18 ~ 2024.12.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/17/Wj3lvOt50XseljiIA0ZRuyOedHfJQbEk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[서브스턴스] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.18 ~ 2024.12.24]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/17/K14oOZUjKgUs6ZBGljGliQfAx9VfKdbp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<모아나 2> 선착순 없는 편안함ㅣ1타 3피 굿즈 증정 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
