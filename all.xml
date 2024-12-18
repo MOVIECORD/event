@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Dec 2024 23:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Dec 2024 02:59:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -352,6 +352,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/11/lIdqf7cY8oxkIqlyJfuwS7CcZRFgIyVI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<소방관> 포토카드 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.20 ~ 2025.01.02]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/18/9TRLbWs5M1t036GFKD85RyMU1mFGsYtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<크리스마스에 기적을 만날 확률> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -656,6 +664,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/11/XdfCpu4462MlQjddYfStfXVX3vf5k5TN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[킨텍스] 지점전용관람권 패키지 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.09 ~ 2025.02.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/18/HBhUuR8bkV4YAhYSLg5sNSJ2YdFtPGEl.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[덕천] 내 맘대로 굿즈 콤보! (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -856,20 +872,20 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/11/nzVFm3oAq0d7BtZrRIdukuVy6bEkIjRY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[대구세븐밸리] 힘내라! 대구! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.27 ~ 2025.03.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/18/c6lz7TgqtLPH0vGhdqXmcAZZq3xDggbi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[해운대장산] 심야영화 관람 EVENT (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.27 ~ 2025.03.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/09/27/WbRxMeyCoQsYJUlUZK092HQnHdZIMf0W.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대구세븐밸리] 힘내라! 대구! (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.27 ~ 2024.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/11/fVXP2iTu4iEF8hCqCeOqQWXa3q3rc75m.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[제주서귀포] 1주년 고객 감사 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
