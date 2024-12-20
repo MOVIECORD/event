@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Dec 2024 07:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Dec 2024 08:26:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -382,6 +382,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.24 ~ 2024.12.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/10/IZTgalJVDQe4RNg2dOS3MkEU8A6XzbCp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[수퍼 소닉3] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.23 ~ 2025.01.07]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/20/Pge4oeimLuce6FDI84HMTPcfFn8YbrSb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[시빌 워: 분열의 시대] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
