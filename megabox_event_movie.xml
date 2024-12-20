@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Dec 2024 06:29:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Dec 2024 07:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.24 ~ 2024.12.24]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/10/IZTgalJVDQe4RNg2dOS3MkEU8A6XzbCp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[시빌 워: 분열의 시대] 선착순 빵원티켓 ➕]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.23 ~ 2025.01.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/20/1Nhbo93y3zPfJKuS0cKZwmE9fKI0O9VD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<서브스턴스> 앵콜 굿즈 증정 상영회]]></title>
