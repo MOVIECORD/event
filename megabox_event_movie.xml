@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Dec 2024 23:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 01:29:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.25 ~ 2024.12.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/20/Ab4jYIkJ7laBxtx627cRtFDEB4pvczmO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[보고타: 마지막 기회의 땅] 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.24 ~ 2025.01.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/20/78PHDumWEuKa7xeruKvt4mYhXm2elayL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<위키드> 더빙 싱어롱 상영회]]></title>
