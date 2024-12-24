@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Dec 2024 04:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Dec 2024 05:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디즈니 시네마관에서 영화 관람하면 포인트 더블 적립! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.26 ~ 2025.01.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/24/mVvfz3kj6maKO6Xc6mMrYFAKG2hIJNNy.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[메가띠부씰] 크리스마스 이벤트🎄 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
@@ -350,6 +358,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.28 ~ 2024.12.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/23/mAPgfWFjvv0XnEZ5yINa3rs11JuVwb0c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<무파사: 라이온 킹> 3D 렌티큘러 포스터 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.27 ~ 2024.12.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/24/YbGFNnAUfu3QKvknAAostolhpqMiGtck.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<서브스턴스> 새해전야쇼 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
