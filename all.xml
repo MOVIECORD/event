@@ -4,11 +4,11 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Dec 2024 01:27:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Dec 2024 02:52:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[프로모션][굿즈] 슈퍼소닉3 콤보 런칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <title><![CDATA[[프로모션][굿즈] <수퍼 소닉3> 콤보 런칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
@@ -360,12 +360,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/24/zJRBMyGnjG8dBQWaloNNUtlpQHwqdyhn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<크리스마스에 기적을 만날 확률> 3주차 주말 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.28 ~ 2025.01.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/23/6DKYU9XusI4Hhz5iV8Oco2SHkKsx6Cjo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<뽀로로 극장판 바닷속 대모험> 프리미어 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.28 ~ 2024.12.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/23/mAPgfWFjvv0XnEZ5yINa3rs11JuVwb0c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[니코: 오로라 원정대의 모험] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.27 ~ 2025.01.02]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/26/uokOXPDlLAUZOFUkAWuxf4212M3wq5Lh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<킹 오브 프리즘> 무지개 송년회 in 메가박스 동대문 (메가박스 ─ 이벤트 ─ 영화)]]></title>
