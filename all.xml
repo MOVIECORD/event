@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Dec 2024 14:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Dec 2024 15:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -504,14 +504,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/24/YbGFNnAUfu3QKvknAAostolhpqMiGtck.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<서브스턴스> 새해전야쇼 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.27 ~ 2024.12.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/23/tZzWnfgraEcNlAvSsnSaCtxxq43niIIB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<무파사: 라이온 킹> 데코팩 엽서 세트 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -704,36 +696,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/12/Oc8sb2o6Z4BCePHHhhji6DPPwvDvnHsf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<파라다이스 이즈 버닝> SNS 관람인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.18 ~ 2024.12.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/16/Cw4aqboSyiIsLndHvRMClgNPZCf6nZxo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<모아나 2> 데코팩 세트 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.14 ~ 2024.12.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/09/o3zDs21NwTjbl710hnYbhPLNN7rIDRKJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<서브스턴스> 개봉 주말 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.14 ~ 2024.12.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/12/ibgqpSMqOHP0NcXVDgkEnQ6ALq02T3Pp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<에드워드 호퍼> 3주차 주말 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.14 ~ 2024.12.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/10/3ajt9q9kfpTOfjmwT1DVzsLKMSYFdGt8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[하얼빈] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
