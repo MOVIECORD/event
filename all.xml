@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Dec 2024 09:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Dec 2024 10:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -336,6 +336,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/02/08/DUc8n2wnrwZ6NuljQgXWp6woGSL6W8UW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<밀레니엄 맘보> 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.05 ~ 2025.01.05]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/27/vRnkB3lfvLvZJzpUef3snesnYopkd0Yd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<더 퍼스트 슬램덩크> LAST GAME 특가 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -368,6 +376,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/19/C1bjoHiXrpH7XNzsKY25eqAoWi4rlhPu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<이처럼 사소한 것들> 4주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.01 ~ 2025.01.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/27/HVdHOkJqpIvLNbYR7hgT1LKmd6krJVjW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<러브레터> 개봉주 포켓 도서카드 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -382,6 +398,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.01 ~ 2025.01.01]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/19/3QEIwLK5Xv7QrDEUmxyxBm8trBQCwInt.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<시빌 워: 분열의 시대> 개봉주 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.31 ~ 2025.01.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/27/Y6tOvbpRMkjUPckhAFrYz9DRKTnRUjkb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<보고타: 마지막 기회의 땅> 한인 상인회 큰손은 누구? (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1526,6 +1550,14 @@
             <pubDate>Mon, 25 Nov 2024 22:20:11 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.04 ~ 2025.01.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/17/CUstVj9Ps1ZiVCcxVkUbq8daz683lALm.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<수퍼 소닉3> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.01 ~ 2025.01.05]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/27/VSGqIEb2yLUmDhmbVGDEaXmTjyaIYZND.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<보고타: 마지막 기회의 땅> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
