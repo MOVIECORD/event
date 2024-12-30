@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Dec 2024 01:37:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Dec 2024 02:54:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,14 +246,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.09 ~ 2025.03.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/23/Fe31ZCAs31fsKKtfLfhRGrpX3EDs03tp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[상봉] 조금 이른 빨간 선물]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.04 ~ 2024.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/10/16/tth4qUreu7cOiSfhLkULBpNCXTYJyMWI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[사상] 애니메이션 영화랑 매점 콜라보!]]></title>
