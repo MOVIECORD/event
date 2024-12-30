@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Dec 2024 07:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Dec 2024 08:27:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.01 ~ 2025.01.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/27/mCGSfzlANlJGGUFm8Tl7tRjSDUOjrI07.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 오리지널 티켓 No. 129 <보고타> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.31 ~ 2025.01.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/30/zw9OTlEQ08k4Gw0Z60uHXyBNHhnQIkq3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스앱 첫 구매고객 대상 1+1 쿠폰 이벤트! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -1502,6 +1510,14 @@
             <pubDate>Mon, 25 Nov 2024 22:20:11 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.01 ~ 2025.01.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/27/3CjTGv7IsXAttGoAeCgvBsuei2ZHG5n5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<카라바조의 그림자> 메가박스 필름 소사이어티 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.30 ~ 2025.01.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/30/biqYDI2i9rEe9OmXqHvGtxufTH3pAQ2a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<극장판 짱구는 못말려: 우리들의 공룡일기> 개봉 기념 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
