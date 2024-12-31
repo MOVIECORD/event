@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Dec 2024 02:50:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Dec 2024 03:24:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.02 ~ 2025.01.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/30/MP25s9yLeLp0A4FXCwXdsicwMPeLtiQy.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 오리지널 티켓 Re. 31 <러브레터>]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.01 ~ 2025.01.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/31/9FhyAHdPiFpFcMI9H9deWUTAL1E0vTdh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<수퍼 소닉3> MEGA I MX4D 포스터 증정 이벤트]]></title>
@@ -96,7 +104,7 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/19/vlf99uhqTwkICDPt9EmkMge2cj9IrOCP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[관람 경품 이벤트] <하얼빈>을 기억하는 방법🇰🇷]]></title>
+            <title><![CDATA[[관람 경품 이벤트] <하얼빈>을 기억하는 방법??🇷]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
