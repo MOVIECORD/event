@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jan 2025 02:51:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jan 2025 03:25:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,6 +286,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.04 ~ 2025.01.05]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/23/Ls0GSeJZ787sQ1C6Ex8lvx2iIHbZUbzr.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<페라리> 프리미어 굿즈 증정 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.04 ~ 2025.01.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/02/trKmwe99zQAkBkAdOiHjKi3jQBwjSnoc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[CLASSIC SOCIETY] 2025 베를린 필하모닉 갈라 프롬 베를린 중계 안내 (메가박스 ─ 이벤트 ─ 영화)]]></title>
