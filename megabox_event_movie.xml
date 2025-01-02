@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jan 2025 11:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jan 2025 12:39:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -61,7 +61,7 @@
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.04 ~ 2025.01.12]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/24/S2UqMPsMuL2rsFjEsxFdkeC2GH5nQ88T.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/02/NfIZxRtDCfBZ3Ir3LFi9h1OxCISkeCqC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<더 퍼스트 슬램덩크> LAST GAME 현장 증정 이벤트]]></title>
@@ -69,7 +69,7 @@
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.04 ~ 2025.01.12]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/23/IpTJkKJcYZpXwhH9FkkFmU26OelXJ6ss.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/02/B4PatQ12nUm5S7g7Vf2RP2lrxgWHYr5y.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<데드데드 데몬즈 디디디디 디스트럭션: 파트1> 프리미어 상영회]]></title>
@@ -78,6 +78,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.04 ~ 2025.01.05]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/23/Ls0GSeJZ787sQ1C6Ex8lvx2iIHbZUbzr.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<서브스턴스> Happy New Year 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.04 ~ 2025.01.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/02/OaudrT6sbriUjUPNUjT6tsg1xTnsRuLk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[CLASSIC SOCIETY] 2025 베를린 필하모닉 갈라 프롬 베를린 중계 안내]]></title>
