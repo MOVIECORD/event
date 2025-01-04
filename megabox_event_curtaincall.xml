@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jan 2025 14:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jan 2025 15:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Tue, 03 Dec 2024 10:25:53 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.04 ~ 2025.01.05]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/18/kjDtxY91ZvlVieTLlfCJlcpuu0SooC5Y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<뽀로로 극장판 바닷속 대모험> 개봉기념 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Tue, 03 Dec 2024 10:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.04 ~ 2025.01.04]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/30/sPx9WsJWwNI6fFW9Ed0dLghS75Pa1vyy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<카라바조의 그림자> 메가박스 필름 소사이어티 회원시사]]></title>
