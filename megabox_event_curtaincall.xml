@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jan 2025 14:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jan 2025 15:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,28 +24,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/03/eT8TCC4T319bZ5xfhk07M4vrKNDiZxWJ.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[<수퍼 소닉3> 개봉주 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Tue, 03 Dec 2024 10:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.05 ~ 2025.01.05]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/27/VSGqIEb2yLUmDhmbVGDEaXmTjyaIYZND.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<하얼빈> 2주차, 3주차 무대인사]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
             <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
             <pubDate>Tue, 03 Dec 2024 10:25:53 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.04 ~ 2025.01.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/17/CUstVj9Ps1ZiVCcxVkUbq8daz683lALm.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<보고타: 마지막 기회의 땅> 개봉주 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Tue, 03 Dec 2024 10:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.04 ~ 2025.01.05]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/18/kjDtxY91ZvlVieTLlfCJlcpuu0SooC5Y.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<카라바조의 그림자> 메가박스 필름 소사이어티 회원시사]]></title>
