@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jan 2025 09:23:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jan 2025 10:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -270,6 +270,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.11 ~ 2025.01.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/02/chiIE0ttzxyMoyUKShiAcDvK2UXnyP6F.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<극장판 짱구는 못말려: 우리들의 공룡일기> 4주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.09 ~ 2025.01.22]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/06/iL4Rd9at1IlLqOzTZzZNF1BaDsjVOOeE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<보고타: 마지막 기회의 땅> 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -880,12 +888,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/26/nIsiN9VCzodATS99X8CxoTFxGCdrPCoU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<뽀로로 극장판 바닷속 대모험> 2주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.11 ~ 2025.01.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/06/B6mvUeipyBKNgAKJvQ2oCVz5w7AZEZnR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<보고타: 마지막 기회의 땅> 2주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
             <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
             <pubDate>Mon, 25 Nov 2024 22:20:11 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.11 ~ 2025.01.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/24/w06psY7d4xFA93aDfHhDmeyKJe3qSeMT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<수퍼 소닉3> 2주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.11 ~ 2025.01.11]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/06/xv98RRgGrG7smpx4k6ZVrF0kjo7AiQmo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<언데드 다루는 법> 메가박스 필름소사이어티 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
