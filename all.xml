@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jan 2025 02:54:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jan 2025 03:27:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,12 +272,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/02/chiIE0ttzxyMoyUKShiAcDvK2UXnyP6F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<수퍼 소닉3> 2주차 '소닉 럼블' 아이템 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.09 ~ 2025.01.22]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/07/AiniIMOBgas8uaHPXCfi20zPh00xhLMP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<극장판 짱구는 못말려: 우리들의 공룡일기> 4주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.09 ~ 2025.01.22]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/06/iL4Rd9at1IlLqOzTZzZNF1BaDsjVOOeE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<수퍼 소닉3> 2주차 포스터 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.09 ~ 2025.01.22]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/06/shE1OqApgzVvy46ZseTQkf6AZAMvOIWl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<보고타: 마지막 기회의 땅> 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
