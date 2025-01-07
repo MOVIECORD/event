@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jan 2025 01:28:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jan 2025 02:54:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -830,6 +830,14 @@
             <pubDate>Mon, 25 Nov 2024 22:20:00 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.06 ~ 2025.01.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/26/nIsiN9VCzodATS99X8CxoTFxGCdrPCoU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<동화지만 청불입니다> 1,2주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.12 ~ 2025.01.19]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/07/7pJfVfSu0KMGop8W7xt2ZqRFDNvWVKuA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<뽀로로 극장판 바닷속 대모험> 2주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
