@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jan 2025 07:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jan 2025 08:27:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/30/0o5a6FA76mTkE0jQUkpeMGevynZ2bOeh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<리얼 페인> 프리미어 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.11 ~ 2025.01.11]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/07/i3w9HOpWWeeizIYxMrUiyFOCVM3Rb9fl.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[앵콜! <보고타: 마지막 기회의 땅> 보고 콜롬비아로 떠나자!]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -38,6 +46,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.11 ~ 2025.01.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/02/chiIE0ttzxyMoyUKShiAcDvK2UXnyP6F.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<무파사: 라이온 킹> 앵콜 렌티큘러 포스터 굿즈패키지 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.10 ~ 2025.01.12]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/07/tZJTM4GgUbPvz3vk05UBiKRGqVUx95LI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<수퍼 소닉3> 2주차 '소닉 럼블' 아이템 증정 이벤트]]></title>
