@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jan 2025 01:37:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2025 02:56:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[프로모션][굿즈] <미피 가죽키링> 굿즈 런칭! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.15 ~ 2025.01.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/09/vG9ooO1jMJ7wGv9qh9wNGDjor7wCJodO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[반지의 제왕: 두 개의 탑] 스페셜 특가&특전 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
@@ -464,14 +472,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/07/bKVIYl0UWodRX7pczOGEu6lmK3etokn1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<보고타: 마지막 기회의 땅> 상암월드컵경기장 N차 인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.05 ~ 2025.01.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/09/kKNSkKLxjpMZHbCZ5oWv703Uh0l2Hpu6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<수퍼 소닉3> 개봉 주말 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -598,6 +598,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.26 ~ 2025.01.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/20/ZbE80RkTvXGTY5eRv1L0tINvjtiaCmLG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[상암월드컵경기장] <보고타: 마지막 기회의 땅> N차 인증 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.05 ~ 2025.01.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/09/kKNSkKLxjpMZHbCZ5oWv703Uh0l2Hpu6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[사상] 애니메이션 영화랑 매점 콜라보! (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -942,6 +950,14 @@
             <pubDate>Mon, 25 Nov 2024 22:20:00 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.02 ~ 2025.01.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/02/vJiOBW7gqjIrC3CPT2arO8RwNJeJ8CX7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2025년 군인, 경찰 특별 혜택 안내 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.01 ~ 2025.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/10/j6b88J6fVdxpLpb4Ah13UbqviiXqTVgT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[LG유플러스] 멤버십 전용 메가박스 할인! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>

@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jan 2025 01:37:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2025 02:56:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[상암월드컵경기장] <보고타: 마지막 기회의 땅> N차 인증 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.05 ~ 2025.01.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/09/kKNSkKLxjpMZHbCZ5oWv703Uh0l2Hpu6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[사상] 애니메이션 영화랑 매점 콜라보!]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
