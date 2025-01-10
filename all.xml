@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jan 2025 06:29:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2025 07:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1000,12 +1000,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/26/nIsiN9VCzodATS99X8CxoTFxGCdrPCoU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<검은 수녀들> 설 연휴 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.29 ~ 2025.01.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/10/57ITrD64fhXXPfRAgWwwUOHDqzGAY0hP.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[<말할 수 없는 비밀> 개봉주&2주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
             <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
             <pubDate>Mon, 25 Nov 2024 22:20:11 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.28 ~ 2025.02.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/09/5Yhaby16OgUeSmBDrTBgUMl4zauaC39B.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<검은 수녀들> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.26 ~ 2025.01.26]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/10/q4tkBr47uyswkLHOGnuF7y2VOYYIMIqy.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<히트맨2> 개봉일 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
