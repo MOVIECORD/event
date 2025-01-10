@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jan 2025 14:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2025 15:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,14 +118,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.26 ~ 2025.01.19]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/26/O56nc7SwTbC2tJ8waBOHcPVnH7Vm3Eh0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니 시네마관에서 영화 관람하면 포인트 더블 적립! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.26 ~ 2025.01.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/24/mVvfz3kj6maKO6Xc6mMrYFAKG2hIJNNy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<하얼빈> 돌비 애트모스 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -614,14 +606,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.31 ~ 2025.01.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/24/nF1jcXKhj9v1ibj2Mw1lP3deU8nMMSRB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<크리스마스에 기적을 만날 확률> 3주차 주말 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.28 ~ 2025.01.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/23/6DKYU9XusI4Hhz5iV8Oco2SHkKsx6Cjo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<무파사: 라이온 킹> 데코팩 엽서 세트 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
