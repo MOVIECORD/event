@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jan 2025 14:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jan 2025 15:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,38 +110,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.11 ~ 2025.01.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/09/qygSOO0RWV7GMooroPHHMGEx5xYhzzvv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<서브스턴스> 미친 열연 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.11 ~ 2025.01.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/07/FBNoUdi196Ev0Jk44tbXGXAwqDmYthWv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<리얼 페인> 프리미어 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.11 ~ 2025.01.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/07/i3w9HOpWWeeizIYxMrUiyFOCVM3Rb9fl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[앵콜! <보고타: 마지막 기회의 땅> 보고 콜롬비아로 떠나자!]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.11 ~ 2025.01.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/06/RG5p2z4Lv6h4Qh7xIn36I9Wgb4u1LzPy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<데드데드 데몬즈 디디디디 디스트럭션: 파트1> 원작 만화 굿즈패키지 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.11 ~ 2025.01.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/02/chiIE0ttzxyMoyUKShiAcDvK2UXnyP6F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<러브레터> 2주차 메인포스터 증정 이벤트]]></title>
