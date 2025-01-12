@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jan 2025 14:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jan 2025 15:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,30 +56,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/07/7pJfVfSu0KMGop8W7xt2ZqRFDNvWVKuA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<니코: 오로라 원정대의 모험> 새해맞이 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Tue, 03 Dec 2024 10:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.11 ~ 2025.01.12]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/07/C3mB5IpytoAs7N1YHYbfRJ0Gz1KmhG5U.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<뽀로로 극장판 바닷속 대모험> 2주차 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Tue, 03 Dec 2024 10:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.11 ~ 2025.01.12]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/06/B6mvUeipyBKNgAKJvQ2oCVz5w7AZEZnR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<보고타: 마지막 기회의 땅> 2주차 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Tue, 03 Dec 2024 10:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.11 ~ 2025.01.12]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/24/w06psY7d4xFA93aDfHhDmeyKJe3qSeMT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<???> 메가박스 블라인드 회원 시사회]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
             <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
@@ -110,14 +86,6 @@
             <pubDate>Tue, 03 Dec 2024 10:25:53 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.06 ~ 2025.01.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/06/karSf8usSzgsGNk8GFTrGo3mX2TEgS5E.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<하얼빈> 2주차, 3주차 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Tue, 03 Dec 2024 10:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.04 ~ 2025.01.12]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/17/CUstVj9Ps1ZiVCcxVkUbq8daz683lALm.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
