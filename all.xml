@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jan 2025 14:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jan 2025 15:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,14 +134,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.24 ~ 2025.01.19]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/19/vlf99uhqTwkICDPt9EmkMge2cj9IrOCP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[관람 경품 이벤트] <하얼빈>을 기억하는 방법🇰🇷 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.24 ~ 2025.01.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/23/bnxWvzgYLoDziOFl2yEvhzTbr6REBnZC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[칸츄리콘 콤보 런칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -480,14 +472,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/06/XVdQDWZ2FHl4dK9hxaNmjqhAzoZmpEtY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[보고타: 마지막 기회의 땅] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.07 ~ 2025.01.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/06/vsz1ZDxc1JfWgMsbI2PgitRAhcaEURjJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<수퍼 소닉3> 개봉 주말 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -558,22 +542,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.31 ~ 2025.01.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/27/Ly10S6MAJ7ShFTsA83gcyYKYjI8GilxW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<시빌 워: 분열의 시대> 개봉주 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.31 ~ 2025.01.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/27/Y6tOvbpRMkjUPckhAFrYz9DRKTnRUjkb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<보고타: 마지막 기회의 땅> 한인 상인회 큰손은 누구? (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.31 ~ 2025.01.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/24/nF1jcXKhj9v1ibj2Mw1lP3deU8nMMSRB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<무파사: 라이온 킹> 데코팩 엽서 세트 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
