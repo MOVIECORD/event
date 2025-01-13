@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jan 2025 08:28:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jan 2025 09:23:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.13 ~ 2025.02.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/13/6EDOH8yW8WsPGc1cIULlOPFp3AuqJoym.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[매월 찾아오는 1월의 메가데이!]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.13 ~ 2025.01.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/13/JZomdgqlMNCDtZsHDAEp7JRWWsAh2EVa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[마당을 나온 암탉] 팬아트 그림 대회!]]></title>
