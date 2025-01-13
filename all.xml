@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jan 2025 10:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jan 2025 11:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -270,6 +270,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.18 ~ 2025.01.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/10/vfaDazLVO7r3NLIu7e9FX3xFSCadKJat.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<데드데드 데몬즈 디디디디 디스트럭션: 파트1> 2주차 주중 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.16 ~ 2025.01.29]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/13/FWXdq4RmHCWGSt2YRGDg1nviN9MUo6ey.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<리얼 페인> 개봉주 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
