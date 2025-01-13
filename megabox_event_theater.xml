@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jan 2025 23:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jan 2025 01:39:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,7 +328,7 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/06/17/hlfANbOaTW94MbvdLUnEZuH4bCFhtQFk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[성수] 부티크 스위트 할인 이벤트]]></title>
+            <title><![CDATA[[성수] 더 부티크 스위트 특별할인]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
