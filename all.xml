@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jan 2025 10:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jan 2025 11:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,6 +238,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2022.10.07 ~ 2025.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/23/vzfDx9psEXCNKkmmCGhxLSO3eJmhmOry.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<애니멀 킹덤> 굿즈 증정 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.24 ~ 2025.01.26]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/14/p0E0LXPKBk10zvybc1og2kimYCIZ09hL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<카라바조의 그림자> 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1038,6 +1046,14 @@
             <pubDate>Mon, 25 Nov 2024 22:20:11 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.22 ~ 2025.01.22]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/09/K9BMWA9AiOen2XHbs2UoyHWJXfXS5m9t.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<뽀로로 극장판 바닷속 대모험> 3주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.18 ~ 2025.01.19]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/14/kV69iRR5mZ7mptGjbYGAvtsy2dVV9NxT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<하얼빈> 4주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
