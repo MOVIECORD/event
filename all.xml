@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jan 2025 01:26:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 02:47:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -240,6 +240,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/23/vzfDx9psEXCNKkmmCGhxLSO3eJmhmOry.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<마당을 나온 암탉> 베스트셀러 원작 도서 증정 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.25 ~ 2025.01.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/13/45s5xAOCyLsskJ4YWzgCJhYL81YCZq2A.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<애니멀 킹덤> 굿즈 증정 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -304,20 +312,20 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/10/vfaDazLVO7r3NLIu7e9FX3xFSCadKJat.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<소방관> 각본집 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.17 ~ 2025.01.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/13/zqYt2ECVGKaLNvjtEU4AX0Av2VMOCnaZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<러브레터> 앵콜 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.17 ~ 2025.01.17]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/13/Vk8qaSDJhIaHO8c5PEAwl8qxsHPQmbKu.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<소방관> 각본집 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.16 ~ 2025.01.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/13/zqYt2ECVGKaLNvjtEU4AX0Av2VMOCnaZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<극장판 짱구는 못말려: 우리들의 공룡일기> 5주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
