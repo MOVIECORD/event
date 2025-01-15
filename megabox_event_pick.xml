@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jan 2025 23:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 01:26:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.18 ~ 2025.01.19]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/07/i4bb77X6xyKw7ca1qvGis8qxm1lksVaG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<마당을 나온 암탉> 굿즈패키지 런칭]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.17 ~ 2025.01.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/15/rJDFeXNKvcvXrtmPDtzwklPaWnT6etyv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[프로모션] <미피가죽키링> 굿즈 런칭!]]></title>
