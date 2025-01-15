@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jan 2025 09:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 10:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<문워크> 스페셜 GV]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.25 ~ 2025.01.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/15/nlNrvNqMtTYQeMz81lTwetS0LApyBqfd.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[<마당을 나온 암탉> 베스트셀러 원작 도서 증정 상영회]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
@@ -78,6 +86,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.18 ~ 2025.01.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/14/R2dbEmsGcCdByjldJyx2XkUOBO1AARZ9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<서브스턴스> 20만 돌파 흥행 감사 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.18 ~ 2025.01.19]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/15/XlRIA2IT6GqGfNkPUsRN7aLOD8GWhYtz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<극장판 기븐 : 히이라기 믹스> 특별 상영회 앙코르]]></title>

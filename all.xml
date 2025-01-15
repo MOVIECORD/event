@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jan 2025 09:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 10:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -240,6 +240,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/23/vzfDx9psEXCNKkmmCGhxLSO3eJmhmOry.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<문워크> 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.25 ~ 2025.01.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/15/nlNrvNqMtTYQeMz81lTwetS0LApyBqfd.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[<마당을 나온 암탉> 베스트셀러 원작 도서 증정 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -310,6 +318,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.18 ~ 2025.01.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/14/R2dbEmsGcCdByjldJyx2XkUOBO1AARZ9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<서브스턴스> 20만 돌파 흥행 감사 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.18 ~ 2025.01.19]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/15/XlRIA2IT6GqGfNkPUsRN7aLOD8GWhYtz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<극장판 기븐 : 히이라기 믹스> 특별 상영회 앙코르 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1062,6 +1078,14 @@
             <pubDate>Mon, 25 Nov 2024 22:20:11 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.26 ~ 2025.01.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/10/q4tkBr47uyswkLHOGnuF7y2VOYYIMIqy.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<하얼빈> 5주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.25 ~ 2025.01.26]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/15/FwRjKWmcHGvr7RWU4UIsSIknzoFh0ajo.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<히트맨2> 개봉일 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
