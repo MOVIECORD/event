@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jan 2025 02:47:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 03:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,12 +64,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/09/DvbybXIE90X3ll8MvkMzhI8zMiJQpZub.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<러브레터> 3주차 설원 포스터 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.18 ~ 2025.01.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/14/R2dbEmsGcCdByjldJyx2XkUOBO1AARZ9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<극장판 기븐 : 히이라기 믹스> 특별 상영회 앙코르]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.18 ~ 2025.01.19]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/13/wayU3ZAL5NDR33CmrVy0edQVUHybtCU1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<뽀로로 극장판 바닷속 대모험> 우리 아이 첫 영화 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.18 ~ 2025.01.18]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/15/WPtJopoVR5QkkYIrMdHr7xmWQMNIYckG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<마당을 나온 암탉> 문소리 배우 & 황선미 작가 북토크 GV]]></title>
