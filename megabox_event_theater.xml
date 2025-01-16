@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jan 2025 03:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jan 2025 04:24:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,14 +294,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.29 ~ 2025.03.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/29/guDwSKGEY8cgzNlcEbGD916wYfSLtono.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[세종(조치원)] 모바일 티켓 제시하면, 팝콘 맛 무료 변경!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.08 ~ 2025.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/08/66duApocjpeK70zGmYlHxfBWLstl1OFm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[평택비전] 가성비 관람권 패키지 판매!]]></title>
