@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jan 2025 09:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 10:22:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.23 ~ 2025.01.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/09/He6USDwapd2EcuvT9bE3on0jjefd3W2h.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<마당을 나온 암탉> 실내 놀이터 이용권 '바로드림' (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.22 ~ 2025.02.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/17/LoFWEewnSItGJIIvYly9qVky40bl0Hxy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[슈펜X이랜드] <마당을 나온 암탉> SNS 관람 인증이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
