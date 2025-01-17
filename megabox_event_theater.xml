@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jan 2025 23:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 01:25:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,14 +294,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.29 ~ 2025.03.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/29/guDwSKGEY8cgzNlcEbGD916wYfSLtono.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[평택비전] 가성비 관람권 패키지 판매!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.15 ~ 2025.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/07/11/pgdO4M01PyYQywVdJMpag8aXSr9lUL6Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[평택비전] 아이와 함께 요금 할인 이벤트]]></title>
