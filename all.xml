@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jan 2025 06:28:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 07:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.22 ~ 2025.01.22]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/13/qa8XBf9iJ7VcHz4r3Q1GEua0s8a5ZpUe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[문워크] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.20 ~ 2025.01.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/17/82xUCydjIOxnuh8wFmtO1SWwlggSoe19.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<페라리> 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
