@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jan 2025 08:29:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 09:22:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/23/vzfDx9psEXCNKkmmCGhxLSO3eJmhmOry.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<은빛살구> 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.01 ~ 2025.02.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/20/cQO2AoYwjaPX7kUNju9tNdiFzsTM6k8F.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<문워크> 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -414,6 +422,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.21 ~ 2025.01.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/20/SzR57e3dqEWu0y9U6gadWf8ntT3hqDBf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<마당을 나온 암탉> 최애캐릭터 투표대회! (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.20 ~ 2025.02.02]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/20/UcIbAcMXwtMjMED7Ip2T3Kqm0FHqF0zH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[검은 수녀들] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
