@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jan 2025 14:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jan 2025 15:22:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -312,14 +312,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/10/m1F7RcyDcXPE3OFbfgYcyPmLmrtO0eLX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<은빛살구> SNS 관람인증 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.15 ~ 2025.01.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/13/RrOmVAjjkVOGJdBc5B4jW5fDp71BNe2k.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[코넬의 상자] 선착순 빵원티켓]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -334,14 +326,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.13 ~ 2025.01.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/09/dnXVYHMQtNsseaN8IoUyeYPwCHpCeGLB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[폭락] 선착순 빵원티켓]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.13 ~ 2025.01.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/09/zaisfujr3vhiFlZY7znqQcx7Y4VdmPzO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<수퍼 소닉3> 2주차 '소닉 럼블' 아이템 증정 이벤트]]></title>
@@ -376,28 +360,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/02/dVOxetAHRALkHr4LaUJNAhAiSmGsYxPd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<서브스턴스> 5주차 현장증정 이벤트]]></title>
+            <title><![CDATA[[2025 메트오페라] 시즌 상영 안내 Live on Screen in Cinemas @ The Met]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.08 ~ 2025.01.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/06/C4H8LFyaLnENxNpTJcFhlY1AiCEFXLOn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<뽀로로 극장판 바닷속 대모험> 2주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.08 ~ 2025.01.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/06/mJKdbYwBjeVZLLy9mmnBIY0s3afiinvz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<데드데드 데몬즈 디디디디 디스트럭션: 파트1> 개봉주 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.08 ~ 2025.01.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/03/K8iaOK2EMLBA6Wmf7tC1MiW07WKtKhkY.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2025.02.06 ~ 2025.09.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/21/AcRroGwqCrPZmbYqRpyZI3inycChClJR.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

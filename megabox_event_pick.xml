@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jan 2025 14:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jan 2025 15:22:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,14 +96,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/10/GCvRUVx52sYvH7hKuB90WCxLSdE8o99C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[반지의 제왕: 두 개의 탑] 스페셜 특가&특전]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.15 ~ 2025.01.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/09/VJrQ55PNO2MdvEbMmjd6V5xLpHIsFGKo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[빵원티켓이 달라졌어요!]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
@@ -128,28 +120,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/13/JZomdgqlMNCDtZsHDAEp7JRWWsAh2EVa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[마당을 나온 암탉] 팬아트 그림 대회!]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.09 ~ 2025.01.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/09/eANYKrbkM5hrWLIHBaRM9yRKYAi8xnJh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[메가박스 드로잉 카드 No.30 <페라리>]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.08 ~ 2025.02.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/02/D9ofNGjfBQMDJlidZKUU81b6nVE4pNZh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해피 뉴 (   ) 돌비 기획전]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.08 ~ 2025.01.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/06/42KhHi0iF5Oi5446uPHMYMKF3GBqvFiw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2025 메가 인센티브 받고 VIP LEVEL UP]]></title>
