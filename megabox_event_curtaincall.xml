@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jan 2025 14:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jan 2025 15:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,14 +78,6 @@
             <pubDate>Tue, 03 Dec 2024 10:25:53 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.25 ~ 2025.01.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/13/ANpfpc0NHX1uRLs7BPjYVs9DwVoKECqQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<히트맨2> 개봉일 무대인사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Tue, 03 Dec 2024 10:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.22 ~ 2025.01.22]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/09/K9BMWA9AiOen2XHbs2UoyHWJXfXS5m9t.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
