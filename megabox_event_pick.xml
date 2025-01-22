@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jan 2025 01:27:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jan 2025 02:51:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.24 ~ 2025.02.16]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/14/0Mo2RRVAihqnn8Si62Qij02v5VRS0sNf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 설맞이 메가박스 영화놀이 한마당🌕]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.24 ~ 2025.02.02]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/21/Xn2SWXIxeHIp5cUHcvFyVISIbM7Z2yVC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 페이퍼 LP Label.06 <도어즈>]]></title>
@@ -62,6 +70,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.22 ~ 2025.02.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/21/Bc9V1oTK1nnxxTWw2Edcywvae4AUnfSo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1월 메가데이ㅣ<말할 수 없는 비밀> 영화 관람권]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.22 ~ 2025.02.02]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/22/MzTGGAIDJVrr59YfBqZmCP0DvlWDJIZI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<데드데드 데몬즈 디디디디 디스트럭션> 앵콜 굿즈패키지 런칭]]></title>
