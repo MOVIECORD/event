@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jan 2025 14:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jan 2025 15:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -158,30 +158,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.25 ~ 2025.01.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/22/TsxnX6LvZgsJ9zEflcGQd3y72cmTCokw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<문워크> 스페셜 GV]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.25 ~ 2025.01.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/15/nlNrvNqMtTYQeMz81lTwetS0LApyBqfd.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<마당을 나온 암탉> 베스트셀러 원작 도서 증정 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.25 ~ 2025.01.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/13/45s5xAOCyLsskJ4YWzgCJhYL81YCZq2A.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<마당을 나온 암탉> 황선미 작가 & 오성윤 감독 앵콜 북토크 GV]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.25 ~ 2025.01.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/10/3YCJuovvNYpFHLmlZJJEMQpmJYKF3mXw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<히트맨2> 개봉주 현장증정 이벤트]]></title>
@@ -342,14 +318,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.22 ~ 2025.01.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/20/ip3gnA1XgoYUF249vGjSPPPy36PyxrJt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<애니멀 킹덤> 굿즈패키지 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.22 ~ 2025.01.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/13/sNPtwkGxmppgAGuiHRkRD59J7W7nntqv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[히트맨2] 선착순 빵원티켓 ➕]]></title>
