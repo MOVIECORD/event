@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jan 2025 01:27:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jan 2025 02:49:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -376,12 +376,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/23/DAjnKDV0oIba0hORvvEmApOMuqIcmPkE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<도어즈> 2주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.31 ~ 2025.02.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/23/NO83SBKJGvLMQNghd0WBFj76DeSZB5iX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<마당을 나온 암탉> 2주차 포스터 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.31 ~ 2025.02.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/20/3h1yPiK7e416JLKBe2ybgrYhZuEGH1xb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<러브레터> 5주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.31 ~ 2025.02.02]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/22/ZFokFf2zASsLyiJb1wnkbNS6Nb1b6AlO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<멜랑콜리아> SNS 관람인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
