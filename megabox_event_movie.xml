@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jan 2025 14:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jan 2025 15:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -336,14 +336,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/10/uU9UIDhexInMeH1wMk5er2Os5qT3pF9P.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<걸즈 앤 판처 제 63회 전차도 전국 고교생 대회> MX4D 특별상영 2주차 현장이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.22 ~ 2025.01.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/20/ip3gnA1XgoYUF249vGjSPPPy36PyxrJt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[히트맨2] 선착순 빵원티켓 ➕]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -366,14 +358,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.20 ~ 2025.01.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/17/mMXCKoWPf724tUZCw7qtCvBV5KEfj9Eg.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[문워크] 선착순 빵원티켓]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.20 ~ 2025.01.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/17/82xUCydjIOxnuh8wFmtO1SWwlggSoe19.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<데드데드 데몬즈 디디디디 디스트럭션: 파트1> 2주차 주말 현장증정 이벤트]]></title>
@@ -422,54 +406,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.15 ~ 2025.01.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/10/ookj1S9IdUkrhHuKDEuzZnCbHGtPqPqn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<보고타: 마지막 기회의 땅> 3주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.15 ~ 2025.01.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/14/qeCb13TbvZpKsr0l6IQFMVKVqg7gzofZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<수퍼 소닉3> 3주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.15 ~ 2025.01.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/13/xwXCFZuSUXw2exJ9QWbqUuQfjmM7bdx3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<서브스턴스> 6주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.15 ~ 2025.01.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/13/8039kXcbp1RHqY651umbLKGbYRClrsJO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<걸즈 앤 판처 제63회 전차도 전국고교생대회> MX4D 특별상영 현장이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.15 ~ 2025.01.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/13/VzDbGCj5do1gi2EP5vSdozOrCxvcEjwo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<베놈: 라스트 댄스> 라스트 댄스 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.15 ~ 2025.01.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/10/m1F7RcyDcXPE3OFbfgYcyPmLmrtO0eLX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[히트맨2] 선착순 빵원티켓 ➕]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.13 ~ 2025.01.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/09/dnXVYHMQtNsseaN8IoUyeYPwCHpCeGLB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<보고타: 마지막 기회의 땅> 포스터 증정 이벤트]]></title>
