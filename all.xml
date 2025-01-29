@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jan 2025 14:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jan 2025 15:21:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -616,14 +616,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/10/uU9UIDhexInMeH1wMk5er2Os5qT3pF9P.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[히트맨2] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.21 ~ 2025.01.29]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/20/SzR57e3dqEWu0y9U6gadWf8ntT3hqDBf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<마당을 나온 암탉> 최애캐릭터 투표대회! (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -654,30 +646,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.16 ~ 2025.01.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/13/zqYt2ECVGKaLNvjtEU4AX0Av2VMOCnaZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 짱구는 못말려: 우리들의 공룡일기> 5주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.16 ~ 2025.01.29]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/14/l8Ae822gX1aUkrbtdQczx9hE2poDwT2h.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<데드데드 데몬즈 디디디디 디스트럭션: 파트1> 2주차 주중 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.16 ~ 2025.01.29]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/13/FWXdq4RmHCWGSt2YRGDg1nviN9MUo6ey.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<리얼 페인> 개봉주 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.16 ~ 2025.01.29]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/13/a26fWZj6BPts7fSTvoK9L63Oo4ihMUvw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<파문> SNS 관람인증 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -854,14 +822,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.13 ~ 2025.01.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/21/JqtDonNQ1ef2RRw2KstFmIns1m2a350J.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[킨텍스] GTX-A 킨텍스역 개통 이벤트 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.13 ~ 2025.01.29]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/15/jfwwvSeIKxXN6WBl9GMgW5WpLp5pEYcq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[춘천석사] 최저가에 영화보자! (메가박스 ─ 이벤트 ─ 극장)]]></title>
