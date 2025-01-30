@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jan 2025 23:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jan 2025 01:24:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -166,6 +166,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.31 ~ 2025.02.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/20/3h1yPiK7e416JLKBe2ybgrYhZuEGH1xb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[동화지만 청불입니다] 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.31 ~ 2025.02.07]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/23/mXhjoIZcq2tvN6D2mAiML0NrTiJrTLmv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<러브레터> 5주차 현장 증정 이벤트]]></title>
