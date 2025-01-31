@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Jan 2025 05:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jan 2025 06:29:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.01 ~ 2025.02.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/22/RzXrXhU2atYnp71yXKm1TD8FTSVPZa9Y.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스앱 첫 구매고객 대상 1+1 쿠폰 이벤트! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.30 ~ 2025.02.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/21/0ee2bxFRHJ0O1wpQ8wFHf7dOUrJr0kZ1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<마당을 나온 암탉> 2+1 할인 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -182,14 +190,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.31 ~ 2025.01.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/30/zw9OTlEQ08k4Gw0Z60uHXyBNHhnQIkq3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스앱 첫 구매고객 대상 1+1 쿠폰 이벤트! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.30 ~ 2025.01.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/08/21/0ee2bxFRHJ0O1wpQ8wFHf7dOUrJr0kZ1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[칸츄리콘 콤보 런칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -510,6 +510,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.24 ~ 2025.02.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/23/MJKl1UiHuLre1x6iRannsakTrNJmLGTJ.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[말할 수 없는 비밀] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.24 ~ 2025.02.02]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/22/40TQyZraT1hWaphs0wPcYJ7boNuzQZsZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[브로큰] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
