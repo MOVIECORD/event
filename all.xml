@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Feb 2025 09:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Feb 2025 10:22:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,6 +192,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/23/vzfDx9psEXCNKkmmCGhxLSO3eJmhmOry.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<퇴마록> 민첩한 프리미어 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.15 ~ 2025.02.16]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/03/IkLGksUEiNejmspHalYyS2XPFSaRVt9s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[라이브뷰잉] 시라카미 후부키 1st Solo Live "FBKINGDOM ANTHEM” 진행 안내 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -320,6 +328,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/23/g7WzbDeY9wS7A7hnhXWb0pN69Y5Nytuf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<극장판 쿠로코의 농구 라스트 게임> 개봉주 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.05 ~ 2025.02.18]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/03/E6JV7ldhCYbbmCVLlSskP4VKdrZlZS6A.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<말할 수 없는 비밀> 청소년 러브콤보 할인 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -328,12 +344,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/24/2IwA3G6gFKAGtSJqZtB7cc4DMhbMarAi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<돌비 스페셜 위크> 특가 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.05 ~ 2025.02.11]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/03/c5nCjBbzuy10NewbDigp4WY8o6pr3SjH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<하얼빈> 돌비 스페셜 위크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.05 ~ 2025.02.11]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/03/qFCUXUiyOFXRMXPSU2iLO96fjlqy0zcg.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<검은 수녀들> 돌비 스페셜 위크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.05 ~ 2025.02.11]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/03/BA3vDuzWnRom7HwBs5yyCMdxrGdbJ4Uq.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<검은 수녀들> 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
