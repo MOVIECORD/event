@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Feb 2025 07:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Feb 2025 08:27:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.08 ~ 2025.02.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/23/3xA8t2yCGpbxZAaktWDZOtv5uNSq3oYf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<마당을 나온 암탉> 스토리보드 패키지 증정 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.08 ~ 2025.02.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/03/e1P6QmzdBK4AGBcGxmhUn5myAwNgBeqg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<미드나잇 인 파리> 프리미어 굿즈패키지]]></title>
@@ -128,12 +136,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/24/2IwA3G6gFKAGtSJqZtB7cc4DMhbMarAi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<하얼빈> 돌비 스페셜 위크]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.05 ~ 2025.02.11]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/03/qFCUXUiyOFXRMXPSU2iLO96fjlqy0zcg.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[<검은 수녀들> 메가토크]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.05 ~ 2025.02.05]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/24/VM5kZ8PZm9LkFgu2KDPQhSneFBPdibiJ.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[히트맨2] 선착순 빵원티켓 ➕]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.04 ~ 2025.02.11]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/20/SzR57e3dqEWu0y9U6gadWf8ntT3hqDBf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[브로큰] 선착순 빵원티켓 ➕]]></title>
