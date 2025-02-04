@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Feb 2025 07:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Feb 2025 08:26:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -424,12 +424,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/04/6IAU6a4bf9NmAkgFBigrzmmwuvdM9MNy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<말할 수 없는 비밀> 스페셜 할인 쿠폰 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.05 ~ 2025.02.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/04/EARKRonaqHhbbckiQZk4vYXAJid8G7pF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<검은 수녀들> 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.05 ~ 2025.02.05]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/24/VM5kZ8PZm9LkFgu2KDPQhSneFBPdibiJ.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[아트나인과 함께 하는 <두 사람> GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.04 ~ 2025.02.15]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/04/r1RB4L1JsjAFJp8zQbz3Us8ZQ6BtOSbc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[히트맨2] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1150,6 +1166,14 @@
             <pubDate>Mon, 25 Nov 2024 22:20:11 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.09 ~ 2025.02.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/03/4eN9skxjntsFF9poXigInonJCHaWb9GE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<히트맨2> 3주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.08 ~ 2025.02.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/04/IwNkwJhbOei6yb2BpLSpw5vKPQW6J5E2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<말할 수 없는 비밀> 개봉주&2주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
