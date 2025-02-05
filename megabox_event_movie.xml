@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Feb 2025 08:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2025 09:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.09 ~ 2025.02.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/23/zWf2vYqED0WqnES0CaHZ8aasDhTpESIQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<극장판 쿠로코의 농구 라스트 게임> 개봉 주말 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.08 ~ 2025.02.21]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/05/DmQQOlI2b8rfKGgE2ARlZlDOjh66Op4M.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<러브레터> 6주차 현장 증정 이벤트]]></title>
@@ -230,6 +238,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.05 ~ 2025.02.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/03/E6JV7ldhCYbbmCVLlSskP4VKdrZlZS6A.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<장난을 잘 치는 타카기 양> SNS 기대평 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.05 ~ 2025.02.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/05/bPkc3FTccI9hDnGJf8EQTohnE1087oIc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<히어> '스페셜 데이' 명장면 투표 이벤트]]></title>
