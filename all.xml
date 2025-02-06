@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Feb 2025 09:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Feb 2025 10:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,12 +208,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/03/IkLGksUEiNejmspHalYyS2XPFSaRVt9s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<데드데드 데몬즈 디디디디 디스트럭션: 파트2> 나고클 티셔츠 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.14 ~ 2025.02.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/06/oMZi5O792JPuzaFAkK67DO6FGhisaAlq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<멜랑콜리아> 블루 발렌타인데이 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.14 ~ 2025.02.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/05/qKMlCULS7az26AhihO8I0jfSNDUJ384d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<콘클라베> 아카데미 기획전 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.13 ~ 2025.02.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/06/5NfV4II5FE03GVxS5TAMcB7xZQEtOlAe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[라이브뷰잉] 시라카미 후부키 1st Solo Live "FBKINGDOM ANTHEM” 진행 안내 (메가박스 ─ 이벤트 ─ 영화)]]></title>
