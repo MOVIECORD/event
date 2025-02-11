@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Feb 2025 09:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Feb 2025 10:23:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -166,6 +166,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.12 ~ 2025.02.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/10/rX7PBloF19SetSCCnb3f5OE4mSUZl2fQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[데드데드 데몬즈 디디디디 디스트럭션: 파트2] 선착순 빵원티켓 ➕]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.12 ~ 2025.02.18]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/11/dGG3WEqt8tJvxzvgJd6nQSBmc94OgETb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<멜랑콜리아> GV]]></title>
