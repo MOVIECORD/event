@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Feb 2025 14:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 15:23:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,30 +526,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.06 ~ 2025.02.19]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/10/f8dUJpfFH7WIE6ga4H3Av66uzdtci7jD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<걸즈 앤 판처 제63회 전차도 전국고교생대회> MX4D 특별상영 4주차 현장이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.06 ~ 2025.02.12]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/04/XpmgLH5IbGWat3OPpKarSCdYiQNdKUS2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<영화 러브 라이브! 니지가사키 학원 스쿨 아이돌 동호회 완결편 제1장> MX4D 특전 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.06 ~ 2025.02.12]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/23/wirgnuEznTgB0NTPn0thgJlD5eRfqFC0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<영화 러브 라이브! 니지가사키 학원 스쿨 아이돌 동호회 완결편 제1장> 1주차 특전 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.06 ~ 2025.02.12]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/23/GndwradHzlgRi0KZvAnqziirv9LQgEhd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<멜랑콜리아> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
