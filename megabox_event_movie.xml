@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Feb 2025 14:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Feb 2025 15:23:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,14 +216,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/11/mBeAZfTBCwd2jnojalQhnq29aQudI8ZH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[라이브뷰잉] 시라카미 후부키 1st Solo Live "FBKINGDOM ANTHEM” 진행 안내]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.13 ~ 2025.02.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/21/jdxegCU2tSKXvPz2ZLDXgPk0r2i7FrL5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<캡틴 아메리카: 브레이브 뉴 월드> N차 관람 이벤트★]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -390,38 +382,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.01 ~ 2025.02.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/24/gebBGPuxfmqOPZZAzaoSt84ljLYKpBNB.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<멜랑콜리아> 개봉주 현장 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.31 ~ 2025.02.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/23/DAjnKDV0oIba0hORvvEmApOMuqIcmPkE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<도어즈> 2주차 현장 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.31 ~ 2025.02.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/23/NO83SBKJGvLMQNghd0WBFj76DeSZB5iX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<마당을 나온 암탉> 2주차 색칠공부 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.31 ~ 2025.02.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/22/kKem3lSgD2RoLxgtDVuKmAno9xkSIVcX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<마당을 나온 암탉> 2주차 포스터 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.31 ~ 2025.02.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/20/3h1yPiK7e416JLKBe2ybgrYhZuEGH1xb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[설렘 가득! <말할 수 없는 비밀> 1PICK 이벤트]]></title>
