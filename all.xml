@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Feb 2025 07:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Feb 2025 08:26:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -680,14 +680,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/08/wpfWobRHjDMFFVG6wJT54Q2EsGyayoBz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[문경] 포대팝콘 (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[2025.06.30 ~ 2025.06.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/24/zITdmdNdLD6KzAiGVtleWO5931i7CdDH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[하남스타필드] 더 부티크 재즈 나잇 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -942,6 +934,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.01 ~ 2025.09.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/15/1kzqRANrmJdSSAUpVpGmqdgcHH52Znpv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[문경] 포대팝콘 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.01 ~ 2025.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/24/zITdmdNdLD6KzAiGVtleWO5931i7CdDH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[수원AK플라자] 문화人 팝콘! (메가박스 ─ 이벤트 ─ 극장)]]></title>
