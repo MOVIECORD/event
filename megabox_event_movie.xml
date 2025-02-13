@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Feb 2025 01:28:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Feb 2025 02:51:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.21 ~ 2025.02.21]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/12/q2mlO82YYjXDObzlycFvknwUo44yXwvs.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[톰 행크스X로빈 라이트 <히어> 1PICK 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.19 ~ 2025.03.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/06/CGQmY4D4fcEVimG7YgzA4YJavae1oc0H.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<서브스턴스> 활성제 증정 상영회]]></title>
@@ -112,12 +120,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/11/LsW6NaNfXGSQ6trMLf7w13WcXDXq4yIM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[히어] 선착순 빵원티켓]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.14 ~ 2025.02.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/13/CbcUNkxljsW6zYY0GP0YngypYCs5XJsV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<명탐정 코난: 14번째 표적> 1주차 현장증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.14 ~ 2025.02.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/11/VquGnPkSKUXsm1CzfKQmIqRKkWySvjNb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<말할 수 없는 비밀> 친필사인 폴라로이드 엽서 경품 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.14 ~ 2025.02.16]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/13/ViqN48PCHHSK0PT21sl1D8OZaISr1jOE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<데드데드 데몬즈 디디디디 디스트럭션: 파트2> 나고클 티셔츠 굿즈패키지 상영회]]></title>
