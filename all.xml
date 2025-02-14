@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Feb 2025 08:26:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 09:22:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1230,6 +1230,14 @@
             <pubDate>Mon, 25 Nov 2024 22:20:11 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.22 ~ 2025.02.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/06/eqAdccQFxw4RGnSFy8V4bocDofA8O6PW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<그 시절, 우리가 좋아했던 소녀> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.21 ~ 2025.02.26]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/14/79vqprOQOqjJRTnXKBAJc5GLc0h0Tn9j.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<말할 수 없는 비밀> 3주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
