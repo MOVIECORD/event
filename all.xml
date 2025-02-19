@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Feb 2025 04:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 05:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봉준호 감독&배우 친필사인 경품! <미키 17> N차 관람 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.28 ~ 2025.03.16]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/19/nZUSzOxXBMYSoH3gi2z3KVOlg3GCpPUl.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<미키 17> Dolby 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
