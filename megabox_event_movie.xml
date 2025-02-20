@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Feb 2025 02:52:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Feb 2025 03:25:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<사랑은 사라지지 않는다> 키링 증정 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.02 ~ 2025.03.03]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/20/nsvvQvEQOD8DgGYgovP6qAdgAkmHAi2p.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<히어> 집중분석 GV]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
