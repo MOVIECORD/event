@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Feb 2025 03:25:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Feb 2025 04:25:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.23 ~ 2025.02.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/14/IyULfwrAgvg8K9mDxYh2x7zxAYIt8bwU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<멜랑콜리아> 4주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.22 ~ 2025.03.07]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/20/SPyBTqXkleeDQDaJrK60o06fqUcLhp2J.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<엘리: 몬스터 패밀리> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
