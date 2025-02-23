@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Feb 2025 14:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Feb 2025 15:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -166,14 +166,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.01 ~ 2025.02.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/24/5JMjyWyuRo1ZBjAgSvk58xzEECqOREb0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[제주아라] 제주아라 1주년 쿠폰 릴레이]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.01 ~ 2025.02.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/24/pBkYzSqgkoKx4fNevWA3fo4S8R9mlfGI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[포항] 짐보관 서비스]]></title>
@@ -406,14 +398,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.01 ~ 2025.05.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/05/q2wOGMCA7PwCmlrZFe9RWGXvOM1DZwVy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[양산증산] 볼매팡팡 4탄!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.01 ~ 2025.02.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/11/kh7L7aOCvuqIJTfMHVKOJ3uiwZTHKI7g.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[고양스타필드] 메가박스 x 스몹 단체 패키지]]></title>

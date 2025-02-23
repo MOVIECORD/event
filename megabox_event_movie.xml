@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Feb 2025 14:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Feb 2025 15:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,14 +72,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/21/jCc9TUrSx3qXryPAjAjh0IipR8EwgGG8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<미드나잇 인 파리> 앵콜 굿즈패키지 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.23 ~ 2025.02.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/14/IyULfwrAgvg8K9mDxYh2x7zxAYIt8bwU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<멜랑콜리아> 4주차 현장증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -94,30 +86,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.22 ~ 2025.03.07]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/18/3rXVe7JbvEF8jsXJb8zzoJjQJEoF4oLd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<히어> 주말 굿즈패키지 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.22 ~ 2025.02.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/19/K38WW4uplJLDmzNavEREp0NfJqNTca8U.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<말할 수 없는 비밀> 비밀즈 그리팅 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.22 ~ 2025.02.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/18/Y42gGVT9W8PePXUdhvysobHgAClZwsF0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<데드데드 데몬즈 디디디디 디스트럭션: 파트2> 스페셜 굿즈패키지 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.22 ~ 2025.02.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/14/3nzkq2BcI2CrJVLX9Sjk2YqPve6fjKQv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<그 시절, 우리가 좋아했던 소녀> 개봉주 현장증정 이벤트]]></title>
@@ -302,14 +270,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.13 ~ 2025.02.26]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/10/6EChqMPqaW4SBXoHv7SWS2CQKRtejX5j.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<콘클라베> 아카데미 기획전 현장 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.13 ~ 2025.02.23]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/06/5NfV4II5FE03GVxS5TAMcB7xZQEtOlAe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<캡틴 아메리카: 브레이브 뉴 월드> N차 관람 이벤트★]]></title>
