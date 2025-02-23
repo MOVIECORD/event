@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Feb 2025 08:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Feb 2025 09:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -270,6 +270,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.25 ~ 2025.02.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/20/nwAXOFGI5b1zMuDWEqtGCy0NMqf8iy06.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[첫 번째 키스] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.24 ~ 2025.03.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/21/jCc9TUrSx3qXryPAjAjh0IipR8EwgGG8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<미드나잇 인 파리> 앵콜 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
