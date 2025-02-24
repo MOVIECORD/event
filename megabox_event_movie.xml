@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Feb 2025 05:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Feb 2025 06:31:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.08 ~ 2025.03.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/24/dmn4HPkPapNYqyRZXYKjJV0srNuwmCno.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[라이브뷰잉] TAEYEON CONCERT - The TENSE : LIVE VIEWING 메가 단독 진행안내]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.08 ~ 2025.03.08]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/21/8n5jboMVNeDuIIeEhvft0ihHkvbN48oN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<사랑은 사라지지 않는다> 키링 증정 상영회]]></title>
@@ -46,6 +38,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.28 ~ 2025.03.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/21/JHpUxBjr2v4zvZP6aDRMctamV6c2gHjp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<명탐정 코난: 14번째 표적> 3주차 현장 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.27 ~ 2025.03.05]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/24/RvD8L8Nk5FiGh5Qs3yNiQjAiV9tCCHE7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<히어> 집중분석 GV]]></title>
@@ -94,6 +94,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.26 ~ 2025.03.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/20/r1WxFhehCrUR1f6RLBWaoJkvQmQA8cws.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<서브스턴스> 50만 돌파 기념 현장 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.26 ~ 2025.03.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/24/buIf2pWFFMHCd91NdeyJuh1rsVb4YDCb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<말할수 없는 비밀> 5주차 현장 증정 이벤트]]></title>
