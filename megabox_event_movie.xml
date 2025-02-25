@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Feb 2025 14:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Feb 2025 15:25:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,14 +160,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/25/cOAClhYUGgrGsL1o51vb4A8SDKkjOfIm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<고양이키스: 당신에게 마음을 여는 순간> 스페셜 GV]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.25 ~ 2025.02.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/20/nwAXOFGI5b1zMuDWEqtGCy0NMqf8iy06.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[첫 번째 키스] 선착순 빵원티켓]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -198,14 +190,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.21 ~ 2025.03.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/12/k7rs35EylzOqBAOGltPTJyU2QSBcQLuI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<엘리: 몬스터 패밀리> 스페셜 더블 특가 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.21 ~ 2025.02.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/20/K5UIgQ6yLj5oDoJZOGQv0WJuJAgmQCqI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<영화 러브 라이브! 니지가사키 학원 스쿨 아이돌 동호회 완결편 제1장> 3주차 특전 이벤트]]></title>
@@ -272,30 +256,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/14/obwywQ6wPVSupJnkfIMvomcb3TeFKefp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<말할 수 없는 비밀> 라스트 스페셜 할인 쿠폰 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.19 ~ 2025.02.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/19/Q6dPmTtTzw76Zmbr2v5sIcKj3Qztniie.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<명탐정 코난: 14번째 표적> 2주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.19 ~ 2025.02.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/18/3TGaR3D9dZ2YvsuI3YSEokmoHXbOWKj3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<써니데이> SNS 관람인증 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.19 ~ 2025.02.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/11/PuZJzlTe0gPGRRjSq0y7TotnAK90sPwO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[백수아파트] 선착순 빵원티켓]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -310,14 +270,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.18 ~ 2025.03.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/17/PIXUcBaXUt5SuaEPHX507gQbZwHIRhcL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[써니데이] 선착순 빵원티켓]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.17 ~ 2025.02.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/14/1aw1pxMLnzY2JFfYS4PVUdLuM3ojX26a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<극장판 포켓몬스터 AG: 뮤와 파동의 용사 루카리오> 2주차 현장 증정 이벤트]]></title>
@@ -342,14 +294,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.14 ~ 2025.02.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/11/LsW6NaNfXGSQ6trMLf7w13WcXDXq4yIM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[히어] 선착순 빵원티켓]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.14 ~ 2025.02.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/13/CbcUNkxljsW6zYY0GP0YngypYCs5XJsV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[그 시절, 우리가 좋아했던 소녀] 선착순 빵원티켓]]></title>
@@ -398,30 +342,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.12 ~ 2025.02.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/07/bJ3A1QuXxrNJ8Ej3ETVpILoHJ3y1HTEK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<멜랑콜리아> 3주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.12 ~ 2025.02.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/11/NDaJve6X1PVOhxQhVS3nQITcFE21Fmf5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<서브스턴스> 10주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.12 ~ 2025.02.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/11/Bz3yNqnZysySATirihHnREqKOQrY9n0c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<데드데드 데몬즈 디디디디 디스트럭션: 파트2> 2주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.12 ~ 2025.02.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/10/rX7PBloF19SetSCCnb3f5OE4mSUZl2fQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2025 메트오페라] 시즌 상영 안내 Live on Screen in Cinemas @ The Met]]></title>
