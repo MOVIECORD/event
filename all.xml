@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Feb 2025 08:28:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Feb 2025 09:23:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.26 ~ 2025.03.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/24/wBkYRdIgykhdDrz9fBokJXe5lC4ZsvZA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<영화 러브 라이브! 니지가사키 학원 스쿨 아이돌 동호회 완결편 제1장> 1+1 특전 증정 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.25 ~ 2025.02.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/25/cOAClhYUGgrGsL1o51vb4A8SDKkjOfIm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<고양이키스: 당신에게 마음을 여는 순간> 스페셜 GV (메가박스 ─ 이벤트 ─ 영화)]]></title>
