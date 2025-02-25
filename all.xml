@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Feb 2025 06:30:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Feb 2025 07:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.28 ~ 2025.03.16]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/17/vUnrmWNqNS0DI0HdHs4SlT2StVi1Cy8W.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<장난을 잘 치는 타카기 양> 굿즈패키지 런칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.28 ~ 2025.03.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/25/e9zNkczTKkRMe9vplcWaHWcLhDqvaI79.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 No. 132 <첫 번째 키스> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -632,12 +640,36 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/19/cmPgeAhIzngLFfFy4FnEqCfyYPGCneRA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[하남스타필드] 더 부티크 재즈 나잇 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.15 ~ 2025.03.15]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/25/cYr7yKwSKLlc5XOADQ5HCB8FwBNdFtsb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[세종(조치원)] 딩동! 할인쿠폰이 도착했어요! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.01 ~ 2026.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/25/o9fSoKZSnVSpjPtswGYBxweia9pku9nF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[포항] 포항 제휴 업체 할인 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.01 ~ 2025.08.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/19/b5VNwkw6IETDdrXuCgpkNQjSThx7Lb3o.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[상봉] 화이트데이 기념! 영화+러브콤보 할인!! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.01 ~ 2025.03.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/25/xD5kA4G5czvPUpHsPldI6V506qrsVQIE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[포항] 새학기면 영화 봐야지!! (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -648,12 +680,60 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/19/BmiHw7xSR5CkG63l5JbTEv2re25uEiYx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[강남] 관람권패키지 특가 한정 판매! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.25 ~ 2025.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/25/brqCXYsfRzfsSUhki3mdR9oQOyrVdOec.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대전신세계 아트앤사이언스] 특별관 관람권 패키지 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.25 ~ 2025.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/25/Jm9rlwT2TwLMPt8frL0RrPskmQZmC0KG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[안성스타필드] 신규 가입하고 선호지점 등록하면 릴레이 쿠폰 DREAM (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.24 ~ 2025.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/25/DBrBidcHXzjbl573VlClEfdTy0JIfLuB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[포항] 문화누리 관람권 패키지 (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.22 ~ 2026.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/25/FT0leeUrs0Prd8gQdgaXfj27AnKQxz1M.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[천안] 천안시티FC 유니폼 구매하고  영화&콤보 할인 받자! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.15 ~ 2025.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/25/WgxWQwcPole5NKbfvsB2Ljh9Y5Aue4eU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[평택비전] 가성비 관람권 패키지 판매 (메가박스 ─ 이벤트 ─ 극장)]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.14 ~ 2026.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/19/ESizwExu0Y1kftk1w6fK1BtYxogaq4jG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[삼천포] 키오스크 주문 시 할인! (메가박스 ─ 이벤트 ─ 극장)]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.13 ~ 2025.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/25/iCOko6vfuce6MBVrSpcVCPxZWbOStRJB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[양산증산] 매점 구매하고 할인 쿠폰 받자! (메가박스 ─ 이벤트 ─ 극장)]]></title>
@@ -812,7 +892,7 @@
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.21 ~ 2025.02.28]]></content:encoded>
+            <content:encoded><![CDATA[2025.01.21 ~ 2025.03.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/21/oDXCMLF93IyByQgWOGQjE4mWj9P4VSK1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
