@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://extmovie.com/sisaing</id>
-    <title>익스트림무비 ─ 시사회 ─ 시사회진행</title>
-    <updated>2025-02-26T09:23:20.195Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://extmovie.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>익스트림무비 ─ 시사회 ─ 시사회진행</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 26 Feb 2025 10:23:07 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[존 윅] 특별관 시사회에 초대합...]]></title>
+            <link>https://extmovie.com/sisaing/92860907</link>
+            <guid>https://extmovie.com/sisaing/92860907</guid>
+            <pubDate>Wed, 26 Feb 2025 10:23:07 GMT</pubDate>
+            <content:encoded><![CDATA[10주년 기념 &lt;존 윅&gt; 재개봉 특별관 시사회에 초대합니다. 시사회 신청에 앞서서...]]></content:encoded>
+            <enclosure url="https://extmovie.com/files/thumbnails/907/860/092/295x295.crop.jpg?20250226192257" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
