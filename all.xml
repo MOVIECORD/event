@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Feb 2025 10:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Feb 2025 11:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1342,14 +1342,6 @@
             <pubDate>Mon, 25 Nov 2024 22:20:11 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.20 ~ 2025.03.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/20/lwaH1K08epJuxS7MPyWjgjNj6zX2emr2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[존 윅] 특별관 시사회에 초대합... (익스트림무비 ─ 시사회 ─ 시사회진행)]]></title>
-            <link>https://extmovie.com/sisaing/92860907</link>
-            <guid>https://extmovie.com/sisaing/92860907</guid>
-            <pubDate>Wed, 26 Feb 2025 10:23:07 GMT</pubDate>
-            <content:encoded><![CDATA[10주년 기념 &lt;존 윅&gt; 재개봉 특별관 시사회에 초대합니다. 시사회 신청에 앞서서...]]></content:encoded>
-            <enclosure url="https://extmovie.com/files/thumbnails/907/860/092/295x295.crop.jpg?20250226192257" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
