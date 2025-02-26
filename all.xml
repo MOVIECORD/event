@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Feb 2025 06:30:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Feb 2025 07:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -270,6 +270,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.28 ~ 2025.03.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/21/JHpUxBjr2v4zvZP6aDRMctamV6c2gHjp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<침범> SNS 기대평 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.27 ~ 2025.03.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/26/kvVDVTAEwRYmUASHEsK6xcOqqmC8XRLT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[그 시절, 우리가 좋아했던 소녀] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
