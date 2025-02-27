@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Feb 2025 14:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Feb 2025 15:25:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,14 +134,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.27 ~ 2025.03.05]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/24/RvD8L8Nk5FiGh5Qs3yNiQjAiV9tCCHE7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<히어> 집중분석 GV]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.27 ~ 2025.02.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/06/7OJcM7LwQaaxhsmUXxQXrJwtvItNhwYi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<그 시절, 우리가 좋아했던 소녀> 2주차 현장증정 이벤트]]></title>
@@ -334,38 +326,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.15 ~ 2025.02.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/12/YFHVCg6OPvZg9CRJ4Yrbk1kuTsnxuMfY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<엘리: 몬스터 패밀리> 1주차 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.14 ~ 2025.02.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/12/MOMdmXyndXr3rJFByj8t2y2y1gOslkxV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<말할 수 없는 비밀> 발렌타인데이 현장증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.14 ~ 2025.02.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/11/LsW6NaNfXGSQ6trMLf7w13WcXDXq4yIM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[그 시절, 우리가 좋아했던 소녀] 선착순 빵원티켓]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.13 ~ 2025.02.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/12/DGPlknhbW4BPWpTRx8ItMQnAdGZoBJYG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[퇴마록] 선착순 빵원티켓]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.13 ~ 2025.02.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/12/dTzanwfNrFfwhMXr3DN3R1Cx9AZVb4TO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<캡틴 아메리카: 브레이브 뉴 월드> N차 관람 이벤트★]]></title>
