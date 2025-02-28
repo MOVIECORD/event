@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Feb 2025 14:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 15:23:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,14 +304,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/24/wBkYRdIgykhdDrz9fBokJXe5lC4ZsvZA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<영화 러브 라이브! 니지가사키 학원 스쿨 아이돌 동호회 완결편 제1장> 1+1 특전 증정 상영회]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.25 ~ 2025.02.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/25/cOAClhYUGgrGsL1o51vb4A8SDKkjOfIm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[첫 번째 키스] 선착순 빵원티켓]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -416,14 +408,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/17/PIXUcBaXUt5SuaEPHX507gQbZwHIRhcL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<극장판 포켓몬스터 AG: 뮤와 파동의 용사 루카리오> 2주차 현장 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.15 ~ 2025.02.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/12/YFHVCg6OPvZg9CRJ4Yrbk1kuTsnxuMfY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<캡틴 아메리카: 브레이브 뉴 월드> N차 관람 이벤트★]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -438,14 +422,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.12 ~ 2025.03.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/07/FeLnsTULYevtaypFKftOtueTOXhxIfSy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<말할 수 없는 비밀> 3주차 포스터 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.12 ~ 2025.02.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/07/bJ3A1QuXxrNJ8Ej3ETVpILoHJ3y1HTEK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2025 메트오페라] 시즌 상영 안내 Live on Screen in Cinemas @ The Met]]></title>
