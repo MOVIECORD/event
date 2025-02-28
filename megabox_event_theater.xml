@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Feb 2025 23:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 01:38:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,20 +32,20 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/25/cYr7yKwSKLlc5XOADQ5HCB8FwBNdFtsb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[세종(조치원)] 딩동! 할인쿠폰이 도착했어요!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.01 ~ 2026.04.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/25/o9fSoKZSnVSpjPtswGYBxweia9pku9nF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[포항] 포항 제휴 업체 할인]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.01 ~ 2025.08.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/19/b5VNwkw6IETDdrXuCgpkNQjSThx7Lb3o.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[세종(조치원)] 딩동! 할인쿠폰이 도착했어요!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.01 ~ 2025.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/25/o9fSoKZSnVSpjPtswGYBxweia9pku9nF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[상봉] 화이트데이 기념! 영화+러브콤보 할인!!]]></title>
