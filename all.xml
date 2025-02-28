@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Feb 2025 09:23:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 10:22:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1310,14 +1310,6 @@
             <pubDate>Mon, 25 Nov 2024 22:20:00 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.17 ~ 2025.03.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/17/F0IEhnMDj18fdL9RMtP2B3MHrkbuiqR7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해피포인트x메가박스] 2월 메가해피먼스 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.14 ~ 2025.02.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/10/a7IbK2ojJN0Xe4z4NItrlwbsxieY5alc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[신한카드] EDU PLAN+로 영화 7천원 할인받는 방법! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
