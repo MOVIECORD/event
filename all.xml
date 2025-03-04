@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Mar 2025 04:25:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 05:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,22 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.07 ~ 2025.03.07]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/27/8Y19oDyKFg8U8qYU23GDFHcHh1UUi13D.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<말할 수 없는 비밀> 6주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.05 ~ 2025.03.18]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/04/rN3XiC5Pxh0NajUoBuANHYSbKFbWVIli.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<컴플리트 언노운> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.05 ~ 2025.03.18]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/04/pYq62kpZa1VIGyygfqG15Jt2y6SifaTB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<백수아파트> 2주차 현장증정이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
