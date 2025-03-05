@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Mar 2025 07:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Mar 2025 08:28:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,6 +246,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.07 ~ 2025.03.07]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/27/8Y19oDyKFg8U8qYU23GDFHcHh1UUi13D.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<장난을 잘 치는 타카기양>, <라스트 마일> 3월엔 영화 봄! 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.06 ~ 2025.03.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/05/WYXqqsjKnrPFbxcZp1MbC6wEcSrV7XuI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<영화 러브 라이브! 니지가사키 학원 스쿨 아이돌 동호회 완결편 제1장> 5주차 특전 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1214,6 +1222,14 @@
             <pubDate>Mon, 25 Nov 2024 22:20:00 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.01 ~ 2025.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/26/M0bgVT80VZ1vpwqijjtPDAjfQWtZWYem.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<그 시절, 우리가 좋아했던 소녀> 3주차 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.08 ~ 2025.03.08]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/05/I9LP00CGrBk6yXTc73A3QP0EF6vukJsf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<괜찮아 괜찮아 괜찮아!> 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
