@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Mar 2025 23:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Mar 2025 01:39:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<위플래쉬> 돌비 포스터 증정 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.12 ~ 2025.03.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/04/2RHcFfRRQaRzDeVmoXFdrvHvaWE3mVUB.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메가박스 아트그라피 <장난을 잘 치는 타카기양> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
@@ -166,6 +174,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.15 ~ 2025.03.15]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/27/7CxhTSRY2MnGTbEKQcu24nnwqRZ3cxLV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<미키 17> 헤이미키 나도미키 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.08 ~ 2025.03.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/04/DhiP9ad9DahEy3xL14bCMnbQY1qkOE19.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<위플래쉬> 쇼케이스 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
