@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Mar 2025 14:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Mar 2025 15:24:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -512,22 +512,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/27/k5bpzb4xwpX7NvJqFnbImcOL8x82HWTo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[첫 번째 키스] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.28 ~ 2025.03.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/28/cUOWchJiYREV3zEstjn2BBEWIFcjrQ5G.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<침범> SNS 기대평 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.27 ~ 2025.03.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/26/kvVDVTAEwRYmUASHEsK6xcOqqmC8XRLT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<그 시절, 우리가 좋아했던 소녀> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -584,14 +568,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/20/r1WxFhehCrUR1f6RLBWaoJkvQmQA8cws.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[첫 번째 키스] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.24 ~ 2025.03.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/21/jCc9TUrSx3qXryPAjAjh0IipR8EwgGG8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<멜랑콜리아> 4주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -606,14 +582,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.22 ~ 2025.03.07]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/18/3rXVe7JbvEF8jsXJb8zzoJjQJEoF4oLd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<그 시절, 우리가 좋아했던 소녀> 개봉주 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.21 ~ 2025.03.06]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/12/k7rs35EylzOqBAOGltPTJyU2QSBcQLuI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[톰 행크스X로빈 라이트 <히어> 1PICK 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
