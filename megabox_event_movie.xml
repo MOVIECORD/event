@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Mar 2025 02:58:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Mar 2025 03:30:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.13 ~ 2025.03.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/05/GeIMBkrfWTgYGj1ucs4MpxESPsbSxzKw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[FASTER💥 <위플래쉬> 1PICK 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.12 ~ 2025.03.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/05/N7Q9kJpJhv4H9o7VWKKvWrWVPwH75rAH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<미키 17> 헤이미키 나도미키 상영회]]></title>
