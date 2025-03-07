@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Mar 2025 01:40:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 02:58:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.13 ~ 2025.03.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/05/GeIMBkrfWTgYGj1ucs4MpxESPsbSxzKw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<첫 번째 키스> 3주차 현장 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.12 ~ 2025.03.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/06/tzIlDEH016xPyn5TX8Y7uBPltLqvVhz6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[FASTER💥 <위플래쉬> 1PICK 이벤트]]></title>
@@ -118,6 +126,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.08 ~ 2025.03.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/21/8n5jboMVNeDuIIeEhvft0ihHkvbN48oN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<라스트 마일> SNS 팬아트 공모전]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.07 ~ 2025.03.21]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/07/4l5pDcoqGQRKO8ca1JA3akErILFNyfsP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[노보케인] 선착순 빵원티켓 ➕]]></title>
