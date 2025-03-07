@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Mar 2025 23:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 01:40:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.08 ~ 2025.03.09]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/28/DgMOFvYH9d4gJH8yhi170wwn0jDKScAT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[프로모션][굿즈] 디즈니 픽사 포스터 런칭!]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.07 ~ 2025.04.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/07/WsjjVDastQn51Y8OY1I3xy3lx0q0kI8w.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[프로모션] 3월 신학기 메가굿즈샵 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.07 ~ 2025.03.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/07/HWCFfY0Q15XpDlRXQfHCvg4rYBttvghY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<위플래쉬> 10주년 Re 굿즈패키지 런칭]]></title>

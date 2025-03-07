@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Mar 2025 23:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 01:40:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.16 ~ 2025.03.16]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/27/rpyLswYxBtUv9nucCcBOhqP8t111Hb7p.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<콘클라베> 굿즈패키지 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.15 ~ 2025.03.15]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/06/zq9fjqtsHdqu4GIxnsrMFYgAVFhaq8wS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<로드 오브 히어로즈 5주년 방송> 진행 안내]]></title>
@@ -54,14 +62,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.12 ~ 2025.03.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/05/N7Q9kJpJhv4H9o7VWKKvWrWVPwH75rAH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<첫 번째 키스> 3주차 현장 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.12 ~ 2025.03.18]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/06/tzIlDEH016xPyn5TX8Y7uBPltLqvVhz6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<미키 17> 헤이미키 나도미키 상영회]]></title>
