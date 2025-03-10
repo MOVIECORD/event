@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Mar 2025 01:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 02:36:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<스트리밍> 개봉주 무대인사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Tue, 03 Dec 2024 10:25:53 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.21 ~ 2025.03.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/07/XOcs6xQIYJhQGrDmV7p6k2Vi6N03GpBf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<침범> 개봉주 무대인사]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>

@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Mar 2025 01:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 02:36:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,6 +32,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/27/rpyLswYxBtUv9nucCcBOhqP8t111Hb7p.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<위플래쉬> GOOD JOB 리액션 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.15 ~ 2025.03.15]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/10/Q3EdFdJbaGAHnfu5hA3gibTDbKAOmYK1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<콘클라베> 굿즈패키지 상영회]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -46,6 +54,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.15 ~ 2025.03.15]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/05/5oobVdgHlvnnKAz3pR7OQVOzOBDeSSLq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<데드데드 데몬즈 디디디디 디스트럭션: 파트2> 운명의 랜덤 뽑기 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.14 ~ 2025.03.15]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/10/Yy9cVyP5cga360wibydtNiLEpP45NNZx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<노보케인> 나는 '솔로' 굿즈 상영회]]></title>
@@ -72,12 +88,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/07/8eNosqZBk5DIWrc1ffqeI4gYaZ3oqffS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<미키 17> 3주차 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.12 ~ 2025.03.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/07/M4x1PDKSytLVwd7lkQiNHmZUQAfkycjU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<첫 번째 키스> 3주차 현장 증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.12 ~ 2025.03.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/06/tzIlDEH016xPyn5TX8Y7uBPltLqvVhz6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<컴플리트 언노운> 3주차 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.12 ~ 2025.03.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/06/eC7HNyFu0gPbHTsK8hJXkYVzCA3slql4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[FASTER💥 <위플래쉬> 1PICK 이벤트]]></title>
