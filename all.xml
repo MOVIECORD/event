@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Mar 2025 07:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 08:24:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.15 ~ 2025.04.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/10/PAC7GqEWYfikJjBMtMrDiKQ05cRAIr35.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<진격의 거인 완결편 더 라스트 어택> MX4D 특전 증정 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.15 ~ 2025.03.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/10/aZk8ilZprpELT7r11T8prhW3zIlNkswr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<미키 17> Dolby Cinema 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -62,6 +70,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.12 ~ 2025.03.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/04/2RHcFfRRQaRzDeVmoXFdrvHvaWE3mVUB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 오리지널 슬라이드 No.7 <에밀리아 페레즈> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.10 ~ 2025.04.10]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/10/kXqvpeAWlUTXa2AqnQQ3gzuoAJUePlp0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[프로모션][굿즈] 디즈니 픽사 포스터 런칭! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -254,14 +270,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.16 ~ 2025.03.16]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/27/rpyLswYxBtUv9nucCcBOhqP8t111Hb7p.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<진격의 거인 완결편 더 라스트 어택> MX4D 특전 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.15 ~ 2025.03.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/10/aZk8ilZprpELT7r11T8prhW3zIlNkswr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<컴패니언> 프리미어 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
