@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Mar 2025 08:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 09:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.13 ~ 2025.03.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/05/GeIMBkrfWTgYGj1ucs4MpxESPsbSxzKw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<노보케인> 개봉주 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.12 ~ 2025.03.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/10/4zwQyFzuxpIlW5abjMX798UpCv7SsYmB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<위플래쉬> 개봉주 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1380,7 +1388,7 @@
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
             <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
             <pubDate>Mon, 25 Nov 2024 22:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.15 ~ 2025.03.15]]></content:encoded>
+            <content:encoded><![CDATA[2025.03.15 ~ 2025.03.16]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/05/bY2rxq1leZd1QA3imfDLHRTkS6cqDN4D.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
