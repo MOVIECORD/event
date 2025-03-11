@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Mar 2025 01:40:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 02:59:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -262,6 +262,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.16 ~ 2025.03.16]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/27/rpyLswYxBtUv9nucCcBOhqP8t111Hb7p.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<장난을 잘 치는 타카기 양> 2주차 주말 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.15 ~ 2025.03.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/11/kpZn0khV0IGfH7fF60Bh5ZGGJTB1JmPv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<컴패니언> 프리미어 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
