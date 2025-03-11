@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Mar 2025 23:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 01:40:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/06/lQzdJTpJg7dykqCDOqzqO1kLcbO67aNl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<괜찮아 괜찮아 괜찮아!> 3주차 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.13 ~ 2025.03.26]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/11/6mhK61XUcg5coHdcqbIcFPaK5ky0zscb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<영화 러브 라이브! 니지가사키 학원 스쿨 아이돌 동호회 완결편 제1장> 6주차 특전 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -166,6 +174,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.12 ~ 2025.03.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/06/eC7HNyFu0gPbHTsK8hJXkYVzCA3slql4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LP 선물💿 <위플래쉬> N차 관람 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.12 ~ 2025.03.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/05/TD4vQb4YIgpUThcqMfLISWWwnhxuPLQv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[FASTER💥 <위플래쉬> 1PICK 이벤트]]></title>
