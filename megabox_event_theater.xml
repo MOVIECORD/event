@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Mar 2025 23:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 01:38:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/19/cmPgeAhIzngLFfFy4FnEqCfyYPGCneRA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[전주혁신] 영화(주중), 콤보 3천원 할인권 받자!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.17 ~ 2025.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/12/9xjTBXwCTvgAHNi7868CPsi2wjbmXJML.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[하남스타필드] 더 부티크 재즈 나잇]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -38,6 +46,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.14 ~ 2025.03.14]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/06/ZSCja6uraj4z5GGF4ujp0co0Mcyg7hDy.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[하남스타필드] 더 부티크 스위트를 즐기는 가장 완벽한 방법]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.08 ~ 2025.05.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/12/zRe2II6QWxPJZXuWYXLMDL2knOBPPrXw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[성남모란] 성남모란점 PICK! 할인쿠폰 GET!]]></title>
@@ -56,6 +72,30 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/06/53aAVh8Hb5dGxxiLGwrEwzEsGNvlPP3Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[제주서귀포] 25년 고객감사 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.04 ~ 2025.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/12/u05XXwffYQ4mjIvLN19T9rUsWcnZvzue.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[성수] 평일에는 부티크 스위트가 1+1!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.04 ~ 2025.03.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/12/FJMTXm853bwbwfGZaiQoHAzAK8MG4eh9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대구이시아] 영화보면 누구나 영화 만원]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.02 ~ 2025.04.15]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/21/V3Y7t1XSGbybEc0hmgSvq68rPF32SolH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[강동] GOOD-BUY굿즈]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -70,6 +110,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.01 ~ 2025.08.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/19/b5VNwkw6IETDdrXuCgpkNQjSThx7Lb3o.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대구신세계] 문화의날에는 팝콘을 5천원에 즐기세요!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.01 ~ 2025.06.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/12/9MaSntqs6i1n6Yv9vvL2RtJVwhZd1DnO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[세종(조치원)] 딩동! 할인쿠폰이 도착했어요!]]></title>
