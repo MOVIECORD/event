@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Mar 2025 07:23:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 08:30:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,6 +246,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2022.10.07 ~ 2025.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/23/vzfDx9psEXCNKkmmCGhxLSO3eJmhmOry.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<라스트 마일> 개봉 전 프리미어 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.22 ~ 2025.03.23]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/12/RDipocKTgzBKwxSrVTm9HuWnWIkE1cex.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<블랙 백> 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -494,6 +502,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.12 ~ 2025.03.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/11/212szDu2bvzeeuK7Xb6T8wMbJcVY2JhU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<라스트 마일> 메인 예고편 기대평 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.11 ~ 2025.03.16]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/12/7wLTpze7PC8OoOjzdnw4ldlusOH69qTm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[에밀리아 페레즈] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
