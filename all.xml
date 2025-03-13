@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Mar 2025 02:59:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 03:34:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -366,6 +366,22 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.14 ~ 2025.03.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/11/4EstZcnUNSF6BEt4SHgNtzfmk7F13Ft1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[침범] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.14 ~ 2025.03.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/13/Dnq0afNFiDMmoPbMZA3o8OxaJBxy2zYS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[에밀리아 페레즈] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.14 ~ 2025.03.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/07/q7BgN8rqyI00vWeLGJ8h8jf3o5fqtcES.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<데드데드 데몬즈 디디디디 디스트럭션: 파트2> 운명의 랜덤 뽑기 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
