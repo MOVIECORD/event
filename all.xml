@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Mar 2025 23:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 01:38:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.21 ~ 2025.04.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/13/nmYkoVVoIrtfsz4GOaD3dnavTxbOxZTR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[프로모션][굿즈] 디즈니 <백설공주> 콤보 런칭! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.19 ~ 2025.03.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/14/v7c6HjITBy4Ac3doEGLijxN2xBqn5o2V.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디즈니 시네마ㅣ<백설공주> 관람하고 더블 포인트 받자! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -286,6 +294,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.22 ~ 2025.03.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/12/RDipocKTgzBKwxSrVTm9HuWnWIkE1cex.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<사랑은 사라지지 않는다> 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.20 ~ 2025.03.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/13/gyYTvPe2CByHY8fIuCKLvrv58cMI0X3O.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<블랙 백> 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1492,7 +1508,7 @@
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
             <pubDate>Mon, 25 Nov 2024 22:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.01 ~ 2025.12.31]]></content:encoded>
+            <content:encoded><![CDATA[2024.01.01 ~ 2025.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/26/M0bgVT80VZ1vpwqijjtPDAjfQWtZWYem.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
