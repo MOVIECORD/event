@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Mar 2025 09:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 10:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.19 ~ 2025.04.15]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/13/ceJEY5pTnTXZDSxijeCSZvlwub6slkkR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<백설공주> DOLBY 포스터 증정 이벤트! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.19 ~ 2025.04.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/14/oHD3NgKT01N8uo4o68SdxttR2VF1vhtB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<백설공주> MX4D 관람 시, 포스터 증정 이벤트! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.19 ~ 2025.04.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/14/Wg81mGspAEHoib7XphdsfecMY9Dq6WlA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[프로모션][굿즈] 디즈니 <백설공주> 콤보 런칭! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -334,6 +350,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.20 ~ 2025.03.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/13/gyYTvPe2CByHY8fIuCKLvrv58cMI0X3O.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<백설공주> 특별 포스터 증정 이벤트! (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.19 ~ 2025.04.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/14/1k4h1ZytZQdFlqufkLYwNHBdfMwQ0hN4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<첫 번째 키스> 4주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
