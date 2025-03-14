@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Mar 2025 06:30:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 07:34:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.15 ~ 2025.03.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/10/aZk8ilZprpELT7r11T8prhW3zIlNkswr.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HAPPY SWEET DAYS!! 3일간의 달달한 스낵 할인]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.14 ~ 2025.03.16]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/14/t5gEbL7fEHAltU31iqgXfkesYdlNF4Kw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 티켓 No. 134 <극장판 진격의 거인 완결편 더 라스트 어택>]]></title>
