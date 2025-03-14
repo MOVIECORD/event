@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Mar 2025 05:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 06:30:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,12 +296,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/12/RDipocKTgzBKwxSrVTm9HuWnWIkE1cex.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<미키 17> 앵콜 베이비 크리퍼 키링 입양 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.22 ~ 2025.03.22]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/14/zbKt68r34EUtelGek25dCEbM10I6LuvC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<사랑은 사라지지 않는다> 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.20 ~ 2025.03.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/13/gyYTvPe2CByHY8fIuCKLvrv58cMI0X3O.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<첫 번째 키스> 4주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.19 ~ 2025.04.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/14/vgXmRNgAheC4aYzeBotorjCIXFiYpsR8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<블랙 백> 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -526,14 +542,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.12 ~ 2025.03.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/07/M4x1PDKSytLVwd7lkQiNHmZUQAfkycjU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<첫 번째 키스> 3주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.12 ~ 2025.03.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/06/tzIlDEH016xPyn5TX8Y7uBPltLqvVhz6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<퇴마록> 개봉 4주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
