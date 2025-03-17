@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Mar 2025 23:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 01:43:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,22 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.19 ~ 2025.04.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/14/1k4h1ZytZQdFlqufkLYwNHBdfMwQ0hN4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<콘클라베> 3주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.19 ~ 2025.04.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/17/RIEynz9ejNqyfUiwveXjFoDydiV9uwSX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<고독한 미식가 더 무비> 개봉주 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.19 ~ 2025.04.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/14/oq6reXTqCZi8Ofbymxim2mUbx7xMnt2r.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<첫 번째 키스> 4주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
