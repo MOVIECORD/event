@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Mar 2025 05:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 06:32:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Tue, 03 Dec 2024 10:25:53 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.21 ~ 2025.03.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/07/XOcs6xQIYJhQGrDmV7p6k2Vi6N03GpBf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<침범> 2주차 무대인사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Tue, 03 Dec 2024 10:25:53 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.21 ~ 2025.03.22]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/17/zU26JwsrE2zWe184UOC8DTKI31fEv0zA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<브리짓 존스의 일기: 뉴 챕터> 메가박스 회원시사]]></title>
