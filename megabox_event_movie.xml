@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Mar 2025 09:25:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 10:25:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.26 ~ 2025.04.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/13/i1AyhcqP58oJuJ0Yd9mKOTbheuH2adeM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<위플래쉬> 인생영화 메가토크]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.25 ~ 2025.03.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/17/Ymr3uOA8AXDRIsFZPXUqHQDzmJWlgfkX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<위플래쉬> "I'LL CUE YOU IN!" 스페셜 상영회]]></title>
@@ -88,6 +96,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/13/gyYTvPe2CByHY8fIuCKLvrv58cMI0X3O.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<백설공주> 메가 N차 관람 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.19 ~ 2025.04.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/17/mrwoIpD0JCYbRuElMR0jzRiSnE44odpJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[세계 최초 블랙 미션😎 <언젠틀 오퍼레이션> 1PICK 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -102,6 +118,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.19 ~ 2025.04.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/14/1k4h1ZytZQdFlqufkLYwNHBdfMwQ0hN4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<컴패니언> 개봉주 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.19 ~ 2025.04.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/17/JgPZirl2mCOYp2XIOMY3ZYEoGs0GjSUO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<위플래쉬> 2주차 현장증정 이벤트]]></title>
