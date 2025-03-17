@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Mar 2025 06:32:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 07:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.08 ~ 2025.05.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/12/zRe2II6QWxPJZXuWYXLMDL2knOBPPrXw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[성남모란] 성남모란점 PICK! 할인쿠폰 GET!]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.07 ~ 2025.03.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/06/kWIkBokprNtM2PTuzFRA70t2tKYLKnWx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[사상] 모바일오더로 주문하고 할인받자!]]></title>
