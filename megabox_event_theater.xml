@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Mar 2025 23:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Mar 2025 01:41:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,6 +32,22 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/12/9xjTBXwCTvgAHNi7868CPsi2wjbmXJML.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[대전현대아울렛] Dolby Atmos 할인]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.17 ~ 2025.03.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/18/dAEMCtzeI40zWz8NNIhZ84zY91qsL3bP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파주운정] 꽝 없는 행운의 즉석복권]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.10 ~ 2026.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/18/vYqBe2u6fAmP1TfQlBNKQQBZ1aJ2vMfz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[하남스타필드] 더 부티크 스위트를 즐기는 가장 완벽한 방법]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
@@ -46,6 +62,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.06 ~ 2025.04.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/06/53aAVh8Hb5dGxxiLGwrEwzEsGNvlPP3Q.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파주운정] 아이와 함께 영화관 나들이]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.04 ~ 2025.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/18/7V07vPHIzFEVngO5Qzc4aZ2impYcpvct.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[제주서귀포] 25년 고객감사 이벤트]]></title>
