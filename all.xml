@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Mar 2025 01:41:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Mar 2025 03:01:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -264,7 +264,15 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/23/vzfDx9psEXCNKkmmCGhxLSO3eJmhmOry.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[메가초이스] 돌비 스프링 뮤직 필름 페스타 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <title><![CDATA[<플로우> 앵콜 굿즈패키지 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.30 ~ 2025.03.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/18/28VWaKrefimQJG3xYo9Ug39v88mfb9p4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[메가초이스] 돌비 스프링 뮤직 필름 페스타! with 위플래쉬 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
@@ -374,6 +382,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.19 ~ 2025.04.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/14/1k4h1ZytZQdFlqufkLYwNHBdfMwQ0hN4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<에밀리아 페레즈> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.19 ~ 2025.04.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/18/rJ7Hx2GiVSrSWOrg3nIViPl3x0Jk4A1h.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<노보케인> 2주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
