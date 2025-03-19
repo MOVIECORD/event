@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Mar 2025 10:24:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 11:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Tue, 03 Dec 2024 10:25:53 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.21 ~ 2025.03.22]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/17/zU26JwsrE2zWe184UOC8DTKI31fEv0zA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<프랑켄슈타인 아버지> 메가박스 회원시사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Tue, 03 Dec 2024 10:25:53 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.19 ~ 2025.03.26]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/19/2QXy6jF9RYtlA3ocOdS1OTCRLrtqx45I.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<브리짓 존스의 일기: 뉴 챕터> 메가박스 회원시사]]></title>
