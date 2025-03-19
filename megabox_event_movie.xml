@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Mar 2025 01:41:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 03:00:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.30 ~ 2025.03.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/18/28VWaKrefimQJG3xYo9Ug39v88mfb9p4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<로비> 엄지렐라들 모여라! GV]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.28 ~ 2025.03.28]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/19/Aw0CmJvR6BzJ3Rm9vlmIWaequigoOwGI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[메가초이스] 돌비 스프링 뮤직 필름 페스타! with 위플래쉬]]></title>
@@ -78,6 +86,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.22 ~ 2025.03.22]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/14/zbKt68r34EUtelGek25dCEbM10I6LuvC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<진격의 거인 완결편 더 라스트 어택> 진격 양식!! 팝콘 할인 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.20 ~ 2025.03.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/19/ZWqxSHrWa3hz5YGOUSFzFLS4Yt5hHeLA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<진격의 거인 완결편 더 라스트 어택> 2주차 특전 증정 이벤트]]></title>
