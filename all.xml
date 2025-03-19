@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Mar 2025 07:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 08:29:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -518,6 +518,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.19 ~ 2025.03.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/18/Aak6BjkX4I1qGQikXVnQr00yhEWPvHn9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<라스트 마일> 최애 캐릭터 투표 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.18 ~ 2025.03.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/19/IKA65XJNWv2denuRFoTzF3m7XG7x55me.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[여성국극 끊어질듯 이어지고 사라질듯 영원하다] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
