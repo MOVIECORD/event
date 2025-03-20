@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Mar 2025 14:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Mar 2025 15:25:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -472,14 +472,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/17/WMeGfPE7VGTSeKVHTGiVaOauT8ARqjvq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<사랑은 사라지지 않는다> 메가토크 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.20 ~ 2025.03.20]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/13/gyYTvPe2CByHY8fIuCKLvrv58cMI0X3O.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[로비] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -686,22 +678,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.14 ~ 2025.03.27]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/11/4EstZcnUNSF6BEt4SHgNtzfmk7F13Ft1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[침범] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.14 ~ 2025.03.20]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/13/Dnq0afNFiDMmoPbMZA3o8OxaJBxy2zYS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[에밀리아 페레즈] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.14 ~ 2025.03.20]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/07/q7BgN8rqyI00vWeLGJ8h8jf3o5fqtcES.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<괜찮아 괜찮아 괜찮아!> 3주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1046,14 +1022,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.07 ~ 2025.04.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/19/fW3GUpIwgdpllEVmlh33WGgBTAP7tawc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[양산증산] 대박! 오징어랑 황태랑 맛돌이 할인! (메가박스 ─ 이벤트 ─ 극장)]]></title>
-            <link>https://www.megabox.co.kr/event/theater#</link>
-            <guid>https://www.megabox.co.kr/event/theater#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.07 ~ 2025.03.20]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/19/DTib4rA5iP0phIy22AnX7TH2FIcwr9SL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[동탄] 화성시민 모여라! (메가박스 ─ 이벤트 ─ 극장)]]></title>
