@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Mar 2025 07:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Mar 2025 08:29:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -365,7 +365,7 @@
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.22 ~ 2025.04.04]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/20/KsjC2YbJpdOfRG8lyxKkHxxqNWmfbT3V.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/20/HQxLYd8I6G8kxSX968ppxO1G0ZSkE2xH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<언젠틀 오퍼레이션> 메인포스터 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -725,7 +725,7 @@
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.12 ~ 2025.03.25]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/07/8eNosqZBk5DIWrc1ffqeI4gYaZ3oqffS.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/20/qmDgDPZIwe416gBFytRsiCS2eIWZG6jT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<미키 17> 3주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
