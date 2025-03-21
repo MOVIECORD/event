@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Mar 2025 23:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Mar 2025 01:42:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,12 +24,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/17/62n9WoKEVAywcg9hM7XkImp6twPLbJCD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<크래쉬: 디렉터스 컷> CRASH 세트 증정 상영회]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.28 ~ 2025.03.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/21/xyovbvnkCarmJwIt7XOCstfzu6Itvdjw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<로비> 엄지렐라들 모여라! GV]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.28 ~ 2025.03.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/19/Aw0CmJvR6BzJ3Rm9vlmIWaequigoOwGI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<백설공주> 데코팩 증정 이벤트♡]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.26 ~ 2025.04.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/21/6Ij0A8ZixCcvLaW690qMrMXkY8QngK7m.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<라스트 마일> 개봉주 현장증정 이벤트]]></title>
