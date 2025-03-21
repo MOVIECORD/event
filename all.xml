@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Mar 2025 14:21:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Mar 2025 15:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,14 +102,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.17 ~ 2025.04.17]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/17/kxjlfWNgHsriNnQ4Ada833qbrjnK6koY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[강남] 리뉴얼 오픈 기념 '메가쉼표' EVENT (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.17 ~ 2025.03.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/10/HbgzWOvEOd54VMZ1WiZAtHFv6GuwFaNs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[강남] 전관 리클라이너 리뉴얼 오픈 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -798,14 +790,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.12 ~ 2025.03.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/05/N7Q9kJpJhv4H9o7VWKKvWrWVPwH75rAH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<라스트 마일> SNS 팬아트 공모전 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.07 ~ 2025.03.21]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/07/4l5pDcoqGQRKO8ca1JA3akErILFNyfsP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<장난을 잘 치는 타카기양>, <라스트 마일> 3월엔 영화 봄! 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
