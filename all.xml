@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Mar 2025 14:22:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2025 15:24:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -520,14 +520,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/20/hQDVWcNp03dW2XMNQdxm0a102aswRkjL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[침범] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.21 ~ 2025.03.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/20/F5GqQHkKWG2FDH8ngnbQirgn9ow2tPdo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<진격의 거인 완결편 더 라스트 어택> 진격 양식!! 팝콘 할인 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -678,22 +670,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.15 ~ 2025.03.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/13/3hYP65gcWPgt0ODVBgt3VNDaEWksaecK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스트리밍] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.14 ~ 2025.03.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/13/rxCxkbwypytDRcZhjb9BOCiStu2TjFn3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<서브스턴스> 흥행 감사 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.14 ~ 2025.03.27]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/11/4EstZcnUNSF6BEt4SHgNtzfmk7F13Ft1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<장난을 잘 치는 타카기양>, <라스트 마일> 3월엔 영화 봄! 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
