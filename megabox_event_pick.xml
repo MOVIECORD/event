@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Mar 2025 14:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2025 15:24:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,14 +168,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/14/v7c6HjITBy4Ac3doEGLijxN2xBqn5o2V.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[디즈니 시네마ㅣ<백설공주> 관람하고 더블 포인트 받자!]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.19 ~ 2025.03.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/13/FAGrnz1Od5PsgoFIuzdCfa3Ydz3Itqdp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[메가박스 오리지널 티켓 No. 135 <플로우>]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
@@ -278,14 +270,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.28 ~ 2025.03.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/26/JDA9QM0xLa1x5Vv4xeCHLS1lGLAAwk2I.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 오리지널 슬라이드 No.6 <콘클라베>]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.28 ~ 2025.03.28]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/28/3RrQNf7hhtdbRnQMLWVzSiRSOqF7w8mi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빵원티켓이 달라졌어요!]]></title>
