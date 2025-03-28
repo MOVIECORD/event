@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Mar 2025 06:32:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2025 07:22:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.29 ~ 2025.05.02]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/20/Hy2VQ3GFACGgzOf5MTWa0OhyKwxANrVG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<라스트 마일> 화끈한 통찡어 50% 할인 폭탄💣]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.29 ~ 2025.04.13]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/28/WLsL01fXrK3sBnMfpm1OqItGb18e49tf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<라스트 마일> 100% 당첨 포인트 폭탄의 주인공은?💣]]></title>
