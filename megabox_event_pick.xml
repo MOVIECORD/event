@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Mar 2025 14:23:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 15:25:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,22 +120,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/21/UTqQZt5rEUFdGUMJgHyaNrQwN8hPzt9E.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<라스트 마일> 굿즈패키지 런칭]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.26 ~ 2025.03.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/19/uKKAFh9C43VGCblUZsckq4Of04MMRTuw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<승부> 굿즈패키지 런칭]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.26 ~ 2025.03.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/18/JXhHS8o1TyQyu9wEyP2nOoUAlqIUbol6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[메가박스] 드로잉카드북 런칭]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
@@ -176,14 +160,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/14/Wg81mGspAEHoib7XphdsfecMY9Dq6WlA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[프로모션][굿즈] 디즈니 <백설공주> 콤보 런칭!]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.19 ~ 2025.03.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/14/v7c6HjITBy4Ac3doEGLijxN2xBqn5o2V.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[메가박스 오리지널 티켓 No. 135 <플로우>]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
@@ -216,36 +192,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/11/g6TfRlttfkWXvNGdSGb7v9OssniTsz49.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<미키 17> Dolby Cinema 포스터 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.13 ~ 2025.03.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/10/KuKN0PAWyP2QyOp33mfUWoacTWQULyNR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드로잉카드 1주년 기획전]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.13 ~ 2025.03.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/07/4daV2eLi6ENaoGwM51UKx54PYQ1KesSp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[메가박스 드로잉 카드 No.35 <침범>]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.12 ~ 2025.04.08]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/05/JPb0INzbpKjBL3PrL6EdsPcixwcmrEaE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<장난을 잘 치는 타카기 양> 데코팩 엽서 세트 증정 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.12 ~ 2025.03.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/07/gqwUwzFJdfhVI95hZV0NjcaHFWn5XPkr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 슬라이드 No.7 <에밀리아 페레즈>]]></title>
@@ -270,22 +222,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.05 ~ 2026.02.28]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/05/M659MmHSSJH4HGK0ejHywpg0Gw7gve3w.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<TAEYEON CONCERT - The TENSE : LIVE VIEWING> 팝콘컵 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.05 ~ 2025.03.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/05/eB2yAlotlkwWD3vMN1bGv7fjcqGOQQpo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 오리지널 티켓 No. 133 <미키 17>]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.28 ~ 2025.03.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/26/JDA9QM0xLa1x5Vv4xeCHLS1lGLAAwk2I.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빵원티켓이 달라졌어요!]]></title>

@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Mar 2025 14:23:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 15:25:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,22 +184,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/13/i1AyhcqP58oJuJ0Yd9mKOTbheuH2adeM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[언젠틀 오퍼레이션] 선착순 빵원티켓]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.25 ~ 2025.03.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/24/6sy9VeiZjMxbG5ySQjEy760nVAzZ6N69.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<프랑켄슈타인의 아버지> SNS 기대평 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.25 ~ 2025.03.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/24/5kEX0eF6mKwIiW76syi0S5v2X8Kqysn2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<퇴마록> 개봉 5주차 현장 증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -230,14 +214,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.22 ~ 2025.04.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/14/H9n67TdI0E1bPgnZ02MHxzDOFKabAfnx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<진격의 거인 완결편 더 라스트 어택> 진격 양식!! 팝콘 할인 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.20 ~ 2025.03.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/19/ZWqxSHrWa3hz5YGOUSFzFLS4Yt5hHeLA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[로비] 선착순 빵원티켓]]></title>
@@ -334,14 +310,6 @@
             <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.19 ~ 2025.04.01]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/14/vgXmRNgAheC4aYzeBotorjCIXFiYpsR8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<언젠틀 오퍼레이션> 나초 50% 할인 쿠폰 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.15 ~ 2025.03.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/18/bWln8OndjxV5BoU56iDX9It3eB0ELfHw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2025 메트오페라] 시즌 상영 안내 Live on Screen in Cinemas @ The Met]]></title>
