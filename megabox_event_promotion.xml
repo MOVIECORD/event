@@ -1,59 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>메가박스 ─ 이벤트 ─ 제휴 할인</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 01 Apr 2025 16:28:24 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[쿠팡와우카드] 메가박스 혜택받으세요!]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.01 ~ 2025.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/26/SWfySJQF4TQfJdyAtPIAyhNmBXFnC2kK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[토스페이] 4월 토스 결제 프로모션]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.01 ~ 2025.04.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/01/uhiDImCY6R5Uwy7wP5NKGNmh43Lfu2Ai.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신한카드] EDU PLAN+로 영화 7천원 할인받는 방법!]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.01 ~ 2025.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/02/06/pD2yOyEW5MDnbL0ZAVan0i9TTkpQ8Bq3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2025년 군인, 경찰 특별 혜택 안내]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.01 ~ 2025.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/10/j6b88J6fVdxpLpb4Ah13UbqviiXqTVgT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LG유플러스] 멤버십 전용 메가박스 할인!]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.03 ~ 2025.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/26/K2fwFgZ8zE07vn932zceDvQmKur9v0lA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT멤버십 고객 메가박스 영화 할인]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.01 ~ 2025.12.31]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/26/M0bgVT80VZ1vpwqijjtPDAjfQWtZWYem.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.megabox.co.kr/event/promotion</id>
+    <title>메가박스 ─ 이벤트 ─ 제휴 할인</title>
+    <updated>2025-04-01T17:22:48.221Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.megabox.co.kr/event/favicon.ico</icon>
+</feed>
