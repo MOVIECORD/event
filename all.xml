@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Apr 2025 06:33:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Apr 2025 07:24:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1208,20 +1208,20 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/15/sqwQbyRmlWgyWPxXmiPWMO8nbqgmPuBd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쿠팡와우카드] 메가박스 혜택받으세요! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
+            <link>https://www.megabox.co.kr/event/promotion#</link>
+            <guid>https://www.megabox.co.kr/event/promotion#</guid>
+            <pubDate>Mon, 25 Nov 2024 22:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.01 ~ 2025.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/26/SWfySJQF4TQfJdyAtPIAyhNmBXFnC2kK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[토스페이] 4월 토스 결제 프로모션 (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
             <link>https://www.megabox.co.kr/event/promotion#</link>
             <guid>https://www.megabox.co.kr/event/promotion#</guid>
             <pubDate>Mon, 25 Nov 2024 22:20:00 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.01 ~ 2025.04.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/01/uhiDImCY6R5Uwy7wP5NKGNmh43Lfu2Ai.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쿠팡와우카드] 메가박스 혜택받으세요! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
-            <link>https://www.megabox.co.kr/event/promotion#</link>
-            <guid>https://www.megabox.co.kr/event/promotion#</guid>
-            <pubDate>Mon, 25 Nov 2024 22:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.01 ~ 2025.04.30]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/26/SWfySJQF4TQfJdyAtPIAyhNmBXFnC2kK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[신한카드] EDU PLAN+로 영화 7천원 할인받는 방법! (메가박스 ─ 이벤트 ─ 제휴 할인)]]></title>
