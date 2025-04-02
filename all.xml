@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Apr 2025 01:44:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Apr 2025 03:04:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<아마추어> DOLBY 포스터 증정 이벤트! (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.09 ~ 2025.04.27]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/02/VoqtBW8oey2jezjG3LFMFwwj6AAF3CVE.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메가박스 앵콜 아트그라피 <기동전사 건담 지쿠악스 비기닝> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
@@ -22,6 +30,14 @@
             <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.05 ~ 2025.04.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/27/oJaSieotOOOL2mHJCdXkv2ayrj6P1Nfq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<토치 레이디's PICK> 굿즈패키지 런칭 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.04 ~ 2025.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/02/VA8N0Daaiyz476urM8rWTAnZCLYJqGEs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[매월 돌아오는 역대급 혜택! 4월의 메가데이 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -288,6 +304,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/01/uA48vwnQBO02gFk8Tnn5ABSSgBr5mVtr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<위플래쉬> 앵콜 "I'LL CUE YOU IN!" 스페셜 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:29:37 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.06 ~ 2025.04.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/02/z9GN78nCSFzwcab4kaHyJ2VmDUhcKDDo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<라스트 마일> 2주차 주말 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -326,6 +350,14 @@
             <pubDate>Tue, 01 Apr 2025 18:29:37 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.04 ~ 2025.04.04]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/28/CWpOpsXvjv5ahNJJ6Vjj7hMeWBZoyedL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[드라이브 인 타이페이] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:29:37 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.03 ~ 2025.04.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/02/qgChJWbbgvKERWSsdc0FitoQYvlt4t6V.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<고독한 미식가 더 무비> 3주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
