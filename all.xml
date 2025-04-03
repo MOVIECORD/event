@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Apr 2025 14:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Apr 2025 15:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,14 +86,6 @@
             <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.02 ~ 2025.05.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/27/YdXd7nP8kMyAJwLPTlxPauQZHYrysP2Q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 아트그라피 <라스트 마일> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.02 ~ 2025.04.03]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/20/5ax6lGPaEmrZ21xNIQV5SP5lB0VrVjiZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[굿즈특가이벤트] 거짓말 같은 할인 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -494,14 +486,6 @@
             <pubDate>Tue, 01 Apr 2025 18:29:37 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.28 ~ 2025.04.10]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/27/TWJDgE45acFQIUelcdaSPqAmdfUea9HV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[라스트 마일] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 01 Apr 2025 18:29:37 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.28 ~ 2025.04.03]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/27/QVOFYdowM2JNuk0qkK7qh9taXmmVEVx1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<진격의 거인 완결편 더 라스트 어택> 3주차 특전 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1390,14 +1374,6 @@
             <pubDate>Tue, 01 Apr 2025 18:30:26 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.02 ~ 2025.04.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/20/nbGMZIDZpt73xxegL9onHuJdjsZZBVIF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<야당> 메가박스 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Tue, 01 Apr 2025 18:30:26 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.27 ~ 2025.04.03]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/27/rBbFnx017i4bTXQT54UcTBsVZEKmzVi3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

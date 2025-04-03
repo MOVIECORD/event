@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Apr 2025 14:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Apr 2025 15:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,14 +86,6 @@
             <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.02 ~ 2025.05.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/27/YdXd7nP8kMyAJwLPTlxPauQZHYrysP2Q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 아트그라피 <라스트 마일>]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.02 ~ 2025.04.03]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/20/5ax6lGPaEmrZ21xNIQV5SP5lB0VrVjiZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[굿즈특가이벤트] 거짓말 같은 할인]]></title>

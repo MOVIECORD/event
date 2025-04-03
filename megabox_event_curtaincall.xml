@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Apr 2025 14:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Apr 2025 15:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Tue, 01 Apr 2025 18:30:26 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.02 ~ 2025.04.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/20/nbGMZIDZpt73xxegL9onHuJdjsZZBVIF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<야당> 메가박스 회원시사]]></title>
-            <link>https://www.megabox.co.kr/event/curtaincall#</link>
-            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
-            <pubDate>Tue, 01 Apr 2025 18:30:26 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.27 ~ 2025.04.03]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/27/rBbFnx017i4bTXQT54UcTBsVZEKmzVi3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
