@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Apr 2025 04:28:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Apr 2025 05:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
             <pubDate>Tue, 01 Apr 2025 18:29:37 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.06 ~ 2025.04.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/02/z9GN78nCSFzwcab4kaHyJ2VmDUhcKDDo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<열화청춘 리마스터링> 개봉 주말 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:29:37 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.05 ~ 2025.04.18]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/02/3atdUteJI173T89HIZpLb6IxhFkPMLJZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<대삼원 리마스터링> 1주차 주말 현장증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:29:37 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.05 ~ 2025.04.18]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/02/HRkKzml6njFtqoslHsw2Fr75HMMDuGFZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<라스트 마일> 2주차 주말 현장증정 이벤트]]></title>
