@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Apr 2025 08:30:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 09:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.05 ~ 2025.04.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/27/oJaSieotOOOL2mHJCdXkv2ayrj6P1Nfq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<진격의 거인 완결편 더 라스트 어택> 찐 팬 상영회!! 조사병단이여, 홍대로 모여라 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.05 ~ 2025.04.05]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/02/FZfCsJQy2tNPmNcL66NBLoHzgURZYmzo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가 쌈쓰리: 9천원의 행복 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -350,6 +342,14 @@
             <pubDate>Tue, 01 Apr 2025 18:29:37 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.12 ~ 2025.04.12]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/04/WzhwTUT6quDu4lj0LsmXOq2MvavDMLJz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<고독한 미식가 더 무비> 4주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:29:37 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.09 ~ 2025.04.22]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/04/tXU7KCEictL7mI7gBADWfxll59YtbOZq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<위플래쉬> 앵콜 "I'LL CUE YOU IN!" 스페셜 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
