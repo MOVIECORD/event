@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Apr 2025 11:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Apr 2025 12:44:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Tue, 01 Apr 2025 18:30:26 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.12 ~ 2025.04.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/13/6pKkap9wIBYuC7nfqW89y2IATOTq2Fng.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<파과> 메가박스 회원시사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:30:26 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.07 ~ 2025.04.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/07/Zc4ep6CTJWUqB6emgqpU35v7Al0CU2wV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<A MINECRAFT MOVIE 마인크래프트 무비> 가족 관객 대환영! 무료 더빙 시사]]></title>
