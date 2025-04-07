@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Apr 2025 07:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Apr 2025 08:31:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.10 ~ 2025.04.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/07/m2aRV5uRcPbGKHdNM3rTpCGtcXm9C0oe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 오리지널 티켓 Re. 33 <택시 드라이버>]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.09 ~ 2025.05.09]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/07/3V339FH71EVdDocBw1sBbYXBqxehn2Vz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<베러맨> 돌비 포스터 증정 이벤트]]></title>
