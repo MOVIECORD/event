@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Apr 2025 12:46:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Apr 2025 21:22:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -278,14 +278,6 @@
             <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.13 ~ 2025.04.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/11/g6TfRlttfkWXvNGdSGb7v9OssniTsz49.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 드로잉 카드 No.35 <침범>]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.12 ~ 2025.04.08]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/05/JPb0INzbpKjBL3PrL6EdsPcixwcmrEaE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 슬라이드 No.7 <에밀리아 페레즈>]]></title>
