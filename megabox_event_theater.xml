@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Apr 2025 23:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 01:43:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,30 @@
             <pubDate>Tue, 01 Apr 2025 18:29:56 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.19 ~ 2025.04.19]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/27/zqemLdVgfYjVPKaSc8PG7bisEUIuTpl2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영종하늘도시] 영종하늘도시 이용 고객 누구나!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:29:56 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.09 ~ 2025.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/09/70zD9Yt5qaPXs6dkpPoWls7Ozolby128.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[고양스타필드X하남스타필드] 메가박스X스몹패키지]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:29:56 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.09 ~ 2025.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/09/0OK9rUm6qgSayCGOviO8eNUbd4a5hkjD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사상] 이마트 사상점 구매 영수증으로 할인 받자!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:29:56 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.09 ~ 2025.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/09/zDyGw2e3RPrjcsscAlpH3d6FsqEr4wXY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[수원스타필드] 봄 나들이 패키지]]></title>
@@ -64,12 +88,52 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/02/Ja90mTPfkdKv6rLNpCAhYH0R3CqwNNLW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[양산증산] 내 맘대로 선택!!! 이번에는 키링이다!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:29:56 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.01 ~ 2026.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/09/jM9AnCLSaHLklGAzsJLOXnIo99hzNfKj.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[포항] 다리쭉석 OPEN]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:29:56 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.01 ~ 2026.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/09/ubmCUc9LsANQtwC6qFzb7sr9iK7Q2W2y.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[구미강동] 재방문하고 쿠폰 받자!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:29:56 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.01 ~ 2025.06.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/09/yDUZ27oRD0kuNcwN9iViZDImdbAlRlg7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[창원내서] 선호지점 회원 할인 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/theater#</link>
             <guid>https://www.megabox.co.kr/event/theater#</guid>
             <pubDate>Tue, 01 Apr 2025 18:29:56 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.01 ~ 2025.06.30]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/02/99MT3LLEQLIhpCKk5rlKy7c8hblBH5aR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[성수] N차 관람하고 좌석 업그레이드 받자!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:29:56 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.01 ~ 2025.05.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/09/5sKuNL5QYaA8boIHQyYfhyawtmjsUixA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[안성스타필드] 선호지점 Check! 할인쿠폰 Check!]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:29:56 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.01 ~ 2025.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/09/Ac0APZ9ji3k4ZgxyESus9wx55w0p2Tae.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[상봉] 블랙데이 기념! 영화+콤보 할인!!]]></title>
@@ -222,6 +286,14 @@
             <pubDate>Tue, 01 Apr 2025 18:29:56 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.01 ~ 2025.06.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/12/9MaSntqs6i1n6Yv9vvL2RtJVwhZd1DnO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[양산증산] 할인은 꼬리에 꼬리를 물고]]></title>
+            <link>https://www.megabox.co.kr/event/theater#</link>
+            <guid>https://www.megabox.co.kr/event/theater#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:29:56 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.01 ~ 2025.05.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/09/5lsMycLemcQEX7bBbEpkA6yLjIxVPonu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[세종(조치원)] 딩동! 할인쿠폰이 도착했어요!]]></title>
