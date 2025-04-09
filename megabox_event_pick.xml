@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Apr 2025 06:32:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 07:23:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,14 +302,6 @@
             <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.14 ~ 2025.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/14/NjmecKtRDTWcrxddrkH0CKYE4oSc4f6h.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[꽝없는 잭팟 이벤트] 알림받으면 100% 포인트 당첨!]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.02 ~ 2025.05.29]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/12/03/LZ0upzmXFKKJ7VXA2loP6gkGTpUBdzwt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나도 영화 평론가! 관람평 작성하고 50P 받자!]]></title>
