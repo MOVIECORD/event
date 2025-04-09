@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Apr 2025 07:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 08:31:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Tue, 01 Apr 2025 18:29:37 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.10 ~ 2025.04.23]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/07/jcD2JVDnu21bRnMLbYgXEHh1nYxNn8Ze.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[야당] 선착순 빵원티켓 ➕]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:29:37 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.10 ~ 2025.04.22]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/09/OOLEHtqaN3nt1aSsgtuf6WwoZMRQ6kmd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<콘클라베> 6주차 현장증정 이벤트]]></title>
