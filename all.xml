@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Apr 2025 14:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 15:25:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,14 +224,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/26/iXm3nvTdQG2yaziOEfmHip7eD4I1HFRl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[MEGA Choice] 토치 레이디's PICK 2025년 라인업 공개 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.28 ~ 2025.04.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/26/YtEyO9FePrHOQP5YutWjxVIXTl8lFAHj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[메가박스 드로잉 카드 No.37 <승부> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
@@ -310,14 +302,6 @@
             <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.13 ~ 2025.04.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/11/g6TfRlttfkWXvNGdSGb7v9OssniTsz49.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 오리지널 슬라이드 No.7 <에밀리아 페레즈> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.10 ~ 2025.04.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/10/kXqvpeAWlUTXa2AqnQQ3gzuoAJUePlp0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2025 메가박스 VIP 혜택 안내 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -614,14 +598,6 @@
             <pubDate>Tue, 01 Apr 2025 18:29:37 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.29 ~ 2025.04.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/24/5LFKnbnSxzdXij2JvFvjZTyagnT7UIUl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[미스터 로봇] 선착순 빵원티켓 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 01 Apr 2025 18:29:37 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.28 ~ 2025.04.10]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/27/TWJDgE45acFQIUelcdaSPqAmdfUea9HV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<위플래쉬> 3주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
