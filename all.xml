@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Apr 2025 06:32:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 07:24:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,6 +150,14 @@
             <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.02 ~ 2025.05.06]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/27/YdXd7nP8kMyAJwLPTlxPauQZHYrysP2Q.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<기동전사 건담 지쿠악스 비기닝> ALL 포맷 클리어 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.02 ~ 2025.04.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/10/1m9r0zm5xaDZBJyxcKmw6rX1BRSXWGSq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[굿즈특가이벤트] 거짓말 같은 할인 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -376,6 +384,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/04/WzhwTUT6quDu4lj0LsmXOq2MvavDMLJz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[거룩한 밤: 데몬 헌터스] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:29:37 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.11 ~ 2025.05.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/10/vChPi5W7TH9Pi6xw0EzVYfm8H8hG3wWQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[마리아] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -406,6 +422,14 @@
             <pubDate>Tue, 01 Apr 2025 18:29:37 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.10 ~ 2025.04.22]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/09/OOLEHtqaN3nt1aSsgtuf6WwoZMRQ6kmd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<극장판 프로젝트 세카이 부서진 세카이와 전해지지 않는 미쿠의 노래> 프리미어 선행시사회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:29:37 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.10 ~ 2025.04.19]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/10/mlf0thSJkOkeS0mWhVCV1ObIUEwEXUMR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<콘클라베> 6주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
