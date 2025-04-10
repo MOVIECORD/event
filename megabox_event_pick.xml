@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Apr 2025 23:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 01:43:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.16 ~ 2025.04.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/07/wVswRfOGrpWDu14ftOAInsV5RgZUDDFk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<야당> 굿즈패키지 런칭]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.14 ~ 2025.04.30]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/10/Kgfa5SIRf17eVMnmqn27ZTOvz1EyGqRN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[택시 드라이버 스티커팩 선물] 뉴요커 핫도그 세트]]></title>
