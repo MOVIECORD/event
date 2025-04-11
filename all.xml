@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Apr 2025 14:30:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 15:24:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -432,14 +432,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/10/PH8qVeVVNkJrHw2jZIDN0mc8Q7jNU327.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<라스트 마일> 해피 프라이데이 상영회 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 01 Apr 2025 18:29:37 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.11 ~ 2025.04.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/04/nxbWm9MKF7mPrDRl9EswATTBcrHjhvy4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<승부> 3주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -534,14 +526,6 @@
             <pubDate>Tue, 01 Apr 2025 18:29:37 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.05 ~ 2025.04.18]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/31/9t5WxusSGXcPvoQq3FOPnGvwWClpz1j4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<진격의 거인 완결편 더 라스트 어택> 4주차 주말 MX4D 특전증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 01 Apr 2025 18:29:37 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.05 ~ 2025.04.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/04/dxaenM3FRrNTv38E9OjP5pkq3pfg6hq4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<미스터 로봇> 개봉주 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -654,14 +638,6 @@
             <pubDate>Tue, 01 Apr 2025 18:29:37 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.26 ~ 2025.04.13]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/21/6Ij0A8ZixCcvLaW690qMrMXkY8QngK7m.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<퇴마록> 개봉 5주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 01 Apr 2025 18:29:37 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.22 ~ 2025.04.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/17/GKQrJtxHs1uWUiYu0qhr73uIpgXs9v71.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2025 메트오페라] 시즌 상영 안내 Live on Screen in Cinemas @ The Met (메가박스 ─ 이벤트 ─ 영화)]]></title>
