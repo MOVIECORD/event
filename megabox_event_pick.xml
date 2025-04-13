@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Apr 2025 14:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Apr 2025 15:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,22 +208,6 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/20/Hy2VQ3GFACGgzOf5MTWa0OhyKwxANrVG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<라스트 마일> 화끈한 통찡어 50% 할인 폭탄💣]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.29 ~ 2025.04.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/28/WLsL01fXrK3sBnMfpm1OqItGb18e49tf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<라스트 마일> 100% 당첨 포인트 폭탄의 주인공은?💣]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.29 ~ 2025.04.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/26/iXm3nvTdQG2yaziOEfmHip7eD4I1HFRl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[메가박스 드로잉 카드 No.37 <승부>]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
@@ -238,14 +222,6 @@
             <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.26 ~ 2025.04.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/18/JXhHS8o1TyQyu9wEyP2nOoUAlqIUbol6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<라스트 마일> 찐팬 N차 관람 이벤트]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.26 ~ 2025.04.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/26/KDsHG9ewmRdqxOm0KbOqjMNQT2hG0IiT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[메가박스] 드로잉카드북 런칭]]></title>
@@ -280,28 +256,12 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/17/kxjlfWNgHsriNnQ4Ada833qbrjnK6koY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[강남] 전관 리클라이너 리뉴얼 오픈]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.15 ~ 2025.04.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/10/PAC7GqEWYfikJjBMtMrDiKQ05cRAIr35.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<진격의 거인 완결편 더 라스트 어택> 덕후 진격! N차 관람 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.13 ~ 2025.04.16]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/19/1HjpX1ffVfae4L6pHU0nRYEym65cyKBl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가박스 오리지널 티켓 No. 134 <극장판 진격의 거인 완결편 더 라스트 어택>]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.13 ~ 2025.04.13]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/11/g6TfRlttfkWXvNGdSGb7v9OssniTsz49.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2025 메가박스 VIP 혜택 안내]]></title>
