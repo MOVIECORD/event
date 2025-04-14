@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Apr 2025 07:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Apr 2025 08:31:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.14 ~ 2025.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/14/b4Mherbe0w0PZZkHIuTAjM2ctNQe9edz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 오리지널 티켓 No. 137 <야당> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.14 ~ 2025.05.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/14/FybN1vrdoT6ACllcTWl2nkuUzzUotvhO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 오리지널 슬라이드 No.8 <마리아> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -1390,6 +1398,14 @@
             <pubDate>Tue, 01 Apr 2025 18:30:10 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.01 ~ 2025.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2024/11/26/M0bgVT80VZ1vpwqijjtPDAjfQWtZWYem.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<파과> 달콤한 연휴 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:30:26 GMT</pubDate>
+            <content:encoded><![CDATA[2025.05.06 ~ 2025.05.06]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/14/RlCc7i2E24uuJ4S0NyIwulWzuuOGjHOz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<거룩한 밤: 데몬 헌터스> 개봉주 무대인사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
