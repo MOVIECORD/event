@@ -4,9 +4,17 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Apr 2025 01:47:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Apr 2025 03:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메가박스 아트그라피 <자전거 탄 소년>]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.19 ~ 2025.04.20]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/08/pSLpJ1xGVuqftJ2DmSkyCoRUMlEWJtxT.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 속 실제 소품 경품! <야당> 1PICK 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/megabox#</link>

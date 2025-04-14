@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Apr 2025 01:47:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Apr 2025 03:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,12 +24,36 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/10/qmJBchiFDUQ04HMOuH7hcShL8ppfdyGC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<퇴마록> 9주차 현장 증정 이벤트]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:29:37 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.16 ~ 2025.04.29]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/14/WEj0Ly7TZyYGyHz7WilRoWo28hCMdcw2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<자전거 탄 소년> 1주차 현장증정 이벤트]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
             <pubDate>Tue, 01 Apr 2025 18:29:37 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.16 ~ 2025.04.29]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/11/sHbREbdewyZYWTNfei9xpWSqVxcEeChn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<택시 드라이버> 오리지널 포스터 증정]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:29:37 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.16 ~ 2025.04.25]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/14/fseYNC2eQ6g5erPvWcg4H3Ko8i2Lbpz8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<야당> 천만 감독과 함께하는 메가토크]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:29:37 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.16 ~ 2025.04.16]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/14/vfhPyTy6sOjDPkmzAHnp5ZMusXwT5unp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[야당] 선착순 빵원티켓 ➕]]></title>
