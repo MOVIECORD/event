@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Apr 2025 14:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Apr 2025 15:24:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -502,14 +502,6 @@
             <pubDate>Tue, 01 Apr 2025 18:29:37 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.09 ~ 2025.04.15]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/08/7XHxY5btfBbePZRENh0BLSoEmFPEqJ4C.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[라스트 마일] 선착순 빵원티켓 ➕ (메가박스 ─ 이벤트 ─ 영화)]]></title>
-            <link>https://www.megabox.co.kr/event/movie#</link>
-            <guid>https://www.megabox.co.kr/event/movie#</guid>
-            <pubDate>Tue, 01 Apr 2025 18:29:37 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.08 ~ 2025.04.14]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/07/AcKlO1jKTZLnXqpSu9qyQjNeBKO9Zc20.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<열화청춘 리마스터링> 개봉 주말 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
