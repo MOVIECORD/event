@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Apr 2025 05:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Apr 2025 06:35:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.14 ~ 2025.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/14/b4Mherbe0w0PZZkHIuTAjM2ctNQe9edz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 오리지널 슬라이드 No.8 <마리아>]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.14 ~ 2025.05.14]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/14/l8FBOxPvciftMYlLKGB9yykxSPvAGxjA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<야당> 굿즈패키지 런칭]]></title>
@@ -294,6 +302,14 @@
             <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.14 ~ 2025.12.31]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/01/14/NjmecKtRDTWcrxddrkH0CKYE4oSc4f6h.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[100% 누구나 당첨] 알림받으면 최대 영화 무료 관람!]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.02 ~ 2025.12.31]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/09/u8ZrPYphHA0wthjZTW3QH56kA2yxAQ4A.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나도 영화 평론가! 관람평 작성하고 50P 받자!]]></title>
