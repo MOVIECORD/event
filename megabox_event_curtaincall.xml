@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 시사회 무대인사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Apr 2025 08:31:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Apr 2025 09:27:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,12 +16,28 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/14/RlCc7i2E24uuJ4S0NyIwulWzuuOGjHOz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<파과> 개봉 1주차 주말 무대인사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:30:26 GMT</pubDate>
+            <content:encoded><![CDATA[2025.05.04 ~ 2025.05.04]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/14/kXvwzb9u328LnsshwAesnSQsKuAYKBFd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<거룩한 밤: 데몬 헌터스> 개봉주 무대인사]]></title>
             <link>https://www.megabox.co.kr/event/curtaincall#</link>
             <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
             <pubDate>Tue, 01 Apr 2025 18:30:26 GMT</pubDate>
             <content:encoded><![CDATA[2025.05.03 ~ 2025.05.05]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/08/zg2YTXcXJkQEINvqi0wnxJ4SE0kXER4P.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<파과> 개봉 첫 무대인사]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:30:26 GMT</pubDate>
+            <content:encoded><![CDATA[2025.05.01 ~ 2025.05.01]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/14/jXPd8mwk6Pjt8DJPx4lIs0bugRDg5brA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<야당> 개봉주 무대인사]]></title>
