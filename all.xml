@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Apr 2025 04:28:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Apr 2025 05:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,14 @@
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/01/rBTE4KnQmJKSBIZK3fUcRC4AgRVWL6op.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<플로우> 5주차 현장증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:29:37 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.19 ~ 2025.05.02]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/15/snim7Gma7zqjz4DFgpjKtjdKA7GoHxpe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<기동전사 건담 지쿠악스 비기닝> 3주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
             <link>https://www.megabox.co.kr/event/movie#</link>
             <guid>https://www.megabox.co.kr/event/movie#</guid>
@@ -430,6 +438,14 @@
             <pubDate>Tue, 01 Apr 2025 18:29:37 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.16 ~ 2025.04.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/14/fseYNC2eQ6g5erPvWcg4H3Ko8i2Lbpz8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<곤돌라> SNS 기대평 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:29:37 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.16 ~ 2025.04.22]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/15/It18Aqq3ZR1l6qKP9lSFdFOn6eVEUPco.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<라스트 마일> 4주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
