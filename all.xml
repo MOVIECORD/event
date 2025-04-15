@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Apr 2025 08:32:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Apr 2025 09:26:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.19 ~ 2025.04.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/08/pSLpJ1xGVuqftJ2DmSkyCoRUMlEWJtxT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메가박스 매니아 티켓 <극장판 진격의 거인 완결편 더 라스트 어택> (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
+            <link>https://www.megabox.co.kr/event/megabox#</link>
+            <guid>https://www.megabox.co.kr/event/megabox#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.17 ~ 2025.05.17]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/15/nO2wSdZ3NN4NJ6Qa3zYg1rCtZAltFbfZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화 속 실제 소품 경품! <야당> 1PICK 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
