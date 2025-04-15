@@ -4,7 +4,7 @@
         <title>메가박스 ─ 이벤트 ─ 메가Pick</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Apr 2025 09:26:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Apr 2025 10:25:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,14 +182,6 @@
             <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.04 ~ 2025.04.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/04/6U6ldnII6R0sYAe4wkDWTgmDzTGnijpn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매월 돌아오는 역대급 혜택! 4월의 메가데이]]></title>
-            <link>https://www.megabox.co.kr/event/megabox#</link>
-            <guid>https://www.megabox.co.kr/event/megabox#</guid>
-            <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.03 ~ 2025.04.20]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/01/QYb6AeAwaXQwe3I1D17wWKOjU1Y00ZP0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가박스 드로잉 카드 No.41 <예언자>]]></title>
