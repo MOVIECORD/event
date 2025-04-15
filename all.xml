@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Apr 2025 23:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Apr 2025 01:46:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://www.megabox.co.kr/event/megabox#</guid>
             <pubDate>Tue, 01 Apr 2025 18:29:22 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.16 ~ 2025.05.11]]></content:encoded>
-            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/10/qZqu6oU4MWcnID1m68F5kABcgfSaprXl.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/15/hUbJhT9y5oEFJWwYOGtdzgCajWyAPUNx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<마리아> 돌비 애트모스 포스터 증정 이벤트 (메가박스 ─ 이벤트 ─ 메가Pick)]]></title>
@@ -374,6 +374,14 @@
             <pubDate>Tue, 01 Apr 2025 18:29:37 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.16 ~ 2025.04.25]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/14/fseYNC2eQ6g5erPvWcg4H3Ko8i2Lbpz8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<기동전사 건담 지쿠악스 비기닝> 3주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
+            <link>https://www.megabox.co.kr/event/movie#</link>
+            <guid>https://www.megabox.co.kr/event/movie#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:29:37 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.16 ~ 2025.04.22]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/15/7MFB1wtOgaHg2uLzrSFfakMlbT1aHlK4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<라스트 마일> 4주차 현장 증정 이벤트 (메가박스 ─ 이벤트 ─ 영화)]]></title>
@@ -1430,6 +1438,14 @@
             <pubDate>Tue, 01 Apr 2025 18:30:26 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.20 ~ 2025.04.20]]></content:encoded>
             <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/03/31/dpk0aR5xL1xrAIktxvAsi2TBmhHvNi2y.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[61st 백상예술대상 GUCCI IMPACT AWARD GV 무비 토크 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
+            <link>https://www.megabox.co.kr/event/curtaincall#</link>
+            <guid>https://www.megabox.co.kr/event/curtaincall#</guid>
+            <pubDate>Tue, 01 Apr 2025 18:30:26 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.14 ~ 2025.04.21]]></content:encoded>
+            <enclosure url="https://img.megabox.co.kr/SharedImg/event/2025/04/14/K4cIwF3BVdSbrRcRvWF5W1rRTMPeHH0n.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<바이러스> 메가박스 회원시사 (메가박스 ─ 이벤트 ─ 시사회 무대인사)]]></title>
